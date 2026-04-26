@@ -1,0 +1,1267 @@
+{
+  "query": "chamber drama",
+  "slug": "chamber-drama",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/poulina/list/chamber-drama/",
+      "user": "poulina",
+      "slug": "chamber-drama",
+      "title": "chamber drama",
+      "desc": "Bladubua is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Bladubua",
+      "tags": []
+    },
+    {
+      "href": "/pbenson123/list/chamber-drama-contained-space-single-setting/",
+      "user": "pbenson123",
+      "slug": "chamber-drama-contained-space-single-setting",
+      "title": "Chamber Drama (contained space, single setting)",
+      "desc": "portal → all my lists",
+      "owner": "List by short martin PATRON",
+      "tags": [
+        "space-building"
+      ]
+    },
+    {
+      "href": "/booonbooon/list/booon-booon-presents-the-chamber-drama-film/",
+      "user": "booonbooon",
+      "slug": "booon-booon-presents-the-chamber-drama-film",
+      "title": "Booon! Booon! Presents: The Chamber Drama Film Experience",
+      "desc": "Some of the films that make up the DNA of my upcoming album Chamber Drama",
+      "owner": "List by Booon! Booon!",
+      "tags": []
+    },
+    {
+      "href": "/goblinupfilms/list/chamber-drama-films/",
+      "user": "goblinupfilms",
+      "slug": "chamber-drama-films",
+      "title": "Chamber Drama Films",
+      "desc": "Movies that take place typically/majority in only one location where the characters are for all intents and purposes - trapped. The term 'Chamber Drama' was popularized by Tarantino.",
+      "owner": "List by GoblinUpFilms",
+      "tags": []
+    },
+    {
+      "href": "/daisydostoevsky/list/chamber-drama-studies/",
+      "user": "daisydostoevsky",
+      "slug": "chamber-drama-studies",
+      "title": "chamber drama studies",
+      "desc": "Daisy is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Daisy",
+      "tags": []
+    },
+    {
+      "href": "/skaride/list/huis-clos-chamber-drama/",
+      "user": "skaride",
+      "slug": "huis-clos-chamber-drama",
+      "title": "Huis clos / Chamber Drama",
+      "desc": "Skaride is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Skaride Siliuse",
+      "tags": [
+        "chamberdrama",
+        "huisclos"
+      ]
+    }
+  ],
+  "source_list_count": 6,
+  "films_considered": 367,
+  "canonical_count": 40,
+  "films": [
+    {
+      "slug": "12-angry-men",
+      "title": "12 Angry Men",
+      "year": "1957",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Sidney Lumet"
+      ],
+      "actors": [
+        "Martin Balsam",
+        "John Fiedler",
+        "Lee J. Cobb",
+        "E.G. Marshall",
+        "Jack Klugman",
+        "Edward Binns"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.63,
+      "rating_count": 1461952,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/0/51700-12-angry-men-0-230-0-345-crop.jpg?v=b8aaf291a9",
+      "url": "https://letterboxd.com/film/12-angry-men/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "cries-and-whispers",
+      "title": "Cries and Whispers",
+      "year": "1972",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Liv Ullmann",
+        "Ingrid Thulin",
+        "Kari Sylwan",
+        "Harriet Andersson",
+        "Erland Josephson",
+        "Georg Årlin"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.21,
+      "rating_count": 81519,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/1/4/46414-cries-and-whispers-0-230-0-345-crop.jpg?v=80b1fa11db",
+      "url": "https://letterboxd.com/film/cries-and-whispers/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "carnage",
+      "title": "Carnage",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ],
+      "actors": [
+        "Jodie Foster",
+        "Kate Winslet",
+        "Christoph Waltz",
+        "John C. Reilly",
+        "Elvis Polanski",
+        "Eliot Berger"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Poland",
+        "Spain",
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 111284,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vl/yg/6q/9x/carnage-0-230-0-345-crop.jpg?v=a8d40db6c5",
+      "url": "https://letterboxd.com/film/carnage/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "rear-window",
+      "title": "Rear Window",
+      "year": "1954",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "actors": [
+        "James Stewart",
+        "Grace Kelly",
+        "Wendell Corey",
+        "Thelma Ritter",
+        "Raymond Burr",
+        "Judith Evelyn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.36,
+      "rating_count": 814116,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/5/2/51552-rear-window-0-230-0-345-crop.jpg?v=855a2e3070",
+      "url": "https://letterboxd.com/film/rear-window/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-breakfast-club",
+      "title": "The Breakfast Club",
+      "year": "1985",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "John Hughes"
+      ],
+      "actors": [
+        "Emilio Estevez",
+        "Judd Nelson",
+        "Molly Ringwald",
+        "Anthony Michael Hall",
+        "Ally Sheedy",
+        "Paul Gleason"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 1928189,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/5/1/8/50518-the-breakfast-club-0-230-0-345-crop.jpg?v=cce37bedf1",
+      "url": "https://letterboxd.com/film/the-breakfast-club/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "persona",
+      "title": "Persona",
+      "year": "1966",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Bibi Andersson",
+        "Liv Ullmann",
+        "Margaretha Krook",
+        "Gunnar Björnstrand",
+        "Jörgen Lindström"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.39,
+      "rating_count": 423379,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/5/51355-persona-0-230-0-345-crop.jpg?v=aca1e0fd3d",
+      "url": "https://letterboxd.com/film/persona/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-celebration",
+      "title": "The Celebration",
+      "year": "1998",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Thomas Vinterberg"
+      ],
+      "actors": [
+        "Ulrich Thomsen",
+        "Henning Moritzen",
+        "Thomas Bo Larsen",
+        "Paprika Steen",
+        "Birthe Neumann",
+        "Trine Dyrholm"
+      ],
+      "countries": [
+        "Denmark",
+        "Sweden"
+      ],
+      "rating": 4.32,
+      "rating_count": 144900,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/5/0/51750-the-celebration-0-230-0-345-crop.jpg?v=7eefb2e0b7",
+      "url": "https://letterboxd.com/film/the-celebration/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "whos-afraid-of-virginia-woolf",
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": "1966",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Mike Nichols"
+      ],
+      "actors": [
+        "Elizabeth Taylor",
+        "Richard Burton",
+        "George Segal",
+        "Sandy Dennis",
+        "Agnes Flanagan",
+        "Frank Flanagan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.27,
+      "rating_count": 89907,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/9/4/51694-who-s-afraid-of-virginia-woolf--0-230-0-345-crop.jpg?v=e194eba2b2",
+      "url": "https://letterboxd.com/film/whos-afraid-of-virginia-woolf/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "rope",
+      "title": "Rope",
+      "year": "1948",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "actors": [
+        "James Stewart",
+        "John Dall",
+        "Farley Granger",
+        "Cedric Hardwicke",
+        "Constance Collier",
+        "Douglas Dick"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 318418,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/4/50954-rope-0-230-0-345-crop.jpg?v=bd8d1695a5",
+      "url": "https://letterboxd.com/film/rope/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "locke",
+      "title": "Locke",
+      "year": "2013",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Steven Knight"
+      ],
+      "actors": [
+        "Tom Hardy",
+        "Ruth Wilson",
+        "Andrew Scott",
+        "Olivia Colman",
+        "Tom Holland",
+        "Ben Daniels"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.6,
+      "rating_count": 166679,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/0/2/149802-locke-0-230-0-345-crop.jpg?v=0795b09b98",
+      "url": "https://letterboxd.com/film/locke/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "clue",
+      "title": "Clue",
+      "year": "1985",
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Jonathan Lynn"
+      ],
+      "actors": [
+        "Tim Curry",
+        "Eileen Brennan",
+        "Madeline Kahn",
+        "Christopher Lloyd",
+        "Michael McKean",
+        "Martin Mull"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 464501,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/5/3/1/42531-clue-0-230-0-345-crop.jpg?v=64edadac50",
+      "url": "https://letterboxd.com/film/clue/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "autumn-sonata",
+      "title": "Autumn Sonata",
+      "year": "1978",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Ingrid Bergman",
+        "Liv Ullmann",
+        "Lena Nyman",
+        "Halvar Björk",
+        "Marianne Aminoff",
+        "Arne Bang-Hansen"
+      ],
+      "countries": [
+        "Germany",
+        "Sweden",
+        "UK"
+      ],
+      "rating": 4.49,
+      "rating_count": 140937,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dr/d3/nw/gv/m4I32itPMlRWqWJamFAwFDbrBXp-0-230-0-345-crop.jpg?v=45433653ca",
+      "url": "https://letterboxd.com/film/autumn-sonata/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "cat-on-a-hot-tin-roof",
+      "title": "Cat on a Hot Tin Roof",
+      "year": "1958",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Richard Brooks"
+      ],
+      "actors": [
+        "Paul Newman",
+        "Elizabeth Taylor",
+        "Burl Ives",
+        "Judith Anderson",
+        "Jack Carson",
+        "Madeleine Sherwood"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.92,
+      "rating_count": 58748,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/9/5/51795-cat-on-a-hot-tin-roof-0-230-0-345-crop.jpg?v=4a206ceb1f",
+      "url": "https://letterboxd.com/film/cat-on-a-hot-tin-roof/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-menu-2022",
+      "title": "The Menu",
+      "year": "2022",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Mark Mylod"
+      ],
+      "actors": [
+        "Anya Taylor-Joy",
+        "Ralph Fiennes",
+        "Nicholas Hoult",
+        "Janet McTeer",
+        "Paul Adelstein",
+        "Rob Yang"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 3040653,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/1/3/2/3/521323-the-menu-0-230-0-345-crop.jpg?v=d00a0d03a8",
+      "url": "https://letterboxd.com/film/the-menu-2022/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "august-osage-county",
+      "title": "August: Osage County",
+      "year": "2013",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "John Wells"
+      ],
+      "actors": [
+        "Meryl Streep",
+        "Julia Roberts",
+        "Julianne Nicholson",
+        "Juliette Lewis",
+        "Ewan McGregor",
+        "Margo Martindale"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.55,
+      "rating_count": 62625,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/6/6/1/114661-august-osage-county-0-230-0-345-crop.jpg?v=85e730c553",
+      "url": "https://letterboxd.com/film/august-osage-county/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-whale-2022",
+      "title": "The Whale",
+      "year": "2022",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Brendan Fraser",
+        "Sadie Sink",
+        "Ty Simpkins",
+        "Hong Chau",
+        "Samantha Morton",
+        "Sathya Sridharan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.66,
+      "rating_count": 1149309,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/3/4/7/8/703478-the-whale-0-230-0-345-crop.jpg?v=84e98165fb",
+      "url": "https://letterboxd.com/film/the-whale-2022/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "shiva-baby-2020",
+      "title": "Shiva Baby",
+      "year": "2020",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Emma Seligman"
+      ],
+      "actors": [
+        "Rachel Sennott",
+        "Molly Gordon",
+        "Polly Draper",
+        "Danny Deferrari",
+        "Fred Melamed",
+        "Dianna Agron"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 665081,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/9/0/9/3/589093-shiva-baby-0-230-0-345-crop.jpg?v=a258215f88",
+      "url": "https://letterboxd.com/film/shiva-baby-2020/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "last-year-at-marienbad",
+      "title": "Last Year at Marienbad",
+      "year": "1961",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Alain Resnais"
+      ],
+      "actors": [
+        "Delphine Seyrig",
+        "Giorgio Albertazzi",
+        "Sacha Pitoëff",
+        "Françoise Bertin",
+        "Luce Garcia-Ville",
+        "Héléna Kornel"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 4.1,
+      "rating_count": 62172,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/5/2/7/49527-last-year-at-marienbad-0-230-0-345-crop.jpg?v=4eb29745bd",
+      "url": "https://letterboxd.com/film/last-year-at-marienbad/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "12-angry-men-1997",
+      "title": "12 Angry Men",
+      "year": "1997",
+      "genres": [
+        "Drama",
+        "TV Movie"
+      ],
+      "directors": [
+        "William Friedkin"
+      ],
+      "actors": [
+        "Courtney B. Vance",
+        "Ossie Davis",
+        "George C. Scott",
+        "Armin Mueller-Stahl",
+        "Dorian Harewood",
+        "James Gandolfini"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 34953,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/6/9/0/44690-12-angry-men-0-230-0-345-crop.jpg?v=d24601277d",
+      "url": "https://letterboxd.com/film/12-angry-men-1997/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-favourite",
+      "title": "The Favourite",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "History"
+      ],
+      "directors": [
+        "Yorgos Lanthimos"
+      ],
+      "actors": [
+        "Emma Stone",
+        "Olivia Colman",
+        "Rachel Weisz",
+        "Nicholas Hoult",
+        "Joe Alwyn",
+        "Mark Gatiss"
+      ],
+      "countries": [
+        "Ireland",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 918687,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/0/7/0/5/310705-the-favourite-0-230-0-345-crop.jpg?v=c5488e37ef",
+      "url": "https://letterboxd.com/film/the-favourite/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "portrait-of-a-lady-on-fire",
+      "title": "Portrait of a Lady on Fire",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Céline Sciamma"
+      ],
+      "actors": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami",
+        "Valeria Golino",
+        "Christel Baras",
+        "Armande Boulanger"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.42,
+      "rating_count": 1077371,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/8/3/0/460830-portrait-of-a-lady-on-fire-0-230-0-345-crop.jpg?v=79b0f67aa9",
+      "url": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-exterminating-angel",
+      "title": "The Exterminating Angel",
+      "year": "1962",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Luis Buñuel"
+      ],
+      "actors": [
+        "Silvia Pinal",
+        "Jacqueline Andere",
+        "Claudio Brook",
+        "Enrique Rambal",
+        "José Baviera",
+        "Augusto Benedico"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "rating": 4.17,
+      "rating_count": 68908,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/0/0/8/33008-the-exterminating-angel-0-230-0-345-crop.jpg?v=2d01d47687",
+      "url": "https://letterboxd.com/film/the-exterminating-angel/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-sunset-limited",
+      "title": "The Sunset Limited",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "TV Movie"
+      ],
+      "directors": [
+        "Tommy Lee Jones"
+      ],
+      "actors": [
+        "Tommy Lee Jones",
+        "Samuel L. Jackson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.74,
+      "rating_count": 16885,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/8/0/9280-the-sunset-limited-0-230-0-345-crop.jpg?v=4cf9e14a11",
+      "url": "https://letterboxd.com/film/the-sunset-limited/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mass-2021",
+      "title": "Mass",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Fran Kranz"
+      ],
+      "actors": [
+        "Martha Plimpton",
+        "Jason Isaacs",
+        "Ann Dowd",
+        "Reed Birney",
+        "Breeda Wool",
+        "Michelle N. Carter"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.08,
+      "rating_count": 43499,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/6/9/5/0/356950-mass-0-230-0-345-crop.jpg?v=bf17d7240f",
+      "url": "https://letterboxd.com/film/mass-2021/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "venus-in-fur",
+      "title": "Venus in Fur",
+      "year": "2013",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ],
+      "actors": [
+        "Emmanuelle Seigner",
+        "Mathieu Amalric"
+      ],
+      "countries": [
+        "France",
+        "Poland",
+        "Belgium"
+      ],
+      "rating": 3.66,
+      "rating_count": 21619,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/5/7/0/141570-venus-in-fur-0-230-0-345-crop.jpg?v=672a8301e0",
+      "url": "https://letterboxd.com/film/venus-in-fur/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "tape",
+      "title": "Tape",
+      "year": "2001",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Robert Sean Leonard",
+        "Uma Thurman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.66,
+      "rating_count": 23852,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/4/1/37141-tape-0-230-0-345-crop.jpg?v=3d6ac5b1d4",
+      "url": "https://letterboxd.com/film/tape/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "all-is-lost",
+      "title": "All Is Lost",
+      "year": "2013",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "J.C. Chandor"
+      ],
+      "actors": [
+        "Robert Redford"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.55,
+      "rating_count": 47125,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zr/zp/84/jp/9hdfc5MA50LUBwGXwHyO4BoFi57-0-230-0-345-crop.jpg?v=ebc33bc714",
+      "url": "https://letterboxd.com/film/all-is-lost/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-bitter-tears-of-petra-von-kant",
+      "title": "The Bitter Tears of Petra von Kant",
+      "year": "1972",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Rainer Werner Fassbinder"
+      ],
+      "actors": [
+        "Margit Carstensen",
+        "Hanna Schygulla",
+        "Katrin Schaake",
+        "Eva Mattes",
+        "Gisela Fackeldey",
+        "Irm Hermann"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 4.13,
+      "rating_count": 39476,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/9/46349-the-bitter-tears-of-petra-von-kant-0-230-0-345-crop.jpg?v=d9fc8d6de4",
+      "url": "https://letterboxd.com/film/the-bitter-tears-of-petra-von-kant/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "chinese-roulette",
+      "title": "Chinese Roulette",
+      "year": "1976",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Rainer Werner Fassbinder"
+      ],
+      "actors": [
+        "Anna Karina",
+        "Margit Carstensen",
+        "Brigitte Mira",
+        "Ulli Lommel",
+        "Alexander Allerson",
+        "Volker Spengler"
+      ],
+      "countries": [
+        "Germany",
+        "France"
+      ],
+      "rating": 3.83,
+      "rating_count": 11942,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/0/7/8/28078-chinese-roulette-0-230-0-345-crop.jpg?v=94b78f22b1",
+      "url": "https://letterboxd.com/film/chinese-roulette/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "glengarry-glen-ross",
+      "title": "Glengarry Glen Ross",
+      "year": "1992",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "James Foley"
+      ],
+      "actors": [
+        "Al Pacino",
+        "Jack Lemmon",
+        "Alec Baldwin",
+        "Alan Arkin",
+        "Ed Harris",
+        "Kevin Spacey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.92,
+      "rating_count": 143456,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/9/6/47096-glengarry-glen-ross-0-230-0-345-crop.jpg?v=9b019eeb62",
+      "url": "https://letterboxd.com/film/glengarry-glen-ross/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "delicatessen",
+      "title": "Delicatessen",
+      "year": "1991",
+      "genres": [
+        "Fantasy",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "directors": [
+        "Jean-Pierre Jeunet",
+        "Marc Caro"
+      ],
+      "actors": [
+        "Dominique Pinon",
+        "Marie-Laure Dougnac",
+        "Jean-Claude Dreyfus",
+        "Karin Viard",
+        "Ticky Holgado",
+        "Pascal Benezech"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.82,
+      "rating_count": 102563,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/6/0/51260-delicatessen-0-230-0-345-crop.jpg?v=dca54560ba",
+      "url": "https://letterboxd.com/film/delicatessen/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "alien",
+      "title": "Alien",
+      "year": "1979",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Tom Skerritt",
+        "Sigourney Weaver",
+        "Veronica Cartwright",
+        "Harry Dean Stanton",
+        "John Hurt",
+        "Ian Holm"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 4.25,
+      "rating_count": 1834739,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8v/f1/qw/aa/bg7K6VtUG7Ew70gQj6SSroD5d4R-0-230-0-345-crop.jpg?v=a932f9e98e",
+      "url": "https://letterboxd.com/film/alien/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mother-2017",
+      "title": "mother!",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris",
+        "Michelle Pfeiffer",
+        "Brian Gleeson",
+        "Domhnall Gleeson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 850224,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/1/1/316311-mother--0-230-0-345-crop.jpg?v=399e8950fd",
+      "url": "https://letterboxd.com/film/mother-2017/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "buried",
+      "title": "Buried",
+      "year": "2010",
+      "genres": [
+        "Thriller"
+      ],
+      "directors": [
+        "Rodrigo Cortés"
+      ],
+      "actors": [
+        "Ryan Reynolds",
+        "José Luis García Pérez",
+        "Robert Paterson",
+        "Stephen Tobolowsky",
+        "Samantha Mathis",
+        "Ivana Miño"
+      ],
+      "countries": [
+        "Spain",
+        "USA"
+      ],
+      "rating": 3.32,
+      "rating_count": 94215,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/5/0/35350-buried-0-230-0-345-crop.jpg?v=5d3289afbf",
+      "url": "https://letterboxd.com/film/buried/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "ex-machina-2015",
+      "title": "Ex Machina",
+      "year": "2015",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Alex Garland"
+      ],
+      "actors": [
+        "Domhnall Gleeson",
+        "Alicia Vikander",
+        "Oscar Isaac",
+        "Sonoya Mizuno",
+        "Corey Johnson",
+        "Claire Selby"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.96,
+      "rating_count": 1294884,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/7/9/8/6/187986-ex-machina-0-230-0-345-crop.jpg?v=2b4212d498",
+      "url": "https://letterboxd.com/film/ex-machina-2015/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-hateful-eight",
+      "title": "The Hateful Eight",
+      "year": "2015",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Western"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "actors": [
+        "Samuel L. Jackson",
+        "Kurt Russell",
+        "Jennifer Jason Leigh",
+        "Walton Goggins",
+        "Demián Bichir",
+        "Tim Roth"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 1241205,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/7/0/1/2/197012-the-hateful-eight-0-230-0-345-crop.jpg?v=0428be5b84",
+      "url": "https://letterboxd.com/film/the-hateful-eight/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-lighthouse-2019",
+      "title": "The Lighthouse",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Willem Dafoe",
+        "Valeriia Karaman",
+        "Logan Hawkes",
+        "Kyla Nicolle",
+        "Shaun Clarke"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 1504031,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/3/8/6/3/433863-the-lighthouse-0-230-0-345-crop.jpg?v=ee97005537",
+      "url": "https://letterboxd.com/film/the-lighthouse-2019/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "phone-booth",
+      "title": "Phone Booth",
+      "year": "2002",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Joel Schumacher"
+      ],
+      "actors": [
+        "Colin Farrell",
+        "Kiefer Sutherland",
+        "Forest Whitaker",
+        "Radha Mitchell",
+        "Katie Holmes",
+        "Paula Jai Parker"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.35,
+      "rating_count": 185511,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ma/ho/yr/w8/xIaUpPok8WFnr79EAvgtGsIaJzV-0-230-0-345-crop.jpg?v=527d66c84e",
+      "url": "https://letterboxd.com/film/phone-booth/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-platform",
+      "title": "The Platform",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Galder Gaztelu-Urrutia"
+      ],
+      "actors": [
+        "Ivan Massagué",
+        "Antonia San Juan",
+        "Zorion Eguileor",
+        "Emilio Buale",
+        "Alexandra Masangkay",
+        "Zihara Llana"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "rating": 3.23,
+      "rating_count": 899853,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/5/9/8/5/545985-the-platform-0-230-0-345-crop.jpg?v=b3d868a021",
+      "url": "https://letterboxd.com/film/the-platform/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "saw",
+      "title": "Saw",
+      "year": "2004",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "James Wan"
+      ],
+      "actors": [
+        "Tobin Bell",
+        "Cary Elwes",
+        "Leigh Whannell",
+        "Danny Glover",
+        "Monica Potter",
+        "Ken Leung"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 1114614,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qd/18/jq/1b/oFl8U5Mzohs6z8mL8KT4Gjoiirm-0-230-0-345-crop.jpg?v=3c58ef6252",
+      "url": "https://letterboxd.com/film/saw/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 33,
+      "Comedy": 9,
+      "Thriller": 8,
+      "Mystery": 5,
+      "Crime": 5,
+      "Horror": 5,
+      "Science Fiction": 4,
+      "Romance": 3,
+      "Fantasy": 3,
+      "TV Movie": 2,
+      "Music": 1,
+      "History": 1,
+      "Action": 1,
+      "Adventure": 1,
+      "Western": 1
+    },
+    "directors": {
+      "Ingmar Bergman": 3,
+      "Roman Polanski": 2,
+      "Alfred Hitchcock": 2,
+      "Darren Aronofsky": 2,
+      "Rainer Werner Fassbinder": 2,
+      "Sidney Lumet": 1,
+      "John Hughes": 1,
+      "Thomas Vinterberg": 1,
+      "Mike Nichols": 1,
+      "Steven Knight": 1,
+      "Jonathan Lynn": 1,
+      "Richard Brooks": 1,
+      "Mark Mylod": 1,
+      "John Wells": 1,
+      "Emma Seligman": 1,
+      "Alain Resnais": 1,
+      "William Friedkin": 1,
+      "Yorgos Lanthimos": 1,
+      "Céline Sciamma": 1,
+      "Luis Buñuel": 1
+    },
+    "years": {
+      "1948": 1,
+      "1954": 1,
+      "1957": 1,
+      "1958": 1,
+      "1961": 1,
+      "1962": 1,
+      "1966": 2,
+      "1972": 2,
+      "1976": 1,
+      "1978": 1,
+      "1979": 1,
+      "1985": 2,
+      "1991": 1,
+      "1992": 1,
+      "1997": 1,
+      "1998": 1,
+      "2001": 1,
+      "2002": 1,
+      "2004": 1,
+      "2010": 1,
+      "2011": 2,
+      "2013": 4,
+      "2015": 2,
+      "2017": 1,
+      "2018": 1,
+      "2019": 3,
+      "2020": 1,
+      "2021": 1,
+      "2022": 2
+    }
+  }
+}

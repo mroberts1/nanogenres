@@ -1,0 +1,1881 @@
+{
+  "query": "transcendental cinema",
+  "slug": "transcendental-cinema",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/jhuang98/list/transcendental-cinema/",
+      "user": "jhuang98",
+      "slug": "transcendental-cinema",
+      "title": "Transcendental Cinema",
+      "desc": "paul schrader and i have very different opinions",
+      "owner": "List by Jason Huang (黃擎元) PATRON",
+      "tags": []
+    },
+    {
+      "href": "/wanas/list/transcendental-cinema/",
+      "user": "wanas",
+      "slug": "transcendental-cinema",
+      "title": "Transcendental Cinema.",
+      "desc": "Transcendence. Isn’t it the highest goal of cinema? To transcend the tight borders of the film frame and to open you up to a world you couldn’t imagine, envision or experience yourself?",
+      "owner": "List by Wanas Asaad",
+      "tags": []
+    },
+    {
+      "href": "/oakles/list/transcendental-cinema/",
+      "user": "oakles",
+      "slug": "transcendental-cinema",
+      "title": "Transcendental Cinema",
+      "desc": "oakles is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by oakles PATRON",
+      "tags": []
+    },
+    {
+      "href": "/coensfanman/list/transcendental-cinema/",
+      "user": "coensfanman",
+      "slug": "transcendental-cinema",
+      "title": "Transcendental Cinema",
+      "desc": "coensfanman is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by coensfanman",
+      "tags": []
+    },
+    {
+      "href": "/delnieve/list/transcendental-cinema/",
+      "user": "delnieve",
+      "slug": "transcendental-cinema",
+      "title": "Transcendental Cinema",
+      "desc": "delnieve is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by delnieve PRO",
+      "tags": []
+    },
+    {
+      "href": "/jamestn/list/transcendental-cinema/",
+      "user": "jamestn",
+      "slug": "transcendental-cinema",
+      "title": "Transcendental Cinema",
+      "desc": "Jimmy is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Jimmy",
+      "tags": []
+    },
+    {
+      "href": "/h_film_critic_b/list/transcendental-cinema/",
+      "user": "h_film_critic_b",
+      "slug": "transcendental-cinema",
+      "title": "transcendental cinema",
+      "desc": "Serge The is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Serge The Movie Guy PATRON",
+      "tags": []
+    },
+    {
+      "href": "/marktrevino_/list/transcendental-cinema/",
+      "user": "marktrevino_",
+      "slug": "transcendental-cinema",
+      "title": "Transcendental Cinema",
+      "desc": "Movies that cross the bridge.",
+      "owner": "List by Mark Trevino",
+      "tags": []
+    },
+    {
+      "href": "/aheacock1/list/transcendental-cinema/",
+      "user": "aheacock1",
+      "slug": "transcendental-cinema",
+      "title": "Transcendental Cinema",
+      "desc": "Andrew is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Andrew Heacock PATRON",
+      "tags": []
+    }
+  ],
+  "source_list_count": 9,
+  "films_considered": 189,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "the-tree-of-life-2011",
+      "title": "The Tree of Life",
+      "year": "2011",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Terrence Malick"
+      ],
+      "actors": [
+        "Brad Pitt",
+        "Jessica Chastain",
+        "Hunter McCracken",
+        "Sean Penn",
+        "Fiona Shaw",
+        "Tye Sheridan"
+      ],
+      "countries": [
+        "USA",
+        "Italy",
+        "Iceland"
+      ],
+      "rating": 3.84,
+      "rating_count": 282844,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/4/6/8/47468-the-tree-of-life-0-230-0-345-crop.jpg?v=1794f394ea",
+      "url": "https://letterboxd.com/film/the-tree-of-life-2011/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "stalker",
+      "title": "Stalker",
+      "year": "1979",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Alisa Freyndlikh",
+        "Aleksandr Kaydanovskiy",
+        "Anatoliy Solonitsyn",
+        "Mykola Hrynko",
+        "Natalya Abramova",
+        "Faime Jurno"
+      ],
+      "countries": [
+        "USSR"
+      ],
+      "rating": 4.4,
+      "rating_count": 361238,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-230-0-345-crop.jpg?v=1852068db9",
+      "url": "https://letterboxd.com/film/stalker/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "ida",
+      "title": "Ida",
+      "year": "2013",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Paweł Pawlikowski"
+      ],
+      "actors": [
+        "Agata Trzebuchowska",
+        "Agata Kulesza",
+        "Dawid Ogrodnik",
+        "Jerzy Trela",
+        "Adam Szyszkowski",
+        "Halina Skoczyńska"
+      ],
+      "countries": [
+        "Poland",
+        "Denmark"
+      ],
+      "rating": 4.05,
+      "rating_count": 94151,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h3/mx/2r/h5/aO8dgaxaY1tcAdtFkLuz1WSxgdd-0-230-0-345-crop.jpg?v=2a05cca0fa",
+      "url": "https://letterboxd.com/film/ida/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "winter-light",
+      "title": "Winter Light",
+      "year": "1963",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Ingrid Thulin",
+        "Gunnar Björnstrand",
+        "Gunnel Lindblom",
+        "Max von Sydow",
+        "Allan Edwall",
+        "Kolbjörn Knudsen"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.25,
+      "rating_count": 74568,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/8/4/7/32847-winter-light-0-230-0-345-crop.jpg?v=4acd9ba380",
+      "url": "https://letterboxd.com/film/winter-light/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-passion-of-joan-of-arc",
+      "title": "The Passion of Joan of Arc",
+      "year": "1928",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Carl Theodor Dreyer"
+      ],
+      "actors": [
+        "Maria Falconetti",
+        "Eugène Silvain",
+        "André Berley",
+        "Maurice Schutz",
+        "Antonin Artaud",
+        "Michel Simon"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.42,
+      "rating_count": 145506,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/7/2/51372-the-passion-of-joan-of-arc-0-230-0-345-crop.jpg?v=6c0e1e9561",
+      "url": "https://letterboxd.com/film/the-passion-of-joan-of-arc/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "ordet",
+      "title": "Ordet",
+      "year": "1955",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Carl Theodor Dreyer"
+      ],
+      "actors": [
+        "Henrik Malberg",
+        "Birgitte Federspiel",
+        "Emil Hass Christensen",
+        "Preben Lerdorff Rye",
+        "Cay Kristiansen",
+        "Ejner Federspiel"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 4.35,
+      "rating_count": 36893,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xu/0o/wv/m6/e3oh96Zrqdaku8DoD10pXZHLZoU-0-230-0-345-crop.jpg?v=c412b52883",
+      "url": "https://letterboxd.com/film/ordet/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "taste-of-cherry",
+      "title": "Taste of Cherry",
+      "year": "1997",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Abbas Kiarostami"
+      ],
+      "actors": [
+        "Homayoun Ershadi",
+        "Abdolrahman Bagheri",
+        "Safar Ali Moradi",
+        "Mir Hossein Noori",
+        "Elham Imani",
+        "Afshin Khorshid Bakhtiari"
+      ],
+      "countries": [
+        "Iran",
+        "France"
+      ],
+      "rating": 4.32,
+      "rating_count": 202655,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/3/4/5/32345-taste-of-cherry-0-230-0-345-crop.jpg?v=64fada0a9a",
+      "url": "https://letterboxd.com/film/taste-of-cherry/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "a-ghost-story-2017",
+      "title": "A Ghost Story",
+      "year": "2017",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Romance",
+        "Mystery"
+      ],
+      "directors": [
+        "David Lowery"
+      ],
+      "actors": [
+        "Casey Affleck",
+        "Rooney Mara",
+        "McColm Cephas Jr.",
+        "Kenneisha Thompson",
+        "Grover Coulson",
+        "Liz Cardenas"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 337636,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zx/51/yo/oc/ydENrBUenr4khaP6tj4JZn1CpMs-0-230-0-345-crop.jpg?v=8a56a47391",
+      "url": "https://letterboxd.com/film/a-ghost-story-2017/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "au-hasard-balthazar",
+      "title": "Au Hasard Balthazar",
+      "year": "1966",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Robert Bresson"
+      ],
+      "actors": [
+        "Anne Wiazemsky",
+        "Walter Green",
+        "François Lafarge",
+        "Jean-Claude Guilbert",
+        "Philippe Asselin",
+        "Pierre Klossowski"
+      ],
+      "countries": [
+        "France",
+        "Sweden"
+      ],
+      "rating": 4.08,
+      "rating_count": 64424,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/up/bb/3o/eu/aQBoH09Nq3AwXV7eyYtazsCiByG-0-230-0-345-crop.jpg?v=8a5085ef03",
+      "url": "https://letterboxd.com/film/au-hasard-balthazar/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "enter-the-void",
+      "title": "Enter the Void",
+      "year": "2009",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Gaspar Noé"
+      ],
+      "actors": [
+        "Paz de la Huerta",
+        "Nathaniel Brown",
+        "Cyril Roy",
+        "Olly Alexander",
+        "Masato Tanno",
+        "Ed Spear"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "rating": 3.77,
+      "rating_count": 245522,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/0/4/1/29041-enter-the-void-0-230-0-345-crop.jpg?v=5a7c2754fb",
+      "url": "https://letterboxd.com/film/enter-the-void/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "persona",
+      "title": "Persona",
+      "year": "1966",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Bibi Andersson",
+        "Liv Ullmann",
+        "Margaretha Krook",
+        "Gunnar Björnstrand",
+        "Jörgen Lindström"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.39,
+      "rating_count": 423377,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/5/51355-persona-0-230-0-345-crop.jpg?v=aca1e0fd3d",
+      "url": "https://letterboxd.com/film/persona/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "mirror",
+      "title": "Mirror",
+      "year": "1975",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Margarita Terekhova",
+        "Ignat Daniltsev",
+        "Larisa Tarkovskaya",
+        "Alla Demidova",
+        "Anatoliy Solonitsyn",
+        "Mykola Hrynko"
+      ],
+      "countries": [
+        "USSR"
+      ],
+      "rating": 4.32,
+      "rating_count": 182116,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/4/51064-mirror-0-230-0-345-crop.jpg?v=88898b6c6e",
+      "url": "https://letterboxd.com/film/mirror/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "nostalgia-1983",
+      "title": "Nostalgia",
+      "year": "1983",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Oleg Yankovskiy",
+        "Erland Josephson",
+        "Domiziana Giordano",
+        "Patrizia Terreno",
+        "Laura De Marchi",
+        "Delia Boccardo"
+      ],
+      "countries": [
+        "Italy",
+        "USSR"
+      ],
+      "rating": 4.28,
+      "rating_count": 79717,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-230-0-345-crop.jpg?v=fc5f972431",
+      "url": "https://letterboxd.com/film/nostalgia-1983/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-sacrifice",
+      "title": "The Sacrifice",
+      "year": "1986",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Erland Josephson",
+        "Susan Fleetwood",
+        "Allan Edwall",
+        "Guðrún Gísladóttir",
+        "Sven Wollter",
+        "Valérie Mairesse"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.29,
+      "rating_count": 92845,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-230-0-345-crop.jpg?v=abe0768e2a",
+      "url": "https://letterboxd.com/film/the-sacrifice/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "mother-and-son",
+      "title": "Mother and Son",
+      "year": "1997",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Aleksandr Sokurov"
+      ],
+      "actors": [
+        "Aleksei Ananishnov",
+        "Gudrun Geyer"
+      ],
+      "countries": [
+        "Germany",
+        "Russia"
+      ],
+      "rating": 3.96,
+      "rating_count": 7159,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/8/1/4/20814-mother-and-son-0-230-0-345-crop.jpg?v=37231026b7",
+      "url": "https://letterboxd.com/film/mother-and-son/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "uncle-boonmee-who-can-recall-his-past-lives",
+      "title": "Uncle Boonmee Who Can Recall His Past Lives",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Apichatpong Weerasethakul"
+      ],
+      "actors": [
+        "Thanapat Saisaymar",
+        "Jenjira Pongpas",
+        "Sakda Kaewbuadee",
+        "Natthakarn Aphaiwonk",
+        "Geerasak Kulhong",
+        "Wallapa Mongkolprasert"
+      ],
+      "countries": [
+        "Thailand",
+        "UK",
+        "Germany",
+        "Spain",
+        "France",
+        "USA"
+      ],
+      "rating": 3.93,
+      "rating_count": 67502,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ge/yz/cw/u5/i8KstBy8SRi3CfplaufDA5VQLmf-0-230-0-345-crop.jpg?v=e67a74fefc",
+      "url": "https://letterboxd.com/film/uncle-boonmee-who-can-recall-his-past-lives/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "andrei-rublev",
+      "title": "Andrei Rublev",
+      "year": "1966",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Anatoliy Solonitsyn",
+        "Ivan Lapikov",
+        "Mykola Hrynko",
+        "Nikolai Sergeyev",
+        "Irma Raush",
+        "Nikolay Burlyaev"
+      ],
+      "countries": [
+        "USSR"
+      ],
+      "rating": 4.44,
+      "rating_count": 95765,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ta/n3/34/bp/andrey-rublyov-0-230-0-345-crop.jpg?v=d30a8bb2cb",
+      "url": "https://letterboxd.com/film/andrei-rublev/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "silence",
+      "title": "Silence",
+      "year": "2016",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Andrew Garfield",
+        "Adam Driver",
+        "Liam Neeson",
+        "Tadanobu Asano",
+        "Ciarán Hinds",
+        "Issey Ogata"
+      ],
+      "countries": [
+        "Mexico",
+        "Taiwan",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 266785,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/5/0/4/52504-silence-0-230-0-345-crop.jpg?v=b1740fd4a3",
+      "url": "https://letterboxd.com/film/silence/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "first-reformed",
+      "title": "First Reformed",
+      "year": "2017",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Paul Schrader"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Amanda Seyfried",
+        "Cedric the Entertainer",
+        "Victoria Hill",
+        "Philip Ettinger",
+        "Michael Gaston"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 4.03,
+      "rating_count": 263715,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/25/z1/3z/xn/8HKA3Hwf8jQWy8TCYWr7C8Wft23-0-230-0-345-crop.jpg?v=79051e4cf2",
+      "url": "https://letterboxd.com/film/first-reformed/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "mishima-a-life-in-four-chapters",
+      "title": "Mishima: A Life in Four Chapters",
+      "year": "1985",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Paul Schrader"
+      ],
+      "actors": [
+        "Ken Ogata",
+        "Kenji Sawada",
+        "Bandō Mitsugorō X",
+        "Toshiyuki Nagashima",
+        "Masayuki Shionoya",
+        "Hiroshi Mikami"
+      ],
+      "countries": [
+        "Japan",
+        "USA"
+      ],
+      "rating": 4.42,
+      "rating_count": 109428,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
+      "url": "https://letterboxd.com/film/mishima-a-life-in-four-chapters/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "cries-and-whispers",
+      "title": "Cries and Whispers",
+      "year": "1972",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Liv Ullmann",
+        "Ingrid Thulin",
+        "Kari Sylwan",
+        "Harriet Andersson",
+        "Erland Josephson",
+        "Georg Årlin"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.21,
+      "rating_count": 81516,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/1/4/46414-cries-and-whispers-0-230-0-345-crop.jpg?v=80b1fa11db",
+      "url": "https://letterboxd.com/film/cries-and-whispers/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "inland-empire",
+      "title": "Inland Empire",
+      "year": "2006",
+      "genres": [
+        "Mystery",
+        "Fantasy",
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Laura Dern",
+        "Jeremy Irons",
+        "Justin Theroux",
+        "Harry Dean Stanton",
+        "Karolina Gruszka",
+        "Peter J. Lucas"
+      ],
+      "countries": [
+        "USA",
+        "France",
+        "Poland"
+      ],
+      "rating": 3.89,
+      "rating_count": 183812,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/2/2/50822-inland-empire-0-230-0-345-crop.jpg?v=b4bd226d73",
+      "url": "https://letterboxd.com/film/inland-empire/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "a-visitor-to-a-museum",
+      "title": "A Visitor to a Museum",
+      "year": "1989",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Konstantin Lopushansky"
+      ],
+      "actors": [
+        "Viktor Mikhaylov",
+        "Vera Mayorova",
+        "Vadim Lobanov",
+        "Irina Rakshina",
+        "Aleksandr Rasinsky",
+        "Iosif Ryklin"
+      ],
+      "countries": [
+        "Germany",
+        "USSR",
+        "Switzerland"
+      ],
+      "rating": 4.02,
+      "rating_count": 6950,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/5/3/60253-a-visitor-to-a-museum-0-230-0-345-crop.jpg?v=b87951857f",
+      "url": "https://letterboxd.com/film/a-visitor-to-a-museum/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "spring-summer-fall-winter-and-spring",
+      "title": "Spring, Summer, Fall, Winter... and Spring",
+      "year": "2003",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Kim Ki-duk"
+      ],
+      "actors": [
+        "Oh Young-soo",
+        "Kim Ki-duk",
+        "Kim Young-min",
+        "Seo Jae-kyeong",
+        "Kim Jong-ho",
+        "Ha Yeo-jin"
+      ],
+      "countries": [
+        "South Korea",
+        "Germany"
+      ],
+      "rating": 4.19,
+      "rating_count": 68970,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/7/51937-spring-summer-fall-winter-and-spring-0-230-0-345-crop.jpg?v=b2bf33e3ae",
+      "url": "https://letterboxd.com/film/spring-summer-fall-winter-and-spring/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "stations-of-the-cross",
+      "title": "Stations of the Cross",
+      "year": "2014",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Dietrich Brüggemann"
+      ],
+      "actors": [
+        "Lea van Acken",
+        "Franziska Weisz",
+        "Florian Stetter",
+        "Lucie Aron",
+        "Moritz Knapp",
+        "Michael Kamp"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 3.85,
+      "rating_count": 4051,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/8/5/2/8/178528-stations-of-the-cross-0-230-0-345-crop.jpg?v=cb2dd41a30",
+      "url": "https://letterboxd.com/film/stations-of-the-cross/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "2001-a-space-odyssey",
+      "title": "2001: A Space Odyssey",
+      "year": "1968",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Mystery"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "actors": [
+        "Keir Dullea",
+        "Gary Lockwood",
+        "William Sylvester",
+        "Douglas Rain",
+        "Daniel Richter",
+        "Leonard Rossiter"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.25,
+      "rating_count": 1446593,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/7/51987-2001-a-space-odyssey-0-230-0-345-crop.jpg?v=a69c46a272",
+      "url": "https://letterboxd.com/film/2001-a-space-odyssey/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "this-is-not-a-burial-its-a-resurrection",
+      "title": "This Is Not a Burial, It's a Resurrection",
+      "year": "2019",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Lemohang Jeremiah Mosese"
+      ],
+      "actors": [
+        "Mary Twala",
+        "Jerry Mofokeng",
+        "Makhaola Ndebele",
+        "Tseko Monaheng",
+        "Siphiwe Nzima",
+        "Thabiso Makoto"
+      ],
+      "countries": [
+        "South Africa"
+      ],
+      "rating": 4.07,
+      "rating_count": 8773,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/4/8/1/0/544810-this-is-not-a-burial-it-s-a-resurrection-0-230-0-345-crop.jpg?v=010f8c72b4",
+      "url": "https://letterboxd.com/film/this-is-not-a-burial-its-a-resurrection/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "love-one-another",
+      "title": "Love One Another",
+      "year": "1922",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Carl Theodor Dreyer"
+      ],
+      "actors": [
+        "Adele Reuter-Eichberg",
+        "Vladimir Gajdarov",
+        "Polina Piekowskaja",
+        "Sylvia Torff",
+        "Hugo Döblin",
+        "J.N. Douvan-Tarzow"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 3.38,
+      "rating_count": 641,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/1/6/8/28168-love-one-another-0-230-0-345-crop.jpg?v=e7744213d5",
+      "url": "https://letterboxd.com/film/love-one-another/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "day-of-wrath",
+      "title": "Day of Wrath",
+      "year": "1943",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Carl Theodor Dreyer"
+      ],
+      "actors": [
+        "Thorkild Roose",
+        "Lisbeth Movin",
+        "Preben Lerdorff Rye",
+        "Sigrid Neiiendam",
+        "Anna Svierkier",
+        "Albert Høeberg"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 4.19,
+      "rating_count": 18717,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dy/b7/91/pe/vPBgtO1iUZwxjoM4RaFmV5KPKgL-0-230-0-345-crop.jpg?v=4ea6baaf62",
+      "url": "https://letterboxd.com/film/day-of-wrath/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "diary-of-a-country-priest",
+      "title": "Diary of a Country Priest",
+      "year": "1951",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Robert Bresson"
+      ],
+      "actors": [
+        "Claude Laydu",
+        "Jean Riveyre",
+        "Adrien Borel",
+        "Rachel Bérendt",
+        "Nicole Maurey",
+        "Nicole Ladmiral"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.1,
+      "rating_count": 27805,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/7/2/21772-diary-of-a-country-priest-0-230-0-345-crop.jpg?v=01d38c3bcd",
+      "url": "https://letterboxd.com/film/diary-of-a-country-priest/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "shame",
+      "title": "Shame",
+      "year": "1968",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Liv Ullmann",
+        "Max von Sydow",
+        "Sigge Fürst",
+        "Gunnar Björnstrand",
+        "Birgitta Valberg",
+        "Hans Alfredson"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.22,
+      "rating_count": 30127,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/6/1/35361-shame-0-230-0-345-crop.jpg?v=b9973d7648",
+      "url": "https://letterboxd.com/film/shame/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-enigma-of-kaspar-hauser",
+      "title": "The Enigma of Kaspar Hauser",
+      "year": "1974",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Werner Herzog"
+      ],
+      "actors": [
+        "Bruno S.",
+        "Walter Ladengast",
+        "Brigitte Mira",
+        "Willy Semmelrogge",
+        "Kidlat Tahimik",
+        "Hans Musäus"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 3.93,
+      "rating_count": 27356,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/4/4/45044-the-enigma-of-kaspar-hauser-0-230-0-345-crop.jpg?v=2aca80938c",
+      "url": "https://letterboxd.com/film/the-enigma-of-kaspar-hauser/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "an-elephant-sitting-still",
+      "title": "An Elephant Sitting Still",
+      "year": "2018",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Hu Bo"
+      ],
+      "actors": [
+        "Peng Yuchang",
+        "Wang Yuwen",
+        "Zhang Yu",
+        "Li Congxi",
+        "Zhenghui Ling",
+        "Xiaolong Zhang"
+      ],
+      "countries": [
+        "China"
+      ],
+      "rating": 4.38,
+      "rating_count": 39588,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/9/6/2/8/429628-an-elephant-sitting-still-0-230-0-345-crop.jpg?v=13022bb349",
+      "url": "https://letterboxd.com/film/an-elephant-sitting-still/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "through-a-glass-darkly",
+      "title": "Through a Glass Darkly",
+      "year": "1961",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Harriet Andersson",
+        "Gunnar Björnstrand",
+        "Max von Sydow",
+        "Lars Passgård"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.16,
+      "rating_count": 54700,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rv/fr/9y/nj/oc7XMMpoDuXf7ZeLMNjw8VrHdrB-0-230-0-345-crop.jpg?v=d886332e9b",
+      "url": "https://letterboxd.com/film/through-a-glass-darkly/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-silence",
+      "title": "The Silence",
+      "year": "1963",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Ingrid Thulin",
+        "Gunnel Lindblom",
+        "Birger Malmsten",
+        "Håkan Jahnberg",
+        "Jörgen Lindström",
+        "Kotti Chave"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.01,
+      "rating_count": 34942,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/4/2/45242-the-silence-0-230-0-345-crop.jpg?v=077c97d0b3",
+      "url": "https://letterboxd.com/film/the-silence/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "columbus-2017",
+      "title": "Columbus",
+      "year": "2017",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Kogonada"
+      ],
+      "actors": [
+        "John Cho",
+        "Haley Lu Richardson",
+        "Michelle Forbes",
+        "Rory Culkin",
+        "Parker Posey",
+        "Erin Allegretti"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.95,
+      "rating_count": 146138,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/l1/zo/7p/wc/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx-0-230-0-345-crop.jpg?v=800e4a6439",
+      "url": "https://letterboxd.com/film/columbus-2017/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-neon-demon",
+      "title": "The Neon Demon",
+      "year": "2016",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Elle Fanning",
+        "Karl Glusman",
+        "Jena Malone",
+        "Bella Heathcote",
+        "Abbey Lee",
+        "Desmond Harrington"
+      ],
+      "countries": [
+        "USA",
+        "Denmark",
+        "France",
+        "Belgium"
+      ],
+      "rating": 3.14,
+      "rating_count": 304506,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bq/o8/8y/yr/paofVcjP4QgIruLIqeRKIskpDUw-0-230-0-345-crop.jpg?v=c33585e69f",
+      "url": "https://letterboxd.com/film/the-neon-demon/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "drive-2011",
+      "title": "Drive",
+      "year": "2011",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Carey Mulligan",
+        "Bryan Cranston",
+        "Albert Brooks",
+        "Oscar Isaac",
+        "Christina Hendricks"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 1871069,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-230-0-345-crop.jpg?v=58a476ae28",
+      "url": "https://letterboxd.com/film/drive-2011/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-lighthouse-2019",
+      "title": "The Lighthouse",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Willem Dafoe",
+        "Valeriia Karaman",
+        "Logan Hawkes",
+        "Kyla Nicolle",
+        "Shaun Clarke"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 1504024,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/3/8/6/3/433863-the-lighthouse-0-230-0-345-crop.jpg?v=ee97005537",
+      "url": "https://letterboxd.com/film/the-lighthouse-2019/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "under-the-skin-2013",
+      "title": "Under the Skin",
+      "year": "2013",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Jonathan Glazer"
+      ],
+      "actors": [
+        "Scarlett Johansson",
+        "Jeremy McWilliams",
+        "Lynsey Taylor Mackay",
+        "Dougie McConnell",
+        "Kevin McAlinden",
+        "D. Meade"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Switzerland"
+      ],
+      "rating": 3.6,
+      "rating_count": 369312,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/1/9/8/80198-under-the-skin-0-230-0-345-crop.jpg?v=732bdd03b9",
+      "url": "https://letterboxd.com/film/under-the-skin-2013/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "arrival-2016",
+      "title": "Arrival",
+      "year": "2016",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg",
+        "Mark O'Brien",
+        "Tzi Ma"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 2454861,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3u/dy/qd/qd/4Iu5f2nv7huqvuYkmZvSPOtbFjs-0-230-0-345-crop.jpg?v=0fc28fdf2c",
+      "url": "https://letterboxd.com/film/arrival-2016/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "after-yang",
+      "title": "After Yang",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Kogonada"
+      ],
+      "actors": [
+        "Justin H. Min",
+        "Malea Emma Tjandrawidjaja",
+        "Colin Farrell",
+        "Jodie Turner-Smith",
+        "Haley Lu Richardson",
+        "Sarita Choudhury"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 141329,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/2/0/6/513206-after-yang-0-230-0-345-crop.jpg?v=a7b081cba8",
+      "url": "https://letterboxd.com/film/after-yang/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "blade-runner-2049",
+      "title": "Blade Runner 2049",
+      "year": "2017",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas",
+        "Dave Bautista",
+        "Robin Wright",
+        "Sylvia Hoeks"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 2125186,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/5/4/3/9/265439-blade-runner-2049-0-230-0-345-crop.jpg?v=86735e0bb8",
+      "url": "https://letterboxd.com/film/blade-runner-2049/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lost-river",
+      "title": "Lost River",
+      "year": "2014",
+      "genres": [
+        "Thriller",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Ryan Gosling"
+      ],
+      "actors": [
+        "Christina Hendricks",
+        "Iain De Caestecker",
+        "Saoirse Ronan",
+        "Eva Mendes",
+        "Matt Smith",
+        "Ben Mendelsohn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 29312,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/8/9/8/123898-lost-river-0-230-0-345-crop.jpg?v=9a46da7999",
+      "url": "https://letterboxd.com/film/lost-river/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "still-walking",
+      "title": "Still Walking",
+      "year": "2008",
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "directors": [
+        "Hirokazu Kore-eda"
+      ],
+      "actors": [
+        "Hiroshi Abe",
+        "Yui Natsukawa",
+        "YOU",
+        "Kazuya Takahashi",
+        "Shohei Tanaka",
+        "Hotaru Nomoto"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.34,
+      "rating_count": 64033,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/9n/4k/7a/cy/yRCXzT7N02a1UdAybfom6omWlTH-0-230-0-345-crop.jpg?v=dae0940aaf",
+      "url": "https://letterboxd.com/film/still-walking/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "poetry",
+      "title": "Poetry",
+      "year": "2010",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Lee Chang-dong"
+      ],
+      "actors": [
+        "Yoon Jeong-hee",
+        "David Lee",
+        "Kim Hee-ra",
+        "Ahn Nae-sang",
+        "Kim Yong-taek",
+        "Park Myung-shin"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 4.24,
+      "rating_count": 36731,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/4/17524-poetry-0-230-0-345-crop.jpg?v=3dcf186b9f",
+      "url": "https://letterboxd.com/film/poetry/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mandy-2018",
+      "title": "Mandy",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Action"
+      ],
+      "directors": [
+        "Panos Cosmatos"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Andrea Riseborough",
+        "Linus Roache",
+        "Ned Dennehy",
+        "Olwen Fouéré",
+        "Richard Brake"
+      ],
+      "countries": [
+        "Belgium",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 290019,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/2/6/5/4/392654-mandy-0-230-0-345-crop.jpg?v=cf29f00f84",
+      "url": "https://letterboxd.com/film/mandy-2018/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-assassination-of-jesse-james-by-the-coward-robert-ford",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "directors": [
+        "Andrew Dominik"
+      ],
+      "actors": [
+        "Brad Pitt",
+        "Casey Affleck",
+        "Sam Rockwell",
+        "Paul Schneider",
+        "Jeremy Renner",
+        "Garret Dillahunt"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.03,
+      "rating_count": 193714,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/8/8/49288-the-assassination-of-jesse-james-by-the-coward-robert-ford-0-230-0-345-crop.jpg?v=faca0b5573",
+      "url": "https://letterboxd.com/film/the-assassination-of-jesse-james-by-the-coward-robert-ford/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "interstellar",
+      "title": "Interstellar",
+      "year": "2014",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Adventure"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Michael Caine",
+        "Jessica Chastain",
+        "Casey Affleck",
+        "Wes Bentley"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.44,
+      "rating_count": 5571507,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/6/2/1/117621-interstellar-0-230-0-345-crop.jpg?v=7ad89e6666",
+      "url": "https://letterboxd.com/film/interstellar/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "a-girl-walks-home-alone-at-night",
+      "title": "A Girl Walks Home Alone at Night",
+      "year": "2014",
+      "genres": [
+        "Romance",
+        "Horror"
+      ],
+      "directors": [
+        "Ana Lily Amirpour"
+      ],
+      "actors": [
+        "Sheila Vand",
+        "Arash Marandi",
+        "Marshall Manesh",
+        "Mozhan Navabi",
+        "Dominic Rains",
+        "Rome Shadanloo"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 150532,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/6/0/5/3/176053-a-girl-walks-home-alone-at-night-0-230-0-345-crop.jpg?v=2dc9d92abb",
+      "url": "https://letterboxd.com/film/a-girl-walks-home-alone-at-night/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "a-hidden-life-2019",
+      "title": "A Hidden Life",
+      "year": "2019",
+      "genres": [
+        "War",
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Terrence Malick"
+      ],
+      "actors": [
+        "August Diehl",
+        "Valerie Pachner",
+        "Maria Simon",
+        "Karin Neuhäuser",
+        "Tobias Moretti",
+        "Ulrich Matthes"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 4.07,
+      "rating_count": 73573,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/7/8/9/9/337899-a-hidden-life-0-230-0-345-crop.jpg?v=08a7f65db6",
+      "url": "https://letterboxd.com/film/a-hidden-life-2019/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "knight-of-cups",
+      "title": "Knight of Cups",
+      "year": "2015",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Terrence Malick"
+      ],
+      "actors": [
+        "Christian Bale",
+        "Cate Blanchett",
+        "Natalie Portman",
+        "Brian Dennehy",
+        "Antonio Banderas",
+        "Freida Pinto"
+      ],
+      "countries": [
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.3,
+      "rating_count": 67988,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vv/6d/j9/6k/zGN0fefqK6hg2ffxD3R7nRyaZcF-0-230-0-345-crop.jpg?v=a852802fda",
+      "url": "https://letterboxd.com/film/knight-of-cups/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lost-highway",
+      "title": "Lost Highway",
+      "year": "1997",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Patricia Arquette",
+        "Bill Pullman",
+        "Balthazar Getty",
+        "Robert Blake",
+        "Robert Loggia",
+        "Michael Massee"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 424001,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-230-0-345-crop.jpg?v=49d0ffd43f",
+      "url": "https://letterboxd.com/film/lost-highway/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "tikkun",
+      "title": "Tikkun",
+      "year": "2015",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Avishai Sivan"
+      ],
+      "actors": [
+        "Aharon Traitel",
+        "Khalifa Natour",
+        "Riki Blich",
+        "Gur Sheinberg",
+        "Omri Fuhrer"
+      ],
+      "countries": [
+        "Israel"
+      ],
+      "rating": 3.41,
+      "rating_count": 518,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/6/9/5/4/286954-tikkun-0-230-0-345-crop.jpg?v=6f00c73c22",
+      "url": "https://letterboxd.com/film/tikkun/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "two-monks",
+      "title": "Two Monks",
+      "year": "1934",
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Juan Bustillo Oro"
+      ],
+      "actors": [
+        "Víctor Urruchúa",
+        "Carlos Villatoro",
+        "Magda Haller",
+        "Beltrán de Heredia",
+        "Emma Roldán",
+        "Alberto Miquel"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "rating": 3.59,
+      "rating_count": 3658,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/2/7/3/125273-two-monks-0-230-0-345-crop.jpg?v=f9357044a9",
+      "url": "https://letterboxd.com/film/two-monks/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "zoya-1944",
+      "title": "Zoya",
+      "year": "1944",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Lev Arnshtam"
+      ],
+      "actors": [
+        "Galina Vodyanitskaya",
+        "Rostislav Plyatt",
+        "Yekaterina Skvortsova",
+        "Kseniya Tarasova",
+        "Nikolai Ryzhov",
+        "Aleksandr Kuznetsov"
+      ],
+      "countries": [
+        "USSR"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/3/5/6/136356-zoya-0-230-0-345-crop.jpg?v=6ca1264645",
+      "url": "https://letterboxd.com/film/zoya-1944/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "forbidden-games-1952",
+      "title": "Forbidden Games",
+      "year": "1952",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "René Clément"
+      ],
+      "actors": [
+        "Brigitte Fossey",
+        "Georges Poujouly",
+        "Philippe de Chérisey",
+        "Laurence Badie",
+        "Suzanne Courtal",
+        "Lucien Hubert"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.09,
+      "rating_count": 13840,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/v5/tn/rz/mt/qqRND7MVj7kK0iFRYqyn0M4Zzjn-0-230-0-345-crop.jpg?v=8977aa8dbe",
+      "url": "https://letterboxd.com/film/forbidden-games-1952/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-burmese-harp",
+      "title": "The Burmese Harp",
+      "year": "1956",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Kon Ichikawa"
+      ],
+      "actors": [
+        "Rentaro Mikuni",
+        "Shōji Yasui",
+        "Jun Hamamura",
+        "Taketoshi Naitō",
+        "Shunji Kasuga",
+        "Kō Nishimura"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.14,
+      "rating_count": 9511,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/8/8/5/29885-the-burmese-harp-0-230-0-345-crop.jpg?v=227dbc93a7",
+      "url": "https://letterboxd.com/film/the-burmese-harp/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-ballad-of-narayama-1958",
+      "title": "The Ballad of Narayama",
+      "year": "1958",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Keisuke Kinoshita"
+      ],
+      "actors": [
+        "Kinuyo Tanaka",
+        "Teiji Takahashi",
+        "Yūko Mochizuki",
+        "Seiji Miyaguchi",
+        "Yūnosuke Itō",
+        "Ken Mitsuda"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.01,
+      "rating_count": 8080,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/n7/qo/v9/j6/AtWBZYDH5UxOqod0cxqFZ9RqWK8-0-230-0-345-crop.jpg?v=03af92a5cd",
+      "url": "https://letterboxd.com/film/the-ballad-of-narayama-1958/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "vivre-sa-vie",
+      "title": "Vivre Sa Vie",
+      "year": "1962",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Jean-Luc Godard"
+      ],
+      "actors": [
+        "Anna Karina",
+        "Sady Rebbot",
+        "André S. Labarthe",
+        "Guylaine Schlumberger",
+        "Gérard Hoffmann",
+        "Monique Messine"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.01,
+      "rating_count": 148115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/1/5/50915-vivre-sa-vie-0-230-0-345-crop.jpg?v=8df3741c43",
+      "url": "https://letterboxd.com/film/vivre-sa-vie/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 56,
+      "Fantasy": 9,
+      "Science Fiction": 8,
+      "History": 7,
+      "Romance": 6,
+      "Mystery": 6,
+      "Thriller": 6,
+      "Horror": 6,
+      "War": 5,
+      "Adventure": 2,
+      "Crime": 1,
+      "Family": 1,
+      "Action": 1,
+      "Western": 1
+    },
+    "directors": {
+      "Ingmar Bergman": 6,
+      "Andrei Tarkovsky": 5,
+      "Carl Theodor Dreyer": 4,
+      "Terrence Malick": 3,
+      "Robert Bresson": 2,
+      "Paul Schrader": 2,
+      "David Lynch": 2,
+      "Kogonada": 2,
+      "Nicolas Winding Refn": 2,
+      "Denis Villeneuve": 2,
+      "Paweł Pawlikowski": 1,
+      "Abbas Kiarostami": 1,
+      "David Lowery": 1,
+      "Gaspar Noé": 1,
+      "Aleksandr Sokurov": 1,
+      "Apichatpong Weerasethakul": 1,
+      "Martin Scorsese": 1,
+      "Konstantin Lopushansky": 1,
+      "Kim Ki-duk": 1,
+      "Dietrich Brüggemann": 1
+    },
+    "years": {
+      "1922": 1,
+      "1928": 1,
+      "1934": 1,
+      "1943": 1,
+      "1944": 1,
+      "1951": 1,
+      "1952": 1,
+      "1955": 1,
+      "1956": 1,
+      "1958": 1,
+      "1961": 1,
+      "1962": 1,
+      "1963": 2,
+      "1966": 3,
+      "1968": 2,
+      "1972": 1,
+      "1974": 1,
+      "1975": 1,
+      "1979": 1,
+      "1983": 1,
+      "1985": 1,
+      "1986": 1,
+      "1989": 1,
+      "1997": 3,
+      "2003": 1,
+      "2006": 1,
+      "2007": 1,
+      "2008": 1,
+      "2009": 1,
+      "2010": 2,
+      "2011": 2,
+      "2013": 2,
+      "2014": 4,
+      "2015": 2,
+      "2016": 3,
+      "2017": 4,
+      "2018": 2,
+      "2019": 3,
+      "2021": 1
+    }
+  }
+}

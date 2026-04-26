@@ -1,0 +1,1845 @@
+{
+  "query": "mumblecore",
+  "slug": "mumblecore",
+  "source_lists": [
+    {
+      "href": "/cakeinmilk/list/mumblecore/",
+      "user": "cakeinmilk",
+      "slug": "mumblecore",
+      "title": "Mumblecore",
+      "desc": "The last thing any of the writers and directors of these films would want is to be categorised together under such a reductive banner as 'mumblecore'. Indeed, some of these films don't even classify as mumblecore films in Wikipedia's list.\n\nBut 'Low Budget, Semi-Improvised, American Independent Films starring Twentysomethings Talking at Length' just seemed too long a list title.",
+      "owner": "List by Barry Donovan",
+      "tags": [
+        "mumblecore",
+        "indie"
+      ]
+    },
+    {
+      "href": "/ajessobsessed/list/mumblecore/",
+      "user": "ajessobsessed",
+      "slug": "mumblecore",
+      "title": "mumblecore",
+      "desc": "\"a style of low-budget film typically characterized by the use of nonprofessional actors and naturalistic or improvised performances.\"\n\n(note this is a very loose definition of the genre)",
+      "owner": "List by jess 🍿 PATRON",
+      "tags": [
+        "drama",
+        "indie",
+        "genres"
+      ]
+    },
+    {
+      "href": "/subcide/list/mumblecore/",
+      "user": "subcide",
+      "slug": "mumblecore",
+      "title": "Mumblecore",
+      "desc": "Steve is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Steve Dennis",
+      "tags": []
+    },
+    {
+      "href": "/elisegodfryd/list/mumblecore/",
+      "user": "elisegodfryd",
+      "slug": "mumblecore",
+      "title": "mumblecore",
+      "desc": "elise is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by elise PRO",
+      "tags": []
+    },
+    {
+      "href": "/ilariovna/list/mumblecore/",
+      "user": "ilariovna",
+      "slug": "mumblecore",
+      "title": "Mumblecore",
+      "desc": "ilaria 🔥 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by ilaria 🔥 PRO",
+      "tags": [
+        "mumblecore",
+        "indie",
+        "indie-movies",
+        "independent"
+      ]
+    },
+    {
+      "href": "/eltongeoff/list/mumblecore/",
+      "user": "eltongeoff",
+      "slug": "mumblecore",
+      "title": "mumblecore",
+      "desc": "and associated",
+      "owner": "List by eltongeoff PRO",
+      "tags": []
+    },
+    {
+      "href": "/carolinalago/list/mumblecore/",
+      "user": "carolinalago",
+      "slug": "mumblecore",
+      "title": "Mumblecore",
+      "desc": "(2002-)",
+      "owner": "List by Carolina do Lago",
+      "tags": []
+    },
+    {
+      "href": "/xvalcal/list/mumblecore/",
+      "user": "xvalcal",
+      "slug": "mumblecore",
+      "title": "Mumblecore",
+      "desc": "Every mumblecore or at least mumblecore-vibes film I've watched bc it's my favorite. Including elevated, evolved and or mainstreamized mumblecore. Or pseudomumblecore, if you will.\n\nI'll keep adding as I watch.",
+      "owner": "List by Val PRO",
+      "tags": []
+    },
+    {
+      "href": "/samkugel/list/mumblecore/",
+      "user": "samkugel",
+      "slug": "mumblecore",
+      "title": "Mumblecore",
+      "desc": "Mumblecore is defined as: \"Independent film characterized by naturalistic acting and dialogue, low-budget film production, an emphasis on dialogue over plot, and a focus on the personal relationships of young adults.\"\n\nFilms that (loosely) fit this description",
+      "owner": "List by samkugel PRO",
+      "tags": [
+        "mumblecore"
+      ]
+    },
+    {
+      "href": "/djhensel/list/mumblecore/",
+      "user": "djhensel",
+      "slug": "mumblecore",
+      "title": "Mumblecore",
+      "desc": "Danny is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Danny Hensel PATRON",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 223,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "tiny-furniture",
+      "title": "Tiny Furniture",
+      "year": "2010",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Lena Dunham"
+      ],
+      "actors": [
+        "Lena Dunham",
+        "Laurie Simmons",
+        "Cyrus Dunham",
+        "Rachel Howe",
+        "Merritt Wever",
+        "Amy Seimetz"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.17,
+      "rating_count": 23500,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/8/0/3/17803-tiny-furniture-0-230-0-345-crop.jpg?v=5fa33b69e8",
+      "url": "https://letterboxd.com/film/tiny-furniture/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "humpday",
+      "title": "Humpday",
+      "year": "2009",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Lynn Shelton"
+      ],
+      "actors": [
+        "Mark Duplass",
+        "Joshua Leonard",
+        "Alycia Delmore",
+        "Lynn Shelton",
+        "Trina Willard",
+        "Olivia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.29,
+      "rating_count": 7601,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/2/4/1/37241-humpday-0-230-0-345-crop.jpg?v=29e027014e",
+      "url": "https://letterboxd.com/film/humpday/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-puffy-chair",
+      "title": "The Puffy Chair",
+      "year": "2005",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Jay Duplass"
+      ],
+      "actors": [
+        "Mark Duplass",
+        "Katie Aselton",
+        "Rhett Wilkins",
+        "Julie Fischer",
+        "Larry Duplass",
+        "Bari Hyman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.51,
+      "rating_count": 7432,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/5/8/37058-the-puffy-chair-0-230-0-345-crop.jpg?v=e60172f12a",
+      "url": "https://letterboxd.com/film/the-puffy-chair/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "cyrus",
+      "title": "Cyrus",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Mark Duplass",
+        "Jay Duplass"
+      ],
+      "actors": [
+        "John C. Reilly",
+        "Jonah Hill",
+        "Marisa Tomei",
+        "Catherine Keener",
+        "Matt Walsh",
+        "Kathy Ann Wittes"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.13,
+      "rating_count": 22204,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yv/j7/jd/gx/filMDJ2Ze7GjsCO2O4Pmwbw9kaO-0-230-0-345-crop.jpg?v=e9094c7fb7",
+      "url": "https://letterboxd.com/film/cyrus/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "hannah-takes-the-stairs",
+      "title": "Hannah Takes the Stairs",
+      "year": "2007",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Greta Gerwig",
+        "Kent Osborne",
+        "Andrew Bujalski",
+        "Ry Russo-Young",
+        "Mark Duplass",
+        "Todd Rohal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 7878,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/6/8/48668-hannah-takes-the-stairs-0-230-0-345-crop.jpg?v=703a0648e2",
+      "url": "https://letterboxd.com/film/hannah-takes-the-stairs/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "drinking-buddies",
+      "title": "Drinking Buddies",
+      "year": "2013",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Olivia Wilde",
+        "Jake Johnson",
+        "Anna Kendrick",
+        "Ron Livingston",
+        "Ti West",
+        "Jason Sudeikis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.07,
+      "rating_count": 49410,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bb/e4/ko/lc/6OwVYT6zTvx8YVmkMYBVydNfHEV-0-230-0-345-crop.jpg?v=2c23c9384b",
+      "url": "https://letterboxd.com/film/drinking-buddies/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "funny-ha-ha",
+      "title": "Funny Ha Ha",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Andrew Bujalski"
+      ],
+      "actors": [
+        "Kate Dollenmayer",
+        "Mark Herlehy",
+        "Christian Rudder",
+        "Jennifer L. Schaper",
+        "Myles Paige",
+        "Marshall Lewy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.47,
+      "rating_count": 10447,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/6/0/6/29606-funny-ha-ha-0-230-0-345-crop.jpg?v=7f60938265",
+      "url": "https://letterboxd.com/film/funny-ha-ha/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "jeff-who-lives-at-home",
+      "title": "Jeff, Who Lives at Home",
+      "year": "2011",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Mark Duplass",
+        "Jay Duplass"
+      ],
+      "actors": [
+        "Jason Segel",
+        "Ed Helms",
+        "Susan Sarandon",
+        "Judy Greer",
+        "Rae Dawn Chong",
+        "Steve Zissis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.24,
+      "rating_count": 37027,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/b6/qj/3d/0f/hXZcaZrqmUIPBrsWr3vEK2VSnZv-0-230-0-345-crop.jpg?v=d889f21a46",
+      "url": "https://letterboxd.com/film/jeff-who-lives-at-home/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "in-search-of-a-midnight-kiss",
+      "title": "In Search of a Midnight Kiss",
+      "year": "2007",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Alex Holdridge"
+      ],
+      "actors": [
+        "Scoot McNairy",
+        "Sara Simmonds",
+        "Brian McGuire",
+        "Kathleen Luong",
+        "Robert Murphy",
+        "Twink Caplan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.56,
+      "rating_count": 2525,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/1/2/5/44125-in-search-of-a-midnight-kiss-0-230-0-345-crop.jpg?v=dd8b468d70",
+      "url": "https://letterboxd.com/film/in-search-of-a-midnight-kiss/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "your-sisters-sister",
+      "title": "Your Sister's Sister",
+      "year": "2011",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Lynn Shelton"
+      ],
+      "actors": [
+        "Emily Blunt",
+        "Rosemarie DeWitt",
+        "Mark Duplass",
+        "Michael Harring",
+        "Mike Birbiglia",
+        "Jason Dodson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.42,
+      "rating_count": 14335,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nr/l1/ss/12/d9SB41enxTtyRwPMoCDrp4lvlrN-0-230-0-345-crop.jpg?v=c657c2bec1",
+      "url": "https://letterboxd.com/film/your-sisters-sister/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "frances-ha",
+      "title": "Frances Ha",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Noah Baumbach"
+      ],
+      "actors": [
+        "Greta Gerwig",
+        "Mickey Sumner",
+        "Michael Zegen",
+        "Adam Driver",
+        "Charlotte d'Amboise",
+        "Patrick Heusinger"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.03,
+      "rating_count": 636442,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/0/8/3/96083-frances-ha-0-230-0-345-crop.jpg?v=0bb538988b",
+      "url": "https://letterboxd.com/film/frances-ha/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "nights-and-weekends",
+      "title": "Nights and Weekends",
+      "year": "2008",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Joe Swanberg",
+        "Greta Gerwig"
+      ],
+      "actors": [
+        "Greta Gerwig",
+        "Joe Swanberg",
+        "Jay Duplass",
+        "Lynn Shelton",
+        "Kent Osborne",
+        "Elizabeth Donius"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.03,
+      "rating_count": 7392,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/3/1/4/17314-nights-and-weekends-0-230-0-345-crop.jpg?v=b78bea7847",
+      "url": "https://letterboxd.com/film/nights-and-weekends/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "mutual-appreciation",
+      "title": "Mutual Appreciation",
+      "year": "2005",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Andrew Bujalski"
+      ],
+      "actors": [
+        "Justin Rice",
+        "Rachel Clift",
+        "Andrew Bujalski",
+        "Lee Seung-min",
+        "Pamela Corkey",
+        "Kevin Micka"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.57,
+      "rating_count": 2734,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/2/1/1/24211-mutual-appreciation-0-230-0-345-crop.jpg?v=5bfe5ce9ed",
+      "url": "https://letterboxd.com/film/mutual-appreciation/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "lol",
+      "title": "LOL",
+      "year": "2006",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Joe Swanberg",
+        "Greta Gerwig",
+        "Tipper Newton",
+        "C. Mason Wells",
+        "Kevin Bewersdorf",
+        "Brigid Reagan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.11,
+      "rating_count": 741,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/4/4/20744-lol-0-230-0-345-crop.jpg?v=c5f001c2d3",
+      "url": "https://letterboxd.com/film/lol/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "quiet-city",
+      "title": "Quiet City",
+      "year": "2007",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Aaron Katz"
+      ],
+      "actors": [
+        "Erin Fisher",
+        "Cris Lankenau",
+        "Sarah Hellman",
+        "Joe Swanberg",
+        "Tucker Stone",
+        "Keegan DeWitt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.5,
+      "rating_count": 1636,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/4/8/3/18483-quiet-city-0-230-0-345-crop.jpg?v=171e8e3945",
+      "url": "https://letterboxd.com/film/quiet-city/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "baghead",
+      "title": "Baghead",
+      "year": "2008",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Mark Duplass",
+        "Jay Duplass"
+      ],
+      "actors": [
+        "Steve Zissis",
+        "Ross Partridge",
+        "Greta Gerwig",
+        "Elise Muller",
+        "Jett Garner",
+        "Jennifer Lafleur"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.16,
+      "rating_count": 11860,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/7/0/48670-baghead-0-230-0-345-crop.jpg?v=0f3cf98144",
+      "url": "https://letterboxd.com/film/baghead/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "medicine-for-melancholy",
+      "title": "Medicine for Melancholy",
+      "year": "2008",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Barry Jenkins"
+      ],
+      "actors": [
+        "Wyatt Cenac",
+        "Tracey Heggins",
+        "Elizabeth Acker",
+        "Melissa Bisagni",
+        "DeMorge Brown",
+        "Powell DeGrange"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.33,
+      "rating_count": 9537,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/4/5/1/36451-medicine-for-melancholy-0-230-0-345-crop.jpg?v=797b5b6d18",
+      "url": "https://letterboxd.com/film/medicine-for-melancholy/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "yeast",
+      "title": "Yeast",
+      "year": "2008",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Mary Bronstein"
+      ],
+      "actors": [
+        "Mary Bronstein",
+        "Greta Gerwig",
+        "Amy Judd Lieberman",
+        "Sean Price Williams",
+        "Josh Safdie",
+        "Benny Safdie"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.32,
+      "rating_count": 3499,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/6/0/74260-yeast-0-230-0-345-crop.jpg?v=7c378dc48d",
+      "url": "https://letterboxd.com/film/yeast/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "beeswax",
+      "title": "Beeswax",
+      "year": "2009",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Andrew Bujalski"
+      ],
+      "actors": [
+        "Tilly Hatcher",
+        "Maggie Hatcher",
+        "Alex Karpovsky",
+        "Katy O'Connor",
+        "David Zellner",
+        "Kyle Henry"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.46,
+      "rating_count": 1396,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/6/8/1/27681-beeswax-0-230-0-345-crop.jpg?v=997b3b9174",
+      "url": "https://letterboxd.com/film/beeswax/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "dance-party-usa",
+      "title": "Dance Party, USA",
+      "year": "2006",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Aaron Katz"
+      ],
+      "actors": [
+        "Anna Kavan",
+        "Cole Pensinger",
+        "Ryan White",
+        "Sarah Bing",
+        "Natalie Buller",
+        "Brendan McFadden"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.15,
+      "rating_count": 1552,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/0/8/5/61085-dance-party-usa-0-230-0-345-crop.jpg?v=34231327d5",
+      "url": "https://letterboxd.com/film/dance-party-usa/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "cold-weather",
+      "title": "Cold Weather",
+      "year": "2010",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Aaron Katz"
+      ],
+      "actors": [
+        "Cris Lankenau",
+        "Trieste Kelly Dunn",
+        "Raúl Castillo",
+        "Robyn Rikoon",
+        "Jeb Pearson",
+        "Brendan McFadden"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.39,
+      "rating_count": 2361,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/2/5/8/10258-cold-weather-0-230-0-345-crop.jpg?v=59093faabb",
+      "url": "https://letterboxd.com/film/cold-weather/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "blue-jay-2016",
+      "title": "Blue Jay",
+      "year": "2016",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Alexandre Lehmann"
+      ],
+      "actors": [
+        "Mark Duplass",
+        "Sarah Paulson",
+        "Clu Gulager",
+        "James Andrews",
+        "Harris Benbury",
+        "Daniel Brooks"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.8,
+      "rating_count": 66332,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/2/7/5/1/342751-blue-jay-0-230-0-345-crop.jpg?v=a06f517676",
+      "url": "https://letterboxd.com/film/blue-jay-2016/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "celeste-jesse-forever",
+      "title": "Celeste & Jesse Forever",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Lee Toland Krieger"
+      ],
+      "actors": [
+        "Rashida Jones",
+        "Andy Samberg",
+        "Ari Graynor",
+        "Eric Christian Olsen",
+        "Chris Messina",
+        "Emma Roberts"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.32,
+      "rating_count": 60298,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/13/1l/9d/bv/7vg9jmjCbVy65n2Jdptg2MRl1FZ-0-230-0-345-crop.jpg?v=61d24f5561",
+      "url": "https://letterboxd.com/film/celeste-jesse-forever/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-overnight",
+      "title": "The Overnight",
+      "year": "2015",
+      "genres": [
+        "Mystery",
+        "Comedy"
+      ],
+      "directors": [
+        "Patrick Brice"
+      ],
+      "actors": [
+        "Adam Scott",
+        "Taylor Schilling",
+        "Jason Schwartzman",
+        "Judith Godrèche",
+        "RJ Hermes",
+        "Kyle Field"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.13,
+      "rating_count": 18215,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ng/04/85/2f/iKHm9nlUstJBFxu1ukmUcFvN0Sy-0-230-0-345-crop.jpg?v=5db0dd9605",
+      "url": "https://letterboxd.com/film/the-overnight/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "daddy-longlegs",
+      "title": "Daddy Longlegs",
+      "year": "2009",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Benny Safdie",
+        "Josh Safdie"
+      ],
+      "actors": [
+        "Ronald Bronstein",
+        "Alex Greenblatt",
+        "Sage Ranaldo",
+        "Frey Ranaldo",
+        "Eléonore Hendricks",
+        "Lee Ranaldo"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 21631,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/9/7/7997-daddy-longlegs-0-230-0-345-crop.jpg?v=4992ccb370",
+      "url": "https://letterboxd.com/film/daddy-longlegs/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-pleasure-of-being-robbed",
+      "title": "The Pleasure of Being Robbed",
+      "year": "2008",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Josh Safdie"
+      ],
+      "actors": [
+        "Eléonore Hendricks",
+        "Josh Safdie",
+        "Ariel Schulman",
+        "Wayne Chin",
+        "Dawn Glickman",
+        "Van Neistat"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 10858,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/5/0/1/22501-the-pleasure-of-being-robbed-0-230-0-345-crop.jpg?v=0d18ad9e63",
+      "url": "https://letterboxd.com/film/the-pleasure-of-being-robbed/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "team-picture",
+      "title": "Team Picture",
+      "year": "2007",
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "directors": [
+        "Kentucker Audley"
+      ],
+      "actors": [
+        "Kentucker Audley",
+        "Bill Baker",
+        "Chellie Bowman",
+        "Caroline White",
+        "Tim Morton"
+      ],
+      "countries": [],
+      "rating": 3.32,
+      "rating_count": 218,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/3/8/1/31381-team-picture-0-230-0-345-crop.jpg?v=8ae9cd810c",
+      "url": "https://letterboxd.com/film/team-picture/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "sorry-thanks",
+      "title": "Sorry, Thanks",
+      "year": "2009",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Dia Sokol Savage"
+      ],
+      "actors": [
+        "Wiley Wiggins",
+        "Kenya Miles",
+        "Andrew Bujalski",
+        "Ia Hernandez",
+        "Donovan Baddley"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/0/5/11305-sorry-thanks-0-230-0-345-crop.jpg?v=168aa9911b",
+      "url": "https://letterboxd.com/film/sorry-thanks/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "kissing-on-the-mouth",
+      "title": "Kissing on the Mouth",
+      "year": "2005",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Kate Winterich",
+        "Joe Swanberg",
+        "Kris Rey",
+        "Kevin Pittman",
+        "Julie VanDeWeghe",
+        "Kevin Bewersdorf"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.05,
+      "rating_count": 532,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/6/1/17961-kissing-on-the-mouth-0-230-0-345-crop.jpg?v=948ae88bd8",
+      "url": "https://letterboxd.com/film/kissing-on-the-mouth/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "alexander-the-last",
+      "title": "Alexander the Last",
+      "year": "2009",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Jess Weixler",
+        "Justin Rice",
+        "Barlow Jacobs",
+        "Amy Seimetz",
+        "Jane Adams",
+        "Josh Hamilton"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.87,
+      "rating_count": 1553,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/5/0/8/29508-alexander-the-last-0-230-0-345-crop.jpg?v=bf65b08d8f",
+      "url": "https://letterboxd.com/film/alexander-the-last/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "orphans-2007",
+      "title": "Orphans",
+      "year": "2007",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ry Russo-Young"
+      ],
+      "actors": [
+        "James Katharine Flynn",
+        "Lily Wheelwright"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/5/6/74256-orphans-0-230-0-345-crop.jpg?v=1f0487171d",
+      "url": "https://letterboxd.com/film/orphans-2007/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "touchy-feely",
+      "title": "Touchy Feely",
+      "year": "2013",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Lynn Shelton"
+      ],
+      "actors": [
+        "Rosemarie DeWitt",
+        "Allison Janney",
+        "Ron Livingston",
+        "Scoot McNairy",
+        "Tomo Nakayama",
+        "Elliot Page"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.87,
+      "rating_count": 2567,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/6/1/9/115619-touchy-feely-0-230-0-345-crop.jpg?v=d7ce99b513",
+      "url": "https://letterboxd.com/film/touchy-feely/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "greenberg",
+      "title": "Greenberg",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Noah Baumbach"
+      ],
+      "actors": [
+        "Ben Stiller",
+        "Greta Gerwig",
+        "Rhys Ifans",
+        "Jennifer Jason Leigh",
+        "Mark Duplass",
+        "Merritt Wever"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.16,
+      "rating_count": 41103,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/3/9/2/34392-greenberg-0-230-0-345-crop.jpg?v=a9d3e871db",
+      "url": "https://letterboxd.com/film/greenberg/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "win-it-all",
+      "title": "Win It All",
+      "year": "2017",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Jake Johnson",
+        "Aislinn Derbez",
+        "Joe Lo Truglio",
+        "Keegan-Michael Key",
+        "Nicky Excitement",
+        "Rony Shemon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.2,
+      "rating_count": 14078,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/1/6/9/3/331693-win-it-all-0-230-0-345-crop.jpg?v=8c59568697",
+      "url": "https://letterboxd.com/film/win-it-all/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-color-wheel",
+      "title": "The Color Wheel",
+      "year": "2011",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Alex Ross Perry"
+      ],
+      "actors": [
+        "Carlen Altman",
+        "Alex Ross Perry",
+        "Bob Byington",
+        "Kate Lyn Sheil",
+        "Anna Bak-Kvapil",
+        "Ry Russo-Young"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.45,
+      "rating_count": 7979,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/6/0/2/69602-the-color-wheel-0-230-0-345-crop.jpg?v=3954e90311",
+      "url": "https://letterboxd.com/film/the-color-wheel/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "all-the-light-in-the-sky",
+      "title": "All the Light in the Sky",
+      "year": "2012",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Jane Adams",
+        "Sophia Takal",
+        "Kent Osborne",
+        "Larry Fessenden",
+        "David Siskind",
+        "Lindsay Burdge"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.45,
+      "rating_count": 1695,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/0/0/7/108007-all-the-light-in-the-sky-0-230-0-345-crop.jpg?v=7e012740e7",
+      "url": "https://letterboxd.com/film/all-the-light-in-the-sky/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "digging-for-fire",
+      "title": "Digging for Fire",
+      "year": "2015",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Jake Johnson",
+        "Rosemarie DeWitt",
+        "Jude Swanberg",
+        "Alicia Van Couvering",
+        "Timothy Simons",
+        "Jenny Slate"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.04,
+      "rating_count": 9177,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/2/8/2/2/222822-digging-for-fire-0-230-0-345-crop.jpg?v=688a6536d5",
+      "url": "https://letterboxd.com/film/digging-for-fire/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "safety-not-guaranteed",
+      "title": "Safety Not Guaranteed",
+      "year": "2012",
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Colin Trevorrow"
+      ],
+      "actors": [
+        "Aubrey Plaza",
+        "Mark Duplass",
+        "Jake Johnson",
+        "Karan Soni",
+        "Jenica Bergere",
+        "Kristen Bell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.29,
+      "rating_count": 91556,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/7/5/3/70753-safety-not-guaranteed-0-230-0-345-crop.jpg?v=885c2da8f7",
+      "url": "https://letterboxd.com/film/safety-not-guaranteed/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "autoerotic",
+      "title": "Autoerotic",
+      "year": "2011",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Adam Wingard",
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Amy Seimetz",
+        "Lane Hughes",
+        "Megan Mercier",
+        "Kate Lyn Sheil",
+        "Joe Swanberg",
+        "Chris Hilleke"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.6,
+      "rating_count": 1032,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/1/8/0/74180-autoerotic-0-230-0-345-crop.jpg?v=e3d15bba13",
+      "url": "https://letterboxd.com/film/autoerotic/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "silver-bullets",
+      "title": "Silver Bullets",
+      "year": "2011",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Kate Lyn Sheil",
+        "Ti West",
+        "Amy Seimetz",
+        "Joe Swanberg",
+        "Jane Adams",
+        "Larry Fessenden"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.97,
+      "rating_count": 1419,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/3/2/5/64325-silver-bullets-0-230-0-345-crop.jpg?v=b4dfee8dbc",
+      "url": "https://letterboxd.com/film/silver-bullets/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "uncle-kent",
+      "title": "Uncle Kent",
+      "year": "2011",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Kent Osborne",
+        "Jennifer Prediger",
+        "Josephine Decker",
+        "Joe Swanberg",
+        "Kevin Bewersdorf",
+        "Jennifer Daley"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.17,
+      "rating_count": 942,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/3/5/3/74353-uncle-kent-0-230-0-345-crop.jpg?v=737212bdd9",
+      "url": "https://letterboxd.com/film/uncle-kent/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-do-deca-pentathlon",
+      "title": "The Do-Deca-Pentathlon",
+      "year": "2012",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Jay Duplass",
+        "Mark Duplass"
+      ],
+      "actors": [
+        "Mark Kelly",
+        "Steve Zissis",
+        "Jennifer Lafleur",
+        "Julie Vorus",
+        "Reid Williams",
+        "Brendan Robinson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 1433,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/0/0/5/80005-the-do-deca-pentathlon-0-230-0-345-crop.jpg?v=ce2e4c382b",
+      "url": "https://letterboxd.com/film/the-do-deca-pentathlon/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "about-alex",
+      "title": "About Alex",
+      "year": "2014",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Jesse Zwick"
+      ],
+      "actors": [
+        "Aubrey Plaza",
+        "Jane Levy",
+        "Jason Ritter",
+        "Maggie Grace",
+        "Max Greenfield",
+        "Max Minghella"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 5906,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/3/5/1/0/183510-about-alex-0-230-0-345-crop.jpg?v=7385b06874",
+      "url": "https://letterboxd.com/film/about-alex/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "before-sunset",
+      "title": "Before Sunset",
+      "year": "2004",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Julie Delpy",
+        "Vernon Dobtcheff",
+        "Louise Lemoine Torrès",
+        "Rodolphe Pauly",
+        "Mariane Plasteig"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.31,
+      "rating_count": 865484,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/0/51970-before-sunset-0-230-0-345-crop.jpg?v=718e2923ff",
+      "url": "https://letterboxd.com/film/before-sunset/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "everything-must-go",
+      "title": "Everything Must Go",
+      "year": "2010",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Dan Rush"
+      ],
+      "actors": [
+        "Will Ferrell",
+        "C.J. Wallace",
+        "Rebecca Hall",
+        "Michael Peña",
+        "Rosalie Michaels",
+        "Stephen Root"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.04,
+      "rating_count": 35708,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/11/or/am/7r/8gUWukFYhc8mYtLB1uiXpUjUxBD-0-230-0-345-crop.jpg?v=dc27bba1a8",
+      "url": "https://letterboxd.com/film/everything-must-go/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-skeleton-twins",
+      "title": "The Skeleton Twins",
+      "year": "2014",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Craig Johnson"
+      ],
+      "actors": [
+        "Bill Hader",
+        "Kristen Wiig",
+        "Luke Wilson",
+        "Ty Burrell",
+        "Boyd Holbrook",
+        "Joanna Gleason"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 75359,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qy/f7/gg/20/vvmv1R2jDXJeeeyYcGg0ypXc2XK-0-230-0-345-crop.jpg?v=1e140059ff",
+      "url": "https://letterboxd.com/film/the-skeleton-twins/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "i-love-you-apple-i-love-you-orange",
+      "title": "I Love You, Apple, I Love You, Orange",
+      "year": "2013",
+      "genres": [
+        "Music",
+        "Drama",
+        "Animation"
+      ],
+      "directors": [
+        "Horam Kim"
+      ],
+      "actors": [
+        "Lori Anne Smithey",
+        "Horam Kim"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/1/2/3/0/261230-i-love-you-apple-i-love-you-orange-0-230-0-345-crop.jpg?v=2697abfa41",
+      "url": "https://letterboxd.com/film/i-love-you-apple-i-love-you-orange/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "breaking-upwards",
+      "title": "Breaking Upwards",
+      "year": "2009",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Daryl Wein"
+      ],
+      "actors": [
+        "Zoe Lister-Jones",
+        "Daryl Wein",
+        "Julie White",
+        "Andrea Martin",
+        "Peter Friedman",
+        "LaChanze"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.27,
+      "rating_count": 612,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/2/2/3/20223-breaking-upwards-0-230-0-345-crop.jpg?v=54775503cd",
+      "url": "https://letterboxd.com/film/breaking-upwards/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "guy-and-madeline-on-a-park-bench",
+      "title": "Guy and Madeline on a Park Bench",
+      "year": "2009",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "actors": [
+        "Jason Palmer",
+        "Desiree Garcia",
+        "Sandha Khin",
+        "Frank Garvin",
+        "Bernard Chazelle",
+        "Eli Gerstenlauer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.14,
+      "rating_count": 7708,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/8/4/6/18846-guy-and-madeline-on-a-park-bench-0-230-0-345-crop.jpg?v=f04e345b0d",
+      "url": "https://letterboxd.com/film/guy-and-madeline-on-a-park-bench/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "red-flag",
+      "title": "Red Flag",
+      "year": "2012",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Alex Karpovsky"
+      ],
+      "actors": [
+        "Alex Karpovsky",
+        "Dustin Guy Defa",
+        "Keith Poulson",
+        "Jennifer Prediger",
+        "Onur Tukel",
+        "Caroline White"
+      ],
+      "countries": [],
+      "rating": 3.3,
+      "rating_count": 449,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/2/9/9/105299-red-flag-0-230-0-345-crop.jpg?v=0397c197e6",
+      "url": "https://letterboxd.com/film/red-flag/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "my-effortless-brilliance",
+      "title": "My Effortless Brilliance",
+      "year": "2008",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Lynn Shelton"
+      ],
+      "actors": [
+        "Sean Nelson",
+        "Basil Harris",
+        "Calvin Lee Reeder",
+        "Jeanette Maus"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.3,
+      "rating_count": 322,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/9/1/14291-my-effortless-brilliance-0-230-0-345-crop.jpg?v=bff6103763",
+      "url": "https://letterboxd.com/film/my-effortless-brilliance/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "happy-christmas",
+      "title": "Happy Christmas",
+      "year": "2014",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Anna Kendrick",
+        "Melanie Lynskey",
+        "Mark Webber",
+        "Lena Dunham",
+        "Joe Swanberg",
+        "Jude Swanberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.91,
+      "rating_count": 11650,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3c/v1/fa/8k/20IpUbl1ZrxjW32KGqT00WtFiiQ-0-230-0-345-crop.jpg?v=a5e98dbeb1",
+      "url": "https://letterboxd.com/film/happy-christmas/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "joshy",
+      "title": "Joshy",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Jeff Baena"
+      ],
+      "actors": [
+        "Thomas Middleditch",
+        "Adam Pally",
+        "Alex Ross Perry",
+        "Nick Kroll",
+        "Jenny Slate",
+        "Aubrey Plaza"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.22,
+      "rating_count": 6753,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fi/p8/uo/xh/9bNHcBr12wYyeAQbXDtXz7xs05K-0-230-0-345-crop.jpg?v=917d5a4a14",
+      "url": "https://letterboxd.com/film/joshy/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "entrance",
+      "title": "Entrance",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Dallas Richard Hallam",
+        "Patrick Horvath"
+      ],
+      "actors": [
+        "Suziey Block",
+        "Karen Gorham",
+        "Karen Baird",
+        "Joshu",
+        "Florence Hartigan",
+        "Bennett Jones"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.13,
+      "rating_count": 753,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/3/1/72331-entrance-0-230-0-345-crop.jpg?v=b21e5f9b7c",
+      "url": "https://letterboxd.com/film/entrance/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "luke-and-brie-are-on-a-first-date",
+      "title": "Luke and Brie Are on a First Date",
+      "year": "2008",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Chad Hartigan"
+      ],
+      "actors": [
+        "George Ducker",
+        "Meghan Webster",
+        "Michael Muldoon",
+        "Chad Richardson",
+        "Chad Hartigan",
+        "Joshua Locy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.34,
+      "rating_count": 203,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ay/54/2h/ad/iPvMwdptHV42h2JXn7aI27hXla1-0-230-0-345-crop.jpg?v=026b7aeeea",
+      "url": "https://letterboxd.com/film/luke-and-brie-are-on-a-first-date/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "shithouse",
+      "title": "Shithouse",
+      "year": "2020",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Cooper Raiff"
+      ],
+      "actors": [
+        "Cooper Raiff",
+        "Dylan Gelula",
+        "Amy Landecker",
+        "Logan Miller",
+        "Olivia Scott Welch",
+        "Abby Quinn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 67590,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/3/0/1/7/563017-shithouse-0-230-0-345-crop.jpg?v=5919e170d9",
+      "url": "https://letterboxd.com/film/shithouse/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "open-five",
+      "title": "Open Five",
+      "year": "2010",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Kentucker Audley"
+      ],
+      "actors": [
+        "Kentucker Audley",
+        "Jake Rabinbach",
+        "Genevieve Angelson",
+        "Shannon Esper",
+        "Amy Seimetz",
+        "Caroline White"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.31,
+      "rating_count": 250,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/8/2/74282-open-five-0-230-0-345-crop.jpg?v=77be35076f",
+      "url": "https://letterboxd.com/film/open-five/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "it-was-great-but-i-was-ready-to-come-home",
+      "title": "It Was Great, But I Was Ready to Come Home",
+      "year": "2009",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Kris Rey"
+      ],
+      "actors": [
+        "Kris Rey",
+        "Jade Healy",
+        "Chris Trujillo",
+        "Nick Drashner",
+        "Caitlin Donohue"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/9/9/74299-it-was-great-but-i-was-ready-to-come-home-0-230-0-345-crop.jpg?v=1d8a7a28a8",
+      "url": "https://letterboxd.com/film/it-was-great-but-i-was-ready-to-come-home/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "art-history",
+      "title": "Art History",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Josephine Decker",
+        "Joe Swanberg",
+        "Kent Osborne",
+        "Adam Wingard",
+        "Kris Rey",
+        "Kit Giordano"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.92,
+      "rating_count": 1012,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/8/6/6/83866-art-history-0-230-0-345-crop.jpg?v=670c1e7271",
+      "url": "https://letterboxd.com/film/art-history/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "caitlin-plays-herself",
+      "title": "Caitlin Plays Herself",
+      "year": "2011",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Caitlin Stainken",
+        "Joe Swanberg",
+        "Kurt Chiang",
+        "Megan Mercier",
+        "Spencer Parsons",
+        "Dean Peterson"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/7/0/1/74701-caitlin-plays-herself-0-230-0-345-crop.jpg?v=dea1d7ec58",
+      "url": "https://letterboxd.com/film/caitlin-plays-herself/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 50,
+      "Comedy": 39,
+      "Romance": 30,
+      "Horror": 3,
+      "Music": 3,
+      "Thriller": 2,
+      "Mystery": 2,
+      "Crime": 1,
+      "Science Fiction": 1,
+      "Animation": 1
+    },
+    "directors": {
+      "Joe Swanberg": 15,
+      "Jay Duplass": 5,
+      "Lynn Shelton": 4,
+      "Mark Duplass": 4,
+      "Andrew Bujalski": 3,
+      "Aaron Katz": 3,
+      "Noah Baumbach": 2,
+      "Josh Safdie": 2,
+      "Kentucker Audley": 2,
+      "Lena Dunham": 1,
+      "Alex Holdridge": 1,
+      "Greta Gerwig": 1,
+      "Barry Jenkins": 1,
+      "Mary Bronstein": 1,
+      "Alexandre Lehmann": 1,
+      "Lee Toland Krieger": 1,
+      "Patrick Brice": 1,
+      "Benny Safdie": 1,
+      "Dia Sokol Savage": 1,
+      "Ry Russo-Young": 1
+    },
+    "years": {
+      "2002": 1,
+      "2004": 1,
+      "2005": 3,
+      "2006": 2,
+      "2007": 5,
+      "2008": 7,
+      "2009": 8,
+      "2010": 6,
+      "2011": 8,
+      "2012": 7,
+      "2013": 3,
+      "2014": 3,
+      "2015": 2,
+      "2016": 2,
+      "2017": 1,
+      "2020": 1
+    }
+  }
+}

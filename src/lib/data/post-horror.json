@@ -1,0 +1,1932 @@
+{
+  "query": "post-horror",
+  "slug": "post-horror",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/mumciur/list/post-horror/",
+      "user": "mumciur",
+      "slug": "post-horror",
+      "title": "Post-Horror",
+      "desc": "Post-horror - A modern (2014-) subgenre of horror cinema, that focuses on social issues, existential and mental health problems, setting up the mood and instilling terror into everyday situations using slow-burning build-up. It focuses on roots of horror movies, telling stories about unidentified evil of unknown origin or traditional folklore creatures, such as vampires, witches and ghosts. It throws away modern horror themes and conventions, such as jump-scares, stories about teenagers getting slaughtered, possesions and exorcisms and other cliches. The term was coined in 2017 by Steve Rose in his controversial article for The Guardian.\n\nSuggestions very, very welcome!",
+      "owner": "List by Mumciur PATRON",
+      "tags": []
+    },
+    {
+      "href": "/atheredrum/list/post-horror/",
+      "user": "atheredrum",
+      "slug": "post-horror",
+      "title": "“Post-Horror”",
+      "desc": "www.theguardian.com/film/2017/jul/06/post-horror-films-scary-movies-ghost-story-it-comes-at-night\nwww.cybercraftvideo.com/blog/2017/7/8/sorry-but-post-horror-is-just-another-unnecessary-elitist-label\nmedium.com/fright-like-a-girl/o-post-horror-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-assim-se-voc%C3%AA-der-uma-chance-84fe2e81bb74",
+      "owner": "List by Anderson Marques",
+      "tags": []
+    },
+    {
+      "href": "/threedeadtrees/list/post-horror/",
+      "user": "threedeadtrees",
+      "slug": "post-horror",
+      "title": "Post Horror",
+      "desc": "Films mentioned as provisional corpus of post-horror cinema in Post Horror: Art Genre and Cultural Elevation by David Church (2021)\n\n\n1 – 18: Primary/core texts\n19 – 42: Secondary/peripheral texts",
+      "owner": "List by alice palmer",
+      "tags": []
+    },
+    {
+      "href": "/dinferno/list/post-horror/",
+      "user": "dinferno",
+      "slug": "post-horror",
+      "title": "post-horror",
+      "desc": "post-horror: a cycle of horror films since ca 2014 that share similar aesthetic tendencies and (minimalist) stylistic traits that generate specific forms of negative affect, eg: dread.\nthis list is inspired by a david church's corpus with a few additions of my own.",
+      "owner": "List by danté",
+      "tags": []
+    },
+    {
+      "href": "/luccazzi/list/post-horror/",
+      "user": "luccazzi",
+      "slug": "post-horror",
+      "title": "post horror",
+      "desc": "lucas is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by lucas",
+      "tags": []
+    },
+    {
+      "href": "/nosoykinji/list/post-horror/",
+      "user": "nosoykinji",
+      "slug": "post-horror",
+      "title": "Post Horror",
+      "desc": "Algunas películas que de una u otra manera representan al \"post horror\".\n\nSome films that in one way or another represent \"post horror\".",
+      "owner": "List by Kathleen Ariana Jenner",
+      "tags": [
+        "horror",
+        "thriller",
+        "suspenso"
+      ]
+    },
+    {
+      "href": "/ghostleeghoul/list/post-horror/",
+      "user": "ghostleeghoul",
+      "slug": "post-horror",
+      "title": "Post Horror",
+      "desc": "A list inspired by the 2017 article with the same title from The Guardian by Steven Rose.",
+      "owner": "List by GhostLeeGhoul",
+      "tags": [
+        "slow-burn",
+        "post-horror",
+        "art-house",
+        "no-cheap-jump-scares",
+        "independent",
+        "psychological-thrillers",
+        "existential-dread"
+      ]
+    },
+    {
+      "href": "/pythrov/list/post-horror/",
+      "user": "pythrov",
+      "slug": "post-horror",
+      "title": "Post horror",
+      "desc": "\"Страшно не то, что показали, а то, что имели в виду\"",
+      "owner": "List by Pythrov",
+      "tags": []
+    },
+    {
+      "href": "/aledicredico/list/post-horror/",
+      "user": "aledicredico",
+      "slug": "post-horror",
+      "title": "(post) Horror",
+      "desc": "www.theguardian.com/film/2017/jul/06/post-horror-films-scary-movies-ghost-story-it-comes-at-night",
+      "owner": "List by Ale Di Credico",
+      "tags": [
+        "post-horror",
+        "horror",
+        "cult"
+      ]
+    },
+    {
+      "href": "/afistfulofmovie/list/post-horror/",
+      "user": "afistfulofmovie",
+      "slug": "post-horror",
+      "title": "Post-Horror",
+      "desc": "a fistful of movie is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by a fistful of movie PATRON",
+      "tags": [
+        "post-horror",
+        "horror-movie",
+        "horror-cinema"
+      ]
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 156,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "it-follows",
+      "title": "It Follows",
+      "year": "2014",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "David Robert Mitchell"
+      ],
+      "actors": [
+        "Maika Monroe",
+        "Keir Gilchrist",
+        "Daniel Zovatto",
+        "Jake Weary",
+        "Olivia Luccardi",
+        "Lili Sepe"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.41,
+      "rating_count": 835834,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-230-0-345-crop.jpg?v=0f234ef9c3",
+      "url": "https://letterboxd.com/film/it-follows/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "the-witch-2015",
+      "title": "The Witch",
+      "year": "2015",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Anya Taylor-Joy",
+        "Ralph Ineson",
+        "Kate Dickie",
+        "Harvey Scrimshaw",
+        "Ellie Grainger",
+        "Lucas Dawson"
+      ],
+      "countries": [
+        "Brazil",
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 1453436,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/y2/i8/9s/h1/tNr2KYytArZNSh0K8PUcHU3JnX4-0-230-0-345-crop.jpg?v=45f739a242",
+      "url": "https://letterboxd.com/film/the-witch-2015/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "get-out-2017",
+      "title": "Get Out",
+      "year": "2017",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Jordan Peele"
+      ],
+      "actors": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Catherine Keener",
+        "Bradley Whitford",
+        "Caleb Landry Jones",
+        "Marcus Henderson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 4324211,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/1/1/7/353117-get-out-0-230-0-345-crop.jpg?v=136acec030",
+      "url": "https://letterboxd.com/film/get-out-2017/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "the-babadook",
+      "title": "The Babadook",
+      "year": "2014",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Jennifer Kent"
+      ],
+      "actors": [
+        "Essie Davis",
+        "Noah Wiseman",
+        "Hayley McElhinney",
+        "Daniel Henshall",
+        "Barbara West",
+        "Ben Winspear"
+      ],
+      "countries": [
+        "Australia",
+        "Canada"
+      ],
+      "rating": 3.31,
+      "rating_count": 763712,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/9/7/2/8/169728-the-babadook-0-230-0-345-crop.jpg?v=0821d9c945",
+      "url": "https://letterboxd.com/film/the-babadook/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "it-comes-at-night",
+      "title": "It Comes at Night",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Trey Edward Shults"
+      ],
+      "actors": [
+        "Joel Edgerton",
+        "Christopher Abbott",
+        "Carmen Ejogo",
+        "Riley Keough",
+        "Kelvin Harrison Jr.",
+        "Griffin Robert Faulkner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.12,
+      "rating_count": 237064,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/1/9/1/4/351914-it-comes-at-night-0-230-0-345-crop.jpg?v=e57569d566",
+      "url": "https://letterboxd.com/film/it-comes-at-night/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-neon-demon",
+      "title": "The Neon Demon",
+      "year": "2016",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Elle Fanning",
+        "Karl Glusman",
+        "Jena Malone",
+        "Bella Heathcote",
+        "Abbey Lee",
+        "Desmond Harrington"
+      ],
+      "countries": [
+        "USA",
+        "Denmark",
+        "France",
+        "Belgium"
+      ],
+      "rating": 3.14,
+      "rating_count": 304504,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bq/o8/8y/yr/paofVcjP4QgIruLIqeRKIskpDUw-0-230-0-345-crop.jpg?v=c33585e69f",
+      "url": "https://letterboxd.com/film/the-neon-demon/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-invitation-2015",
+      "title": "The Invitation",
+      "year": "2015",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Karyn Kusama"
+      ],
+      "actors": [
+        "Logan Marshall-Green",
+        "Tammy Blanchard",
+        "Emayatzy Corinealdi",
+        "Michiel Huisman",
+        "John Carroll Lynch",
+        "Lindsay Burdge"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 253861,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/d0/yt/w1/l2/v5Bdti2w5sqKNPge6I9jF2YpAqF-0-230-0-345-crop.jpg?v=26794d9001",
+      "url": "https://letterboxd.com/film/the-invitation-2015/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "hereditary",
+      "title": "Hereditary",
+      "year": "2018",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Ari Aster"
+      ],
+      "actors": [
+        "Toni Collette",
+        "Alex Wolff",
+        "Gabriel Byrne",
+        "Milly Shapiro",
+        "Ann Dowd",
+        "Mallory Bechtel"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.93,
+      "rating_count": 2596173,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/4/3/4/8/424348-hereditary-0-230-0-345-crop.jpg?v=470e48b681",
+      "url": "https://letterboxd.com/film/hereditary/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "a-ghost-story-2017",
+      "title": "A Ghost Story",
+      "year": "2017",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Romance",
+        "Mystery"
+      ],
+      "directors": [
+        "David Lowery"
+      ],
+      "actors": [
+        "Casey Affleck",
+        "Rooney Mara",
+        "McColm Cephas Jr.",
+        "Kenneisha Thompson",
+        "Grover Coulson",
+        "Liz Cardenas"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 337634,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zx/51/yo/oc/ydENrBUenr4khaP6tj4JZn1CpMs-0-230-0-345-crop.jpg?v=8a56a47391",
+      "url": "https://letterboxd.com/film/a-ghost-story-2017/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "mother-2017",
+      "title": "mother!",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris",
+        "Michelle Pfeiffer",
+        "Brian Gleeson",
+        "Domhnall Gleeson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 850211,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/1/1/316311-mother--0-230-0-345-crop.jpg?v=399e8950fd",
+      "url": "https://letterboxd.com/film/mother-2017/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "goodnight-mommy",
+      "title": "Goodnight Mommy",
+      "year": "2014",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Severin Fiala",
+        "Veronika Franz"
+      ],
+      "actors": [
+        "Elias Schwarz",
+        "Lukas Schwarz",
+        "Susanne Wuest",
+        "Hans Escher",
+        "Elfriede Schatz",
+        "Karl Purker"
+      ],
+      "countries": [
+        "Austria"
+      ],
+      "rating": 3.36,
+      "rating_count": 159814,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/9/6/1/3/209613-goodnight-mommy-0-230-0-345-crop.jpg?v=0defccf247",
+      "url": "https://letterboxd.com/film/goodnight-mommy/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "midsommar",
+      "title": "Midsommar",
+      "year": "2019",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Ari Aster"
+      ],
+      "actors": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "William Jackson Harper",
+        "Will Poulter",
+        "Vilhelm Blomgren",
+        "Isabelle Grill"
+      ],
+      "countries": [
+        "Sweden",
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 3658590,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/9/5/6/4/459564-midsommar-0-230-0-345-crop.jpg?v=ed7b8ded1f",
+      "url": "https://letterboxd.com/film/midsommar/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-eyes-of-my-mother",
+      "title": "The Eyes of My Mother",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Nicolas Pesce"
+      ],
+      "actors": [
+        "Kika Magalhães",
+        "Diana Agostini",
+        "Will Brill",
+        "Clara Wong",
+        "Olivia Bond",
+        "Joey Curtis-Green"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.36,
+      "rating_count": 39913,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ba/7b/ms/ox/czvU3PXLuAMiPWzruD79jZWChaS-0-230-0-345-crop.jpg?v=d192c885f6",
+      "url": "https://letterboxd.com/film/the-eyes-of-my-mother/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "raw-2016",
+      "title": "Raw",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Julia Ducournau"
+      ],
+      "actors": [
+        "Garance Marillier",
+        "Ella Rumpf",
+        "Rabah Nait Oufella",
+        "Laurent Lucas",
+        "Joana Preiss",
+        "Bouli Lanners"
+      ],
+      "countries": [
+        "Belgium",
+        "France",
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 443364,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/7/9/7/4/327974-raw-0-230-0-345-crop.jpg?v=fe5f9080d2",
+      "url": "https://letterboxd.com/film/raw-2016/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "personal-shopper",
+      "title": "Personal Shopper",
+      "year": "2016",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Olivier Assayas"
+      ],
+      "actors": [
+        "Kristen Stewart",
+        "Lars Eidinger",
+        "Sigrid Bouaziz",
+        "Anders Danielsen Lie",
+        "Ty Olwin",
+        "Hammou Graïa"
+      ],
+      "countries": [
+        "Czechia",
+        "France",
+        "Germany"
+      ],
+      "rating": 3.38,
+      "rating_count": 103179,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1k/rb/rc/mr/jDOWYDmJvGkVkVHf7Ru66gy6ry8-0-230-0-345-crop.jpg?v=75cc51eae1",
+      "url": "https://letterboxd.com/film/personal-shopper/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "a-dark-song",
+      "title": "A Dark Song",
+      "year": "2016",
+      "genres": [
+        "Mystery",
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "Liam Gavin"
+      ],
+      "actors": [
+        "Catherine Walker",
+        "Steve Oram",
+        "Mark Huberman",
+        "Susan Loughnane",
+        "Nathan Vos",
+        "Martina Nunvarova"
+      ],
+      "countries": [
+        "Ireland",
+        "UK"
+      ],
+      "rating": 3.28,
+      "rating_count": 39557,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/3/4/1/8/343418-a-dark-song-0-230-0-345-crop.jpg?v=ca3c18d828",
+      "url": "https://letterboxd.com/film/a-dark-song/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-killing-of-a-sacred-deer",
+      "title": "The Killing of a Sacred Deer",
+      "year": "2017",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Yorgos Lanthimos"
+      ],
+      "actors": [
+        "Colin Farrell",
+        "Nicole Kidman",
+        "Barry Keoghan",
+        "Raffey Cassidy",
+        "Sunny Suljic",
+        "Bill Camp"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Ireland"
+      ],
+      "rating": 3.7,
+      "rating_count": 802640,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop.jpg?v=f2a22b1af9",
+      "url": "https://letterboxd.com/film/the-killing-of-a-sacred-deer/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "us-2019",
+      "title": "Us",
+      "year": "2019",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Jordan Peele"
+      ],
+      "actors": [
+        "Lupita Nyong'o",
+        "Winston Duke",
+        "Elisabeth Moss",
+        "Tim Heidecker",
+        "Shahadi Wright Joseph",
+        "Evan Alex"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.64,
+      "rating_count": 2299995,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/5/2/0/390520-us-0-230-0-345-crop.jpg?v=968884c876",
+      "url": "https://letterboxd.com/film/us-2019/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "a-girl-walks-home-alone-at-night",
+      "title": "A Girl Walks Home Alone at Night",
+      "year": "2014",
+      "genres": [
+        "Romance",
+        "Horror"
+      ],
+      "directors": [
+        "Ana Lily Amirpour"
+      ],
+      "actors": [
+        "Sheila Vand",
+        "Arash Marandi",
+        "Marshall Manesh",
+        "Mozhan Navabi",
+        "Dominic Rains",
+        "Rome Shadanloo"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 150531,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/6/0/5/3/176053-a-girl-walks-home-alone-at-night-0-230-0-345-crop.jpg?v=2dc9d92abb",
+      "url": "https://letterboxd.com/film/a-girl-walks-home-alone-at-night/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-blackcoats-daughter",
+      "title": "The Blackcoat's Daughter",
+      "year": "2015",
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Osgood Perkins"
+      ],
+      "actors": [
+        "Emma Roberts",
+        "Kiernan Shipka",
+        "Lucy Boynton",
+        "James Remar",
+        "Lauren Holly",
+        "Peter J. Gray"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.19,
+      "rating_count": 92041,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ii/ex/ec/zv/gW5MnkQ9zHtyVPzdDDHPEDCrZ57-0-230-0-345-crop.jpg?v=95ce4c2617",
+      "url": "https://letterboxd.com/film/the-blackcoats-daughter/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "under-the-skin-2013",
+      "title": "Under the Skin",
+      "year": "2013",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Jonathan Glazer"
+      ],
+      "actors": [
+        "Scarlett Johansson",
+        "Jeremy McWilliams",
+        "Lynsey Taylor Mackay",
+        "Dougie McConnell",
+        "Kevin McAlinden",
+        "D. Meade"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Switzerland"
+      ],
+      "rating": 3.6,
+      "rating_count": 369312,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/1/9/8/80198-under-the-skin-0-230-0-345-crop.jpg?v=732bdd03b9",
+      "url": "https://letterboxd.com/film/under-the-skin-2013/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-lighthouse-2019",
+      "title": "The Lighthouse",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Willem Dafoe",
+        "Valeriia Karaman",
+        "Logan Hawkes",
+        "Kyla Nicolle",
+        "Shaun Clarke"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 1504013,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/3/8/6/3/433863-the-lighthouse-0-230-0-345-crop.jpg?v=ee97005537",
+      "url": "https://letterboxd.com/film/the-lighthouse-2019/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "they-look-like-people",
+      "title": "They Look Like People",
+      "year": "2015",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Perry Blackshear"
+      ],
+      "actors": [
+        "MacLeod Andrews",
+        "Evan Dumouchel",
+        "Margaret Ying Drake",
+        "Mick Casale",
+        "Elena Greenlee",
+        "Laura Ambrose"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.13,
+      "rating_count": 28306,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/2/4/1/6/252416-they-look-like-people-0-230-0-345-crop.jpg?v=ab9944e904",
+      "url": "https://letterboxd.com/film/they-look-like-people/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "under-the-shadow",
+      "title": "Under the Shadow",
+      "year": "2016",
+      "genres": [
+        "Horror",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Babak Anvari"
+      ],
+      "actors": [
+        "Narges Rashidi",
+        "Avin Manshadi",
+        "Bobby Naderi",
+        "Ray Haratian",
+        "Hamid Djavadan",
+        "Bijan Daneshmand"
+      ],
+      "countries": [
+        "Jordan",
+        "UK"
+      ],
+      "rating": 3.47,
+      "rating_count": 49336,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ig/j6/6f/k5/clTSmZuWdtTsiOCLEj8OTMnGUR7-0-230-0-345-crop.jpg?v=6096daa04f",
+      "url": "https://letterboxd.com/film/under-the-shadow/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "dont-breathe-2016",
+      "title": "Don't Breathe",
+      "year": "2016",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Horror"
+      ],
+      "directors": [
+        "Fede Álvarez"
+      ],
+      "actors": [
+        "Stephen Lang",
+        "Jane Levy",
+        "Dylan Minnette",
+        "Daniel Zovatto",
+        "Emma Bercovici",
+        "Franciska Törőcsik"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.32,
+      "rating_count": 519795,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fq/1t/ps/wi/lw0IqOSMsQcy1QnVIEIDppLmNwk-0-230-0-345-crop.jpg?v=206fde5888",
+      "url": "https://letterboxd.com/film/dont-breathe-2016/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "starry-eyes",
+      "title": "Starry Eyes",
+      "year": "2014",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Fantasy"
+      ],
+      "directors": [
+        "Dennis Widmyer",
+        "Kevin Kölsch"
+      ],
+      "actors": [
+        "Alex Essoe",
+        "Amanda Fuller",
+        "Fabianne Therese",
+        "Noah Segan",
+        "Shane Coffey",
+        "Natalie Castillo"
+      ],
+      "countries": [
+        "Belgium",
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 33953,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/8/0/0/1/178001-starry-eyes-0-230-0-345-crop.jpg?v=6bbc6390e6",
+      "url": "https://letterboxd.com/film/starry-eyes/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-wailing",
+      "title": "The Wailing",
+      "year": "2016",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Na Hong-jin"
+      ],
+      "actors": [
+        "Kwak Do-won",
+        "Hwang Jung-min",
+        "Chun Woo-hee",
+        "Jun Kunimura",
+        "Kim Hwan-hee",
+        "Heo Jin"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 3.98,
+      "rating_count": 289245,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/0/5/5/6/220556-the-wailing-0-230-0-345-crop.jpg?v=4c008fcbc3",
+      "url": "https://letterboxd.com/film/the-wailing/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "i-am-the-pretty-thing-that-lives-in-the-house",
+      "title": "I Am the Pretty Thing That Lives in the House",
+      "year": "2016",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Osgood Perkins"
+      ],
+      "actors": [
+        "Ruth Wilson",
+        "Paula Prentiss",
+        "Bob Balaban",
+        "Lucy Boynton",
+        "Brad Milne",
+        "Daniel Chichagov"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.47,
+      "rating_count": 37667,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/er/hs/2p/zw/qIlzCuROu5m8Yp9thTYsmLFQMrU-0-230-0-345-crop.jpg?v=f5e144ea97",
+      "url": "https://letterboxd.com/film/i-am-the-pretty-thing-that-lives-in-the-house/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-lodge-2019",
+      "title": "The Lodge",
+      "year": "2019",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Veronika Franz",
+        "Severin Fiala"
+      ],
+      "actors": [
+        "Riley Keough",
+        "Jaeden Martell",
+        "Lia McHugh",
+        "Richard Armitage",
+        "Alicia Silverstone",
+        "Katelyn Wells"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.11,
+      "rating_count": 156531,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/6/0/0/1/406001-the-lodge-0-230-0-345-crop.jpg?v=31232889e2",
+      "url": "https://letterboxd.com/film/the-lodge-2019/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "relic",
+      "title": "Relic",
+      "year": "2020",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Natalie Erika James"
+      ],
+      "actors": [
+        "Emily Mortimer",
+        "Bella Heathcote",
+        "Robyn Nevin",
+        "Chris Bunton",
+        "Steve Rodgers",
+        "Catherine Glavicic"
+      ],
+      "countries": [
+        "Australia",
+        "USA"
+      ],
+      "rating": 3.14,
+      "rating_count": 63477,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/8/4/0/3/468403-relic-0-230-0-345-crop.jpg?v=3066e17fdc",
+      "url": "https://letterboxd.com/film/relic/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-house-of-the-devil",
+      "title": "The House of the Devil",
+      "year": "2009",
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Ti West"
+      ],
+      "actors": [
+        "Jocelin Donahue",
+        "Tom Noonan",
+        "Mary Woronov",
+        "Greta Gerwig",
+        "AJ Bowen",
+        "Dee Wallace"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.29,
+      "rating_count": 100430,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ka/be/ya/by/gowkjB9qluxa4N3zxt9uKkWe0Ut-0-230-0-345-crop.jpg?v=33cd5dd409",
+      "url": "https://letterboxd.com/film/the-house-of-the-devil/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "a-quiet-place-2018",
+      "title": "A Quiet Place",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "John Krasinski"
+      ],
+      "actors": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds",
+        "Noah Jupe",
+        "Cade Woodward",
+        "Leon Russom"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.64,
+      "rating_count": 1936431,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/9/6/8/7/379687-a-quiet-place-0-230-0-345-crop.jpg?v=895e756ae7",
+      "url": "https://letterboxd.com/film/a-quiet-place-2018/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "suspiria-2018",
+      "title": "Suspiria",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Luca Guadagnino"
+      ],
+      "actors": [
+        "Dakota Johnson",
+        "Tilda Swinton",
+        "Mia Goth",
+        "Angela Winkler",
+        "Ingrid Caven",
+        "Chloë Grace Moretz"
+      ],
+      "countries": [
+        "Italy",
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 537103,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/3/0/6/6/293066-suspiria-0-230-0-345-crop.jpg?v=1e4a2f2d40",
+      "url": "https://letterboxd.com/film/suspiria-2018/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "gretel-hansel",
+      "title": "Gretel & Hansel",
+      "year": "2020",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Osgood Perkins"
+      ],
+      "actors": [
+        "Sophia Lillis",
+        "Samuel Leakey",
+        "Alice Krige",
+        "Jessica De Gouw",
+        "Charles Babalola",
+        "Fiona O'Shaughnessy"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.78,
+      "rating_count": 90818,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fp/3p/le/83/65A3A4EC-45D3-4875-A27C-3550023D5BDB-0-230-0-345-crop.jpg?v=9926e46e32",
+      "url": "https://letterboxd.com/film/gretel-hansel/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "saint-maud",
+      "title": "Saint Maud",
+      "year": "2019",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Rose Glass"
+      ],
+      "actors": [
+        "Morfydd Clark",
+        "Jennifer Ehle",
+        "Lily Frazer",
+        "Lily Knight",
+        "Rosie Sansom",
+        "Caoilfhionn Dunne"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.47,
+      "rating_count": 235120,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8i/fl/ux/x4/uQjxpEYktu36ZiWKfn0t0FySmXl-0-230-0-345-crop.jpg?v=adf9e62e9b",
+      "url": "https://letterboxd.com/film/saint-maud/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "last-night-in-soho",
+      "title": "Last Night in Soho",
+      "year": "2021",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Edgar Wright"
+      ],
+      "actors": [
+        "Thomasin McKenzie",
+        "Anya Taylor-Joy",
+        "Matt Smith",
+        "Rita Tushingham",
+        "Michael Ajao",
+        "Synnøve Karlsen"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "China"
+      ],
+      "rating": 3.44,
+      "rating_count": 956989,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/5/0/0/0/505000-last-night-in-soho-0-230-0-345-crop.jpg?v=0b5403ef97",
+      "url": "https://letterboxd.com/film/last-night-in-soho/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "geralds-game",
+      "title": "Gerald's Game",
+      "year": "2017",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Mike Flanagan"
+      ],
+      "actors": [
+        "Carla Gugino",
+        "Bruce Greenwood",
+        "Carel Struycken",
+        "Chiara Aurelia",
+        "Henry Thomas",
+        "Kate Siegel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.09,
+      "rating_count": 305595,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ij/ki/nj/ti/32dippiypDdaKv7XFEfUlQ7kPup-0-230-0-345-crop.jpg?v=c2c7aaf0b7",
+      "url": "https://letterboxd.com/film/geralds-game/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "hush-2016",
+      "title": "Hush",
+      "year": "2016",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Mike Flanagan"
+      ],
+      "actors": [
+        "John Gallagher Jr.",
+        "Kate Siegel",
+        "Michael Trucco",
+        "Samantha Sloyan",
+        "Emma Graves"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.23,
+      "rating_count": 482439,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/uy/c2/ed/fu/khDYdmPFlaTqeLQVD4ds4xC1mIf-0-230-0-345-crop.jpg?v=ae158bcac1",
+      "url": "https://letterboxd.com/film/hush-2016/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-ritual-2017",
+      "title": "The Ritual",
+      "year": "2017",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "David Bruckner"
+      ],
+      "actors": [
+        "Rafe Spall",
+        "Arsher Ali",
+        "Robert James-Collier",
+        "Sam Troughton",
+        "Paul Reid",
+        "Matthew Needham"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.16,
+      "rating_count": 420265,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/p0/5w/nn/bg/hHuJqzby593lmYmw1SzT0XYy99t-0-230-0-345-crop.jpg?v=5e686a841b",
+      "url": "https://letterboxd.com/film/the-ritual-2017/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "oculus",
+      "title": "Oculus",
+      "year": "2013",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Mike Flanagan"
+      ],
+      "actors": [
+        "Karen Gillan",
+        "Brenton Thwaites",
+        "Katee Sackhoff",
+        "Rory Cochrane",
+        "Annalise Basso",
+        "Garrett Ryan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.21,
+      "rating_count": 182378,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/6/8/7/117687-oculus-0-230-0-345-crop.jpg?v=57ea8704a2",
+      "url": "https://letterboxd.com/film/oculus/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "we-are-still-here",
+      "title": "We Are Still Here",
+      "year": "2015",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Ted Geoghegan"
+      ],
+      "actors": [
+        "Barbara Crampton",
+        "Andrew Sensenig",
+        "Lisa Marie",
+        "Larry Fessenden",
+        "Monte Markham",
+        "Susan Gibney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.92,
+      "rating_count": 23315,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/5/3/3/217533-we-are-still-here-0-230-0-345-crop.jpg?v=300862b3db",
+      "url": "https://letterboxd.com/film/we-are-still-here/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-love-witch",
+      "title": "The Love Witch",
+      "year": "2016",
+      "genres": [
+        "Romance",
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Anna Biller"
+      ],
+      "actors": [
+        "Samantha Robinson",
+        "Gian Keys",
+        "Laura Waddell",
+        "Jeffrey Vincent Parise",
+        "Jared Sanford",
+        "Robert Seeley"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 273498,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/aq/32/q4/ke/jDKJ3yHiia0IR1uzIIIL7kUvwhu-0-230-0-345-crop.jpg?v=cedd7a43ca",
+      "url": "https://letterboxd.com/film/the-love-witch/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-monster-2016",
+      "title": "The Monster",
+      "year": "2016",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Bryan Bertino"
+      ],
+      "actors": [
+        "Zoe Kazan",
+        "Ella Ballentine",
+        "Aaron Douglas",
+        "Christine Ebadi",
+        "Marc Hickox",
+        "Scott Speedman"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.6,
+      "rating_count": 25344,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/9/5/9/7/269597-the-monster-0-230-0-345-crop.jpg?v=0c047e750e",
+      "url": "https://letterboxd.com/film/the-monster-2016/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "super-dark-times",
+      "title": "Super Dark Times",
+      "year": "2017",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Kevin Phillips"
+      ],
+      "actors": [
+        "Owen Campbell",
+        "Charlie Tahan",
+        "Elizabeth Cappuccino",
+        "Max Talisman",
+        "Sawyer Barth",
+        "Amy Hargreaves"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 96482,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/1/1/0/0/331100-super-dark-times-0-230-0-345-crop.jpg?v=aa2de53302",
+      "url": "https://letterboxd.com/film/super-dark-times/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-visit-2015",
+      "title": "The Visit",
+      "year": "2015",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "M. Night Shyamalan"
+      ],
+      "actors": [
+        "Olivia DeJonge",
+        "Ed Oxenbould",
+        "Deanna Dunagan",
+        "Peter McRobbie",
+        "Kathryn Hahn",
+        "Celia Keenan-Bolger"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.11,
+      "rating_count": 488935,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/5/4/3/7/225437-the-visit-0-230-0-345-crop.jpg?v=af0f1530d4",
+      "url": "https://letterboxd.com/film/the-visit-2015/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "split-2016",
+      "title": "Split",
+      "year": "2016",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "M. Night Shyamalan"
+      ],
+      "actors": [
+        "James McAvoy",
+        "Anya Taylor-Joy",
+        "Haley Lu Richardson",
+        "Jessica Sula",
+        "Betty Buckley",
+        "Izzie Coffey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 1798984,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5e/pw/vs/km/8CHJcVc5IGXS1sC5DyjeMwTDEQH-0-230-0-345-crop.jpg?v=ab64d75800",
+      "url": "https://letterboxd.com/film/split-2016/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "when-i-was-alive",
+      "title": "When I Was Alive",
+      "year": "2014",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Marco Dutra"
+      ],
+      "actors": [
+        "Antônio Fagundes",
+        "Marat Descartes",
+        "Sandy",
+        "Gilda Nomacce",
+        "Kiko Bertholini",
+        "Helena Albergaria"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "rating": 3.27,
+      "rating_count": 1891,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/6/2/162062-when-i-was-alive-0-230-0-345-crop.jpg?v=ec7aec7bdf",
+      "url": "https://letterboxd.com/film/when-i-was-alive/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "she-dies-tomorrow",
+      "title": "She Dies Tomorrow",
+      "year": "2020",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Amy Seimetz"
+      ],
+      "actors": [
+        "Kate Lyn Sheil",
+        "Jane Adams",
+        "Kentucker Audley",
+        "Katie Aselton",
+        "Chris Messina",
+        "Tunde Adebimpe"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.86,
+      "rating_count": 32045,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/9/0/9/1/589091-she-dies-tomorrow-0-230-0-345-crop.jpg?v=ff91c583ad",
+      "url": "https://letterboxd.com/film/she-dies-tomorrow/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "let-the-right-one-in",
+      "title": "Let the Right One In",
+      "year": "2008",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Tomas Alfredson"
+      ],
+      "actors": [
+        "Kåre Hedebrant",
+        "Lina Leandersson",
+        "Per Ragnar",
+        "Henrik Dahl",
+        "Karin Bergquist",
+        "Peter Carlberg"
+      ],
+      "countries": [
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 4.03,
+      "rating_count": 238341,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/9/8/9/43989-let-the-right-one-in-0-230-0-345-crop.jpg?v=c738641b77",
+      "url": "https://letterboxd.com/film/let-the-right-one-in/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "absentia",
+      "title": "Absentia",
+      "year": "2011",
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Mike Flanagan"
+      ],
+      "actors": [
+        "Katie Parker",
+        "Courtney Bell",
+        "Morgan Peter Brown",
+        "Dave Levine",
+        "Justin Gordon",
+        "Doug Jones"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.07,
+      "rating_count": 21633,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/0/9/8/61098-absentia-0-230-0-345-crop.jpg?v=425479368a",
+      "url": "https://letterboxd.com/film/absentia/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "berberian-sound-studio",
+      "title": "Berberian Sound Studio",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Peter Strickland"
+      ],
+      "actors": [
+        "Toby Jones",
+        "Tonia Sotiropoulou",
+        "Cosimo Fusco",
+        "Hilda Péter",
+        "Layla Amir",
+        "Eugenia Caruso"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.31,
+      "rating_count": 33370,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/9u/eg/ep/z0/qCYsa3dCztQYM6tIXMB8ySgLj1B-0-230-0-345-crop.jpg?v=08cda94c6a",
+      "url": "https://letterboxd.com/film/berberian-sound-studio/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "only-lovers-left-alive",
+      "title": "Only Lovers Left Alive",
+      "year": "2013",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "directors": [
+        "Jim Jarmusch"
+      ],
+      "actors": [
+        "Tilda Swinton",
+        "Tom Hiddleston",
+        "Anton Yelchin",
+        "Mia Wasikowska",
+        "Jeffrey Wright",
+        "Slimane Dazi"
+      ],
+      "countries": [
+        "UK",
+        "Germany",
+        "France",
+        "Greece"
+      ],
+      "rating": 3.81,
+      "rating_count": 231783,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/5/6/3/114563-only-lovers-left-alive-0-230-0-345-crop.jpg?v=d6151d5d18",
+      "url": "https://letterboxd.com/film/only-lovers-left-alive/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "enemy",
+      "title": "Enemy",
+      "year": "2013",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Mélanie Laurent",
+        "Sarah Gadon",
+        "Isabella Rossellini",
+        "Joshua Peace",
+        "Tim Post"
+      ],
+      "countries": [
+        "Canada",
+        "France",
+        "Spain"
+      ],
+      "rating": 3.56,
+      "rating_count": 578273,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sj/00/0d/n1/aQkyFHzNzZoMhxZ7c0IaK8BljED-0-230-0-345-crop.jpg?v=338dcff82c",
+      "url": "https://letterboxd.com/film/enemy/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "evolution-2015",
+      "title": "Evolution",
+      "year": "2015",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Lucile Hadžihalilović"
+      ],
+      "actors": [
+        "Max Brebant",
+        "Roxane Duran",
+        "Julie-Marie Parmentier",
+        "Mathieu Goldfeld",
+        "Nissim Renard",
+        "Pablo-Noé Etienne"
+      ],
+      "countries": [
+        "Belgium",
+        "France",
+        "Spain"
+      ],
+      "rating": 3.27,
+      "rating_count": 12781,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/s1/r9/iw/us/rySXb3722jTRSkKKlwo3ZFusbKF-0-230-0-345-crop.jpg?v=24b85e2538",
+      "url": "https://letterboxd.com/film/evolution-2015/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-untamed",
+      "title": "The Untamed",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Amat Escalante"
+      ],
+      "actors": [
+        "Ruth Ramos",
+        "Simone Bucio",
+        "Jesús Meza",
+        "Eden Villavicencio",
+        "Kenny Johnston",
+        "Pablo López Pérez"
+      ],
+      "countries": [
+        "Mexico",
+        "Denmark",
+        "Germany",
+        "France",
+        "Norway"
+      ],
+      "rating": 3.33,
+      "rating_count": 16454,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/2/3/5/5/322355-the-untamed-0-230-0-345-crop.jpg?v=e7b7105b52",
+      "url": "https://letterboxd.com/film/the-untamed/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "swallow-2019",
+      "title": "Swallow",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Carlo Mirabella-Davis"
+      ],
+      "actors": [
+        "Haley Bennett",
+        "Austin Stowell",
+        "Elizabeth Marvel",
+        "David Rasche",
+        "Denis O'Hare",
+        "Luna Lauren Vélez"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.41,
+      "rating_count": 147884,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/3/2/9/514329-swallow-0-230-0-345-crop.jpg?v=79c114b6f4",
+      "url": "https://letterboxd.com/film/swallow-2019/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "amulet",
+      "title": "Amulet",
+      "year": "2020",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Romola Garai"
+      ],
+      "actors": [
+        "Carla Juri",
+        "Alec Secăreanu",
+        "Imelda Staunton",
+        "Angeliki Papoulia",
+        "Anah Ruddin",
+        "Paul O'Kelly"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 2.78,
+      "rating_count": 7697,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/9/0/3/3/579033-amulet-0-230-0-345-crop.jpg?v=80a8fdae15",
+      "url": "https://letterboxd.com/film/amulet/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "climax-2018",
+      "title": "Climax",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Gaspar Noé"
+      ],
+      "actors": [
+        "Sofia Boutella",
+        "Romain Guillermic",
+        "Souheila Yacoub",
+        "Kiddy Smile",
+        "Claude-Emmanuelle Gajan-Maull",
+        "Giselle Palmer"
+      ],
+      "countries": [
+        "France",
+        "Belgium",
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 463982,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
+      "url": "https://letterboxd.com/film/climax-2018/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "horse-girl-2020",
+      "title": "Horse Girl",
+      "year": "2020",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Jeff Baena"
+      ],
+      "actors": [
+        "Alison Brie",
+        "Debby Ryan",
+        "John Reynolds",
+        "Molly Shannon",
+        "John Ortiz",
+        "Meredith Hagner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.96,
+      "rating_count": 65997,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/9/0/5/7/579057-horse-girl-0-230-0-345-crop.jpg?v=3f7406d8a3",
+      "url": "https://letterboxd.com/film/horse-girl-2020/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "good-manners",
+      "title": "Good Manners",
+      "year": "2017",
+      "genres": [
+        "Mystery",
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Juliana Rojas",
+        "Marco Dutra"
+      ],
+      "actors": [
+        "Isabél Zuaa",
+        "Marjorie Estiano",
+        "Miguel Lobo",
+        "Cida Moreira",
+        "Felipe Kenji",
+        "Nina Medeiros"
+      ],
+      "countries": [
+        "Brazil",
+        "France"
+      ],
+      "rating": 3.5,
+      "rating_count": 27714,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/2/3/0/2/242302-good-manners-0-230-0-345-crop.jpg?v=24f185c81e",
+      "url": "https://letterboxd.com/film/good-manners/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Horror": 52,
+      "Drama": 29,
+      "Mystery": 28,
+      "Thriller": 22,
+      "Fantasy": 7,
+      "Romance": 4,
+      "Science Fiction": 3,
+      "War": 1,
+      "Crime": 1,
+      "Comedy": 1
+    },
+    "directors": {
+      "Mike Flanagan": 4,
+      "Osgood Perkins": 3,
+      "Robert Eggers": 2,
+      "Jordan Peele": 2,
+      "Ari Aster": 2,
+      "Severin Fiala": 2,
+      "Veronika Franz": 2,
+      "M. Night Shyamalan": 2,
+      "Marco Dutra": 2,
+      "David Robert Mitchell": 1,
+      "Jennifer Kent": 1,
+      "Trey Edward Shults": 1,
+      "Nicolas Winding Refn": 1,
+      "Karyn Kusama": 1,
+      "David Lowery": 1,
+      "Darren Aronofsky": 1,
+      "Nicolas Pesce": 1,
+      "Julia Ducournau": 1,
+      "Olivier Assayas": 1,
+      "Liam Gavin": 1
+    },
+    "years": {
+      "2008": 1,
+      "2009": 1,
+      "2011": 1,
+      "2012": 1,
+      "2013": 4,
+      "2014": 6,
+      "2015": 7,
+      "2016": 14,
+      "2017": 9,
+      "2018": 4,
+      "2019": 6,
+      "2020": 5,
+      "2021": 1
+    }
+  }
+}

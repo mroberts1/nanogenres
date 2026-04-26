@@ -1,0 +1,1951 @@
+{
+  "query": "dreamcore",
+  "slug": "dreamcore",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/snappleypie/list/dreamcore/",
+      "user": "snappleypie",
+      "slug": "dreamcore",
+      "title": "dreamcore",
+      "desc": "apple is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by apple",
+      "tags": [
+        "dreams",
+        "dreaming",
+        "surreal",
+        "what-is-real",
+        "philosophical-rambles",
+        "dreamlike"
+      ]
+    },
+    {
+      "href": "/ahzprod/list/dreamcore/",
+      "user": "ahzprod",
+      "slug": "dreamcore",
+      "title": "Dreamcore",
+      "desc": "💭",
+      "owner": "List by ahzprod",
+      "tags": [
+        "dreamcore",
+        "experimental",
+        "avant-garde"
+      ]
+    },
+    {
+      "href": "/systematicer/list/dreamcore/",
+      "user": "systematicer",
+      "slug": "dreamcore",
+      "title": "dreamcore",
+      "desc": "i must be dreaming {personal dreamcore}\n\nDreams That Eyes Can See\n\nThese are the films that best evoke dreams for me in one way or another. Dreams as I experience them, and the way they feel to me personally. “Dream-like” is a term that I tend to avoid using without any context, I find it too interchangeably used with “atmospheric”, and atmospheric is great, but this is about a particular type of atmosphere. The uncanny, for example, often is something that does the trick for me, or when events in the film could just as well be seen as manifestations of a character's unconscious.\n\n\"Surreal\" is another word that I tend to avoid in this context, I associate it too… more",
+      "owner": "List by Systematicer",
+      "tags": [
+        "dreams",
+        "dream-like",
+        "subconscious",
+        "evocative",
+        "ranked",
+        "top",
+        "best-of",
+        "all-time",
+        "atmospheric",
+        "uncanny",
+        "unconscious",
+        "surreal",
+        "trance",
+        "hypnotic",
+        "stream-of-consciousness",
+        "dream",
+        "sleep",
+        "dreamcore"
+      ]
+    },
+    {
+      "href": "/sunniva_bonvik/list/dreamcore/",
+      "user": "sunniva_bonvik",
+      "slug": "dreamcore",
+      "title": "Dreamcore",
+      "desc": "Films that showcase a dreamlike and ethereal aesthetic. They often utilize fantastical, otherworldly, surreal and mystical elements, both visually and narratively. Almost as if you were entering an altered state",
+      "owner": "List by Sunny🧚 PATRON",
+      "tags": []
+    },
+    {
+      "href": "/cultmemeship1/list/dreamcore/",
+      "user": "cultmemeship1",
+      "slug": "dreamcore",
+      "title": "Dreamcore",
+      "desc": "Movies that feel like a dream",
+      "owner": "List by cultmemeship1",
+      "tags": []
+    },
+    {
+      "href": "/mabtrizz/list/dreamcore/",
+      "user": "mabtrizz",
+      "slug": "dreamcore",
+      "title": "Dreamcore",
+      "desc": "Bia is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Bia",
+      "tags": []
+    },
+    {
+      "href": "/graph_under/list/dreamcore/",
+      "user": "graph_under",
+      "slug": "dreamcore",
+      "title": "dreamcore",
+      "desc": "Tricia is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Tricia",
+      "tags": []
+    },
+    {
+      "href": "/carolineeclark/list/dreamcore/",
+      "user": "carolineeclark",
+      "slug": "dreamcore",
+      "title": "Dreamcore",
+      "desc": "What dreams are made of… technicolor, liminal spaces, nightmares, nostalgia, surrealism, etc…",
+      "owner": "List by carolineeclark",
+      "tags": []
+    },
+    {
+      "href": "/dlombardi98/list/dreamcore/",
+      "user": "dlombardi98",
+      "slug": "dreamcore",
+      "title": "Dreamcore",
+      "desc": "Dan is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Dan PRO",
+      "tags": []
+    },
+    {
+      "href": "/leahrothman/list/dreamcore/",
+      "user": "leahrothman",
+      "slug": "dreamcore",
+      "title": "DREAMCORE",
+      "desc": "leah kafetz is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by leah kafetz rothman",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 392,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "paprika-2006",
+      "title": "Paprika",
+      "year": "2006",
+      "genres": [
+        "Animation",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Satoshi Kon"
+      ],
+      "actors": [
+        "Megumi Hayashibara",
+        "Tohru Emori",
+        "Katsunosuke Hori",
+        "Toru Furuya",
+        "Akio Otsuka",
+        "Koichi Yamadera"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.1,
+      "rating_count": 579408,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/2/3/49023-paprika-0-230-0-345-crop.jpg?v=bdcabb9981",
+      "url": "https://letterboxd.com/film/paprika-2006/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "edward-scissorhands",
+      "title": "Edward Scissorhands",
+      "year": "1990",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Tim Burton"
+      ],
+      "actors": [
+        "Johnny Depp",
+        "Winona Ryder",
+        "Dianne Wiest",
+        "Anthony Michael Hall",
+        "Kathy Baker",
+        "Robert Oliveri"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.9,
+      "rating_count": 1652345,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/8/9/51889-edward-scissorhands-0-230-0-345-crop.jpg?v=38f2599419",
+      "url": "https://letterboxd.com/film/edward-scissorhands/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-truman-show",
+      "title": "The Truman Show",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Weir"
+      ],
+      "actors": [
+        "Jim Carrey",
+        "Laura Linney",
+        "Noah Emmerich",
+        "Natascha McElhone",
+        "Holland Taylor",
+        "Ed Harris"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.22,
+      "rating_count": 4594814,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-230-0-345-crop.jpg?v=704ba393f7",
+      "url": "https://letterboxd.com/film/the-truman-show/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "dreams",
+      "title": "Dreams",
+      "year": "1990",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Akira Terao",
+        "Mitsuko Baisho",
+        "Toshie Negishi",
+        "Mieko Harada",
+        "Mitsunori Isaki",
+        "Toshihiko Nakano"
+      ],
+      "countries": [
+        "Japan",
+        "USA"
+      ],
+      "rating": 4.23,
+      "rating_count": 103510,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/5/1/9/44519-dreams-0-230-0-345-crop.jpg?v=a2a17d6966",
+      "url": "https://letterboxd.com/film/dreams/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Naomi Watts",
+        "Laura Harring",
+        "Justin Theroux",
+        "Ann Miller",
+        "Mark Pellegrino",
+        "Robert Forster"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.26,
+      "rating_count": 1221738,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-230-0-345-crop.jpg?v=3d69c00608",
+      "url": "https://letterboxd.com/film/mulholland-drive/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "strawberry-mansion",
+      "title": "Strawberry Mansion",
+      "year": "2021",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Science Fiction",
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Albert Birney",
+        "Kentucker Audley"
+      ],
+      "actors": [
+        "Penny Fuller",
+        "Kentucker Audley",
+        "Grace Glowicki",
+        "Reed Birney",
+        "Linas Phillips",
+        "Constance Shulman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.58,
+      "rating_count": 31339,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/5/5/1/4/695514-strawberry-mansion-0-230-0-345-crop.jpg?v=4b849d2cb2",
+      "url": "https://letterboxd.com/film/strawberry-mansion/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "valerie-and-her-week-of-wonders",
+      "title": "Valerie and Her Week of Wonders",
+      "year": "1970",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "Jaromil Jireš"
+      ],
+      "actors": [
+        "Jaroslava Schallerová",
+        "Helena Anýžová",
+        "Petr Kopřiva",
+        "Jiří Prýmek",
+        "Jan Klusák",
+        "Libuše Komancová"
+      ],
+      "countries": [
+        "Czechoslovakia"
+      ],
+      "rating": 3.45,
+      "rating_count": 83485,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/0/1/3/19013-valerie-and-her-week-of-wonders-0-230-0-345-crop.jpg?v=70116fe0b9",
+      "url": "https://letterboxd.com/film/valerie-and-her-week-of-wonders/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "angels-egg",
+      "title": "Angel's Egg",
+      "year": "1985",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Mystery"
+      ],
+      "directors": [
+        "Mamoru Oshii"
+      ],
+      "actors": [
+        "Keiichi Noda",
+        "Mako Hyodo",
+        "Jinpachi Nezu"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.09,
+      "rating_count": 150999,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/9/9/0/41990-angel-s-egg-0-230-0-345-crop.jpg?v=98f9bf2def",
+      "url": "https://letterboxd.com/film/angels-egg/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "vivarium",
+      "title": "Vivarium",
+      "year": "2019",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Lorcan Finnegan"
+      ],
+      "actors": [
+        "Imogen Poots",
+        "Jesse Eisenberg",
+        "Senan Jennings",
+        "Éanna Hardwicke",
+        "Jonathan Aris",
+        "Côme Thiry"
+      ],
+      "countries": [
+        "Belgium",
+        "Denmark",
+        "Ireland",
+        "USA"
+      ],
+      "rating": 2.75,
+      "rating_count": 410299,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/1/3/9/390139-vivarium-0-230-0-345-crop.jpg?v=013b2fca58",
+      "url": "https://letterboxd.com/film/vivarium/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "toys",
+      "title": "Toys",
+      "year": "1992",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Barry Levinson"
+      ],
+      "actors": [
+        "Robin Williams",
+        "Michael Gambon",
+        "Joan Cusack",
+        "Robin Wright",
+        "LL Cool J",
+        "Donald O'Connor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.76,
+      "rating_count": 28366,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/tk/l6/t5/z0/xWQ8ONckSDgy0OXJyDq5hVhuxgP-0-230-0-345-crop.jpg?v=bf74a136bc",
+      "url": "https://letterboxd.com/film/toys/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "blue-velvet",
+      "title": "Blue Velvet",
+      "year": "1986",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Isabella Rossellini",
+        "Kyle MacLachlan",
+        "Dennis Hopper",
+        "Laura Dern",
+        "Hope Lange",
+        "Dean Stockwell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.06,
+      "rating_count": 915915,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/9/51359-blue-velvet-0-230-0-345-crop.jpg?v=b0ee3c20f6",
+      "url": "https://letterboxd.com/film/blue-velvet/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "house",
+      "title": "House",
+      "year": "1977",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Nobuhiko Obayashi"
+      ],
+      "actors": [
+        "Kimiko Ikegami",
+        "Kumiko Ohba",
+        "Ai Matsubara",
+        "Miki Jinbo",
+        "Eriko Tanaka",
+        "Masayo Miyako"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.99,
+      "rating_count": 348607,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7f/z3/ho/6j/6vblWscFAbIm9V5CwHC7IImgAq9-0-230-0-345-crop.jpg?v=b505ff45b0",
+      "url": "https://letterboxd.com/film/house/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-taste-of-tea",
+      "title": "The Taste of Tea",
+      "year": "2004",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Katsuhito Ishii"
+      ],
+      "actors": [
+        "Maya Suzuno",
+        "Takahiro Sato",
+        "Tadanobu Asano",
+        "Satomi Tezuka",
+        "Tatsuya Gashûin",
+        "Tomokazu Miura"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.19,
+      "rating_count": 24051,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/4/5/9/42459-the-taste-of-tea-0-230-0-345-crop.jpg?v=e6ebb5f211",
+      "url": "https://letterboxd.com/film/the-taste-of-tea/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-wolf-house",
+      "title": "The Wolf House",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Animation"
+      ],
+      "directors": [
+        "Cristóbal León",
+        "Joaquín Cociña"
+      ],
+      "actors": [
+        "Amalia Kassai",
+        "Rainer Krause",
+        "Karina Hyland",
+        "Carlos Cociña",
+        "Natalia Geisse",
+        "Javiera Ramirez"
+      ],
+      "countries": [
+        "Chile",
+        "Germany"
+      ],
+      "rating": 4.15,
+      "rating_count": 61430,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/9/5/7/1/429571-the-wolf-house-0-230-0-345-crop.jpg?v=34ae08eff4",
+      "url": "https://letterboxd.com/film/the-wolf-house/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "daisies",
+      "title": "Daisies",
+      "year": "1966",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Věra Chytilová"
+      ],
+      "actors": [
+        "Jitka Cerhová",
+        "Ivana Karbanová",
+        "Helena Anýžová",
+        "Julius Albert",
+        "Jan Klusák",
+        "Jiřina Myšková"
+      ],
+      "countries": [
+        "Czechoslovakia"
+      ],
+      "rating": 4.01,
+      "rating_count": 150007,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/4/4/7/18447-daisies-0-230-0-345-crop.jpg?v=4c08c58c03",
+      "url": "https://letterboxd.com/film/daisies/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-cat-in-the-hat-2003",
+      "title": "The Cat in the Hat",
+      "year": "2003",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Adventure",
+        "Family"
+      ],
+      "directors": [
+        "Bo Welch"
+      ],
+      "actors": [
+        "Mike Myers",
+        "Dakota Fanning",
+        "Spencer Breslin",
+        "Kelly Preston",
+        "Alec Baldwin",
+        "Amy Hill"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.76,
+      "rating_count": 369589,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/8/4/46084-dr-seuss-the-cat-in-the-hat-0-230-0-345-crop.jpg?v=794f6352e4",
+      "url": "https://letterboxd.com/film/the-cat-in-the-hat-2003/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "greener-grass-2019",
+      "title": "Greener Grass",
+      "year": "2019",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Dawn Luebbe",
+        "Jocelyn DeBoer"
+      ],
+      "actors": [
+        "Jocelyn DeBoer",
+        "Dawn Luebbe",
+        "Beck Bennett",
+        "Neil Casey",
+        "Mary Holland",
+        "D'Arcy Carden"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.56,
+      "rating_count": 60696,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/0/4/2/476042-greener-grass-0-230-0-345-crop.jpg?v=091c96de4b",
+      "url": "https://letterboxd.com/film/greener-grass-2019/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "perfect-blue",
+      "title": "Perfect Blue",
+      "year": "1997",
+      "genres": [
+        "Thriller",
+        "Animation",
+        "Horror"
+      ],
+      "directors": [
+        "Satoshi Kon"
+      ],
+      "actors": [
+        "Junko Iwao",
+        "Rica Matsumoto",
+        "Shiho Niiyama",
+        "Masaaki Okura",
+        "Shinpachi Tsuji",
+        "Emiko Furukawa"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.38,
+      "rating_count": 1185697,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/1/7/5/46175-perfect-blue-0-230-0-345-crop.jpg?v=1ed5878cce",
+      "url": "https://letterboxd.com/film/perfect-blue/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "waking-life",
+      "title": "Waking Life",
+      "year": "2001",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Julie Delpy",
+        "Wiley Wiggins",
+        "Bill Wise",
+        "Alex E. Jones",
+        "Steven Soderbergh"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 76766,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/3/47363-waking-life-0-230-0-345-crop.jpg?v=d340df121c",
+      "url": "https://letterboxd.com/film/waking-life/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": "2004",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Michel Gondry"
+      ],
+      "actors": [
+        "Jim Carrey",
+        "Kate Winslet",
+        "Kirsten Dunst",
+        "Mark Ruffalo",
+        "Elijah Wood",
+        "Tom Wilkinson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.24,
+      "rating_count": 3439482,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ay/bp/kl/1y/uBfQ7IGpi0jXSP3GPCzp9Pzm10v-0-230-0-345-crop.jpg?v=116621c401",
+      "url": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "possession",
+      "title": "Possession",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Andrzej Żuławski"
+      ],
+      "actors": [
+        "Isabelle Adjani",
+        "Sam Neill",
+        "Margit Carstensen",
+        "Heinz Bennent",
+        "Johanna Hofer",
+        "Carl Duering"
+      ],
+      "countries": [
+        "France",
+        "Germany"
+      ],
+      "rating": 4.04,
+      "rating_count": 445128,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8c/pk/z8/4v/aIjO3kraeaD4MDBSef3rTO2vIuZ-0-230-0-345-crop.jpg?v=cb9f332628",
+      "url": "https://letterboxd.com/film/possession/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "blade-runner-2049",
+      "title": "Blade Runner 2049",
+      "year": "2017",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas",
+        "Dave Bautista",
+        "Robin Wright",
+        "Sylvia Hoeks"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 2125178,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/5/4/3/9/265439-blade-runner-2049-0-230-0-345-crop.jpg?v=86735e0bb8",
+      "url": "https://letterboxd.com/film/blade-runner-2049/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "kaili-blues",
+      "title": "Kaili Blues",
+      "year": "2015",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Bi Gan"
+      ],
+      "actors": [
+        "Chen Yongzhong",
+        "Daqing Zhao",
+        "Feiyang Luo",
+        "Xie Lixun",
+        "Shuai Zeng",
+        "Qin Guangqian"
+      ],
+      "countries": [
+        "China"
+      ],
+      "rating": 3.97,
+      "rating_count": 21806,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/3/8/6/1/293861-kaili-blues-0-230-0-345-crop.jpg?v=b442d856ad",
+      "url": "https://letterboxd.com/film/kaili-blues/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "images",
+      "title": "Images",
+      "year": "1972",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Robert Altman"
+      ],
+      "actors": [
+        "Susannah York",
+        "René Auberjonois",
+        "Marcel Bozzuffi",
+        "Hugh Millais",
+        "Cathryn Harrison",
+        "John Morley"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.75,
+      "rating_count": 21679,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/8/5/3/32853-images-0-230-0-345-crop.jpg?v=00b22d5c5c",
+      "url": "https://letterboxd.com/film/images/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "twin-peaks-fire-walk-with-me",
+      "title": "Twin Peaks: Fire Walk with Me",
+      "year": "1992",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Sheryl Lee",
+        "Ray Wise",
+        "Mädchen Amick",
+        "Dana Ashbrook",
+        "Phoebe Augustine",
+        "David Bowie"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.33,
+      "rating_count": 445826,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xb/qg/78/zd/tOQekTHJmVCgfUYXTb6dLAu6l8W-0-230-0-345-crop.jpg?v=647348df81",
+      "url": "https://letterboxd.com/film/twin-peaks-fire-walk-with-me/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "vertigo",
+      "title": "Vertigo",
+      "year": "1958",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Mystery"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "actors": [
+        "James Stewart",
+        "Kim Novak",
+        "Barbara Bel Geddes",
+        "Tom Helmore",
+        "Henry Jones",
+        "Raymond Bailey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.22,
+      "rating_count": 795180,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/q9/3o/ng/om/obhM86qyv8RsE69XSMTtT9FdE0b-0-230-0-345-crop.jpg?v=1403a5e003",
+      "url": "https://letterboxd.com/film/vertigo/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "eyes-wide-shut",
+      "title": "Eyes Wide Shut",
+      "year": "1999",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Nicole Kidman",
+        "Sydney Pollack",
+        "Marie Richardson",
+        "Rade Šerbedžija",
+        "Todd Field"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.99,
+      "rating_count": 1332426,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/1/7/51717-eyes-wide-shut-0-230-0-345-crop.jpg?v=7010402aeb",
+      "url": "https://letterboxd.com/film/eyes-wide-shut/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-matrix",
+      "title": "The Matrix",
+      "year": "1999",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving",
+        "Gloria Foster",
+        "Joe Pantoliano"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.18,
+      "rating_count": 2754169,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-230-0-345-crop.jpg?v=fc7c366afe",
+      "url": "https://letterboxd.com/film/the-matrix/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "synecdoche-new-york",
+      "title": "Synecdoche, New York",
+      "year": "2008",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Charlie Kaufman"
+      ],
+      "actors": [
+        "Philip Seymour Hoffman",
+        "Samantha Morton",
+        "Michelle Williams",
+        "Catherine Keener",
+        "Emily Watson",
+        "Dianne Wiest"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.16,
+      "rating_count": 277556,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/z9/j9/kx/ve/l3r5MgeN0UUySPbf6aWeUyKGdb2-0-230-0-345-crop.jpg?v=0185077fb6",
+      "url": "https://letterboxd.com/film/synecdoche-new-york/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mirror",
+      "title": "Mirror",
+      "year": "1975",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Margarita Terekhova",
+        "Ignat Daniltsev",
+        "Larisa Tarkovskaya",
+        "Alla Demidova",
+        "Anatoliy Solonitsyn",
+        "Mykola Hrynko"
+      ],
+      "countries": [
+        "USSR"
+      ],
+      "rating": 4.32,
+      "rating_count": 182115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/4/51064-mirror-0-230-0-345-crop.jpg?v=88898b6c6e",
+      "url": "https://letterboxd.com/film/mirror/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-tree-of-life-2011",
+      "title": "The Tree of Life",
+      "year": "2011",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Terrence Malick"
+      ],
+      "actors": [
+        "Brad Pitt",
+        "Jessica Chastain",
+        "Hunter McCracken",
+        "Sean Penn",
+        "Fiona Shaw",
+        "Tye Sheridan"
+      ],
+      "countries": [
+        "USA",
+        "Italy",
+        "Iceland"
+      ],
+      "rating": 3.84,
+      "rating_count": 282843,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/4/6/8/47468-the-tree-of-life-0-230-0-345-crop.jpg?v=1794f394ea",
+      "url": "https://letterboxd.com/film/the-tree-of-life-2011/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "spirited-away",
+      "title": "Spirited Away",
+      "year": "2001",
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Animation"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "actors": [
+        "Rumi Hiiragi",
+        "Miyu Irino",
+        "Mari Natsuki",
+        "Takashi Naito",
+        "Yasuko Sawaguchi",
+        "Tatsuya Gashûin"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.44,
+      "rating_count": 3580713,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/2/1/51921-spirited-away-0-230-0-345-crop.jpg?v=a3ad463c55",
+      "url": "https://letterboxd.com/film/spirited-away/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "suspiria",
+      "title": "Suspiria",
+      "year": "1977",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Jessica Harper",
+        "Stefania Casini",
+        "Flavio Bucci",
+        "Miguel Bosé",
+        "Barbara Magnolfi",
+        "Susanna Javicoli"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.92,
+      "rating_count": 550913,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-230-0-345-crop.jpg?v=d1fbb1d377",
+      "url": "https://letterboxd.com/film/suspiria/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "la-jetee",
+      "title": "La Jetée",
+      "year": "1962",
+      "genres": [
+        "Romance",
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Chris Marker"
+      ],
+      "actors": [
+        "Jean Négroni",
+        "Hélène Chatelain",
+        "Davos Hanich",
+        "Jacques Ledoux",
+        "André Heinrich",
+        "Jacques Branchu"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.32,
+      "rating_count": 153782,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/6/2/51462-la-jetee-0-230-0-345-crop.jpg?v=7fdb737c90",
+      "url": "https://letterboxd.com/film/la-jetee/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dizziness",
+      "title": "Dizziness",
+      "year": "2001",
+      "genres": [],
+      "directors": [
+        "Takashi Ito"
+      ],
+      "actors": [
+        "Minori Takenaka",
+        "Megumi Kubo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.76,
+      "rating_count": 2379,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/6/2/5/207625-dizziness-0-230-0-345-crop.jpg?v=f26ec1a7c5",
+      "url": "https://letterboxd.com/film/dizziness/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "midsommar",
+      "title": "Midsommar",
+      "year": "2019",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Ari Aster"
+      ],
+      "actors": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "William Jackson Harper",
+        "Will Poulter",
+        "Vilhelm Blomgren",
+        "Isabelle Grill"
+      ],
+      "countries": [
+        "Sweden",
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 3658603,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/9/5/6/4/459564-midsommar-0-230-0-345-crop.jpg?v=ed7b8ded1f",
+      "url": "https://letterboxd.com/film/midsommar/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "inception",
+      "title": "Inception",
+      "year": "2010",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Ken Watanabe",
+        "Tom Hardy",
+        "Elliot Page",
+        "Dileep Rao"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.23,
+      "rating_count": 3935348,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sv/95/s9/4j/inception-0-230-0-345-crop.jpg?v=30d7224316",
+      "url": "https://letterboxd.com/film/inception/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "annihilation",
+      "title": "Annihilation",
+      "year": "2018",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Alex Garland"
+      ],
+      "actors": [
+        "Natalie Portman",
+        "Jennifer Jason Leigh",
+        "Gina Rodriguez",
+        "Tessa Thompson",
+        "Tuva Novotny",
+        "Oscar Isaac"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.57,
+      "rating_count": 931151,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/7/7/8/4/227784-annihilation-0-230-0-345-crop.jpg?v=35308091d6",
+      "url": "https://letterboxd.com/film/annihilation/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "donkey-skin",
+      "title": "Donkey Skin",
+      "year": "1970",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Comedy",
+        "Music"
+      ],
+      "directors": [
+        "Jacques Demy"
+      ],
+      "actors": [
+        "Catherine Deneuve",
+        "Jacques Perrin",
+        "Jean Marais",
+        "Delphine Seyrig",
+        "Fernand Ledoux",
+        "Micheline Presle"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4,
+      "rating_count": 92660,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/7/8/8/48788-donkey-skin-0-230-0-345-crop.jpg?v=99919e5e02",
+      "url": "https://letterboxd.com/film/donkey-skin/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-love-witch",
+      "title": "The Love Witch",
+      "year": "2016",
+      "genres": [
+        "Romance",
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Anna Biller"
+      ],
+      "actors": [
+        "Samantha Robinson",
+        "Gian Keys",
+        "Laura Waddell",
+        "Jeffrey Vincent Parise",
+        "Jared Sanford",
+        "Robert Seeley"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 273498,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/aq/32/q4/ke/jDKJ3yHiia0IR1uzIIIL7kUvwhu-0-230-0-345-crop.jpg?v=cedd7a43ca",
+      "url": "https://letterboxd.com/film/the-love-witch/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-holy-mountain",
+      "title": "The Holy Mountain",
+      "year": "1973",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Alejandro Jodorowsky"
+      ],
+      "actors": [
+        "Alejandro Jodorowsky",
+        "Horacio Salinas",
+        "Zamira Saunders",
+        "Juan Ferrara",
+        "Adriana Page",
+        "Burt Kleiner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.13,
+      "rating_count": 156080,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/0/5/47805-the-holy-mountain-0-230-0-345-crop.jpg?v=d7002e900e",
+      "url": "https://letterboxd.com/film/the-holy-mountain/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "enter-the-void",
+      "title": "Enter the Void",
+      "year": "2009",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Gaspar Noé"
+      ],
+      "actors": [
+        "Paz de la Huerta",
+        "Nathaniel Brown",
+        "Cyril Roy",
+        "Olly Alexander",
+        "Masato Tanno",
+        "Ed Spear"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "rating": 3.77,
+      "rating_count": 245522,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/0/4/1/29041-enter-the-void-0-230-0-345-crop.jpg?v=5a7c2754fb",
+      "url": "https://letterboxd.com/film/enter-the-void/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-last-unicorn",
+      "title": "The Last Unicorn",
+      "year": "1982",
+      "genres": [
+        "Family",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "directors": [
+        "Jules Bass",
+        "Arthur Rankin, Jr."
+      ],
+      "actors": [
+        "Mia Farrow",
+        "Alan Arkin",
+        "Tammy Grimes",
+        "Jeff Bridges",
+        "Christopher Lee",
+        "Angela Lansbury"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 101596,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/9/9/46499-the-last-unicorn-0-230-0-345-crop.jpg?v=7af6a0f0a2",
+      "url": "https://letterboxd.com/film/the-last-unicorn/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "coraline",
+      "title": "Coraline",
+      "year": "2009",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Fantasy",
+        "Family"
+      ],
+      "directors": [
+        "Henry Selick"
+      ],
+      "actors": [
+        "Dakota Fanning",
+        "Teri Hatcher",
+        "Jennifer Saunders",
+        "Dawn French",
+        "Keith David",
+        "John Hodgman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.19,
+      "rating_count": 2747149,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/7/9/42779-coraline-0-230-0-345-crop.jpg?v=b792483e2a",
+      "url": "https://letterboxd.com/film/coraline/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-little-mermaid-1976",
+      "title": "The Little Mermaid",
+      "year": "1976",
+      "genres": [
+        "Fantasy",
+        "Family",
+        "Romance"
+      ],
+      "directors": [
+        "Vladimir Bychkov"
+      ],
+      "actors": [
+        "Viktoriya Novikova",
+        "Valentin Nikulin",
+        "Galina Artyomova",
+        "Yuri Senkevich",
+        "Galina Volchek",
+        "Stefan Iliev"
+      ],
+      "countries": [
+        "USSR",
+        "Bulgaria"
+      ],
+      "rating": 3.61,
+      "rating_count": 2892,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/0/8/152908-the-little-mermaid-1976-0-230-0-345-crop.jpg?v=d80e96d07d",
+      "url": "https://letterboxd.com/film/the-little-mermaid-1976/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "pans-labyrinth",
+      "title": "Pan's Labyrinth",
+      "year": "2006",
+      "genres": [
+        "War",
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Guillermo del Toro"
+      ],
+      "actors": [
+        "Ivana Baquero",
+        "Sergi López",
+        "Maribel Verdú",
+        "Doug Jones",
+        "Ariadna Gil",
+        "Álex Angulo"
+      ],
+      "countries": [
+        "Mexico",
+        "Spain",
+        "USA"
+      ],
+      "rating": 4.15,
+      "rating_count": 979834,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/4/7/51047-pan-s-labyrinth-0-230-0-345-crop.jpg?v=79f89e7325",
+      "url": "https://letterboxd.com/film/pans-labyrinth/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-fall",
+      "title": "The Fall",
+      "year": "2006",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Tarsem Singh"
+      ],
+      "actors": [
+        "Lee Pace",
+        "Justine Waddell",
+        "Daniel Caltagirone",
+        "Leo Bill",
+        "Sean Gilder",
+        "Julian Bleach"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.25,
+      "rating_count": 196312,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/8/2/2/42822-the-fall-0-230-0-345-crop.jpg?v=21978da70d",
+      "url": "https://letterboxd.com/film/the-fall/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "sucker-punch",
+      "title": "Sucker Punch",
+      "year": "2011",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Fantasy"
+      ],
+      "directors": [
+        "Zack Snyder"
+      ],
+      "actors": [
+        "Emily Browning",
+        "Abbie Cornish",
+        "Jena Malone",
+        "Vanessa Hudgens",
+        "Jamie Chung",
+        "Carla Gugino"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.9,
+      "rating_count": 234970,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0w/3u/f0/lk/sucker-punch-original-0-230-0-345-crop.jpg?v=8c0b8e9d6d",
+      "url": "https://letterboxd.com/film/sucker-punch/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "life-of-pi",
+      "title": "Life of Pi",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Adventure"
+      ],
+      "directors": [
+        "Ang Lee"
+      ],
+      "actors": [
+        "Suraj Sharma",
+        "Irrfan Khan",
+        "Ayush Tandon",
+        "Gautam Belur",
+        "Adil Hussain",
+        "Tabu"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 956039,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/3/4/8/74348-life-of-pi-0-230-0-345-crop.jpg?v=5b5f120090",
+      "url": "https://letterboxd.com/film/life-of-pi/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "big-fish",
+      "title": "Big Fish",
+      "year": "2003",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "Tim Burton"
+      ],
+      "actors": [
+        "Ewan McGregor",
+        "Albert Finney",
+        "Billy Crudup",
+        "Jessica Lange",
+        "Helena Bonham Carter",
+        "Alison Lohman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.94,
+      "rating_count": 558230,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/w2/v9/2v/lv/6DRFdlNZpAaEt7eejsbAlJGgaM7-0-230-0-345-crop.jpg?v=89bfbcf64e",
+      "url": "https://letterboxd.com/film/big-fish/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "napoleon-dynamite",
+      "title": "Napoleon Dynamite",
+      "year": "2004",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Jared Hess"
+      ],
+      "actors": [
+        "Jon Heder",
+        "Efren Ramirez",
+        "Tina Majorino",
+        "Aaron Ruell",
+        "Jon Gries",
+        "Haylie Duff"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 657208,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/6/7/47867-napoleon-dynamite-0-230-0-345-crop.jpg?v=dc5d6552f9",
+      "url": "https://letterboxd.com/film/napoleon-dynamite/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-stepford-wives-2004",
+      "title": "The Stepford Wives",
+      "year": "2004",
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Frank Oz"
+      ],
+      "actors": [
+        "Nicole Kidman",
+        "Matthew Broderick",
+        "Bette Midler",
+        "Glenn Close",
+        "Christopher Walken",
+        "Roger Bart"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.99,
+      "rating_count": 94262,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/50/rk/ff/08/9UuKpjAsvtXpLARlBV2QnjP74d1-0-230-0-345-crop.jpg?v=59f7255223",
+      "url": "https://letterboxd.com/film/the-stepford-wives-2004/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-neverending-story",
+      "title": "The NeverEnding Story",
+      "year": "1984",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Family",
+        "Adventure"
+      ],
+      "directors": [
+        "Wolfgang Petersen"
+      ],
+      "actors": [
+        "Noah Hathaway",
+        "Barret Oliver",
+        "Tami Stronach",
+        "Alan Oppenheimer",
+        "Sydney Bromley",
+        "Patricia Hayes"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 3.62,
+      "rating_count": 232432,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/0/7/8/29078-the-neverending-story-0-230-0-345-crop.jpg?v=d6c13b7351",
+      "url": "https://letterboxd.com/film/the-neverending-story/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "but-im-a-cheerleader",
+      "title": "But I'm a Cheerleader",
+      "year": "1999",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Jamie Babbit"
+      ],
+      "actors": [
+        "Natasha Lyonne",
+        "Clea DuVall",
+        "Cathy Moriarty",
+        "RuPaul",
+        "Melanie Lynskey",
+        "Katharine Towne"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 841459,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/8/0/0/38800-but-i-m-a-cheerleader-0-230-0-345-crop.jpg?v=fb07442029",
+      "url": "https://letterboxd.com/film/but-im-a-cheerleader/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mother-2017",
+      "title": "mother!",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris",
+        "Michelle Pfeiffer",
+        "Brian Gleeson",
+        "Domhnall Gleeson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 850214,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/1/1/316311-mother--0-230-0-345-crop.jpg?v=399e8950fd",
+      "url": "https://letterboxd.com/film/mother-2017/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "i-saw-the-tv-glow",
+      "title": "I Saw the TV Glow",
+      "year": "2024",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Jane Schoenbrun"
+      ],
+      "actors": [
+        "Justice Smith",
+        "Jack Haven",
+        "Ian Foreman",
+        "Helena Howard",
+        "Lindsey Jordan",
+        "Danielle Deadwyler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 794984,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/0/772230-i-saw-the-tv-glow-0-230-0-345-crop.jpg?v=73972177ff",
+      "url": "https://letterboxd.com/film/i-saw-the-tv-glow/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "survive-style-5",
+      "title": "Survive Style 5+",
+      "year": "2004",
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Thriller"
+      ],
+      "directors": [
+        "Gen Sekiguchi"
+      ],
+      "actors": [
+        "Tadanobu Asano",
+        "Reika Hashimoto",
+        "Kyoko Koizumi",
+        "Hiroshi Abe",
+        "Ittoku Kishibe",
+        "Yumi Aso"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.96,
+      "rating_count": 8896,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/8/0/4/41804-survive-style-5--0-230-0-345-crop.jpg?v=4cf8a2a2ca",
+      "url": "https://letterboxd.com/film/survive-style-5/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "im-a-cyborg-but-thats-ok",
+      "title": "I'm a Cyborg, But That's OK",
+      "year": "2006",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ],
+      "actors": [
+        "Lim Soo-jung",
+        "Rain",
+        "Oh Dal-su",
+        "Lee Yeong-mi",
+        "Kim Chun-gi",
+        "Park Jun-myun"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 3.73,
+      "rating_count": 52600,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/2/48832-i-m-a-cyborg-but-that-s-ok-0-230-0-345-crop.jpg?v=45608aa1b0",
+      "url": "https://letterboxd.com/film/im-a-cyborg-but-thats-ok/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "skins-2017",
+      "title": "Skins",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Comedy"
+      ],
+      "directors": [
+        "Eduardo Casanova"
+      ],
+      "actors": [
+        "Ana Polvorosa",
+        "Carmen Machi",
+        "Macarena Gómez",
+        "Candela Peña",
+        "Jon Kortajarena",
+        "Secun de la Rosa"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "rating": 2.64,
+      "rating_count": 47744,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/z3/4q/zp/21/brhuoXTrYexjF5cs4A605429u0P-0-230-0-345-crop.jpg?v=fcac8cadd3",
+      "url": "https://letterboxd.com/film/skins-2017/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "paradise-hills",
+      "title": "Paradise Hills",
+      "year": "2019",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Fantasy"
+      ],
+      "directors": [
+        "Alice Waddington"
+      ],
+      "actors": [
+        "Emma Roberts",
+        "Eiza González",
+        "Milla Jovovich",
+        "Danielle Macdonald",
+        "Awkwafina",
+        "Jeremy Irvine"
+      ],
+      "countries": [
+        "Spain",
+        "USA"
+      ],
+      "rating": 2.56,
+      "rating_count": 26894,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/7/7/6/1/417761-paradise-hills-0-230-0-345-crop.jpg?v=cdc171348f",
+      "url": "https://letterboxd.com/film/paradise-hills/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 31,
+      "Fantasy": 24,
+      "Horror": 16,
+      "Comedy": 15,
+      "Science Fiction": 12,
+      "Mystery": 11,
+      "Thriller": 10,
+      "Romance": 10,
+      "Adventure": 9,
+      "Animation": 8,
+      "Family": 6,
+      "Action": 3,
+      "Crime": 1,
+      "History": 1,
+      "Music": 1,
+      "War": 1
+    },
+    "directors": {
+      "David Lynch": 3,
+      "Satoshi Kon": 2,
+      "Tim Burton": 2,
+      "Peter Weir": 1,
+      "Akira Kurosawa": 1,
+      "Albert Birney": 1,
+      "Kentucker Audley": 1,
+      "Jaromil Jireš": 1,
+      "Mamoru Oshii": 1,
+      "Lorcan Finnegan": 1,
+      "Barry Levinson": 1,
+      "Nobuhiko Obayashi": 1,
+      "Katsuhito Ishii": 1,
+      "Cristóbal León": 1,
+      "Joaquín Cociña": 1,
+      "Věra Chytilová": 1,
+      "Bo Welch": 1,
+      "Dawn Luebbe": 1,
+      "Jocelyn DeBoer": 1,
+      "Richard Linklater": 1
+    },
+    "years": {
+      "1958": 1,
+      "1962": 1,
+      "1966": 1,
+      "1970": 2,
+      "1972": 1,
+      "1973": 1,
+      "1975": 1,
+      "1976": 1,
+      "1977": 2,
+      "1981": 1,
+      "1982": 1,
+      "1984": 1,
+      "1985": 1,
+      "1986": 1,
+      "1990": 2,
+      "1992": 2,
+      "1997": 1,
+      "1998": 1,
+      "1999": 3,
+      "2001": 4,
+      "2003": 2,
+      "2004": 5,
+      "2006": 4,
+      "2008": 1,
+      "2009": 2,
+      "2010": 1,
+      "2011": 2,
+      "2012": 1,
+      "2015": 1,
+      "2016": 1,
+      "2017": 3,
+      "2018": 2,
+      "2019": 4,
+      "2021": 1,
+      "2024": 1
+    }
+  }
+}

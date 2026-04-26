@@ -1,0 +1,1979 @@
+{
+  "query": "nordic noir",
+  "slug": "nordic-noir",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/arito/list/nordic-noir/",
+      "user": "arito",
+      "slug": "nordic-noir",
+      "title": "Nordic Noir",
+      "desc": "‘Nordic Noir’ is the widely-used popular term used to describe the new wave of Scandinavian crime fiction that was recently re-energised by the massive popularity of the Steig Larsson Millennium trilogy of books and films.",
+      "owner": "List by abby",
+      "tags": [
+        "nordic-noir",
+        "scandinavian-films",
+        "scandinavian-noir",
+        "film-noir",
+        "noir"
+      ]
+    },
+    {
+      "href": "/christo1/list/nordic-noir/",
+      "user": "christo1",
+      "slug": "nordic-noir",
+      "title": "Nordic Noir",
+      "desc": "Crime movies set in Scandinavia or Nordic countries. Many of these films (but not all) are told from a police point of view.\n\nRelated list:\nMy Nordic Noir Watchlist\nHome",
+      "owner": "List by Christophe Schollaert",
+      "tags": [
+        "nordic-noir",
+        "scandinavian-noir"
+      ]
+    },
+    {
+      "href": "/wahrhaftig/list/nordic-noir/",
+      "user": "wahrhaftig",
+      "slug": "nordic-noir",
+      "title": "Nordic Noir",
+      "desc": "⚜️ List Created By 🦇Wahrhaftig🦇 ⚜️\n\n\n\"Nordic noir, also known as Scandinavian noir or Scandi noir, is a genre of crime fiction usually written from a police point of view and set in Scandinavia or Nordic countries. Plain language avoiding metaphor and set in bleak landscapes results in a dark and morally complex mood, depicting a tension between the apparently still and bland social surface and the murder, misogyny, rape, and racism it depicts as lying underneath. It contrasts with the whodunit style such as the English country house murder mystery. The popularity of Nordic noir has extended to the screen, such as The Killing, The Bridge, Trapped, and Bordertown.\" \n\nDescription by nerodocente\n\n__________________________________________________________________\n\nNOTES",
+      "owner": "List by Wahrhaftig",
+      "tags": []
+    },
+    {
+      "href": "/parzan/list/nordic-noir/",
+      "user": "parzan",
+      "slug": "nordic-noir",
+      "title": "Nordic Noir",
+      "desc": "Parzan is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Parzan PATRON",
+      "tags": []
+    },
+    {
+      "href": "/sasparilla/list/nordic-noir/",
+      "user": "sasparilla",
+      "slug": "nordic-noir",
+      "title": "Nordic Noir",
+      "desc": "Sasparilla is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Sasparilla Godzilla PATRON",
+      "tags": []
+    },
+    {
+      "href": "/zisskar/list/nordic-noir/",
+      "user": "zisskar",
+      "slug": "nordic-noir",
+      "title": "Nordic Noir",
+      "desc": "zisskar is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by zisskar",
+      "tags": [
+        "nordic",
+        "noir",
+        "drama",
+        "scandinavian",
+        "norway",
+        "denamrk",
+        "sweden",
+        "finland"
+      ]
+    },
+    {
+      "href": "/babypluto_215/list/nordic-noir/",
+      "user": "babypluto_215",
+      "slug": "nordic-noir",
+      "title": "Nordic Noir",
+      "desc": "‘Nordic Noir’ is the widely-used popular term used to describe the new wave of Scandinavian crime fiction that was recently re-energised by the massive popularity of the Steig Larsson Millennium trilogy of books and films.",
+      "owner": "List by Malik S",
+      "tags": [
+        "nordic-noir",
+        "scandinavian-films",
+        "scandinavian-noir",
+        "film-noir",
+        "noir"
+      ]
+    },
+    {
+      "href": "/fistfulofgiallo/list/nordic-noir/",
+      "user": "fistfulofgiallo",
+      "slug": "nordic-noir",
+      "title": "Nordic Noir",
+      "desc": "FistfulOfGiallo is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by FistfulOfGiallo PATRON",
+      "tags": [
+        "master",
+        "genre"
+      ]
+    },
+    {
+      "href": "/p_sj/list/nordic-noir/",
+      "user": "p_sj",
+      "slug": "nordic-noir",
+      "title": "Nordic Noir",
+      "desc": "P is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by P SJ PRO",
+      "tags": [
+        "nordic-noir",
+        "scandinavian-films",
+        "scandinavian-noir",
+        "film-noir",
+        "noir"
+      ]
+    }
+  ],
+  "source_list_count": 9,
+  "films_considered": 483,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "the-hunters-1996",
+      "title": "The Hunters",
+      "year": "1996",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery"
+      ],
+      "directors": [
+        "Kjell Sundvall"
+      ],
+      "actors": [
+        "Rolf Lassgård",
+        "Lennart Jähkel",
+        "Jarmo Mäkinen",
+        "Tomas Norström",
+        "Thomas Hedengran",
+        "Göran Forsmark"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 3.44,
+      "rating_count": 2462,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/9/1/7/41917-the-hunters-0-230-0-345-crop.jpg?v=1f07c8f479",
+      "url": "https://letterboxd.com/film/the-hunters-1996/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "false-trail",
+      "title": "False Trail",
+      "year": "2011",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery"
+      ],
+      "directors": [
+        "Kjell Sundvall"
+      ],
+      "actors": [
+        "Rolf Lassgård",
+        "Peter Stormare",
+        "Annika Nordin",
+        "Kim Tjernström",
+        "Eero Milonoff",
+        "Lo Kauppi"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 3.32,
+      "rating_count": 1238,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/7/2/4/61724-false-trail-0-230-0-345-crop.jpg?v=e2b1d3ab8c",
+      "url": "https://letterboxd.com/film/false-trail/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "headhunters",
+      "title": "Headhunters",
+      "year": "2011",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "Morten Tyldum"
+      ],
+      "actors": [
+        "Aksel Hennie",
+        "Synnøve Macody Lund",
+        "Nikolaj Coster-Waldau",
+        "Julie R. Ølgaard",
+        "Kyrre Haugen Sydness",
+        "Valentina Alexeeva"
+      ],
+      "countries": [
+        "Germany",
+        "Denmark",
+        "Norway",
+        "Sweden"
+      ],
+      "rating": 3.72,
+      "rating_count": 35686,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/uz/zd/vu/za/8xF53Ry3h9bEsIFMVlMq05lXO4F-0-230-0-345-crop.jpg?v=4aa3fcd990",
+      "url": "https://letterboxd.com/film/headhunters/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "in-order-of-disappearance",
+      "title": "In Order of Disappearance",
+      "year": "2014",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller",
+        "Comedy"
+      ],
+      "directors": [
+        "Hans Petter Moland"
+      ],
+      "actors": [
+        "Stellan Skarsgård",
+        "Bruno Ganz",
+        "Pål Sverre Hagen",
+        "Jack Moland",
+        "Stig Henrik Hoff",
+        "Arthur Berning"
+      ],
+      "countries": [
+        "Denmark",
+        "Norway",
+        "Sweden"
+      ],
+      "rating": 3.58,
+      "rating_count": 14218,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/6/6/8/1/176681-in-order-of-disappearance-0-230-0-345-crop.jpg?v=d230e42c6e",
+      "url": "https://letterboxd.com/film/in-order-of-disappearance/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "man-on-the-roof",
+      "title": "Man on the Roof",
+      "year": "1976",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Bo Widerberg"
+      ],
+      "actors": [
+        "Carl-Gustaf Lindstedt",
+        "Sven Wollter",
+        "Thomas Hellberg",
+        "Håkan Serner",
+        "Ingvar Hirdwall",
+        "Birgitta Valberg"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 3.74,
+      "rating_count": 4904,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/8/6/3/35863-man-on-the-roof-0-230-0-345-crop.jpg?v=0bbb01753f",
+      "url": "https://letterboxd.com/film/man-on-the-roof/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "pusher",
+      "title": "Pusher",
+      "year": "1996",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Kim Bodnia",
+        "Mads Mikkelsen",
+        "Laura Drasbæk",
+        "Zlatko Burić",
+        "Slavko Labović",
+        "Peter Andersson"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 3.73,
+      "rating_count": 116675,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/r0/7x/rh/jz/auG6gLxJwl2SkQpnfLqR5WFoqOa-0-230-0-345-crop.jpg?v=60ba7d7d0f",
+      "url": "https://letterboxd.com/film/pusher/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "insomnia",
+      "title": "Insomnia",
+      "year": "1997",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Erik Skjoldbjærg"
+      ],
+      "actors": [
+        "Stellan Skarsgård",
+        "Sverre Anker Ousdal",
+        "Bjørn Floberg",
+        "Maria Mathiesen",
+        "Gisken Armand",
+        "Kristian Figenschow"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "rating": 3.63,
+      "rating_count": 20702,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/1/8/7/35187-insomnia-0-230-0-345-crop.jpg?v=a1e1ce645b",
+      "url": "https://letterboxd.com/film/insomnia/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "pusher-ii",
+      "title": "Pusher II",
+      "year": "2004",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Mads Mikkelsen",
+        "Leif Sylvester",
+        "Anne Sørensen",
+        "Kurt Nielsen",
+        "Øyvind Hagen-Traberg",
+        "Karsten Schrøder"
+      ],
+      "countries": [
+        "Denmark",
+        "UK"
+      ],
+      "rating": 4.02,
+      "rating_count": 70199,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rz/wz/st/bn/gfa7STxdOTqAWijSytswpdT535I-0-230-0-345-crop.jpg?v=d1238a7249",
+      "url": "https://letterboxd.com/film/pusher-ii/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "pusher-iii",
+      "title": "Pusher III",
+      "year": "2005",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Zlatko Burić",
+        "Marinela Dekic",
+        "Slavko Labović",
+        "Ramadan Huseini",
+        "Kurt Nielsen",
+        "Ilyas Agac"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 3.88,
+      "rating_count": 40527,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0x/vx/8j/ul/5emWr4vzLUWohqkoseK3bb4M2KG-0-230-0-345-crop.jpg?v=2a2295ff88",
+      "url": "https://letterboxd.com/film/pusher-iii/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "jar-city",
+      "title": "Jar City",
+      "year": "2006",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Baltasar Kormákur"
+      ],
+      "actors": [
+        "Ingvar E. Sigurðsson",
+        "Ágústa Eva Erlendsdóttir",
+        "Björn Hlynur Haraldsson",
+        "Ólafía Hrönn Jónsdóttir",
+        "Atli Rafn Sigurðsson",
+        "Kristbjörg Kjeld"
+      ],
+      "countries": [
+        "Iceland",
+        "Denmark",
+        "Germany"
+      ],
+      "rating": 3.33,
+      "rating_count": 1672,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/7/7/6/41776-jar-city-0-230-0-345-crop.jpg?v=9fe333f1bc",
+      "url": "https://letterboxd.com/film/jar-city/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "above-the-street-below-the-water",
+      "title": "Above the Street, Below the Water",
+      "year": "2009",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Charlotte Sieling"
+      ],
+      "actors": [
+        "Sidse Babett Knudsen",
+        "Mohammed Al-Bakier",
+        "Anders W. Berthelsen",
+        "Nicolas Bro",
+        "Casper Crump",
+        "Rasmus Hammerich"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/3/7/7/29377-above-the-street-below-the-water-0-230-0-345-crop.jpg?v=d879961528",
+      "url": "https://letterboxd.com/film/above-the-street-below-the-water/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-girl-with-the-dragon-tattoo",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": "2009",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "directors": [
+        "Niels Arden Oplev"
+      ],
+      "actors": [
+        "Michael Nyqvist",
+        "Noomi Rapace",
+        "Lena Endre",
+        "Sven-Bertil Taube",
+        "Peter Haber",
+        "Peter Andersson"
+      ],
+      "countries": [
+        "Denmark",
+        "Germany",
+        "Norway",
+        "Sweden"
+      ],
+      "rating": 3.84,
+      "rating_count": 82313,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/3/5/3/42353-the-girl-with-the-dragon-tattoo-0-230-0-345-crop.jpg?v=47bcaf83c8",
+      "url": "https://letterboxd.com/film/the-girl-with-the-dragon-tattoo/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-girl-who-played-with-fire",
+      "title": "The Girl Who Played with Fire",
+      "year": "2009",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Mystery",
+        "Action"
+      ],
+      "directors": [
+        "Daniel Alfredson"
+      ],
+      "actors": [
+        "Michael Nyqvist",
+        "Noomi Rapace",
+        "Lena Endre",
+        "Peter Andersson",
+        "Annika Hallin",
+        "Per Oscarsson"
+      ],
+      "countries": [
+        "Denmark",
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 3.5,
+      "rating_count": 34498,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jx/1u/7r/h0/qHRpU2d9NWB0WDulwgFwg6a9JRK-0-230-0-345-crop.jpg?v=31003beffd",
+      "url": "https://letterboxd.com/film/the-girl-who-played-with-fire/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-girl-who-kicked-the-hornets-nest",
+      "title": "The Girl Who Kicked the Hornet's Nest",
+      "year": "2009",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Daniel Alfredson"
+      ],
+      "actors": [
+        "Michael Nyqvist",
+        "Noomi Rapace",
+        "Lena Endre",
+        "Annika Hallin",
+        "Jacob Ericksson",
+        "Sofia Ledarp"
+      ],
+      "countries": [
+        "Denmark",
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 3.54,
+      "rating_count": 28960,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/6/6/0/29660-the-girl-who-kicked-the-hornet-s-nest-0-230-0-345-crop.jpg?v=04812830d8",
+      "url": "https://letterboxd.com/film/the-girl-who-kicked-the-hornets-nest/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "easy-money-2010",
+      "title": "Easy Money",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Daniel Espinosa"
+      ],
+      "actors": [
+        "Joel Kinnaman",
+        "Matias Varela",
+        "Dragomir Mrsic",
+        "Lisa Henni",
+        "Mahmut Suvakci",
+        "Dejan Čukić"
+      ],
+      "countries": [
+        "Denmark",
+        "Sweden",
+        "Germany"
+      ],
+      "rating": 3.37,
+      "rating_count": 6374,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/4/3/0/32430-easy-money-0-230-0-345-crop.jpg?v=344b1191ba",
+      "url": "https://letterboxd.com/film/easy-money-2010/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "easy-money-hard-to-kill",
+      "title": "Easy Money: Hard to Kill",
+      "year": "2012",
+      "genres": [
+        "Crime",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Babak Najafi"
+      ],
+      "actors": [
+        "Joel Kinnaman",
+        "Matias Varela",
+        "Dragomir Mrsic",
+        "Fares Fares",
+        "Madeleine Martin",
+        "Dejan Čukić"
+      ],
+      "countries": [
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 3.23,
+      "rating_count": 2727,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/3/2/4/77324-easy-money-hard-to-kill-0-230-0-345-crop.jpg?v=c801c7920b",
+      "url": "https://letterboxd.com/film/easy-money-hard-to-kill/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "easy-money-iii-life-deluxe",
+      "title": "Easy Money III: Life Deluxe",
+      "year": "2013",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Jens Jonsson"
+      ],
+      "actors": [
+        "Matias Varela",
+        "Joel Kinnaman",
+        "Martin Wallström",
+        "Malin Buska",
+        "Dejan Čukić",
+        "Čedomir Đorđević"
+      ],
+      "countries": [
+        "Norway",
+        "Sweden",
+        "Germany"
+      ],
+      "rating": 3.15,
+      "rating_count": 1906,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/7/8/8/140788-easy-money-iii-life-deluxe-0-230-0-345-crop.jpg?v=cd03774d37",
+      "url": "https://letterboxd.com/film/easy-money-iii-life-deluxe/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-keeper-of-lost-causes",
+      "title": "The Keeper of Lost Causes",
+      "year": "2013",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Mikkel Nørgaard"
+      ],
+      "actors": [
+        "Nikolaj Lie Kaas",
+        "Fares Fares",
+        "Sonja Richter",
+        "Mikkel Boe Følsgaard",
+        "Søren Pilmark",
+        "Peter Plaugborg"
+      ],
+      "countries": [
+        "Denmark",
+        "Germany",
+        "Norway",
+        "Sweden"
+      ],
+      "rating": 3.47,
+      "rating_count": 13654,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/7/8/9/140789-the-keeper-of-lost-causes-0-230-0-345-crop.jpg?v=e23fddb160",
+      "url": "https://letterboxd.com/film/the-keeper-of-lost-causes/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-snowman-2017",
+      "title": "The Snowman",
+      "year": "2017",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Tomas Alfredson"
+      ],
+      "actors": [
+        "Michael Fassbender",
+        "Rebecca Ferguson",
+        "Charlotte Gainsbourg",
+        "Jonas Karlsson",
+        "Michael Yates",
+        "Ronan Vibert"
+      ],
+      "countries": [
+        "Sweden",
+        "UK",
+        "USA"
+      ],
+      "rating": 1.89,
+      "rating_count": 69457,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/9/8/0/307980-the-snowman-0-230-0-345-crop.jpg?v=31c6d0fd99",
+      "url": "https://letterboxd.com/film/the-snowman-2017/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-man-from-majorca",
+      "title": "The Man from Majorca",
+      "year": "1984",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Bo Widerberg"
+      ],
+      "actors": [
+        "Sven Wollter",
+        "Tomas von Brömssen",
+        "Håkan Serner",
+        "Ernst Günther",
+        "Thomas Hellberg",
+        "Ingvar Hirdwall"
+      ],
+      "countries": [
+        "Denmark",
+        "Sweden"
+      ],
+      "rating": 3.64,
+      "rating_count": 2480,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/5/3/13553-the-man-from-majorca-0-230-0-345-crop.jpg?v=80505e0a19",
+      "url": "https://letterboxd.com/film/the-man-from-majorca/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-man-on-the-balcony",
+      "title": "The Man on the Balcony",
+      "year": "1993",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Daniel Alfredson"
+      ],
+      "actors": [
+        "Gösta Ekman",
+        "Kjell Bergqvist",
+        "Rolf Lassgård",
+        "Niklas Hjulström",
+        "Jonas Falk",
+        "Ulf Friberg"
+      ],
+      "countries": [
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 3.31,
+      "rating_count": 434,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/0/0/8/19008-the-man-on-the-balcony-0-230-0-345-crop.jpg?v=74b727af73",
+      "url": "https://letterboxd.com/film/the-man-on-the-balcony/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "smillas-sense-of-snow",
+      "title": "Smilla's Sense of Snow",
+      "year": "1997",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Bille August"
+      ],
+      "actors": [
+        "Julia Ormond",
+        "Gabriel Byrne",
+        "Richard Harris",
+        "Jim Broadbent",
+        "Tom Wilkinson",
+        "Robert Loggia"
+      ],
+      "countries": [
+        "Germany",
+        "Denmark",
+        "Sweden"
+      ],
+      "rating": 3.15,
+      "rating_count": 5114,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/8/2/47282-smilla-s-sense-of-snow-0-230-0-345-crop.jpg?v=7b032c4cc7",
+      "url": "https://letterboxd.com/film/smillas-sense-of-snow/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "raid",
+      "title": "Raid",
+      "year": "2003",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Tapio Piirainen"
+      ],
+      "actors": [
+        "Kai Lehtinen",
+        "Mari Rantasila",
+        "Oiva Lohtander",
+        "Kirsti Valve",
+        "Pekka Huotari",
+        "Juha Muje"
+      ],
+      "countries": [
+        "Finland",
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 3.43,
+      "rating_count": 509,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/4/9/39049-raid-0-230-0-345-crop.jpg?v=ef09fd34b1",
+      "url": "https://letterboxd.com/film/raid/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "accused",
+      "title": "Accused",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Jacob Thuesen"
+      ],
+      "actors": [
+        "Troels Lyby",
+        "Sofie Gråbøl",
+        "Paw Henriksen",
+        "Louise Mieritz",
+        "Søren Malling",
+        "Michael Asmussen"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 3.47,
+      "rating_count": 722,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/0/7/4/42074-accused-0-230-0-345-crop.jpg?v=7e08bfc921",
+      "url": "https://letterboxd.com/film/accused/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "kissed-by-winter",
+      "title": "Kissed by Winter",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Sara Johnsen"
+      ],
+      "actors": [
+        "Annika Hallin",
+        "Kristoffer Joner",
+        "Fridtjov Såheim",
+        "Göran Ragnerstam",
+        "Linn Skåber",
+        "Axel Zuber"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/1/1/8911-kissed-by-winter-0-230-0-345-crop.jpg?v=b36e409463",
+      "url": "https://letterboxd.com/film/kissed-by-winter/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "exit",
+      "title": "Exit",
+      "year": "2006",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Lindmark"
+      ],
+      "actors": [
+        "Mads Mikkelsen",
+        "Alexander Skarsgård",
+        "Samuel Fröler",
+        "Börje Ahlstedt",
+        "Johan Rabaeus",
+        "Kirsti Eline Torhaug"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 2.95,
+      "rating_count": 1282,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/4/9/47249-exit-0-230-0-345-crop.jpg?v=aefe518427",
+      "url": "https://letterboxd.com/film/exit/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "uro",
+      "title": "Uro",
+      "year": "2006",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Stefan Faldbakken"
+      ],
+      "actors": [
+        "Nicolai Cleve Broch",
+        "Ane Dahl Torp",
+        "Ahmed Zeyan",
+        "Bjørn Floberg",
+        "Ingar Helge Gimle",
+        "Eivind Sander"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "rating": 3.2,
+      "rating_count": 341,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/7/4/2/26742-uro-0-230-0-345-crop.jpg?v=738448627e",
+      "url": "https://letterboxd.com/film/uro/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "just-another-love-story",
+      "title": "Just Another Love Story",
+      "year": "2007",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Ole Bornedal"
+      ],
+      "actors": [
+        "Anders W. Berthelsen",
+        "Rebecka Hemse",
+        "Nikolaj Lie Kaas",
+        "Charlotte Fich",
+        "Dejan Čukić",
+        "Ewa Fröling"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 3.55,
+      "rating_count": 1304,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/2/8/42728-just-another-love-story-0-230-0-345-crop.jpg?v=6af2ba8b0f",
+      "url": "https://letterboxd.com/film/just-another-love-story/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "varg-veum-bitter-flowers",
+      "title": "Varg Veum - Bitter Flowers",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Ulrik Imtiaz Rolfsen"
+      ],
+      "actors": [
+        "Trond Espen Seim",
+        "Bjørn Floberg",
+        "Endre Hellestveit",
+        "Kathrine Fagerland",
+        "Anders Dale",
+        "Øyvind Gran"
+      ],
+      "countries": [
+        "Denmark",
+        "Norway",
+        "Sweden",
+        "Germany"
+      ],
+      "rating": 3.25,
+      "rating_count": 459,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/4/3/4/41434-varg-veum-bitter-flowers-0-230-0-345-crop.jpg?v=36a827f55a",
+      "url": "https://letterboxd.com/film/varg-veum-bitter-flowers/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "reykjavik-rotterdam",
+      "title": "Reykjavik-Rotterdam",
+      "year": "2008",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "Óskar Jónasson"
+      ],
+      "actors": [
+        "Baltasar Kormákur",
+        "Ingvar E. Sigurðsson",
+        "Lilja Nótt Þórarinsdóttir",
+        "Þröstur Leó Gunnarsson",
+        "Victor Löw",
+        "Jörundur Ragnarsson"
+      ],
+      "countries": [
+        "Denmark",
+        "Germany",
+        "Iceland",
+        "Netherlands"
+      ],
+      "rating": 3.31,
+      "rating_count": 566,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/1/7/2217-reykjavik-rotterdam-0-230-0-345-crop.jpg?v=231d25a70a",
+      "url": "https://letterboxd.com/film/reykjavik-rotterdam/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "varg-veum-fallen-angels",
+      "title": "Varg Veum - Fallen Angels",
+      "year": "2008",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Morten Tyldum"
+      ],
+      "actors": [
+        "Trond Espen Seim",
+        "Fridtjov Såheim",
+        "Pia Tjelta",
+        "Bjørn Floberg",
+        "Per Kjerstad",
+        "Nils Jørgen Kaalstad"
+      ],
+      "countries": [
+        "Denmark",
+        "Norway",
+        "Sweden",
+        "Germany"
+      ],
+      "rating": 3.32,
+      "rating_count": 472,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/9/3/9/41939-varg-veum-fallen-angels-0-230-0-345-crop.jpg?v=d1e7c5266d",
+      "url": "https://letterboxd.com/film/varg-veum-fallen-angels/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "king-of-devils-island",
+      "title": "King of Devil's Island",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Marius Holst"
+      ],
+      "actors": [
+        "Stellan Skarsgård",
+        "Benjamin Helstad",
+        "Kristoffer Joner",
+        "Trond Nilssen",
+        "Morten Løvstad",
+        "Daniel Berg"
+      ],
+      "countries": [
+        "Norway",
+        "France",
+        "Sweden",
+        "Poland"
+      ],
+      "rating": 3.74,
+      "rating_count": 6133,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/2/8/9/56289-king-of-devil-s-island-0-230-0-345-crop.jpg?v=76d5684c4d",
+      "url": "https://letterboxd.com/film/king-of-devils-island/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "id-a",
+      "title": "ID:A",
+      "year": "2011",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Christian E. Christiansen"
+      ],
+      "actors": [
+        "Tuva Novotny",
+        "Flemming Enevold",
+        "Carsten Bjørnlund",
+        "Arnaud Binard",
+        "John Buijsman",
+        "Rogier Philipoom"
+      ],
+      "countries": [
+        "Denmark",
+        "Netherlands",
+        "Sweden"
+      ],
+      "rating": 3.16,
+      "rating_count": 395,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/0/4/3/74043-id-a-0-230-0-345-crop.jpg?v=3ba4a928df",
+      "url": "https://letterboxd.com/film/id-a/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "blacks-game",
+      "title": "Black's Game",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Óskar Thór Axelsson"
+      ],
+      "actors": [
+        "Thorvaldur Kristjansson",
+        "Jóhannes Haukur Jóhannesson",
+        "Damon Younger",
+        "María Birta",
+        "Vignir Rafn Valþórsson",
+        "Egill Einarsson"
+      ],
+      "countries": [
+        "Iceland"
+      ],
+      "rating": 3.43,
+      "rating_count": 795,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/1/7/0/80170-black-s-game-0-230-0-345-crop.jpg?v=56286bac86",
+      "url": "https://letterboxd.com/film/blacks-game/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-hunt-2012",
+      "title": "The Hunt",
+      "year": "2012",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Thomas Vinterberg"
+      ],
+      "actors": [
+        "Mads Mikkelsen",
+        "Thomas Bo Larsen",
+        "Annika",
+        "Lasse Fogelstrøm",
+        "Susse Wold",
+        "Anne Louise Hassing"
+      ],
+      "countries": [
+        "Denmark",
+        "Sweden"
+      ],
+      "rating": 4.29,
+      "rating_count": 580143,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/0/5/1/84051-the-hunt-0-230-0-345-crop.jpg?v=f1c08cc1a2",
+      "url": "https://letterboxd.com/film/the-hunt-2012/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-hypnotist",
+      "title": "The Hypnotist",
+      "year": "2012",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Lasse Hallström"
+      ],
+      "actors": [
+        "Tobias Zilliacus",
+        "Mikael Persbrandt",
+        "Lena Olin",
+        "Helena af Sandeberg",
+        "Jonatan Bökman",
+        "Oscar Pettersson"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 2.74,
+      "rating_count": 2300,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/0/4/1/103041-the-hypnotist-0-230-0-345-crop.jpg?v=6b7a15e582",
+      "url": "https://letterboxd.com/film/the-hypnotist/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "nobels-last-will",
+      "title": "Nobel's Last Will",
+      "year": "2012",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Peter Flinth"
+      ],
+      "actors": [
+        "Malin Crépin",
+        "Richard Ulfsäter",
+        "Björn Kjellman",
+        "Leif Andrée",
+        "Kajsa Ernst",
+        "Erik Johansson"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 3.1,
+      "rating_count": 341,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/6/7/4/77674-nobels-last-will-0-230-0-345-crop.jpg?v=d055856708",
+      "url": "https://letterboxd.com/film/nobels-last-will/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-hour-of-the-lynx",
+      "title": "The Hour of the Lynx",
+      "year": "2013",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Søren Kragh-Jacobsen"
+      ],
+      "actors": [
+        "Sofie Gråbøl",
+        "Signe Egholm Olsen",
+        "Frederik Christian Johansen",
+        "Börje Ahlstedt",
+        "Søren Malling",
+        "Jens Jørn Spottag"
+      ],
+      "countries": [
+        "Denmark",
+        "Sweden"
+      ],
+      "rating": 3.31,
+      "rating_count": 383,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/8/2/2/129822-the-hour-of-the-lynx-0-230-0-345-crop.jpg?v=cec7f217c8",
+      "url": "https://letterboxd.com/film/the-hour-of-the-lynx/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "pioneer-2013",
+      "title": "Pioneer",
+      "year": "2013",
+      "genres": [
+        "Thriller"
+      ],
+      "directors": [
+        "Erik Skjoldbjærg"
+      ],
+      "actors": [
+        "Aksel Hennie",
+        "Wes Bentley",
+        "Stephen Lang",
+        "Stephanie Sigman",
+        "Jonathan LaPaglia",
+        "Ane Dahl Torp"
+      ],
+      "countries": [
+        "Finland",
+        "Norway",
+        "Germany",
+        "Sweden",
+        "France"
+      ],
+      "rating": 3.08,
+      "rating_count": 1382,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/1/8/9/124189-pioneer-0-230-0-345-crop.jpg?v=6481124b55",
+      "url": "https://letterboxd.com/film/pioneer-2013/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "crime-and-punishment-1983",
+      "title": "Crime and Punishment",
+      "year": "1983",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Aki Kaurismäki"
+      ],
+      "actors": [
+        "Markku Toikka",
+        "Aino Seppo",
+        "Esko Nikkari",
+        "Hannu Lauri",
+        "Olli Tuominen",
+        "Matti Pellonpää"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "rating": 3.54,
+      "rating_count": 8182,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/0/1/9/62019-crime-and-punishment-0-230-0-345-crop.jpg?v=9962a878c1",
+      "url": "https://letterboxd.com/film/crime-and-punishment-1983/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "roseanna",
+      "title": "Roseanna",
+      "year": "1993",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Daniel Alfredson"
+      ],
+      "actors": [
+        "Gösta Ekman",
+        "Kjell Bergqvist",
+        "Rolf Lassgård",
+        "Niklas Hjulström",
+        "Lena Nilsson",
+        "Ingvar Andersson"
+      ],
+      "countries": [
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 3.31,
+      "rating_count": 468,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/0/4/3/29043-roseanna-0-230-0-345-crop.jpg?v=e1928d05e6",
+      "url": "https://letterboxd.com/film/roseanna/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "nightwatch-1994",
+      "title": "Nightwatch",
+      "year": "1994",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Ole Bornedal"
+      ],
+      "actors": [
+        "Nikolaj Coster-Waldau",
+        "Sofie Gråbøl",
+        "Kim Bodnia",
+        "Lotte Andersen",
+        "Ulf Pilgaard",
+        "Rikke Louise Andersson"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 3.39,
+      "rating_count": 14725,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/2/8/5/48285-nightwatch-0-230-0-345-crop.jpg?v=28a6f59faf",
+      "url": "https://letterboxd.com/film/nightwatch-1994/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "vares-private-eye",
+      "title": "Vares: Private Eye",
+      "year": "2004",
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "directors": [
+        "Aleksi Mäkelä"
+      ],
+      "actors": [
+        "Juha Veijonen",
+        "Laura Malmivaara",
+        "Jari Halonen",
+        "Markku Peltola",
+        "Jorma Tommila",
+        "Minna Turunen"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "rating": 3.22,
+      "rating_count": 593,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/5/3/9/26539-vares-private-eye-0-230-0-345-crop.jpg?v=b97876e267",
+      "url": "https://letterboxd.com/film/vares-private-eye/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "terribly-happy",
+      "title": "Terribly Happy",
+      "year": "2008",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Henrik Ruben Genz"
+      ],
+      "actors": [
+        "Jakob Cedergren",
+        "Lene Maria Christensen",
+        "Kim Bodnia",
+        "Lars Brygmann",
+        "Anders Hove",
+        "Mathilde Maack"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 3.36,
+      "rating_count": 2984,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/9/5/8/41958-terribly-happy-0-230-0-345-crop.jpg?v=5edc9df136",
+      "url": "https://letterboxd.com/film/terribly-happy/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "priest-of-evil",
+      "title": "Priest of Evil",
+      "year": "2010",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Olli Saarela"
+      ],
+      "actors": [
+        "Peter Franzén",
+        "Irina Björklund",
+        "Sampo Sarkola",
+        "Jenni Banerjee",
+        "Rosa Salomaa",
+        "Niilo Syväoja"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "rating": 3.16,
+      "rating_count": 270,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/3/9/9/3/363993-priest-of-evil-0-230-0-345-crop.jpg?v=33d7481169",
+      "url": "https://letterboxd.com/film/priest-of-evil/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "avalon-2011",
+      "title": "Avalon",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Axel Petersén"
+      ],
+      "actors": [
+        "Johannes Brost",
+        "Peter Carlberg",
+        "Christian Carloni",
+        "Carl Johan De Geer",
+        "Leonore Ekstrand",
+        "Rainer Gerdes"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 3.29,
+      "rating_count": 443,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/1/8/1/69181-avalon-0-230-0-345-crop.jpg?v=e2eb85b9f1",
+      "url": "https://letterboxd.com/film/avalon-2011/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "vares-the-girls-of-april",
+      "title": "Vares: The Girls of April",
+      "year": "2011",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "directors": [
+        "Lauri Törhönen"
+      ],
+      "actors": [
+        "Antti Reini",
+        "Eppu Salminen",
+        "Matti Onnismaa",
+        "Jasper Pääkkönen",
+        "Ismo Kallio",
+        "Taisto Oksanen"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "rating": 3.17,
+      "rating_count": 217,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/5/2/5552-vares-the-girls-of-april-0-230-0-345-crop.jpg?v=0e0a0d5d23",
+      "url": "https://letterboxd.com/film/vares-the-girls-of-april/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "vares-the-kiss-of-evil",
+      "title": "Vares: The Kiss of Evil",
+      "year": "2011",
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "directors": [
+        "Anders Engström"
+      ],
+      "actors": [
+        "Antti Reini",
+        "Eppu Salminen",
+        "Matti Onnismaa",
+        "Jasper Pääkkönen",
+        "Mikko Leppilampi",
+        "Maria Järvenhelmi"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "rating": 3.23,
+      "rating_count": 265,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/5/0/5550-vares-the-kiss-of-evil-0-230-0-345-crop.jpg?v=4cc3643b8a",
+      "url": "https://letterboxd.com/film/vares-the-kiss-of-evil/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "a-hijacking",
+      "title": "A Hijacking",
+      "year": "2012",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Tobias Lindholm"
+      ],
+      "actors": [
+        "Pilou Asbæk",
+        "Søren Malling",
+        "Dar Salim",
+        "Roland Møller",
+        "Gary Skjoldmose Porter",
+        "Abdihakin Asgar"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 3.72,
+      "rating_count": 7425,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qh/ld/jy/f0/xm7NsV7C58dK47pyH7iuu58WopL-0-230-0-345-crop.jpg?v=c0556030cb",
+      "url": "https://letterboxd.com/film/a-hijacking/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "vares-the-path-of-the-righteous-men",
+      "title": "Vares: The Path of the Righteous Men",
+      "year": "2012",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "directors": [
+        "Anders Engström"
+      ],
+      "actors": [
+        "Antti Reini",
+        "Peter Franzén",
+        "Aake Kalliala",
+        "Merja Larivaara",
+        "Petteri Summanen",
+        "Markku Maalismaa"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/0/6/0/83060-vares-the-path-of-the-righteous-men-0-230-0-345-crop.jpg?v=061eadcceb",
+      "url": "https://letterboxd.com/film/vares-the-path-of-the-righteous-men/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "vares-tango-of-darkness",
+      "title": "Vares: Tango of Darkness",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Lauri Törhönen"
+      ],
+      "actors": [
+        "Antti Reini",
+        "Ilkka Heiskanen",
+        "Jussi Lampi",
+        "Mikko Leppilampi",
+        "Jasper Pääkkönen",
+        "Andrei Alén"
+      ],
+      "countries": [
+        "Finland"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/1/0/7/113107-vares-tango-of-darkness-0-230-0-345-crop.jpg?v=f84c9f591e",
+      "url": "https://letterboxd.com/film/vares-tango-of-darkness/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "northwest",
+      "title": "Northwest",
+      "year": "2013",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Action"
+      ],
+      "directors": [
+        "Michael Noer"
+      ],
+      "actors": [
+        "Gustav Dyekjær Giese",
+        "Oscar Dyekjær Giese",
+        "Lene Maria Christensen",
+        "Annemieke Bredahl Peppink",
+        "Nicholas Westwood Kidd",
+        "Roland Møller"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 3.49,
+      "rating_count": 1737,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/0/7/9/120079-northwest-0-230-0-345-crop.jpg?v=8ff5a74cf3",
+      "url": "https://letterboxd.com/film/northwest/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-girl-with-the-dragon-tattoo-2011",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": "2011",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Daniel Craig",
+        "Rooney Mara",
+        "Christopher Plummer",
+        "Stellan Skarsgård",
+        "Robin Wright",
+        "Yorick van Wageningen"
+      ],
+      "countries": [
+        "Sweden",
+        "USA"
+      ],
+      "rating": 3.9,
+      "rating_count": 633114,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0a/ec/72/pb/zHGxi75Ugw69jtCmOK8TvwU588z-0-230-0-345-crop.jpg?v=58931ddc0d",
+      "url": "https://letterboxd.com/film/the-girl-with-the-dragon-tattoo-2011/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "a-somewhat-gentle-man",
+      "title": "A Somewhat Gentle Man",
+      "year": "2010",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Hans Petter Moland"
+      ],
+      "actors": [
+        "Stellan Skarsgård",
+        "Jorunn Kjellsby",
+        "Bjørn Floberg",
+        "Gard B. Eidsvold",
+        "Jannike Kruse",
+        "Bjørn Sundquist"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "rating": 3.49,
+      "rating_count": 2327,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/5/2/6/31526-a-somewhat-gentle-man-0-230-0-345-crop.jpg?v=68584b9ebc",
+      "url": "https://letterboxd.com/film/a-somewhat-gentle-man/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "kim-novak-never-swam-in-genesarets-lake",
+      "title": "Kim Novak Never Swam in Genesaret's Lake",
+      "year": "2005",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Asphaug"
+      ],
+      "actors": [
+        "Anton Lundqvist",
+        "Jesper Adefelt",
+        "Jonas Karlsson",
+        "Helena af Sandeberg",
+        "Anders Berg",
+        "Pär Luttropp"
+      ],
+      "countries": [
+        "Norway",
+        "Sweden",
+        "Germany"
+      ],
+      "rating": 3.38,
+      "rating_count": 824,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/9/8/2/35982-kim-novak-never-swam-in-genesaret-s-lake-0-230-0-345-crop.jpg?v=e9e604ff08",
+      "url": "https://letterboxd.com/film/kim-novak-never-swam-in-genesarets-lake/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-salvation",
+      "title": "The Salvation",
+      "year": "2014",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "directors": [
+        "Kristian Levring"
+      ],
+      "actors": [
+        "Mads Mikkelsen",
+        "Eva Green",
+        "Jeffrey Dean Morgan",
+        "Mikael Persbrandt",
+        "Éric Cantona",
+        "Douglas Henshall"
+      ],
+      "countries": [
+        "Belgium",
+        "Brazil",
+        "Denmark",
+        "Norway",
+        "South Africa",
+        "Sweden",
+        "UK"
+      ],
+      "rating": 3.22,
+      "rating_count": 25078,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ef/sm/qw/08/b8uBcz6CgXOUsZhf2Y4RLHCwk19-0-230-0-345-crop.jpg?v=19511686c5",
+      "url": "https://letterboxd.com/film/the-salvation/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-guilty-2018",
+      "title": "The Guilty",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Gustav Möller"
+      ],
+      "actors": [
+        "Jakob Cedergren",
+        "Jessica Dinnage",
+        "Omar Shargawi",
+        "Johan Olsen",
+        "Jacob Lohmann",
+        "Katinka Evers-Jahnsen"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "rating": 3.92,
+      "rating_count": 80069,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/7/5/1/6/417516-the-guilty-0-230-0-345-crop.jpg?v=0dc494a3a4",
+      "url": "https://letterboxd.com/film/the-guilty-2018/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "dept-q-the-absent-one",
+      "title": "The Absent One",
+      "year": "2014",
+      "genres": [
+        "Thriller"
+      ],
+      "directors": [
+        "Mikkel Nørgaard"
+      ],
+      "actors": [
+        "Nikolaj Lie Kaas",
+        "Fares Fares",
+        "Pilou Asbæk",
+        "David Dencik",
+        "Danica Ćurčić",
+        "Sarah-Sofie Boussnina"
+      ],
+      "countries": [
+        "Denmark",
+        "Germany",
+        "Norway",
+        "Sweden"
+      ],
+      "rating": 3.48,
+      "rating_count": 11028,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/8/0/0/5/178005-the-absent-one-0-230-0-345-crop.jpg?v=d69341bcd2",
+      "url": "https://letterboxd.com/film/dept-q-the-absent-one/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "a-conspiracy-of-faith",
+      "title": "A Conspiracy of Faith",
+      "year": "2016",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "directors": [
+        "Hans Petter Moland"
+      ],
+      "actors": [
+        "Nikolaj Lie Kaas",
+        "Fares Fares",
+        "Pål Sverre Hagen",
+        "Jacob Lohmann",
+        "Amanda Collin",
+        "Johanne Louise Schmidt"
+      ],
+      "countries": [
+        "Denmark",
+        "Germany",
+        "Norway",
+        "Sweden"
+      ],
+      "rating": 3.47,
+      "rating_count": 9768,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/8/8/7/6/278876-a-conspiracy-of-faith-0-230-0-345-crop.jpg?v=4c74d2bf47",
+      "url": "https://letterboxd.com/film/a-conspiracy-of-faith/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-purity-of-vengeance",
+      "title": "The Purity of Vengeance",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Christoffer Boe"
+      ],
+      "actors": [
+        "Nikolaj Lie Kaas",
+        "Fares Fares",
+        "Johanne Louise Schmidt",
+        "Søren Pilmark",
+        "Fanny Leander Bornedal",
+        "Clara Rosager"
+      ],
+      "countries": [
+        "Denmark",
+        "Germany",
+        "Norway",
+        "Sweden"
+      ],
+      "rating": 3.62,
+      "rating_count": 10252,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/0/3/4/2/410342-the-purity-of-vengeance-0-230-0-345-crop.jpg?v=6c1b2cd05f",
+      "url": "https://letterboxd.com/film/the-purity-of-vengeance/",
+      "appears_in_n_lists": 3
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Thriller": 44,
+      "Crime": 42,
+      "Drama": 36,
+      "Action": 18,
+      "Mystery": 17,
+      "Horror": 3,
+      "Comedy": 2,
+      "Romance": 1,
+      "Western": 1
+    },
+    "directors": {
+      "Daniel Alfredson": 4,
+      "Hans Petter Moland": 3,
+      "Nicolas Winding Refn": 3,
+      "Kjell Sundvall": 2,
+      "Morten Tyldum": 2,
+      "Bo Widerberg": 2,
+      "Erik Skjoldbjærg": 2,
+      "Mikkel Nørgaard": 2,
+      "Ole Bornedal": 2,
+      "Lauri Törhönen": 2,
+      "Anders Engström": 2,
+      "Baltasar Kormákur": 1,
+      "Charlotte Sieling": 1,
+      "Niels Arden Oplev": 1,
+      "Daniel Espinosa": 1,
+      "Babak Najafi": 1,
+      "Jens Jonsson": 1,
+      "Tomas Alfredson": 1,
+      "Bille August": 1,
+      "Tapio Piirainen": 1
+    },
+    "years": {
+      "1976": 1,
+      "1983": 1,
+      "1984": 1,
+      "1993": 2,
+      "1994": 1,
+      "1996": 2,
+      "1997": 2,
+      "2003": 1,
+      "2004": 2,
+      "2005": 4,
+      "2006": 3,
+      "2007": 2,
+      "2008": 3,
+      "2009": 4,
+      "2010": 4,
+      "2011": 7,
+      "2012": 8,
+      "2013": 5,
+      "2014": 3,
+      "2016": 1,
+      "2017": 1,
+      "2018": 2
+    }
+  }
+}

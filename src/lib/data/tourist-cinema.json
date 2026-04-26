@@ -1,0 +1,1135 @@
+{
+  "query": "tourist cinema",
+  "slug": "tourist-cinema",
+  "min_list_appearances_used": 1,
+  "source_lists": [
+    {
+      "href": "/dokoissho/list/tourist-cinema/",
+      "user": "dokoissho",
+      "slug": "tourist-cinema",
+      "title": "Tourist cinema",
+      "desc": "Movies about tourism, tourists, travel",
+      "owner": "List by dokoissho",
+      "tags": [
+        "tourism",
+        "tourist",
+        "vacation",
+        "travel",
+        "holiday",
+        "cruise"
+      ]
+    },
+    {
+      "href": "/zdom/list/tourist-cinema/",
+      "user": "zdom",
+      "slug": "tourist-cinema",
+      "title": "tourist cinema",
+      "desc": "films that make you fantasize about spaces/places through travel without any real idea or representation of the identity of that country/city/place or peoples.\n\ninspiration is one thing and representation is another.\n---------------------------------------------------------------------\nthe transnational tourist gaze extends the concept of the \"tourist gaze\" originally developed by sociologist John Urry — to a global context, where media, film, and digital platforms shape how travelers perceive and desire destinations across national borders. \n\nit reflects how global audiences are influenced by visual and cultural representations in transnational cinema, advertising, and social media, leading to standardized or romanticized expectations of places and people which often marginalizes the country of origin, presenting it through a selective, external lens that prioritizes western or global consumer expectations over local realities. \n\nthis results in a distorted or romanticized representation—reducing complex cultures to stereotypes while silencing local voices and lived experiences.",
+      "owner": "List by zdom",
+      "tags": [
+        "film-tourist",
+        "tourist-cinema",
+        "transnational-tourist-gaze",
+        "film-theory",
+        "travel"
+      ]
+    }
+  ],
+  "source_list_count": 2,
+  "films_considered": 35,
+  "canonical_count": 35,
+  "films": [
+    {
+      "slug": "triangle-of-sadness",
+      "title": "Triangle of Sadness",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Ruben Östlund"
+      ],
+      "actors": [
+        "Harris Dickinson",
+        "Charlbi Dean",
+        "Dolly de Leon",
+        "Woody Harrelson",
+        "Zlatko Burić",
+        "Vicki Berlin"
+      ],
+      "countries": [
+        "Denmark",
+        "France",
+        "Germany",
+        "Greece",
+        "Mexico",
+        "Sweden",
+        "Switzerland",
+        "Turkey",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 892588,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/9/7/0/427970-triangle-of-sadness-0-230-0-345-crop.jpg?v=a9210ebfee",
+      "url": "https://letterboxd.com/film/triangle-of-sadness/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "morvern-callar",
+      "title": "Morvern Callar",
+      "year": "2002",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Lynne Ramsay"
+      ],
+      "actors": [
+        "Samantha Morton",
+        "Kathleen McDermott",
+        "Raife Patrick Burchell",
+        "Dan Cadan",
+        "Carolyn Calder",
+        "Steven Cardwell"
+      ],
+      "countries": [
+        "UK",
+        "Canada"
+      ],
+      "rating": 3.89,
+      "rating_count": 42629,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/n9/t9/4t/l9/lfm7qycmbquZqNW9D9ny8N5bSJO-0-230-0-345-crop.jpg?v=7041298674",
+      "url": "https://letterboxd.com/film/morvern-callar/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "infinity-pool",
+      "title": "Infinity Pool",
+      "year": "2023",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "directors": [
+        "Brandon Cronenberg"
+      ],
+      "actors": [
+        "Alexander Skarsgård",
+        "Mia Goth",
+        "Cleopatra Coleman",
+        "Jalil Lespert",
+        "Adam Boncz",
+        "Amanda Brugel"
+      ],
+      "countries": [
+        "Canada",
+        "France",
+        "Hungary",
+        "USA"
+      ],
+      "rating": 3.11,
+      "rating_count": 412001,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/1/9/3/1/591931-infinity-pool-0-230-0-345-crop.jpg?v=1fdb8549ff",
+      "url": "https://letterboxd.com/film/infinity-pool/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "zero-fucks-given",
+      "title": "Zero Fucks Given",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Emmanuel Marre",
+        "Julie Lecoustre"
+      ],
+      "actors": [
+        "Adèle Exarchopoulos",
+        "Alexandre Perrier",
+        "Mara Taquin",
+        "Arthur Egloff",
+        "Tamara Al Saadi",
+        "David Martinez Pinon"
+      ],
+      "countries": [
+        "Belgium",
+        "France"
+      ],
+      "rating": 3.25,
+      "rating_count": 37446,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/8/9/3/6/748936-zero-fucks-given-0-230-0-345-crop.jpg?v=e0f251ba16",
+      "url": "https://letterboxd.com/film/zero-fucks-given/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "aftersun",
+      "title": "Aftersun",
+      "year": "2022",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Charlotte Wells"
+      ],
+      "actors": [
+        "Paul Mescal",
+        "Frankie Corio",
+        "Brooklyn Toulson",
+        "Celia Rowlson-Hall",
+        "Sally Messham",
+        "Ayşe Parlak"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.21,
+      "rating_count": 1544039,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
+      "url": "https://letterboxd.com/film/aftersun/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "monsieur-hulots-holiday",
+      "title": "Monsieur Hulot's Holiday",
+      "year": "1953",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Jacques Tati"
+      ],
+      "actors": [
+        "Jacques Tati",
+        "Nathalie Pascaud",
+        "Louis Pérault",
+        "Micheline Rolla",
+        "Valentine Camax",
+        "André Dubois"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.73,
+      "rating_count": 38479,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/7/4/51374-mr-hulot-s-holiday-0-230-0-345-crop.jpg?v=9c9cef6f01",
+      "url": "https://letterboxd.com/film/monsieur-hulots-holiday/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "roman-holiday",
+      "title": "Roman Holiday",
+      "year": "1953",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "William Wyler"
+      ],
+      "actors": [
+        "Audrey Hepburn",
+        "Gregory Peck",
+        "Eddie Albert",
+        "Hartley Power",
+        "Harcourt Williams",
+        "Margaret Rawlings"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.19,
+      "rating_count": 309644,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/4/8/51348-roman-holiday-0-230-0-345-crop.jpg?v=7329a156b1",
+      "url": "https://letterboxd.com/film/roman-holiday/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "out-of-africa",
+      "title": "Out of Africa",
+      "year": "1985",
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "directors": [
+        "Sydney Pollack"
+      ],
+      "actors": [
+        "Robert Redford",
+        "Meryl Streep",
+        "Klaus Maria Brandauer",
+        "Michael Kitchen",
+        "Malick Bowens",
+        "Michael Gough"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 63163,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yb/4s/il/66/bLXD2jp0img4RJiczAwnS7m7jF9-0-230-0-345-crop.jpg?v=b99dd52406",
+      "url": "https://letterboxd.com/film/out-of-africa/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "shirley-valentine",
+      "title": "Shirley Valentine",
+      "year": "1989",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Lewis Gilbert"
+      ],
+      "actors": [
+        "Pauline Collins",
+        "Tom Conti",
+        "Julia McKenzie",
+        "Alison Steadman",
+        "Joanna Lumley",
+        "Sylvia Syms"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.63,
+      "rating_count": 6862,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/1/6/7/40167-shirley-valentine-0-230-0-345-crop.jpg?v=9a4b122432",
+      "url": "https://letterboxd.com/film/shirley-valentine/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "barcelona",
+      "title": "Barcelona",
+      "year": "1994",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Whit Stillman"
+      ],
+      "actors": [
+        "Taylor Nichols",
+        "Chris Eigeman",
+        "Tushka Bergen",
+        "Mira Sorvino",
+        "Pep Munné",
+        "Hellena Taylor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.72,
+      "rating_count": 11656,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/4/0/0/41400-barcelona-0-230-0-345-crop.jpg?v=8ab1af6f2b",
+      "url": "https://letterboxd.com/film/barcelona/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-talented-mr-ripley",
+      "title": "The Talented Mr. Ripley",
+      "year": "1999",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Anthony Minghella"
+      ],
+      "actors": [
+        "Matt Damon",
+        "Gwyneth Paltrow",
+        "Jude Law",
+        "Cate Blanchett",
+        "Philip Seymour Hoffman",
+        "Jack Davenport"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.87,
+      "rating_count": 629077,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/3/8/51138-the-talented-mr-ripley-0-230-0-345-crop.jpg?v=70e0a57506",
+      "url": "https://letterboxd.com/film/the-talented-mr-ripley/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-beach",
+      "title": "The Beach",
+      "year": "2000",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller",
+        "Adventure"
+      ],
+      "directors": [
+        "Danny Boyle"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Virginie Ledoyen",
+        "Guillaume Canet",
+        "Tilda Swinton",
+        "Staffan Kihlbom",
+        "Paterson Joseph"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.21,
+      "rating_count": 216563,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6z/mc/fc/co/2FBMTpxVgsAQOFQRMDUkGRsfREC-0-230-0-345-crop.jpg?v=f05b133c0d",
+      "url": "https://letterboxd.com/film/the-beach/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "2001",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Ian Holm",
+        "Liv Tyler"
+      ],
+      "countries": [
+        "New Zealand",
+        "USA"
+      ],
+      "rating": 4.39,
+      "rating_count": 2862056,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-230-0-345-crop.jpg?v=30bbb824e1",
+      "url": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "lost-in-translation",
+      "title": "Lost in Translation",
+      "year": "2003",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Bill Murray",
+        "Scarlett Johansson",
+        "Giovanni Ribisi",
+        "Anna Faris",
+        "Akiko Takeshita",
+        "Kazuyoshi Minamimagoe"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 1464072,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/th/b5/6c/gl/5T8VvuFTdaawKLJk34i69Utaw7o-0-230-0-345-crop.jpg?v=ce6ae8e1b4",
+      "url": "https://letterboxd.com/film/lost-in-translation/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "under-the-tuscan-sun",
+      "title": "Under the Tuscan Sun",
+      "year": "2003",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Audrey Wells"
+      ],
+      "actors": [
+        "Diane Lane",
+        "Lindsay Duncan",
+        "Vincent Riotta",
+        "Giulia Louise Steigerwalt",
+        "Raoul Bova",
+        "Sandra Oh"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.39,
+      "rating_count": 90487,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/7/5/9/45759-under-the-tuscan-sun-0-230-0-345-crop.jpg?v=8034a983f6",
+      "url": "https://letterboxd.com/film/under-the-tuscan-sun/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "pride-prejudice",
+      "title": "Pride & Prejudice",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Joe Wright"
+      ],
+      "actors": [
+        "Keira Knightley",
+        "Matthew Macfadyen",
+        "Brenda Blethyn",
+        "Rosamund Pike",
+        "Carey Mulligan",
+        "Jena Malone"
+      ],
+      "countries": [
+        "France",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 2064492,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nq/jo/26/tn/dAC0hkYmz5ZOCHURZCyj9isPMPd-0-230-0-345-crop.jpg?v=b3dac3ffd7",
+      "url": "https://letterboxd.com/film/pride-prejudice/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "babel-2006",
+      "title": "Babel",
+      "year": "2006",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Alejandro G. Iñárritu"
+      ],
+      "actors": [
+        "Brad Pitt",
+        "Rinko Kikuchi",
+        "Adriana Barraza",
+        "Cate Blanchett",
+        "Satoshi Nikaido",
+        "Said Tarchani"
+      ],
+      "countries": [
+        "France",
+        "Mexico",
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 211665,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/4/0/51140-babel-0-230-0-345-crop.jpg?v=8b8c66186f",
+      "url": "https://letterboxd.com/film/babel-2006/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-holiday",
+      "title": "The Holiday",
+      "year": "2006",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Nancy Meyers"
+      ],
+      "actors": [
+        "Cameron Diaz",
+        "Kate Winslet",
+        "Jude Law",
+        "Jack Black",
+        "Eli Wallach",
+        "Edward Burns"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 997037,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/3/50953-the-holiday-0-230-0-345-crop.jpg?v=6fb4cb65e6",
+      "url": "https://letterboxd.com/film/the-holiday/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "a-good-year",
+      "title": "A Good Year",
+      "year": "2006",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Russell Crowe",
+        "Albert Finney",
+        "Marion Cotillard",
+        "Abbie Cornish",
+        "Didier Bourdon",
+        "Tom Hollander"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.16,
+      "rating_count": 41038,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/8/8/1/46881-a-good-year-0-230-0-345-crop.jpg?v=6efea8548c",
+      "url": "https://letterboxd.com/film/a-good-year/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-darjeeling-limited",
+      "title": "The Darjeeling Limited",
+      "year": "2007",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Owen Wilson",
+        "Adrien Brody",
+        "Jason Schwartzman",
+        "Amara Karan",
+        "Wallace Wolodarsky",
+        "Waris Ahluwalia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 655098,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/6/8/49268-the-darjeeling-limited-0-230-0-345-crop.jpg?v=3e69deba27",
+      "url": "https://letterboxd.com/film/the-darjeeling-limited/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "vicky-cristina-barcelona",
+      "title": "Vicky Cristina Barcelona",
+      "year": "2008",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Woody Allen"
+      ],
+      "actors": [
+        "Scarlett Johansson",
+        "Rebecca Hall",
+        "Javier Bardem",
+        "Penélope Cruz",
+        "Christopher Evan Welch",
+        "Chris Messina"
+      ],
+      "countries": [
+        "Spain",
+        "USA"
+      ],
+      "rating": 3.45,
+      "rating_count": 215886,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cm/ia/68/my/stMXMgte7EcaOUBQOZfA86GcjYZ-0-230-0-345-crop.jpg?v=ae7eae1b62",
+      "url": "https://letterboxd.com/film/vicky-cristina-barcelona/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "mamma-mia",
+      "title": "Mamma Mia!",
+      "year": "2008",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Phyllida Lloyd"
+      ],
+      "actors": [
+        "Meryl Streep",
+        "Amanda Seyfried",
+        "Pierce Brosnan",
+        "Colin Firth",
+        "Stellan Skarsgård",
+        "Julie Walters"
+      ],
+      "countries": [
+        "Germany",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.86,
+      "rating_count": 2023535,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/10/5l/wu/jl/gOm2iMMbC6EonrFzmSQ8xvCa4Ei.jpg-0-230-0-345-crop.jpg?v=e49de6f770",
+      "url": "https://letterboxd.com/film/mamma-mia/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-ramen-girl",
+      "title": "The Ramen Girl",
+      "year": "2008",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Robert Allan Ackerman"
+      ],
+      "actors": [
+        "Brittany Murphy",
+        "Tammy Blanchard",
+        "Gabriel Mann",
+        "Toshiyuki Nishida",
+        "Soji Arai",
+        "Kimiko Yo"
+      ],
+      "countries": [
+        "Japan",
+        "USA"
+      ],
+      "rating": 3,
+      "rating_count": 14908,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/2/3/8/40238-the-ramen-girl-0-230-0-345-crop.jpg?v=03d4bbacc1",
+      "url": "https://letterboxd.com/film/the-ramen-girl/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "in-bruges",
+      "title": "In Bruges",
+      "year": "2008",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Martin McDonagh"
+      ],
+      "actors": [
+        "Colin Farrell",
+        "Brendan Gleeson",
+        "Ralph Fiennes",
+        "Clémence Poésy",
+        "Thekla Reuten",
+        "Jordan Prentice"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.13,
+      "rating_count": 626022,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/0/9/47809-in-bruges-0-230-0-345-crop.jpg?v=616745d99a",
+      "url": "https://letterboxd.com/film/in-bruges/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "eat-pray-love",
+      "title": "Eat Pray Love",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Ryan Murphy"
+      ],
+      "actors": [
+        "Julia Roberts",
+        "Javier Bardem",
+        "James Franco",
+        "Billy Crudup",
+        "Richard Jenkins",
+        "Viola Davis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.98,
+      "rating_count": 206797,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/3/7/6/26376-eat-pray-love-0-230-0-345-crop.jpg?v=7bd7eec14a",
+      "url": "https://letterboxd.com/film/eat-pray-love/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "letters-to-juliet",
+      "title": "Letters to Juliet",
+      "year": "2010",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Gary Winick"
+      ],
+      "actors": [
+        "Amanda Seyfried",
+        "Christopher Egan",
+        "Gael García Bernal",
+        "Vanessa Redgrave",
+        "Franco Nero",
+        "Luisa Ranieri"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.34,
+      "rating_count": 298949,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/3/5/9/27359-letters-to-juliet-0-230-0-345-crop.jpg?v=1ef7a3370e",
+      "url": "https://letterboxd.com/film/letters-to-juliet/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "leap-year",
+      "title": "Leap Year",
+      "year": "2010",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Anand Tucker"
+      ],
+      "actors": [
+        "Amy Adams",
+        "Matthew Goode",
+        "Adam Scott",
+        "John Lithgow",
+        "Noel O'Donovan",
+        "Tony Rohr"
+      ],
+      "countries": [
+        "Ireland",
+        "USA"
+      ],
+      "rating": 3.06,
+      "rating_count": 149382,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/2/1/8/36218-leap-year-0-230-0-345-crop.jpg?v=b9a8f2d992",
+      "url": "https://letterboxd.com/film/leap-year/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "midnight-in-paris",
+      "title": "Midnight in Paris",
+      "year": "2011",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "directors": [
+        "Woody Allen"
+      ],
+      "actors": [
+        "Owen Wilson",
+        "Rachel McAdams",
+        "Kathy Bates",
+        "Kurt Fuller",
+        "Adrien Brody",
+        "Carla Bruni"
+      ],
+      "countries": [
+        "France",
+        "Spain",
+        "USA"
+      ],
+      "rating": 3.71,
+      "rating_count": 831104,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1e/0j/vs/s6/xxSopLYATHXSepXcEaBh9Gazv6p-0-230-0-345-crop.jpg?v=6073ba801b",
+      "url": "https://letterboxd.com/film/midnight-in-paris/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-hangover-part-ii",
+      "title": "The Hangover Part II",
+      "year": "2011",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Todd Phillips"
+      ],
+      "actors": [
+        "Bradley Cooper",
+        "Ed Helms",
+        "Zach Galifianakis",
+        "Justin Bartha",
+        "Mason Lee",
+        "Ken Jeong"
+      ],
+      "countries": [
+        "USA",
+        "Thailand"
+      ],
+      "rating": 3.14,
+      "rating_count": 786639,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/14/sk/45/1c/hFUsdnUoQDQ02EVlKTyhDTdehEr-0-230-0-345-crop.jpg?v=b607a95894",
+      "url": "https://letterboxd.com/film/the-hangover-part-ii/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-best-exotic-marigold-hotel",
+      "title": "The Best Exotic Marigold Hotel",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "John Madden"
+      ],
+      "actors": [
+        "Bill Nighy",
+        "Maggie Smith",
+        "Tom Wilkinson",
+        "Judi Dench",
+        "Dev Patel",
+        "Penelope Wilton"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.39,
+      "rating_count": 42455,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/7/8/6/61786-the-best-exotic-marigold-hotel-0-230-0-345-crop.jpg?v=f8f5f18ff5",
+      "url": "https://letterboxd.com/film/the-best-exotic-marigold-hotel/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "to-rome-with-love",
+      "title": "To Rome with Love",
+      "year": "2012",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Woody Allen"
+      ],
+      "actors": [
+        "Woody Allen",
+        "Roberto Benigni",
+        "Penélope Cruz",
+        "Alec Baldwin",
+        "Judy Davis",
+        "Jesse Eisenberg"
+      ],
+      "countries": [
+        "Italy",
+        "USA"
+      ],
+      "rating": 2.93,
+      "rating_count": 56079,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6j/ae/it/n4/fsjsSeBFVuih7XpxyNVatq5vi39-0-230-0-345-crop.jpg?v=95bb8c2396",
+      "url": "https://letterboxd.com/film/to-rome-with-love/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "blended",
+      "title": "Blended",
+      "year": "2014",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Frank Coraci"
+      ],
+      "actors": [
+        "Adam Sandler",
+        "Drew Barrymore",
+        "Kevin Nealon",
+        "Terry Crews",
+        "Wendi McLendon-Covey",
+        "Bella Thorne"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.17,
+      "rating_count": 289588,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/3/3/1/4/163314-blended-0-230-0-345-crop.jpg?v=f9421de6b4",
+      "url": "https://letterboxd.com/film/blended/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "call-me-by-your-name",
+      "title": "Call Me by Your Name",
+      "year": "2017",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Luca Guadagnino"
+      ],
+      "actors": [
+        "Armie Hammer",
+        "Timothée Chalamet",
+        "Michael Stuhlbarg",
+        "Amira Casar",
+        "Esther Garrel",
+        "Victoire du Bois"
+      ],
+      "countries": [
+        "Brazil",
+        "France",
+        "Italy",
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 2938036,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g9/9t/cc/7u/tcNniniS4rfqrLH0oORikJfnIwY-0-230-0-345-crop.jpg?v=f0c073f2b4",
+      "url": "https://letterboxd.com/film/call-me-by-your-name/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "crazy-rich-asians",
+      "title": "Crazy Rich Asians",
+      "year": "2018",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Jon M. Chu"
+      ],
+      "actors": [
+        "Constance Wu",
+        "Henry Golding",
+        "Michelle Yeoh",
+        "Gemma Chan",
+        "Lisa Lu",
+        "Awkwafina"
+      ],
+      "countries": [
+        "USA",
+        "Hong Kong"
+      ],
+      "rating": 3.53,
+      "rating_count": 959745,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/7/2/3/8/387238-crazy-rich-asians-0-230-0-345-crop.jpg?v=21695f4b1f",
+      "url": "https://letterboxd.com/film/crazy-rich-asians/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "ticket-to-paradise-2022",
+      "title": "Ticket to Paradise",
+      "year": "2022",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Ol Parker"
+      ],
+      "actors": [
+        "Julia Roberts",
+        "George Clooney",
+        "Kaitlyn Dever",
+        "Billie Lourd",
+        "Maxime Bouttier",
+        "Lucas Bravo"
+      ],
+      "countries": [
+        "Australia",
+        "USA",
+        "UK"
+      ],
+      "rating": 2.73,
+      "rating_count": 188711,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/8/2/9/6/718296-ticket-to-paradise-0-230-0-345-crop.jpg?v=edc76b3fdb",
+      "url": "https://letterboxd.com/film/ticket-to-paradise-2022/",
+      "appears_in_n_lists": 1
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Comedy": 23,
+      "Drama": 22,
+      "Romance": 22,
+      "Thriller": 3,
+      "Adventure": 3,
+      "Crime": 2,
+      "Fantasy": 2,
+      "Horror": 1,
+      "Science Fiction": 1,
+      "History": 1,
+      "Action": 1
+    },
+    "directors": {
+      "Woody Allen": 3,
+      "Ruben Östlund": 1,
+      "Lynne Ramsay": 1,
+      "Brandon Cronenberg": 1,
+      "Emmanuel Marre": 1,
+      "Julie Lecoustre": 1,
+      "Charlotte Wells": 1,
+      "Jacques Tati": 1,
+      "William Wyler": 1,
+      "Sydney Pollack": 1,
+      "Lewis Gilbert": 1,
+      "Whit Stillman": 1,
+      "Anthony Minghella": 1,
+      "Danny Boyle": 1,
+      "Peter Jackson": 1,
+      "Sofia Coppola": 1,
+      "Audrey Wells": 1,
+      "Joe Wright": 1,
+      "Alejandro G. Iñárritu": 1,
+      "Nancy Meyers": 1
+    },
+    "years": {
+      "1953": 2,
+      "1985": 1,
+      "1989": 1,
+      "1994": 1,
+      "1999": 1,
+      "2000": 1,
+      "2001": 1,
+      "2002": 1,
+      "2003": 2,
+      "2005": 1,
+      "2006": 3,
+      "2007": 1,
+      "2008": 4,
+      "2010": 3,
+      "2011": 3,
+      "2012": 1,
+      "2014": 1,
+      "2017": 1,
+      "2018": 1,
+      "2021": 1,
+      "2022": 3,
+      "2023": 1
+    }
+  }
+}

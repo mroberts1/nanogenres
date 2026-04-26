@@ -1,0 +1,343 @@
+{
+  "query": "hauntologies",
+  "slug": "hauntologies",
+  "min_list_appearances_used": 1,
+  "source_lists": [
+    {
+      "href": "/dokoissho/list/hauntologies/",
+      "user": "dokoissho",
+      "slug": "hauntologies",
+      "title": "Hauntologies",
+      "desc": "dokoissho is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by dokoissho",
+      "tags": [
+        "ghost",
+        "haunting"
+      ]
+    },
+    {
+      "href": "/micahvanderhoof/list/hauntologies/",
+      "user": "micahvanderhoof",
+      "slug": "hauntologies",
+      "title": "Hauntologies",
+      "desc": "From the Hauntologies shorts program; iFFY 2023. Copy:\n\"This set of cinematic spectralities isn't for the faint of heart! Exploring themes of personal and cultural memory, identity, the expulsion of trauma, and more, a palpable sense of unease is all but guaranteed.\n\n\n\n\n\nThis program contains films with sequences of flashing lights that may affect those with photosensitive epilepsy or other photo sensitivities.\"",
+      "owner": "List by Micah Vanderhoof PRO",
+      "tags": [
+        "iffy",
+        "iffy-23"
+      ]
+    }
+  ],
+  "source_list_count": 2,
+  "films_considered": 11,
+  "canonical_count": 11,
+  "films": [
+    {
+      "slug": "a-ghost-story-2017",
+      "title": "A Ghost Story",
+      "year": "2017",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Romance",
+        "Mystery"
+      ],
+      "directors": [
+        "David Lowery"
+      ],
+      "actors": [
+        "Casey Affleck",
+        "Rooney Mara",
+        "McColm Cephas Jr.",
+        "Kenneisha Thompson",
+        "Grover Coulson",
+        "Liz Cardenas"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 337510,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zx/51/yo/oc/ydENrBUenr4khaP6tj4JZn1CpMs-0-230-0-345-crop.jpg?v=8a56a47391",
+      "url": "https://letterboxd.com/film/a-ghost-story-2017/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "personal-shopper",
+      "title": "Personal Shopper",
+      "year": "2016",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Olivier Assayas"
+      ],
+      "actors": [
+        "Kristen Stewart",
+        "Lars Eidinger",
+        "Sigrid Bouaziz",
+        "Anders Danielsen Lie",
+        "Ty Olwin",
+        "Hammou Graïa"
+      ],
+      "countries": [
+        "Czechia",
+        "France",
+        "Germany"
+      ],
+      "rating": 3.38,
+      "rating_count": 103165,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1k/rb/rc/mr/jDOWYDmJvGkVkVHf7Ru66gy6ry8-0-230-0-345-crop.jpg?v=75cc51eae1",
+      "url": "https://letterboxd.com/film/personal-shopper/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-shining",
+      "title": "The Shining",
+      "year": "1980",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "actors": [
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd",
+        "Scatman Crothers",
+        "Barry Nelson",
+        "Philip Stone"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.22,
+      "rating_count": 3094164,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7s/m2/bw/d0/caoYMcjUamGoBVy65i1AHJBvdzw-0-230-0-345-crop.jpg?v=88d9d6cce4",
+      "url": "https://letterboxd.com/film/the-shining/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "unreel",
+      "title": "Unreel",
+      "year": "2022",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "C.I. Smith"
+      ],
+      "actors": [
+        "Nicole Joseph"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/3/5/1/6/1143516-unreel-0-230-0-345-crop.jpg?v=5a1a9cfbcd",
+      "url": "https://letterboxd.com/film/unreel/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "ai-mama",
+      "title": "A.I. Mama",
+      "year": "2020",
+      "genres": [
+        "Horror",
+        "Animation",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Asuka Lin"
+      ],
+      "actors": [
+        "Kei"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.66,
+      "rating_count": 685,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/2/2/1/7/662217-a-i-mama-0-230-0-345-crop.jpg?v=823e285322",
+      "url": "https://letterboxd.com/film/ai-mama/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "bedroom-people",
+      "title": "Bedroom People",
+      "year": "2022",
+      "genres": [
+        "Animation",
+        "Horror"
+      ],
+      "directors": [
+        "Vivien Forsans"
+      ],
+      "actors": [],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/3/1/5/0/873150-bedroom-people-0-230-0-345-crop.jpg?v=7bbd4d261c",
+      "url": "https://letterboxd.com/film/bedroom-people/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "in-the-flesh-2022",
+      "title": "In the Flesh",
+      "year": "2022",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Daphne Gardner"
+      ],
+      "actors": [
+        "Edy Modica",
+        "Mo Stark"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.3,
+      "rating_count": 560,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/6/5/0/1/926501-in-the-flesh-0-230-0-345-crop.jpg?v=e64cb9ab9b",
+      "url": "https://letterboxd.com/film/in-the-flesh-2022/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "the-anteroom",
+      "title": "The Anteroom",
+      "year": "2022",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Elisa Puerto Aubel"
+      ],
+      "actors": [
+        "Irene Anula"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/8/1/2/8/968128-the-anteroom-0-230-0-345-crop.jpg?v=5f0a8ad989",
+      "url": "https://letterboxd.com/film/the-anteroom/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "o-glory",
+      "title": "O, GLORY!",
+      "year": "2022",
+      "genres": [],
+      "directors": [
+        "Joe Williams",
+        "Charlie Edwards-Moss"
+      ],
+      "actors": [
+        "Sam Spruell",
+        "Emily Stott",
+        "Jonathan Livingstone",
+        "Vincent Shiels",
+        "Charlie Ratcliffe"
+      ],
+      "countries": [],
+      "rating": 3.33,
+      "rating_count": 326,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/1/2/9/4/1/912941-o-glory--0-230-0-345-crop.jpg?v=49b000a7d0",
+      "url": "https://letterboxd.com/film/o-glory/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "everybody-goes-to-the-hospital",
+      "title": "Everybody Goes to the Hospital",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "Animation"
+      ],
+      "directors": [
+        "Tiffany Kimmel"
+      ],
+      "actors": [
+        "Lucia Hadley Wheeler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.57,
+      "rating_count": 243,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/1/0/6/4/691064-everybody-goes-to-the-hospital-0-230-0-345-crop.jpg?v=f0530ec0d8",
+      "url": "https://letterboxd.com/film/everybody-goes-to-the-hospital/",
+      "appears_in_n_lists": 1
+    },
+    {
+      "slug": "dead-end-2022-1",
+      "title": "Dead End",
+      "year": "2022",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Dima Barch"
+      ],
+      "actors": [
+        "Danil Chernov",
+        "Daniil Gazizullin",
+        "Svyatoslav Rogozhan",
+        "Yan Tsapnik"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/1/1/1/3/801113-dead-end-0-230-0-345-crop.jpg?v=b2a4ae69e2",
+      "url": "https://letterboxd.com/film/dead-end-2022-1/",
+      "appears_in_n_lists": 1
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Horror": 7,
+      "Drama": 4,
+      "Thriller": 3,
+      "Animation": 3,
+      "Mystery": 2,
+      "Science Fiction": 2,
+      "Fantasy": 1,
+      "Romance": 1,
+      "Action": 1
+    },
+    "directors": {
+      "David Lowery": 1,
+      "Olivier Assayas": 1,
+      "Stanley Kubrick": 1,
+      "C.I. Smith": 1,
+      "Asuka Lin": 1,
+      "Vivien Forsans": 1,
+      "Daphne Gardner": 1,
+      "Elisa Puerto Aubel": 1,
+      "Joe Williams": 1,
+      "Charlie Edwards-Moss": 1,
+      "Tiffany Kimmel": 1,
+      "Dima Barch": 1
+    },
+    "years": {
+      "1980": 1,
+      "2016": 1,
+      "2017": 1,
+      "2020": 1,
+      "2022": 7
+    }
+  }
+}

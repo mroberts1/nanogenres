@@ -1,0 +1,1878 @@
+{
+  "query": "video nasty",
+  "slug": "video-nasty",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/kungkthulhu/list/video-nasty/",
+      "user": "kungkthulhu",
+      "slug": "video-nasty",
+      "title": "Video Nasty",
+      "desc": "All 72 section 1 & 2 video nasties, in release date order.",
+      "owner": "List by KungKthulhu PRO",
+      "tags": [
+        "allstats",
+        "videonasty",
+        "banned",
+        "controversial",
+        "horror"
+      ]
+    },
+    {
+      "href": "/lastliberal/list/video-nasty/",
+      "user": "lastliberal",
+      "slug": "video-nasty",
+      "title": "Video Nasty",
+      "desc": "\"Video nasty\" was a colloquial term coined in the United Kingdom by 1982 which originally applied to a number of films distributed on video cassette that were criticized for their violent content by the press, commentators such as Mary Whitehouse, and various religious organizations.",
+      "owner": "List by Ben Larson PRO",
+      "tags": [
+        "banned",
+        "britain",
+        "horror",
+        "violence",
+        "video-cassette"
+      ]
+    },
+    {
+      "href": "/screeningnotes/list/video-nasty/",
+      "user": "screeningnotes",
+      "slug": "video-nasty",
+      "title": "Video Nasty",
+      "desc": "internal reference list",
+      "owner": "List by ScreeningNotes PATRON",
+      "tags": []
+    },
+    {
+      "href": "/londonjames129/list/video-nasty/",
+      "user": "londonjames129",
+      "slug": "video-nasty",
+      "title": "Video Nasty",
+      "desc": "All 72 video nasties in release date order.",
+      "owner": "List by London PATRON",
+      "tags": [
+        "allstats",
+        "videonasty",
+        "banned",
+        "controversial"
+      ]
+    },
+    {
+      "href": "/cinemasimulacra/list/video-nasty/",
+      "user": "cinemasimulacra",
+      "slug": "video-nasty",
+      "title": "Video Nasty",
+      "desc": "For all things extreme; blasphemy, sex, violence, etc.\n\nHighlights from the splatter flicks, low budget cult horror, Golden Age of Porn, divisive directors, and oft-banned movies.",
+      "owner": "List by Cinema Simulacra PRO",
+      "tags": []
+    },
+    {
+      "href": "/dalki/list/video-nasty/",
+      "user": "dalki",
+      "slug": "video-nasty",
+      "title": "Video nasty",
+      "desc": "peliculas baneadas",
+      "owner": "List by dalki",
+      "tags": []
+    },
+    {
+      "href": "/cubear1959/list/video-nasty/",
+      "user": "cubear1959",
+      "slug": "video-nasty",
+      "title": "Video Nasty",
+      "desc": "List of the infamous Video Nasty's in order of release",
+      "owner": "List by Edward Fernandez PRO",
+      "tags": [
+        "allstats",
+        "videonasty",
+        "banned",
+        "controversial"
+      ]
+    },
+    {
+      "href": "/runsinrivers/list/video-nasty/",
+      "user": "runsinrivers",
+      "slug": "video-nasty",
+      "title": "Video Nasty",
+      "desc": "RunsInRivers is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by RunsInRivers",
+      "tags": []
+    },
+    {
+      "href": "/1987robbie/list/video-nasty/",
+      "user": "1987robbie",
+      "slug": "video-nasty",
+      "title": "VIDEO NASTY",
+      "desc": "Section 1: Prosecuted films (Absurd - Zombie Flesh Eaters \n\nSection 2: Non Prosecuted films (The Beyond - Zombie Creeping Flesh) \n\nSection 3: Video Nasties (Abducted - Zombie Lake) \n\nThere were also films banned by the BBFC but not classed as video nasties, those titles are not included on this list. \n\nThere were also other films seized by the police but not classed as video nasties including titles like “Basket Case”. Those are also not listed here.",
+      "owner": "List by Robbie PATRON",
+      "tags": [
+        "video-nasties"
+      ]
+    },
+    {
+      "href": "/theejaygoose/list/video-nasty/",
+      "user": "theejaygoose",
+      "slug": "video-nasty",
+      "title": "Video Nasty",
+      "desc": "keepin track of keepin it nasty. h/t to @kungkthulu for the original lb list",
+      "owner": "List by anthropophagoose PATRON",
+      "tags": [
+        "allstats",
+        "videonasty",
+        "banned",
+        "controversial",
+        "horror"
+      ]
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 204,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "the-last-house-on-the-left",
+      "title": "The Last House on the Left",
+      "year": "1972",
+      "genres": [
+        "Horror",
+        "Crime"
+      ],
+      "directors": [
+        "Wes Craven"
+      ],
+      "actors": [
+        "Sandra Peabody",
+        "Lucy Grantham",
+        "David Hess",
+        "Fred J. Lincoln",
+        "Jeramie Rain",
+        "Marc Sheffler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.87,
+      "rating_count": 60967,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/3/1/1/42311-the-last-house-on-the-left-0-230-0-345-crop.jpg?v=42951be620",
+      "url": "https://letterboxd.com/film/the-last-house-on-the-left/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "a-bay-of-blood",
+      "title": "A Bay of Blood",
+      "year": "1971",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Mario Bava"
+      ],
+      "actors": [
+        "Claudine Auger",
+        "Luigi Pistilli",
+        "Claudio Camaso",
+        "Anna Maria Rosati",
+        "Chris Avram",
+        "Leopoldo Trieste"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.37,
+      "rating_count": 39021,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/3/48833-a-bay-of-blood-0-230-0-345-crop.jpg?v=8576ae86dd",
+      "url": "https://letterboxd.com/film/a-bay-of-blood/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "i-spit-on-your-grave",
+      "title": "I Spit on Your Grave",
+      "year": "1978",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Meir Zarchi"
+      ],
+      "actors": [
+        "Camille Keaton",
+        "Eron Tabor",
+        "Richard Pace",
+        "Anthony Nichols",
+        "Gunter Kleemann",
+        "Alexis Magnotti"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.78,
+      "rating_count": 39273,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/1/9/0/36190-i-spit-on-your-grave-0-230-0-345-crop.jpg?v=b14ebe10da",
+      "url": "https://letterboxd.com/film/i-spit-on-your-grave/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-driller-killer",
+      "title": "The Driller Killer",
+      "year": "1979",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Abel Ferrara"
+      ],
+      "actors": [
+        "Abel Ferrara",
+        "Carolyn Marz",
+        "Baybi Day",
+        "Harry Schultz",
+        "Alan Wynroth",
+        "Maria Helhoski"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.08,
+      "rating_count": 21500,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/9/1/43791-the-driller-killer-0-230-0-345-crop.jpg?v=461bd696ff",
+      "url": "https://letterboxd.com/film/the-driller-killer/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "zombie-flesh-eaters",
+      "title": "Zombie Flesh Eaters",
+      "year": "1979",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Tisa Farrow",
+        "Ian McCulloch",
+        "Richard Johnson",
+        "Olga Karlatos",
+        "Al Cliver",
+        "Auretta Gay"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.58,
+      "rating_count": 54393,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/0/9/6/48096-zombie-flesh-eaters-0-230-0-345-crop.jpg?v=1e512e68f4",
+      "url": "https://letterboxd.com/film/zombie-flesh-eaters/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "cannibal-holocaust",
+      "title": "Cannibal Holocaust",
+      "year": "1980",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Ruggero Deodato"
+      ],
+      "actors": [
+        "Robert Kerman",
+        "Francesca Ciardi",
+        "Perry Pirkanen",
+        "Luca Barbareschi",
+        "Salvatore Basile",
+        "Ricardo Fuentes"
+      ],
+      "countries": [
+        "Colombia",
+        "Italy",
+        "Venezuela"
+      ],
+      "rating": 2.62,
+      "rating_count": 110872,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/4/6/47646-cannibal-holocaust-0-230-0-345-crop.jpg?v=4ca2f126bb",
+      "url": "https://letterboxd.com/film/cannibal-holocaust/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "inferno-1980",
+      "title": "Inferno",
+      "year": "1980",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Leigh McCloskey",
+        "Irene Miracle",
+        "Eleonora Giorgi",
+        "Daria Nicolodi",
+        "Sacha Pitoëff",
+        "Alida Valli"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.46,
+      "rating_count": 76577,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/5/8/8/41588-inferno-0-230-0-345-crop.jpg?v=3be1ea59fb",
+      "url": "https://letterboxd.com/film/inferno-1980/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "house-on-the-edge-of-the-park",
+      "title": "House on the Edge of the Park",
+      "year": "1980",
+      "genres": [
+        "Horror",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Ruggero Deodato"
+      ],
+      "actors": [
+        "David Hess",
+        "Annie Belle",
+        "Giovanni Lombardo Radice",
+        "Lorraine De Selle",
+        "Christian Borromeo",
+        "Marie Claude Joseph"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.03,
+      "rating_count": 7124,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/4/6/3/33463-house-on-the-edge-of-the-park-0-230-0-345-crop.jpg?v=1f96dbcdd6",
+      "url": "https://letterboxd.com/film/house-on-the-edge-of-the-park/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-beyond",
+      "title": "The Beyond",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Catriona MacColl",
+        "David Warbeck",
+        "Cinzia Monreale",
+        "Antoine Saint-John",
+        "Veronica Lazăr",
+        "Larry Ray"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.52,
+      "rating_count": 65770,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/tr/ls/ir/ee/71A5wVwHz0uJKXu9dsq15CaPRl-0-230-0-345-crop.jpg?v=a99b3a3394",
+      "url": "https://letterboxd.com/film/the-beyond/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "possession",
+      "title": "Possession",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Andrzej Żuławski"
+      ],
+      "actors": [
+        "Isabelle Adjani",
+        "Sam Neill",
+        "Margit Carstensen",
+        "Heinz Bennent",
+        "Johanna Hofer",
+        "Carl Duering"
+      ],
+      "countries": [
+        "France",
+        "Germany"
+      ],
+      "rating": 4.04,
+      "rating_count": 445143,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8c/pk/z8/4v/aIjO3kraeaD4MDBSef3rTO2vIuZ-0-230-0-345-crop.jpg?v=cb9f332628",
+      "url": "https://letterboxd.com/film/possession/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-house-by-the-cemetery",
+      "title": "The House by the Cemetery",
+      "year": "1981",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Catriona MacColl",
+        "Paolo Malco",
+        "Ania Pieroni",
+        "Giovanni Frezza",
+        "Silvia Collatina",
+        "Dagmar Lassander"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.24,
+      "rating_count": 31886,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/6/4/33364-the-house-by-the-cemetery-0-230-0-345-crop.jpg?v=d0efeaeb9b",
+      "url": "https://letterboxd.com/film/the-house-by-the-cemetery/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-evil-dead",
+      "title": "The Evil Dead",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Sam Raimi"
+      ],
+      "actors": [
+        "Bruce Campbell",
+        "Ellen Sandweiss",
+        "Richard DeManincor",
+        "Betsy Baker",
+        "Theresa Tilly",
+        "Philip A. Gillis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.65,
+      "rating_count": 561012,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/c7/4g/ae/zn/7cpSdCrBY7UhiygkcP57dpixXsW-0-230-0-345-crop.jpg?v=1525e98692",
+      "url": "https://letterboxd.com/film/the-evil-dead/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "nightmare-1981",
+      "title": "Nightmare",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Romano Scavolini"
+      ],
+      "actors": [
+        "Baird Stafford",
+        "Sharon Smith",
+        "C.J. Cooke",
+        "Mik Cribben",
+        "Danny Ronan",
+        "Bill Milling"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.06,
+      "rating_count": 7366,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/5/9/3/24593-nightmare-0-230-0-345-crop.jpg?v=6f101ed9d8",
+      "url": "https://letterboxd.com/film/nightmare-1981/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "tenebre",
+      "title": "Tenebre",
+      "year": "1982",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Anthony Franciosa",
+        "John Saxon",
+        "Daria Nicolodi",
+        "Giuliano Gemma",
+        "Christian Borromeo",
+        "Mirella D'Angelo"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.74,
+      "rating_count": 85663,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/6/2/3/32623-tenebre-0-230-0-345-crop.jpg?v=7486dd976a",
+      "url": "https://letterboxd.com/film/tenebre/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "blood-feast",
+      "title": "Blood Feast",
+      "year": "1963",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Herschell Gordon Lewis"
+      ],
+      "actors": [
+        "William Kerwin",
+        "Mal Arnold",
+        "Connie Mason",
+        "Lyn Bolton",
+        "Scott H. Hall",
+        "Christy Foushee"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.73,
+      "rating_count": 15686,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/8/5/9/33859-blood-feast-0-230-0-345-crop.jpg?v=b5d9197553",
+      "url": "https://letterboxd.com/film/blood-feast/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-ghastly-ones",
+      "title": "The Ghastly Ones",
+      "year": "1968",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Andy Milligan"
+      ],
+      "actors": [
+        "Veronica Radburn",
+        "Maggie Rogers",
+        "Hal Borske",
+        "Anne Linden",
+        "Fib LaBlaque",
+        "Carol Vogel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.61,
+      "rating_count": 1486,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/8/2/6/70826-the-ghastly-ones-0-230-0-345-crop.jpg?v=8fb1188408",
+      "url": "https://letterboxd.com/film/the-ghastly-ones/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "night-of-the-bloody-apes",
+      "title": "Night of the Bloody Apes",
+      "year": "1969",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "René Cardona"
+      ],
+      "actors": [
+        "José Elías Moreno",
+        "Carlos López Moctezuma",
+        "Armando Silvestre",
+        "Norma Lazareno",
+        "Agustín Martínez Solares",
+        "Gerardo Zepeda"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "rating": 2.57,
+      "rating_count": 1757,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/4/7/6/22476-night-of-the-bloody-apes-0-230-0-345-crop.jpg?v=40cf522efc",
+      "url": "https://letterboxd.com/film/night-of-the-bloody-apes/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "love-camp-7",
+      "title": "Love Camp 7",
+      "year": "1969",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "War"
+      ],
+      "directors": [
+        "Lee Frost"
+      ],
+      "actors": [
+        "Bob Cresse",
+        "Maria Lease",
+        "Kathy Williams",
+        "John Alderman",
+        "Bruce Kimball",
+        "David F. Friedman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.51,
+      "rating_count": 883,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/4/8/8/33488-love-camp-7-0-230-0-345-crop.jpg?v=f542963b91",
+      "url": "https://letterboxd.com/film/love-camp-7/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-cannibal-man",
+      "title": "The Cannibal Man",
+      "year": "1972",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Eloy de la Iglesia"
+      ],
+      "actors": [
+        "Vicente Parra",
+        "Emma Cohen",
+        "Eusebio Poncela",
+        "Lola Herrera",
+        "Vicky Lagos",
+        "Ismael Merlo"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "rating": 3.38,
+      "rating_count": 4374,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/9/4/7/32947-the-cannibal-man-0-230-0-345-crop.jpg?v=643bc5bbb4",
+      "url": "https://letterboxd.com/film/the-cannibal-man/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "man-from-deep-river",
+      "title": "Man from Deep River",
+      "year": "1972",
+      "genres": [
+        "Adventure",
+        "Horror"
+      ],
+      "directors": [
+        "Umberto Lenzi"
+      ],
+      "actors": [
+        "Ivan Rassimov",
+        "Me Me Lai",
+        "Prasitsak Singhara",
+        "Sulallewan Suxantat",
+        "Ong Ard",
+        "Prapas Chindang"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.78,
+      "rating_count": 2497,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/0/6/4/53064-man-from-deep-river-0-230-0-345-crop.jpg?v=8496898008",
+      "url": "https://letterboxd.com/film/man-from-deep-river/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "dont-look-in-the-basement",
+      "title": "Don't Look in the Basement",
+      "year": "1973",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "S.F. Brownrigg"
+      ],
+      "actors": [
+        "Bill McGhee",
+        "Jessie Lee Fulton",
+        "Robert Dracup",
+        "Harryette Warren",
+        "Michael Harvey",
+        "Jessie Kirby"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.56,
+      "rating_count": 3006,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/2/5/37025-don-t-look-in-the-basement-0-230-0-345-crop.jpg?v=6398364c12",
+      "url": "https://letterboxd.com/film/dont-look-in-the-basement/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "flesh-for-frankenstein",
+      "title": "Flesh for Frankenstein",
+      "year": "1973",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Paul Morrissey"
+      ],
+      "actors": [
+        "Joe Dallesandro",
+        "Udo Kier",
+        "Monique van Vooren",
+        "Dalila Di Lazzaro",
+        "Arno Jürging",
+        "Srđan Zelenović"
+      ],
+      "countries": [
+        "France",
+        "Italy",
+        "USA"
+      ],
+      "rating": 3.25,
+      "rating_count": 14924,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/9/2/4/49924-flesh-for-frankenstein-0-230-0-345-crop.jpg?v=3e43224ee9",
+      "url": "https://letterboxd.com/film/flesh-for-frankenstein/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "lisa-lisa",
+      "title": "Lisa, Lisa",
+      "year": "1974",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Frederick R. Friedel"
+      ],
+      "actors": [
+        "Leslie Lee",
+        "Jack Canon",
+        "Ray Green",
+        "Frederick R. Friedel",
+        "Douglas Powers",
+        "Frank Jones"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.95,
+      "rating_count": 3676,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/0/0/9700-lisa-lisa-0-230-0-345-crop.jpg?v=227c193929",
+      "url": "https://letterboxd.com/film/lisa-lisa/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-living-dead-at-manchester-morgue",
+      "title": "The Living Dead at Manchester Morgue",
+      "year": "1974",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Jorge Grau"
+      ],
+      "actors": [
+        "Cristina Galbó",
+        "Ray Lovelock",
+        "Arthur Kennedy",
+        "Aldo Massasso",
+        "Giorgio Trestini",
+        "Roberto Posse"
+      ],
+      "countries": [
+        "Italy",
+        "Spain",
+        "UK"
+      ],
+      "rating": 3.44,
+      "rating_count": 15151,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/9/2/1/35921-the-living-dead-at-manchester-morgue-0-230-0-345-crop.jpg?v=b911ba40c9",
+      "url": "https://letterboxd.com/film/the-living-dead-at-manchester-morgue/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "night-of-the-howling-beast",
+      "title": "Night of the Howling Beast",
+      "year": "1975",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Horror"
+      ],
+      "directors": [
+        "Miguel Iglesias"
+      ],
+      "actors": [
+        "Paul Naschy",
+        "Mercedes Molina",
+        "Silvia Solar",
+        "Gil Vidal",
+        "Luis Induni",
+        "Josep Castillo"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "rating": 2.88,
+      "rating_count": 1558,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/9/11929-night-of-the-howling-beast-0-230-0-345-crop.jpg?v=9f718fe0ec",
+      "url": "https://letterboxd.com/film/night-of-the-howling-beast/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "frozen-scream",
+      "title": "Frozen Scream",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Frank Roach"
+      ],
+      "actors": [
+        "Renee Harmon",
+        "Lynne Kocol",
+        "Wolf Muser",
+        "Thomas McGowan",
+        "Wayne Liebman",
+        "Lee James"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.37,
+      "rating_count": 1140,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/8/1/1/70811-frozen-scream-0-230-0-345-crop.jpg?v=47b5514cfc",
+      "url": "https://letterboxd.com/film/frozen-scream/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "late-night-trains",
+      "title": "Late Night Trains",
+      "year": "1975",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Aldo Lado"
+      ],
+      "actors": [
+        "Flavio Bucci",
+        "Macha Méril",
+        "Gianfranco De Grassi",
+        "Enrico Maria Salerno",
+        "Marina Berti",
+        "Irene Miracle"
+      ],
+      "countries": [
+        "Germany",
+        "Italy"
+      ],
+      "rating": 3.1,
+      "rating_count": 5095,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/9/2/24892-late-night-trains-0-230-0-345-crop.jpg?v=429aaa06c1",
+      "url": "https://letterboxd.com/film/late-night-trains/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "snuff",
+      "title": "Snuff",
+      "year": "1976",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Michael Findlay",
+        "Horacio Fredriksson",
+        "Simon Nuchtern"
+      ],
+      "actors": [
+        "Margarita Amuchástegui",
+        "Tina Austin",
+        "Ana Carro",
+        "Brian Cary",
+        "Liliana Fernández Blanco",
+        "Michael Findlay"
+      ],
+      "countries": [
+        "Argentina",
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.04,
+      "rating_count": 2567,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/4/8/15948-snuff-0-230-0-345-crop.jpg?v=be90c04950",
+      "url": "https://letterboxd.com/film/snuff/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-witch-who-came-from-the-sea",
+      "title": "The Witch Who Came from the Sea",
+      "year": "1976",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Matt Cimber"
+      ],
+      "actors": [
+        "Millie Perkins",
+        "Lonny Chapman",
+        "Vanessa Brown",
+        "Peggy Feury",
+        "Jean Pierre Camps",
+        "Mark Livingston"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.22,
+      "rating_count": 8284,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sa/ov/cg/qy/gQojSDeqGoGuUJ0CrLVHZBKijQP-0-230-0-345-crop.jpg?v=ada718ff6d",
+      "url": "https://letterboxd.com/film/the-witch-who-came-from-the-sea/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "expose-1976",
+      "title": "Exposé",
+      "year": "1976",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "James Kenelm Clarke"
+      ],
+      "actors": [
+        "Udo Kier",
+        "Linda Hayden",
+        "Fiona Richmond",
+        "Patsy Smart",
+        "Vic Armstrong",
+        "Karl Howman"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 2.78,
+      "rating_count": 1679,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/9/4/8/24948-expose-0-230-0-345-crop.jpg?v=1c8c06173f",
+      "url": "https://letterboxd.com/film/expose-1976/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "island-of-death",
+      "title": "Island of Death",
+      "year": "1976",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Nico Mastorakis"
+      ],
+      "actors": [
+        "Robert Behling",
+        "Jane Lyle",
+        "Jessica Dublin",
+        "Gerard Gonalons",
+        "Jannice McConnell",
+        "Clay Half"
+      ],
+      "countries": [
+        "Greece"
+      ],
+      "rating": 2.76,
+      "rating_count": 4118,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/3/7/24837-island-of-death-0-230-0-345-crop.jpg?v=4e3dae0efd",
+      "url": "https://letterboxd.com/film/island-of-death/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "ss-experiment-love-camp",
+      "title": "SS Experiment Love Camp",
+      "year": "1976",
+      "genres": [
+        "War",
+        "Horror"
+      ],
+      "directors": [
+        "Sergio Garrone"
+      ],
+      "actors": [
+        "Mircha Carven",
+        "Paola Corazzi",
+        "Giorgio Cerioni",
+        "Giovanna Mainardi",
+        "Serafino Profumo",
+        "Attilio Dottesio"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.31,
+      "rating_count": 1150,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/0/1/4/55014-ss-experiment-love-camp-0-230-0-345-crop.jpg?v=c3db35c754",
+      "url": "https://letterboxd.com/film/ss-experiment-love-camp/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "eaten-alive",
+      "title": "Eaten Alive",
+      "year": "1976",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Tobe Hooper"
+      ],
+      "actors": [
+        "Neville Brand",
+        "Mel Ferrer",
+        "Carolyn Jones",
+        "Marilyn Burns",
+        "William Finley",
+        "Stuart Whitman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.02,
+      "rating_count": 18753,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7b/pu/o2/u4/eaten%20alive-0-230-0-345-crop.jpg?v=56564d2357",
+      "url": "https://letterboxd.com/film/eaten-alive/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "gestapos-last-orgy",
+      "title": "Gestapo's Last Orgy",
+      "year": "1977",
+      "genres": [
+        "Drama",
+        "Horror",
+        "War"
+      ],
+      "directors": [
+        "Cesare Canevari"
+      ],
+      "actors": [
+        "Daniela Poggi",
+        "Adriano Micantoni",
+        "Maristella Greco",
+        "Fulvio Ricciardi",
+        "Antiniska Nemour",
+        "Caterina Barbero"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.59,
+      "rating_count": 1382,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/9/3/24893-gestapos-last-orgy-0-230-0-345-crop.jpg?v=5cb2a3c150",
+      "url": "https://letterboxd.com/film/gestapos-last-orgy/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-beast-in-heat",
+      "title": "The Beast in Heat",
+      "year": "1977",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "War"
+      ],
+      "directors": [
+        "Luigi Batzella"
+      ],
+      "actors": [
+        "Macha Magall",
+        "Gino Turini",
+        "Edilio Kim",
+        "Xiro Papas",
+        "Salvatore Baccaro",
+        "Brigitte Skay"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.22,
+      "rating_count": 1728,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/5/2/3/27523-the-beast-in-heat-0-230-0-345-crop.jpg?v=808d59d200",
+      "url": "https://letterboxd.com/film/the-beast-in-heat/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "fight-for-your-life",
+      "title": "Fight for Your Life",
+      "year": "1977",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Robert A. Endelson"
+      ],
+      "actors": [
+        "Robert Judd",
+        "Catherine Peppers",
+        "Lela Small",
+        "Yvonne Ross",
+        "Reggie Rock Bythewood",
+        "Ramon Saunders"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.19,
+      "rating_count": 1746,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/3/3/4/25334-fight-for-your-life-0-230-0-345-crop.jpg?v=2c9835127f",
+      "url": "https://letterboxd.com/film/fight-for-your-life/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "faces-of-death",
+      "title": "Faces of Death",
+      "year": "1978",
+      "genres": [
+        "Documentary",
+        "Horror"
+      ],
+      "directors": [
+        "John Alan Schwartz"
+      ],
+      "actors": [
+        "Michael Carr",
+        "Samuel Berkowitz",
+        "Mary Ellen Brighton",
+        "Thomas Noguchi",
+        "John Alan Schwartz",
+        "Adolf Hitler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.33,
+      "rating_count": 14748,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/6/7/4/44674-faces-of-death-0-230-0-345-crop.jpg?v=d5fdcf3945",
+      "url": "https://letterboxd.com/film/faces-of-death/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-toolbox-murders",
+      "title": "The Toolbox Murders",
+      "year": "1978",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Dennis Donnelly"
+      ],
+      "actors": [
+        "Cameron Mitchell",
+        "Pamelyn Ferdin",
+        "Wesley Eure",
+        "Aneta Corsaut",
+        "Nicolas Beauvy",
+        "Tim Donnelly"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.73,
+      "rating_count": 7826,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/4/7/1/34471-the-toolbox-murders-0-230-0-345-crop.jpg?v=d805730e96",
+      "url": "https://letterboxd.com/film/the-toolbox-murders/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "slave-of-the-cannibal-god",
+      "title": "Slave of the Cannibal God",
+      "year": "1978",
+      "genres": [
+        "Adventure",
+        "Horror"
+      ],
+      "directors": [
+        "Sergio Martino"
+      ],
+      "actors": [
+        "Ursula Andress",
+        "Stacy Keach",
+        "Claudio Cassinelli",
+        "Antonio Marsina",
+        "Franco Fantasia",
+        "Lanfranco Spinola"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.72,
+      "rating_count": 4230,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/9/0/5/24905-slave-of-the-cannibal-god-0-230-0-345-crop.jpg?v=319687f51c",
+      "url": "https://letterboxd.com/film/slave-of-the-cannibal-god/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "mardi-gras-massacre",
+      "title": "Mardi Gras Massacre",
+      "year": "1978",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Jack Weis"
+      ],
+      "actors": [
+        "Curt Dawson",
+        "Gwen Arment",
+        "William Metzo",
+        "Laura Misch Owens",
+        "Cathryn Lacey",
+        "Nancy Dancer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.4,
+      "rating_count": 2400,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/5/2/7652-mardi-gras-massacre-0-230-0-345-crop.jpg?v=648762f8e2",
+      "url": "https://letterboxd.com/film/mardi-gras-massacre/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "i-miss-you-hugs-and-kisses",
+      "title": "I Miss You, Hugs and Kisses",
+      "year": "1978",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Murray Markowitz"
+      ],
+      "actors": [
+        "Elke Sommer",
+        "Donald Pilon",
+        "Chuck Shamata",
+        "George Touliatos",
+        "Cindy Girling",
+        "George Chuvalo"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 2.8,
+      "rating_count": 451,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/7/7/7/24777-i-miss-you-hugs-and-kisses-0-230-0-345-crop.jpg?v=bc8e45b3d1",
+      "url": "https://letterboxd.com/film/i-miss-you-hugs-and-kisses/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "dont-go-near-the-park",
+      "title": "Don't Go Near the Park",
+      "year": "1979",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Lawrence D. Foldes"
+      ],
+      "actors": [
+        "Aldo Ray",
+        "Meeno Peluce",
+        "Tammy Taylor",
+        "Barbara Bain",
+        "Robert Gribbin",
+        "Linnea Quigley"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.53,
+      "rating_count": 789,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/4/0/1/34401-don-t-go-near-the-park-0-230-0-345-crop.jpg?v=c7c46ee35b",
+      "url": "https://letterboxd.com/film/dont-go-near-the-park/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "killer-nun",
+      "title": "Killer Nun",
+      "year": "1979",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Giulio Berruti"
+      ],
+      "actors": [
+        "Anita Ekberg",
+        "Joe Dallesandro",
+        "Alida Valli",
+        "Massimo Serato",
+        "Daniele Dublino",
+        "Paola Morra"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.87,
+      "rating_count": 6259,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/8/5/5/22855-killer-nun-0-230-0-345-crop.jpg?v=f7fa2f8a52",
+      "url": "https://letterboxd.com/film/killer-nun/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "delirium",
+      "title": "Delirium",
+      "year": "1979",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Horror"
+      ],
+      "directors": [
+        "Peter Maris"
+      ],
+      "actors": [
+        "Turk Cekovsky",
+        "Debi Chaney",
+        "Terry TenBroek",
+        "Barron Winchester",
+        "Bob Winters",
+        "Garrett Bergfeld"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.55,
+      "rating_count": 2427,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/8/1/2/70812-delirium-0-230-0-345-crop.jpg?v=4eb969ef86",
+      "url": "https://letterboxd.com/film/delirium/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "human-experiments",
+      "title": "Human Experiments",
+      "year": "1979",
+      "genres": [
+        "Horror",
+        "Crime"
+      ],
+      "directors": [
+        "Gregory Goodell"
+      ],
+      "actors": [
+        "Linda Haynes",
+        "Geoffrey Lewis",
+        "Ellen Travolta",
+        "Lurene Tuttle",
+        "Mercedes Shirley",
+        "Darlene Craviotto"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 795,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/0/4/1/57041-human-experiments-0-230-0-345-crop.jpg?v=14e95461f7",
+      "url": "https://letterboxd.com/film/human-experiments/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "dont-go-in-the-house",
+      "title": "Don't Go in the House",
+      "year": "1979",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Joseph Ellison"
+      ],
+      "actors": [
+        "Dan Grimaldi",
+        "Robert Carnegie",
+        "Ruth Dardick",
+        "Charles Bonet",
+        "Bill Ricci",
+        "Johanna Brushay"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.06,
+      "rating_count": 9018,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/0/0/3/25003-don-t-go-in-the-house-0-230-0-345-crop.jpg?v=f332cc4986",
+      "url": "https://letterboxd.com/film/dont-go-in-the-house/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "contamination",
+      "title": "Contamination",
+      "year": "1980",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Luigi Cozzi"
+      ],
+      "actors": [
+        "Ian McCulloch",
+        "Louise Marleau",
+        "Marino Masé",
+        "Siegfried Rauch",
+        "Gisela Hahn",
+        "Carlo De Mejo"
+      ],
+      "countries": [
+        "Germany",
+        "Italy"
+      ],
+      "rating": 2.66,
+      "rating_count": 7794,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/9/5/6/24956-contamination-0-230-0-345-crop.jpg?v=b6600e5a55",
+      "url": "https://letterboxd.com/film/contamination/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "cannibal-apocalypse",
+      "title": "Cannibal Apocalypse",
+      "year": "1980",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Antonio Margheriti"
+      ],
+      "actors": [
+        "John Saxon",
+        "Elizabeth Turner",
+        "Giovanni Lombardo Radice",
+        "Cinzia De Carolis",
+        "Tony King",
+        "Wallace Wilkinson"
+      ],
+      "countries": [
+        "Italy",
+        "Spain",
+        "USA",
+        "Canada"
+      ],
+      "rating": 2.97,
+      "rating_count": 5883,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/4/3/47643-invasion-of-the-flesh-hunters-0-230-0-345-crop.jpg?v=3a086c9da4",
+      "url": "https://letterboxd.com/film/cannibal-apocalypse/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "anthropophagous",
+      "title": "Anthropophagous",
+      "year": "1980",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Joe D'Amato"
+      ],
+      "actors": [
+        "Tisa Farrow",
+        "Saverio Vallone",
+        "Serena Grandi",
+        "Margaret Mazzantini",
+        "Mark Bodin",
+        "Bob Larson"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.77,
+      "rating_count": 12677,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/8/5/7/48857-anthropophagus-0-230-0-345-crop.jpg?v=6f1ae07514",
+      "url": "https://letterboxd.com/film/anthropophagous/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "bloodeaters",
+      "title": "Bloodeaters",
+      "year": "1980",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Charles McCrann"
+      ],
+      "actors": [
+        "Charles McCrann",
+        "Beverly Shapiro",
+        "Dennis Helfend",
+        "Kevin Hanlon",
+        "Judith Brown",
+        "Pat Kellis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.28,
+      "rating_count": 1389,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/5/9/6759-bloodeaters-0-230-0-345-crop.jpg?v=36a5cdd924",
+      "url": "https://letterboxd.com/film/bloodeaters/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "cannibal-terror",
+      "title": "Cannibal Terror",
+      "year": "1980",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Alain Deruelle"
+      ],
+      "actors": [
+        "Antonio Mayans",
+        "Silvia Solar",
+        "Pamela Stanford",
+        "Olivier Mathot",
+        "Stan Hamilton",
+        "Bertrand Altmann"
+      ],
+      "countries": [
+        "France",
+        "Spain"
+      ],
+      "rating": 2.01,
+      "rating_count": 1114,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/8/1/4/70814-cannibal-terror-0-230-0-345-crop.jpg?v=386519c5c3",
+      "url": "https://letterboxd.com/film/cannibal-terror/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-boogey-man",
+      "title": "The Boogey Man",
+      "year": "1980",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Ulli Lommel"
+      ],
+      "actors": [
+        "Suzanna Love",
+        "Ron James",
+        "John Carradine",
+        "Nicholas Love",
+        "Raymond Boyden",
+        "Felicite Morgan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.7,
+      "rating_count": 7763,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/6/7/9/24679-the-boogey-man-0-230-0-345-crop.jpg?v=0116dc79b1",
+      "url": "https://letterboxd.com/film/the-boogey-man/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "night-of-the-zombies-1980",
+      "title": "Night of the Zombies",
+      "year": "1980",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Bruno Mattei"
+      ],
+      "actors": [
+        "Margit Evelyn Newton",
+        "Franco Garofalo",
+        "Selan Karay",
+        "José Gras",
+        "Gabriel Renom",
+        "Josep Lluís Fonoll"
+      ],
+      "countries": [
+        "Italy",
+        "Spain"
+      ],
+      "rating": 2.63,
+      "rating_count": 7227,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/4/4/0/38440-night-of-the-zombies-0-230-0-345-crop.jpg?v=b9b6a02021",
+      "url": "https://letterboxd.com/film/night-of-the-zombies-1980/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "devil-hunter",
+      "title": "Devil Hunter",
+      "year": "1980",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Jesús Franco"
+      ],
+      "actors": [
+        "Ursula Buchfellner",
+        "Al Cliver",
+        "Antonio Mayans",
+        "Antonio de Cabo",
+        "Bertrand Altmann",
+        "Gisela Hahn"
+      ],
+      "countries": [
+        "Spain",
+        "Germany",
+        "France"
+      ],
+      "rating": 2.18,
+      "rating_count": 1417,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/8/2/4/70824-devil-hunter-0-230-0-345-crop.jpg?v=49e6913bba",
+      "url": "https://letterboxd.com/film/devil-hunter/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "night-school",
+      "title": "Night School",
+      "year": "1981",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Ken Hughes"
+      ],
+      "actors": [
+        "Leonard Mann",
+        "Rachel Ward",
+        "Drew Snyder",
+        "Joseph R. Sicari",
+        "Nicholas Cairis",
+        "Karen MacDonald"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.02,
+      "rating_count": 5698,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/3/11923-night-school-0-230-0-345-crop.jpg?v=d711ae288a",
+      "url": "https://letterboxd.com/film/night-school/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-funhouse",
+      "title": "The Funhouse",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Tobe Hooper"
+      ],
+      "actors": [
+        "Elizabeth Berridge",
+        "Cooper Huckabee",
+        "Kevin Conway",
+        "Largo Woodruff",
+        "Miles Chapin",
+        "Jeanne Austin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.03,
+      "rating_count": 40458,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/8/9/43789-the-funhouse-0-230-0-345-crop.jpg?v=2191ed70c1",
+      "url": "https://letterboxd.com/film/the-funhouse/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "bloody-moon",
+      "title": "Bloody Moon",
+      "year": "1981",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Jesús Franco"
+      ],
+      "actors": [
+        "Olivia Pascal",
+        "Christoph Moosbrugger",
+        "Nadja Gerganoff",
+        "Alexander Waechter",
+        "Jasmin Losensky",
+        "Corinna Drews"
+      ],
+      "countries": [
+        "Spain",
+        "Germany"
+      ],
+      "rating": 2.97,
+      "rating_count": 6365,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/9/5/4/24954-bloody-moon-0-230-0-345-crop.jpg?v=dfbe575b74",
+      "url": "https://letterboxd.com/film/bloody-moon/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "cannibal-ferox",
+      "title": "Cannibal Ferox",
+      "year": "1981",
+      "genres": [
+        "Horror",
+        "Adventure"
+      ],
+      "directors": [
+        "Umberto Lenzi"
+      ],
+      "actors": [
+        "Giovanni Lombardo Radice",
+        "Lorraine De Selle",
+        "Danilo Mattei",
+        "Zora Kerova",
+        "Walter Lucchini",
+        "Fiamma Maglione"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.68,
+      "rating_count": 11591,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/4/4/47644-cannibal-ferox-0-230-0-345-crop.jpg?v=8526246a6d",
+      "url": "https://letterboxd.com/film/cannibal-ferox/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-burning-1981",
+      "title": "The Burning",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Tony Maylam"
+      ],
+      "actors": [
+        "Brian Matthews",
+        "Leah Ayres",
+        "Brian Backer",
+        "Larry Joshua",
+        "Jason Alexander",
+        "Ned Eisenberg"
+      ],
+      "countries": [
+        "USA",
+        "Canada"
+      ],
+      "rating": 3.11,
+      "rating_count": 45206,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/0/7/37007-the-burning-0-230-0-345-crop.jpg?v=28c13d0280",
+      "url": "https://letterboxd.com/film/the-burning-1981/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "dead-buried",
+      "title": "Dead & Buried",
+      "year": "1981",
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Gary Sherman"
+      ],
+      "actors": [
+        "James Farentino",
+        "Melody Anderson",
+        "Jack Albertson",
+        "Dennis Redfield",
+        "Nancy Locke",
+        "Lisa Blount"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.45,
+      "rating_count": 28627,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/8/9/1/36891-dead-buried-0-230-0-345-crop.jpg?v=d24510f25b",
+      "url": "https://letterboxd.com/film/dead-buried/",
+      "appears_in_n_lists": 8
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Horror": 58,
+      "Thriller": 20,
+      "Mystery": 7,
+      "Crime": 5,
+      "Drama": 5,
+      "Science Fiction": 4,
+      "War": 4,
+      "Adventure": 4,
+      "Fantasy": 1,
+      "Documentary": 1,
+      "Action": 1
+    },
+    "directors": {
+      "Lucio Fulci": 3,
+      "Ruggero Deodato": 2,
+      "Dario Argento": 2,
+      "Umberto Lenzi": 2,
+      "Tobe Hooper": 2,
+      "Jesús Franco": 2,
+      "Wes Craven": 1,
+      "Mario Bava": 1,
+      "Meir Zarchi": 1,
+      "Abel Ferrara": 1,
+      "Andrzej Żuławski": 1,
+      "Sam Raimi": 1,
+      "Romano Scavolini": 1,
+      "Herschell Gordon Lewis": 1,
+      "Andy Milligan": 1,
+      "René Cardona": 1,
+      "Lee Frost": 1,
+      "Eloy de la Iglesia": 1,
+      "S.F. Brownrigg": 1,
+      "Paul Morrissey": 1
+    },
+    "years": {
+      "1963": 1,
+      "1968": 1,
+      "1969": 2,
+      "1971": 1,
+      "1972": 3,
+      "1973": 2,
+      "1974": 2,
+      "1975": 2,
+      "1976": 6,
+      "1977": 3,
+      "1978": 6,
+      "1979": 7,
+      "1980": 11,
+      "1981": 12,
+      "1982": 1
+    }
+  }
+}

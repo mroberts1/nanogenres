@@ -1,0 +1,653 @@
+{
+  "query": "dark academia cinema",
+  "slug": "dark-academia-cinema",
+  "source_lists": [
+    {
+      "href": "/forgatlas/list/dark-academia-cinematic-universe/",
+      "user": "forgatlas",
+      "slug": "dark-academia-cinematic-universe",
+      "title": "dark academia cinematic universe",
+      "desc": "movies that can fit in the dark academia genre",
+      "owner": "List by valentina🪐",
+      "tags": []
+    },
+    {
+      "href": "/larygs/list/dark-academia-in-cinema/",
+      "user": "larygs",
+      "slug": "dark-academia-in-cinema",
+      "title": "Dark Academia in Cinema",
+      "desc": "LaryGS is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by LaryGS",
+      "tags": []
+    },
+    {
+      "href": "/poe_and_thehalo/list/dark-academia-cinematic-canon/",
+      "user": "poe_and_thehalo",
+      "slug": "dark-academia-cinematic-canon",
+      "title": "Dark Academia Cinematic Canon",
+      "desc": "Dark Academia is characterized by collegiate scholarly activities, heritage architecture, traditional landscaping, classic sartorial fashion statements, and tragedy that is usually a murder mystery but not always.",
+      "owner": "List by Poe_and_theHalo",
+      "tags": []
+    },
+    {
+      "href": "/nicolinoo/list/cinema-dark-academia/",
+      "user": "nicolinoo",
+      "slug": "cinema-dark-academia",
+      "title": "cinema dark academia",
+      "desc": "nicholas is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by nicholas",
+      "tags": []
+    },
+    {
+      "href": "/prisca_ku/list/aesthetic-cinema-dark-academia/",
+      "user": "prisca_ku",
+      "slug": "aesthetic-cinema-dark-academia",
+      "title": "AESTHETIC CINEMA: DARK ACADEMIA",
+      "desc": "Prisca_KU is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Prisca_KU",
+      "tags": []
+    }
+  ],
+  "source_list_count": 5,
+  "films_considered": 65,
+  "canonical_count": 19,
+  "films": [
+    {
+      "slug": "the-riot-club",
+      "title": "The Riot Club",
+      "year": "2014",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Lone Scherfig"
+      ],
+      "actors": [
+        "Max Irons",
+        "Sam Claflin",
+        "Douglas Booth",
+        "Holliday Grainger",
+        "Jessica Brown Findlay",
+        "Natalie Dormer"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 2.76,
+      "rating_count": 31049,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/3/5/7/6/193576-the-riot-club-0-230-0-345-crop.jpg?v=780c788f3d",
+      "url": "https://letterboxd.com/film/the-riot-club/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "maurice",
+      "title": "Maurice",
+      "year": "1987",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "James Ivory"
+      ],
+      "actors": [
+        "James Wilby",
+        "Hugh Grant",
+        "Rupert Graves",
+        "Denholm Elliott",
+        "Simon Callow",
+        "Billie Whitelaw"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 136135,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/6/2/35362-maurice-0-230-0-345-crop.jpg?v=dc2857734d",
+      "url": "https://letterboxd.com/film/maurice/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "dead-poets-society",
+      "title": "Dead Poets Society",
+      "year": "1989",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Peter Weir"
+      ],
+      "actors": [
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke",
+        "Josh Charles",
+        "Gale Hansen",
+        "Dylan Kussman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.35,
+      "rating_count": 3507657,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/6/51846-dead-poets-society-0-230-0-345-crop.jpg?v=9273e8acf7",
+      "url": "https://letterboxd.com/film/dead-poets-society/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "kill-your-darlings-2013",
+      "title": "Kill Your Darlings",
+      "year": "2013",
+      "genres": [
+        "Romance",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "John Krokidas"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Dane DeHaan",
+        "Michael C. Hall",
+        "Jack Huston",
+        "Ben Foster",
+        "David Cross"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 120089,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dj/4z/u4/3d/j9437B8S3UzDG80WFJRpzIvhPo9-0-230-0-345-crop.jpg?v=0eb09943e3",
+      "url": "https://letterboxd.com/film/kill-your-darlings-2013/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "mary-shelley",
+      "title": "Mary Shelley",
+      "year": "2017",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Haifaa al-Mansour"
+      ],
+      "actors": [
+        "Elle Fanning",
+        "Douglas Booth",
+        "Bel Powley",
+        "Stephen Dillane",
+        "Joanne Froggatt",
+        "Tom Sturridge"
+      ],
+      "countries": [
+        "Ireland",
+        "Luxembourg",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.17,
+      "rating_count": 50179,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/0/6/8/2/260682-mary-shelley-0-230-0-345-crop.jpg?v=72c290a404",
+      "url": "https://letterboxd.com/film/mary-shelley/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dorian-gray-2009",
+      "title": "Dorian Gray",
+      "year": "2009",
+      "genres": [
+        "Thriller",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Oliver Parker"
+      ],
+      "actors": [
+        "Ben Barnes",
+        "Colin Firth",
+        "Rebecca Hall",
+        "Emilia Fox",
+        "Ben Chaplin",
+        "Fiona Shaw"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 2.7,
+      "rating_count": 95029,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/3/5/2/37352-dorian-gray-0-230-0-345-crop.jpg?v=0b43d2fdc5",
+      "url": "https://letterboxd.com/film/dorian-gray-2009/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "tolkien-2019",
+      "title": "Tolkien",
+      "year": "2019",
+      "genres": [
+        "Romance",
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Dome Karukoski"
+      ],
+      "actors": [
+        "Nicholas Hoult",
+        "Lily Collins",
+        "Colm Meaney",
+        "Derek Jacobi",
+        "Harry Gilby",
+        "Mimi Keene"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.21,
+      "rating_count": 58171,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/9/8/0/5/399805-tolkien-0-230-0-345-crop.jpg?v=322fddd2a9",
+      "url": "https://letterboxd.com/film/tolkien-2019/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-talented-mr-ripley",
+      "title": "The Talented Mr. Ripley",
+      "year": "1999",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Anthony Minghella"
+      ],
+      "actors": [
+        "Matt Damon",
+        "Gwyneth Paltrow",
+        "Jude Law",
+        "Cate Blanchett",
+        "Philip Seymour Hoffman",
+        "Jack Davenport"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.87,
+      "rating_count": 629057,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/3/8/51138-the-talented-mr-ripley-0-230-0-345-crop.jpg?v=70e0a57506",
+      "url": "https://letterboxd.com/film/the-talented-mr-ripley/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-goldfinch",
+      "title": "The Goldfinch",
+      "year": "2019",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "John Crowley"
+      ],
+      "actors": [
+        "Ansel Elgort",
+        "Oakes Fegley",
+        "Nicole Kidman",
+        "Jeffrey Wright",
+        "Luke Wilson",
+        "Sarah Paulson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.16,
+      "rating_count": 139157,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/0/4/6/404046-the-goldfinch-0-230-0-345-crop.jpg?v=aaa013d6dd",
+      "url": "https://letterboxd.com/film/the-goldfinch/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bel-ami",
+      "title": "Bel Ami",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Nick Ormerod",
+        "Declan Donnellan"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Uma Thurman",
+        "Christina Ricci",
+        "Kristin Scott Thomas",
+        "Colm Meaney",
+        "Philip Glenister"
+      ],
+      "countries": [
+        "Italy",
+        "UK"
+      ],
+      "rating": 2.55,
+      "rating_count": 10440,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/0/2/6/73026-bel-ami-0-230-0-345-crop.jpg?v=2b06730514",
+      "url": "https://letterboxd.com/film/bel-ami/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harry-potter-and-the-prisoner-of-azkaban",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": "2004",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Alfonso Cuarón"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Robbie Coltrane",
+        "Michael Gambon",
+        "Gary Oldman"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 2902786,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/a3/0q/kf/h8/jUFjMoLh8T2CWzHUSjKCojI5SHu-0-230-0-345-crop.jpg?v=6285ee260e",
+      "url": "https://letterboxd.com/film/harry-potter-and-the-prisoner-of-azkaban/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harry-potter-and-the-goblet-of-fire",
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": "2005",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Mike Newell"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Brendan Gleeson",
+        "Michael Gambon",
+        "Robert Pattinson"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.89,
+      "rating_count": 2359196,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/0/51450-harry-potter-and-the-goblet-of-fire-0-230-0-345-crop.jpg?v=6b5c9896c9",
+      "url": "https://letterboxd.com/film/harry-potter-and-the-goblet-of-fire/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harry-potter-and-the-half-blood-prince",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "year": "2009",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "David Yates"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Jim Broadbent",
+        "Michael Gambon",
+        "Tom Felton"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.74,
+      "rating_count": 1991540,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/8/5/51385-harry-potter-and-the-half-blood-prince-0-230-0-345-crop.jpg?v=789e7859c8",
+      "url": "https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harry-potter-and-the-order-of-the-phoenix",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "year": "2007",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "David Yates"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Imelda Staunton",
+        "Helena Bonham Carter",
+        "Robbie Coltrane"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 2099482,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/wd/w4/n0/yj/g6n8G0xPnBVUIKKK41sNmbZB5h4-0-230-0-345-crop.jpg?v=57af08b652",
+      "url": "https://letterboxd.com/film/harry-potter-and-the-order-of-the-phoenix/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harry-potter-and-the-deathly-hallows-part-1",
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": "2010",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "David Yates"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Emma Watson",
+        "Rupert Grint",
+        "Toby Jones",
+        "Helena Bonham Carter",
+        "Alan Rickman"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.74,
+      "rating_count": 1957182,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/u8/tj/88/3v/harry-potter-and-the-deathly-hallows-part-i-original-0-230-0-345-crop.jpg?v=a31050208d",
+      "url": "https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-1/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harry-potter-and-the-deathly-hallows-part-2",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": "2011",
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "David Yates"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Emma Watson",
+        "Rupert Grint",
+        "Ralph Fiennes",
+        "Alan Rickman",
+        "Michael Gambon"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 2118728,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/5/8/0/44580-harry-potter-and-the-deathly-hallows-part-2-0-230-0-345-crop.jpg?v=66f3769773",
+      "url": "https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-2/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harry-potter-and-the-chamber-of-secrets",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": "2002",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Chris Columbus"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Kenneth Branagh",
+        "Toby Jones",
+        "Robbie Coltrane"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.64,
+      "rating_count": 2352394,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rj/yc/zl/ex/g8IQhqYYLERU0UxjVaySP46PFEZ-0-230-0-345-crop.jpg?v=d867145245",
+      "url": "https://letterboxd.com/film/harry-potter-and-the-chamber-of-secrets/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "rope",
+      "title": "Rope",
+      "year": "1948",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "actors": [
+        "James Stewart",
+        "John Dall",
+        "Farley Granger",
+        "Cedric Hardwicke",
+        "Constance Collier",
+        "Douglas Dick"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 318216,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/4/50954-rope-0-230-0-345-crop.jpg?v=bd8d1695a5",
+      "url": "https://letterboxd.com/film/rope/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harry-potter-and-the-philosophers-stone",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": "2001",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Chris Columbus"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Richard Harris",
+        "Tom Felton",
+        "Alan Rickman"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 2887445,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5t/cj/6w/6e/harrypotter2-0-230-0-345-crop.jpg?v=0053b4ed93",
+      "url": "https://letterboxd.com/film/harry-potter-and-the-philosophers-stone/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 11,
+      "Fantasy": 9,
+      "Adventure": 8,
+      "Romance": 5,
+      "Thriller": 4,
+      "Crime": 2,
+      "War": 1
+    },
+    "directors": {
+      "David Yates": 4,
+      "Chris Columbus": 2,
+      "Lone Scherfig": 1,
+      "James Ivory": 1,
+      "Peter Weir": 1,
+      "John Krokidas": 1,
+      "Haifaa al-Mansour": 1,
+      "Oliver Parker": 1,
+      "Dome Karukoski": 1,
+      "Anthony Minghella": 1,
+      "John Crowley": 1,
+      "Nick Ormerod": 1,
+      "Declan Donnellan": 1,
+      "Alfonso Cuarón": 1,
+      "Mike Newell": 1,
+      "Alfred Hitchcock": 1
+    },
+    "years": {
+      "1948": 1,
+      "1987": 1,
+      "1989": 1,
+      "1999": 1,
+      "2001": 1,
+      "2002": 1,
+      "2004": 1,
+      "2005": 1,
+      "2007": 1,
+      "2009": 2,
+      "2010": 1,
+      "2011": 1,
+      "2012": 1,
+      "2013": 1,
+      "2014": 1,
+      "2017": 1,
+      "2019": 2
+    }
+  }
+}

@@ -1,0 +1,1526 @@
+{
+  "query": "mockumentary",
+  "slug": "mockumentary",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/quarkdpn/list/mockumentary/",
+      "user": "quarkdpn",
+      "slug": "mockumentary",
+      "title": "Mockumentary",
+      "desc": "Movie Lists is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Movie Lists",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "href": "/monz/list/mockumentary/",
+      "user": "monz",
+      "slug": "mockumentary",
+      "title": "Mockumentary",
+      "desc": "MonZ is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by MonZ PRO",
+      "tags": []
+    },
+    {
+      "href": "/meyerzm/list/mockumentary/",
+      "user": "meyerzm",
+      "slug": "mockumentary",
+      "title": "Mockumentary",
+      "desc": "Zane is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Zane Meyer PRO",
+      "tags": []
+    },
+    {
+      "href": "/jaredtauber/list/mockumentary/",
+      "user": "jaredtauber",
+      "slug": "mockumentary",
+      "title": "Mockumentary",
+      "desc": "A list of my favorite mockumentary films, including some in my watchlist. Recommendations are encouraged!",
+      "owner": "List by Jared Tauber PATRON",
+      "tags": []
+    },
+    {
+      "href": "/okito/list/mockumentary/",
+      "user": "okito",
+      "slug": "mockumentary",
+      "title": "mockumentary",
+      "desc": "Santi is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Santi PRO",
+      "tags": []
+    },
+    {
+      "href": "/mrturtlemonster/list/mockumentary/",
+      "user": "mrturtlemonster",
+      "slug": "mockumentary",
+      "title": "Mockumentary",
+      "desc": "mrturtlemonster is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by mrturtlemonster",
+      "tags": []
+    },
+    {
+      "href": "/eman17swr/list/mockumentary/",
+      "user": "eman17swr",
+      "slug": "mockumentary",
+      "title": "Mockumentary",
+      "desc": "List of mockumentary films for my film class in school.",
+      "owner": "List by Elizabeth G",
+      "tags": []
+    },
+    {
+      "href": "/turnipoddity/list/mockumentary/",
+      "user": "turnipoddity",
+      "slug": "mockumentary",
+      "title": "Mockumentary",
+      "desc": "some of my favorite mockumentary movies",
+      "owner": "List by turnipoddity",
+      "tags": []
+    },
+    {
+      "href": "/writerforest/list/mockumentary/",
+      "user": "writerforest",
+      "slug": "mockumentary",
+      "title": "Mockumentary",
+      "desc": "Facts in disguise.\n\nWhere reality bends and stories wear the mask of truth. These films blur fact and fiction, capturing lives, events, and absurdities with a lens that questions what is real. Humor, satire, and uncanny details emerge, leaving the viewer uncertain, amused, or strangely moved.\n\n\nThis list is not a set of personal recommendations, but a way of cataloging the films I watch. It may also serve as a reference for anyone interested. The list will be updated over time as I discover and view new titles, growing and evolving with each addition.\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+      "owner": "List by Alex PATRON",
+      "tags": [
+        "mockumentary"
+      ]
+    },
+    {
+      "href": "/stiefe/list/mockumentary/",
+      "user": "stiefe",
+      "slug": "mockumentary",
+      "title": "Mockumentary",
+      "desc": "Stiefe is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Stiefe PRO",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 137,
+  "canonical_count": 47,
+  "films": [
+    {
+      "slug": "what-we-do-in-the-shadows",
+      "title": "What We Do in the Shadows",
+      "year": "2014",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Jemaine Clement",
+        "Taika Waititi"
+      ],
+      "actors": [
+        "Jemaine Clement",
+        "Taika Waititi",
+        "Jonny Brugh",
+        "Cori Gonzalez-Macuer",
+        "Stu Rutherford",
+        "Ben Fransham"
+      ],
+      "countries": [
+        "New Zealand",
+        "USA"
+      ],
+      "rating": 4.12,
+      "rating_count": 605332,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/2/5/3/7/172537-what-we-do-in-the-shadows-0-230-0-345-crop.jpg?v=ae4757f3a6",
+      "url": "https://letterboxd.com/film/what-we-do-in-the-shadows/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan",
+      "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+      "year": "2006",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Larry Charles"
+      ],
+      "actors": [
+        "Sacha Baron Cohen",
+        "Ken Davitian",
+        "Luenell",
+        "Pamela Anderson",
+        "Bob Barr",
+        "Alan Keyes"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 813040,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/4/51614-borat-cultural-learnings-of-america-for-make-benefit-glori-0-230-0-345-crop.jpg?v=17316654a2",
+      "url": "https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "zelig",
+      "title": "Zelig",
+      "year": "1983",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Woody Allen"
+      ],
+      "actors": [
+        "Woody Allen",
+        "Mia Farrow",
+        "Patrick Horgan",
+        "John Buckwalter",
+        "Marvin Chatinover",
+        "Stanley Swerdlow"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.9,
+      "rating_count": 40760,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/t8/cq/nv/20/47PWRahwzpypXqUoViDXJbVG2hH-0-230-0-345-crop.jpg?v=998e2376b7",
+      "url": "https://letterboxd.com/film/zelig/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-blair-witch-project",
+      "title": "The Blair Witch Project",
+      "year": "1999",
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Daniel Myrick",
+        "Eduardo Sánchez"
+      ],
+      "actors": [
+        "Heather Donahue",
+        "Joshua Leonard",
+        "Michael C. Williams",
+        "Bob Griffin",
+        "Jim King",
+        "Sandra Sánchez"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 966289,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/5/9/50159-the-blair-witch-project-0-230-0-345-crop.jpg?v=05594b24b0",
+      "url": "https://letterboxd.com/film/the-blair-witch-project/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "this-is-spinal-tap",
+      "title": "This Is Spinal Tap",
+      "year": "1984",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "directors": [
+        "Rob Reiner"
+      ],
+      "actors": [
+        "Christopher Guest",
+        "Michael McKean",
+        "Harry Shearer",
+        "Rob Reiner",
+        "June Chadwick",
+        "Tony Hendra"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 232510,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/7/2/45672-this-is-spinal-tap-0-230-0-345-crop.jpg?v=cc2f1011d3",
+      "url": "https://letterboxd.com/film/this-is-spinal-tap/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "district-9",
+      "title": "District 9",
+      "year": "2009",
+      "genres": [
+        "Science Fiction"
+      ],
+      "directors": [
+        "Neill Blomkamp"
+      ],
+      "actors": [
+        "Sharlto Copley",
+        "Jason Cope",
+        "Nathalie Boltt",
+        "Sylvaine Strike",
+        "Elizabeth Mkandawie",
+        "John Sumner"
+      ],
+      "countries": [
+        "New Zealand",
+        "South Africa",
+        "USA"
+      ],
+      "rating": 3.81,
+      "rating_count": 538201,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/8/6/0/40860-district-9-0-230-0-345-crop.jpg?v=5fb9b8c5a9",
+      "url": "https://letterboxd.com/film/district-9/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "bob-roberts",
+      "title": "Bob Roberts",
+      "year": "1992",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Tim Robbins"
+      ],
+      "actors": [
+        "Tim Robbins",
+        "Giancarlo Esposito",
+        "Alan Rickman",
+        "Ray Wise",
+        "Brian Murray",
+        "Gore Vidal"
+      ],
+      "countries": [
+        "Germany",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.64,
+      "rating_count": 8302,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/mc/wd/qo/x0/9A1kr6ah74WPcN6YVfa6QXYFOGj-0-230-0-345-crop.jpg?v=ad8e19cb55",
+      "url": "https://letterboxd.com/film/bob-roberts/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "punishment-park",
+      "title": "Punishment Park",
+      "year": "1971",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Peter Watkins"
+      ],
+      "actors": [
+        "Patrick Boland",
+        "Carmen Argenziano",
+        "Kent Foreman",
+        "Luke Johnson",
+        "Katherine Quittner",
+        "Scott Turner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.15,
+      "rating_count": 28799,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/2/6/4/35264-punishment-park-0-230-0-345-crop.jpg?v=8756e64afb",
+      "url": "https://letterboxd.com/film/punishment-park/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "best-in-show",
+      "title": "Best in Show",
+      "year": "2000",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Christopher Guest"
+      ],
+      "actors": [
+        "Bob Balaban",
+        "Jennifer Coolidge",
+        "Christopher Guest",
+        "John Michael Higgins",
+        "Michael Hitchcock",
+        "Eugene Levy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.87,
+      "rating_count": 177636,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/6/0/1/43601-best-in-show-0-230-0-345-crop.jpg?v=9acd41f8dc",
+      "url": "https://letterboxd.com/film/best-in-show/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "waiting-for-guffman",
+      "title": "Waiting for Guffman",
+      "year": "1996",
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "directors": [
+        "Christopher Guest"
+      ],
+      "actors": [
+        "Christopher Guest",
+        "Eugene Levy",
+        "Fred Willard",
+        "Catherine O'Hara",
+        "Michael Hitchcock",
+        "Larry Miller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.84,
+      "rating_count": 72728,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/5/4/4/41544-waiting-for-guffman-0-230-0-345-crop.jpg?v=c79044885e",
+      "url": "https://letterboxd.com/film/waiting-for-guffman/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "real-life",
+      "title": "Real Life",
+      "year": "1979",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Albert Brooks"
+      ],
+      "actors": [
+        "Albert Brooks",
+        "Charles Grodin",
+        "Frances Lee McCain",
+        "Lisa Urette",
+        "Robert Stirrat",
+        "Matthew Tobin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 18253,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/9/2/8/29928-real-life-0-230-0-345-crop.jpg?v=cc736dd227",
+      "url": "https://letterboxd.com/film/real-life/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "a-mighty-wind",
+      "title": "A Mighty Wind",
+      "year": "2003",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "directors": [
+        "Christopher Guest"
+      ],
+      "actors": [
+        "Bob Balaban",
+        "Christopher Guest",
+        "John Michael Higgins",
+        "Eugene Levy",
+        "Jane Lynch",
+        "Michael McKean"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 41836,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/9/4/7/43947-a-mighty-wind-0-230-0-345-crop.jpg?v=709ef2c7d2",
+      "url": "https://letterboxd.com/film/a-mighty-wind/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "take-the-money-and-run",
+      "title": "Take the Money and Run",
+      "year": "1969",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Woody Allen"
+      ],
+      "actors": [
+        "Woody Allen",
+        "Janet Margolin",
+        "Marcel Hillaire",
+        "Jacquelyn Hyde",
+        "Lonny Chapman",
+        "Jan Merlin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 26857,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/5/9/45259-take-the-money-and-run-0-230-0-345-crop.jpg?v=c7a6f3fea3",
+      "url": "https://letterboxd.com/film/take-the-money-and-run/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "popstar-never-stop-never-stopping",
+      "title": "Popstar: Never Stop Never Stopping",
+      "year": "2016",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "directors": [
+        "Akiva Schaffer",
+        "Jorma Taccone"
+      ],
+      "actors": [
+        "Andy Samberg",
+        "Jorma Taccone",
+        "Akiva Schaffer",
+        "Sarah Silverman",
+        "Tim Meadows",
+        "Maya Rudolph"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.62,
+      "rating_count": 258329,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/0/4/7/6/270476-popstar-never-stop-never-stopping-0-230-0-345-crop.jpg?v=c6e71d71e8",
+      "url": "https://letterboxd.com/film/popstar-never-stop-never-stopping/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "tour-de-pharmacy",
+      "title": "Tour de Pharmacy",
+      "year": "2017",
+      "genres": [
+        "TV Movie",
+        "Comedy"
+      ],
+      "directors": [
+        "Jake Szymanski"
+      ],
+      "actors": [
+        "Orlando Bloom",
+        "Andy Samberg",
+        "John Cena",
+        "Jeff Goldblum",
+        "J.J. Abrams",
+        "Mike Tyson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.56,
+      "rating_count": 31297,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/3/7/6/390376-tour-de-pharmacy-0-230-0-345-crop.jpg?v=afbe0b5fd1",
+      "url": "https://letterboxd.com/film/tour-de-pharmacy/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "drop-dead-gorgeous",
+      "title": "Drop Dead Gorgeous",
+      "year": "1999",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Michael Patrick Jann"
+      ],
+      "actors": [
+        "Kirsten Dunst",
+        "Ellen Barkin",
+        "Denise Richards",
+        "Kirstie Alley",
+        "Allison Janney",
+        "Sam McMurray"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.87,
+      "rating_count": 174763,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/1/7/9/46179-drop-dead-gorgeous-0-230-0-345-crop.jpg?v=c429391f85",
+      "url": "https://letterboxd.com/film/drop-dead-gorgeous/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "man-bites-dog",
+      "title": "Man Bites Dog",
+      "year": "1992",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Rémy Belvaux",
+        "André Bonzel",
+        "Benoît Poelvoorde"
+      ],
+      "actors": [
+        "Benoît Poelvoorde",
+        "Rémy Belvaux",
+        "André Bonzel",
+        "Jacqueline Poelvoorde-Pappaert",
+        "Valérie Parent",
+        "Édith Le Merdy"
+      ],
+      "countries": [
+        "Belgium"
+      ],
+      "rating": 3.79,
+      "rating_count": 65682,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/d2/md/ae/p6/man-bites-dog-0-230-0-345-crop.jpg?v=822ca7a413",
+      "url": "https://letterboxd.com/film/man-bites-dog/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "forgotten-silver",
+      "title": "Forgotten Silver",
+      "year": "1995",
+      "genres": [
+        "TV Movie",
+        "Comedy"
+      ],
+      "directors": [
+        "Costa Botes",
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Jeffrey Thomas",
+        "Peter Jackson",
+        "Costa Botes",
+        "Beatrice Ashton",
+        "Leonard Maltin",
+        "Harvey Weinstein"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "rating": 3.67,
+      "rating_count": 5466,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/4/1/8/30418-forgotten-silver-0-230-0-345-crop.jpg?v=f39ae9a79d",
+      "url": "https://letterboxd.com/film/forgotten-silver/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "fear-of-a-black-hat",
+      "title": "Fear of a Black Hat",
+      "year": "1993",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "directors": [
+        "Rusty Cundieff"
+      ],
+      "actors": [
+        "Larry B. Scott",
+        "Mark Christopher Lawrence",
+        "Rusty Cundieff",
+        "Kasi Lemmons",
+        "G. Smokey Campbell",
+        "Faizon Love"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.54,
+      "rating_count": 4572,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/1/4/4/39144-fear-of-a-black-hat-0-230-0-345-crop.jpg?v=a4ccc817e1",
+      "url": "https://letterboxd.com/film/fear-of-a-black-hat/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "7-days-in-hell",
+      "title": "7 Days in Hell",
+      "year": "2015",
+      "genres": [
+        "TV Movie",
+        "Comedy"
+      ],
+      "directors": [
+        "Jake Szymanski"
+      ],
+      "actors": [
+        "Andy Samberg",
+        "Kit Harington",
+        "Jon Hamm",
+        "Michael Sheen",
+        "Karen Gillan",
+        "Lena Dunham"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.54,
+      "rating_count": 44842,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/2/9/5/2/212952-7-days-in-hell-0-230-0-345-crop.jpg?v=d8d626c7c4",
+      "url": "https://letterboxd.com/film/7-days-in-hell/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "fubar",
+      "title": "Fubar",
+      "year": "2002",
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "directors": [
+        "Michael Dowse"
+      ],
+      "actors": [
+        "Paul Spence",
+        "David Lawrence",
+        "Gordon Skilling",
+        "Andrew Sparacino",
+        "Tracey Lawrence",
+        "S.C. Lim"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.52,
+      "rating_count": 3960,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/4/3/1/43431-fubar-0-230-0-345-crop.jpg?v=00fadb182a",
+      "url": "https://letterboxd.com/film/fubar/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "troll-hunter",
+      "title": "Troll Hunter",
+      "year": "2010",
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "André Øvredal"
+      ],
+      "actors": [
+        "Otto Jespersen",
+        "Glenn Erland Tosterud",
+        "Johanna Mørck",
+        "Tomas Alf Larsen",
+        "Hans Morten Hansen",
+        "Urmila Berg-Domaas"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "rating": 3.42,
+      "rating_count": 71488,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/1/6/4/19164-troll-hunter-0-230-0-345-crop.jpg?v=22ba64cf6d",
+      "url": "https://letterboxd.com/film/troll-hunter/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "im-still-here",
+      "title": "I'm Still Here",
+      "year": "2010",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Casey Affleck"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Antony Langdon",
+        "Carey Perloff",
+        "Larry McHale",
+        "Casey Affleck",
+        "Jack Nicholson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.27,
+      "rating_count": 35666,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/2/2/1/21221-i-m-still-here-0-230-0-345-crop.jpg?v=c3ccd95a97",
+      "url": "https://letterboxd.com/film/im-still-here/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-taking-of-deborah-logan",
+      "title": "The Taking of Deborah Logan",
+      "year": "2014",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Adam Robitel"
+      ],
+      "actors": [
+        "Jill Larson",
+        "Anne Ramsay",
+        "Michelle Ang",
+        "Ryan Cutrona",
+        "Anne Bedian",
+        "Brett Gentile"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.98,
+      "rating_count": 181887,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/lc/rp/vf/6c/lVHsBxkEXSH25TaUfyYF4KfrhlB-0-230-0-345-crop.jpg?v=2280bb4d9b",
+      "url": "https://letterboxd.com/film/the-taking-of-deborah-logan/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "bruno",
+      "title": "Brüno",
+      "year": "2009",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Larry Charles"
+      ],
+      "actors": [
+        "Sacha Baron Cohen",
+        "Gustaf Hammarsten",
+        "Clifford Bañagale",
+        "Josh Meyers",
+        "Toby Holguin",
+        "Robert Huerta"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.97,
+      "rating_count": 118590,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/3/1/6/40316-bruno-0-230-0-345-crop.jpg?v=72aeb73ba4",
+      "url": "https://letterboxd.com/film/bruno/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "four-lions",
+      "title": "Four Lions",
+      "year": "2010",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Chris Morris"
+      ],
+      "actors": [
+        "Riz Ahmed",
+        "Nigel Lindsay",
+        "Kayvan Novak",
+        "Adeel Akhtar",
+        "Arsher Ali",
+        "Preeya Kalidas"
+      ],
+      "countries": [
+        "UK",
+        "France"
+      ],
+      "rating": 3.91,
+      "rating_count": 130362,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ms/43/2p/3u/xp500JNCanNW2F2Flw6jLp56M5g-0-230-0-345-crop.jpg?v=c34f1a5f57",
+      "url": "https://letterboxd.com/film/four-lions/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "a-hard-days-night",
+      "title": "A Hard Day's Night",
+      "year": "1964",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "directors": [
+        "Richard Lester"
+      ],
+      "actors": [
+        "John Lennon",
+        "Paul McCartney",
+        "George Harrison",
+        "Ringo Starr",
+        "Wilfrid Brambell",
+        "Norman Rossington"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.87,
+      "rating_count": 116439,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/2/2/51422-a-hard-day-s-night-0-230-0-345-crop.jpg?v=22ce36cf37",
+      "url": "https://letterboxd.com/film/a-hard-days-night/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "theater-camp-2023",
+      "title": "Theater Camp",
+      "year": "2023",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Molly Gordon",
+        "Nick Lieberman"
+      ],
+      "actors": [
+        "Ben Platt",
+        "Molly Gordon",
+        "Noah Galvin",
+        "Jimmy Tatro",
+        "Caroline Aaron",
+        "Ayo Edebiri"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 263615,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/7/6/5/0/887650-theater-camp-0-230-0-345-crop.jpg?v=ba9c77cf10",
+      "url": "https://letterboxd.com/film/theater-camp-2023/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "surfs-up",
+      "title": "Surf's Up",
+      "year": "2007",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Family"
+      ],
+      "directors": [
+        "Chris Buck",
+        "Ash Brannon"
+      ],
+      "actors": [
+        "Shia LaBeouf",
+        "Jeff Bridges",
+        "Zooey Deschanel",
+        "Jon Heder",
+        "James Woods",
+        "Diedrich Bader"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 457985,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/8/8/47188-surf-s-up-0-230-0-345-crop.jpg?v=df58128c8b",
+      "url": "https://letterboxd.com/film/surfs-up/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-rutles-all-you-need-is-cash",
+      "title": "The Rutles: All You Need Is Cash",
+      "year": "1978",
+      "genres": [
+        "Music",
+        "Comedy",
+        "TV Movie"
+      ],
+      "directors": [
+        "Eric Idle",
+        "Gary Weis"
+      ],
+      "actors": [
+        "Eric Idle",
+        "Neil Innes",
+        "Ricky Fataar",
+        "John Halsey",
+        "Michael Palin",
+        "Mick Jagger"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.68,
+      "rating_count": 9567,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/6/0/3/41603-the-rutles-all-you-need-is-cash-0-230-0-345-crop.jpg?v=9b81827b41",
+      "url": "https://letterboxd.com/film/the-rutles-all-you-need-is-cash/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dark-side-of-the-moon",
+      "title": "Dark Side of the Moon",
+      "year": "2002",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "William Karel"
+      ],
+      "actors": [
+        "Philippe Faure",
+        "Christiane Kubrick",
+        "Jan Harlan",
+        "Vernon Walters",
+        "Farouk Elbaz",
+        "Jeffrey Hoffman"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.63,
+      "rating_count": 1465,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/2/6/50126-dark-side-of-the-moon-0-230-0-345-crop.jpg?v=82c5c9f218",
+      "url": "https://letterboxd.com/film/dark-side-of-the-moon/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "noroi-the-curse",
+      "title": "Noroi: The Curse",
+      "year": "2005",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Koji Shiraishi"
+      ],
+      "actors": [
+        "Jin Muraki",
+        "Marika Matsumoto",
+        "Satoru Jitsunashi",
+        "Rio Kanno",
+        "Tomono Kuga",
+        "Shûta Kambayashi"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.62,
+      "rating_count": 89014,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/6/0/38360-noroi-the-curse-0-230-0-345-crop.jpg?v=de264a9267",
+      "url": "https://letterboxd.com/film/noroi-the-curse/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "david-holzmans-diary",
+      "title": "David Holzman's Diary",
+      "year": "1967",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Jim McBride"
+      ],
+      "actors": [
+        "L.M. Kit Carson",
+        "Eileen Dietz",
+        "Lorenzo Mans",
+        "Louise Levine",
+        "Fern McBride",
+        "Michel Lévine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.58,
+      "rating_count": 3612,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/1/6/5/72165-david-holzman-s-diary-0-230-0-345-crop.jpg?v=e8d1df8567",
+      "url": "https://letterboxd.com/film/david-holzmans-diary/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "its-all-gone-pete-tong",
+      "title": "It's All Gone Pete Tong",
+      "year": "2004",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Music"
+      ],
+      "directors": [
+        "Michael Dowse"
+      ],
+      "actors": [
+        "Paul Kaye",
+        "Kate Magowan",
+        "Neil Maskell",
+        "Beatriz Batarda",
+        "Pete Tong",
+        "Mike Wilmot"
+      ],
+      "countries": [
+        "Canada",
+        "UK"
+      ],
+      "rating": 3.49,
+      "rating_count": 4987,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/7/9/2/44792-it-s-all-gone-pete-tong-0-230-0-345-crop.jpg?v=090e17feb9",
+      "url": "https://letterboxd.com/film/its-all-gone-pete-tong/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-medium-2021",
+      "title": "The Medium",
+      "year": "2021",
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Banjong Pisanthanakun"
+      ],
+      "actors": [
+        "Narilya Gulmongkolpech",
+        "Sawanee Utoomma",
+        "Sirani Yankittikan",
+        "Yasaka Chaisorn",
+        "Boonsong Nakphoo",
+        "Arunee Wattana"
+      ],
+      "countries": [
+        "South Korea",
+        "Thailand"
+      ],
+      "rating": 3.38,
+      "rating_count": 111551,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/7/4/6/9/667469-the-medium-0-230-0-345-crop.jpg?v=92c8539d09",
+      "url": "https://letterboxd.com/film/the-medium-2021/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lake-mungo",
+      "title": "Lake Mungo",
+      "year": "2008",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Joel Anderson"
+      ],
+      "actors": [
+        "Rosie Traynor",
+        "David Pledger",
+        "Martin Sharpe",
+        "Talia Zucker",
+        "Tania Lentini",
+        "Cameron Strachan"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "rating": 3.35,
+      "rating_count": 184834,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/5/7/6/34576-lake-mungo-0-230-0-345-crop.jpg?v=3f3d18dc01",
+      "url": "https://letterboxd.com/film/lake-mungo/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "interview-with-the-assassin",
+      "title": "Interview with the Assassin",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Neil Burger"
+      ],
+      "actors": [
+        "Dylan Haggerty",
+        "Renee Faia",
+        "Raymond J. Barry",
+        "Kelsey Kemper",
+        "Jared McVay",
+        "Dennis Lau"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.35,
+      "rating_count": 493,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/7/8/3/27783-interview-with-the-assassin-0-230-0-345-crop.jpg?v=7a3d1f6d8a",
+      "url": "https://letterboxd.com/film/interview-with-the-assassin/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "borat-subsequent-moviefilm-delivery-of-prodigious",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": "2020",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Jason Woliner"
+      ],
+      "actors": [
+        "Sacha Baron Cohen",
+        "Maria Bakalova",
+        "Tom Hanks",
+        "Dani Popescu",
+        "Manuel Vieru",
+        "Miroslav Tolj"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.27,
+      "rating_count": 454342,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vm/qf/ng/lp/2FE2A140-82B9-48C7-ABD8-6632D4385666-0-230-0-345-crop.jpg?v=e2d1dfedaa",
+      "url": "https://letterboxd.com/film/borat-subsequent-moviefilm-delivery-of-prodigious/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "butterfly-kisses-2018",
+      "title": "Butterfly Kisses",
+      "year": "2018",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Erik Kristopher Myers"
+      ],
+      "actors": [
+        "Seth Adam Kallick",
+        "Rachel Armiger",
+        "Reed Delisle",
+        "Matt Lake",
+        "Eileen Del Valle",
+        "Janise Whelan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.16,
+      "rating_count": 23306,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/1/6/7/0/411670-butterfly-kisses-0-230-0-345-crop.jpg?v=06f26184c1",
+      "url": "https://letterboxd.com/film/butterfly-kisses-2018/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "cannibal-holocaust",
+      "title": "Cannibal Holocaust",
+      "year": "1980",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Ruggero Deodato"
+      ],
+      "actors": [
+        "Robert Kerman",
+        "Francesca Ciardi",
+        "Perry Pirkanen",
+        "Luca Barbareschi",
+        "Salvatore Basile",
+        "Ricardo Fuentes"
+      ],
+      "countries": [
+        "Colombia",
+        "Italy",
+        "Venezuela"
+      ],
+      "rating": 2.62,
+      "rating_count": 110872,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/4/6/47646-cannibal-holocaust-0-230-0-345-crop.jpg?v=4ca2f126bb",
+      "url": "https://letterboxd.com/film/cannibal-holocaust/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "cloverfield",
+      "title": "Cloverfield",
+      "year": "2008",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Matt Reeves"
+      ],
+      "actors": [
+        "Lizzy Caplan",
+        "Jessica Lucas",
+        "T.J. Miller",
+        "Michael Stahl-David",
+        "Mike Vogel",
+        "Odette Annable"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.41,
+      "rating_count": 439416,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/07/hp/61/ut/as01o40tJ2FhtheqeXf7bVZ0EQO-0-230-0-345-crop.jpg?v=08b1fe1af9",
+      "url": "https://letterboxd.com/film/cloverfield/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-great-martian-war-1913-1917",
+      "title": "The Great Martian War 1913–1917",
+      "year": "2013",
+      "genres": [
+        "War",
+        "Science Fiction",
+        "Drama",
+        "Documentary",
+        "History"
+      ],
+      "directors": [
+        "Mike Slee"
+      ],
+      "actors": [
+        "Mark Strong",
+        "Joan Gregson",
+        "Briony Glassco",
+        "Jock McLeod",
+        "Ian Downie",
+        "Thomas Gough"
+      ],
+      "countries": [
+        "Canada",
+        "UK"
+      ],
+      "rating": 3.42,
+      "rating_count": 284,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/3/2/2/7/173227-the-great-martian-war-1913-1917-0-230-0-345-crop.jpg?v=52df412358",
+      "url": "https://letterboxd.com/film/the-great-martian-war-1913-1917/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "without-warning-1994",
+      "title": "Without Warning",
+      "year": "1994",
+      "genres": [
+        "TV Movie",
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Iscove"
+      ],
+      "actors": [
+        "Sander Vanocur",
+        "Jane Kaczmarek",
+        "Bree Walker",
+        "Dwier Brown",
+        "Brian McNamara",
+        "James Morrison"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 2755,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/0/4/8/21048-without-warning-0-230-0-345-crop.jpg?v=386f417e45",
+      "url": "https://letterboxd.com/film/without-warning-1994/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-thin-pink-line",
+      "title": "The Thin Pink Line",
+      "year": "1998",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Joe Dietl",
+        "Michael Irpino"
+      ],
+      "actors": [
+        "Rob Helms",
+        "Bruce Daniels",
+        "Joe Dietl",
+        "Carrie Aizley",
+        "Diane Delano",
+        "Michael Irpino"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/5/5/6/180556-the-thin-pink-line-0-230-0-345-crop.jpg?v=fedd46d04d",
+      "url": "https://letterboxd.com/film/the-thin-pink-line/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "nothing-so-strange",
+      "title": "Nothing So Strange",
+      "year": "2002",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Brian Flemming"
+      ],
+      "actors": [
+        "Dave James",
+        "Mark Daniel Cade"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/5/5/4/3/155543-nothing-so-strange-0-230-0-345-crop.jpg?v=3991aa7078",
+      "url": "https://letterboxd.com/film/nothing-so-strange/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "threads",
+      "title": "Threads",
+      "year": "1984",
+      "genres": [
+        "Drama",
+        "War",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Mick Jackson"
+      ],
+      "actors": [
+        "Karen Meagher",
+        "Reece Dinsdale",
+        "David Brierly",
+        "Rita May",
+        "Nicholas Lane",
+        "Jane Hazlegrove"
+      ],
+      "countries": [
+        "Australia",
+        "UK"
+      ],
+      "rating": 4.19,
+      "rating_count": 71113,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/7/4/8/40748-threads-0-230-0-345-crop.jpg?v=6dd497145b",
+      "url": "https://letterboxd.com/film/threads/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "chronicle",
+      "title": "Chronicle",
+      "year": "2012",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Josh Trank"
+      ],
+      "actors": [
+        "Dane DeHaan",
+        "Alex Russell",
+        "Michael B. Jordan",
+        "Michael Kelly",
+        "Ashley Hinshaw",
+        "Bo Petersen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.53,
+      "rating_count": 333691,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/85/vy/rs/s4/dMULLYV1wxEdG6P3uziGqdo6uFl-0-230-0-345-crop.jpg?v=7e5bf356e6",
+      "url": "https://letterboxd.com/film/chronicle/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Comedy": 29,
+      "Drama": 13,
+      "Horror": 10,
+      "Music": 10,
+      "Science Fiction": 6,
+      "Thriller": 6,
+      "Mystery": 5,
+      "TV Movie": 5,
+      "Crime": 4,
+      "Documentary": 2,
+      "War": 2,
+      "Fantasy": 1,
+      "Animation": 1,
+      "Family": 1,
+      "Action": 1,
+      "History": 1
+    },
+    "directors": {
+      "Christopher Guest": 3,
+      "Larry Charles": 2,
+      "Woody Allen": 2,
+      "Jake Szymanski": 2,
+      "Michael Dowse": 2,
+      "Jemaine Clement": 1,
+      "Taika Waititi": 1,
+      "Daniel Myrick": 1,
+      "Eduardo Sánchez": 1,
+      "Rob Reiner": 1,
+      "Neill Blomkamp": 1,
+      "Tim Robbins": 1,
+      "Peter Watkins": 1,
+      "Albert Brooks": 1,
+      "Akiva Schaffer": 1,
+      "Jorma Taccone": 1,
+      "Michael Patrick Jann": 1,
+      "Rémy Belvaux": 1,
+      "André Bonzel": 1,
+      "Benoît Poelvoorde": 1
+    },
+    "years": {
+      "1964": 1,
+      "1967": 1,
+      "1969": 1,
+      "1971": 1,
+      "1978": 1,
+      "1979": 1,
+      "1980": 1,
+      "1983": 1,
+      "1984": 2,
+      "1992": 2,
+      "1993": 1,
+      "1994": 1,
+      "1995": 1,
+      "1996": 1,
+      "1998": 1,
+      "1999": 2,
+      "2000": 1,
+      "2002": 4,
+      "2003": 1,
+      "2004": 1,
+      "2005": 1,
+      "2006": 1,
+      "2007": 1,
+      "2008": 2,
+      "2009": 2,
+      "2010": 3,
+      "2012": 1,
+      "2013": 1,
+      "2014": 2,
+      "2015": 1,
+      "2016": 1,
+      "2017": 1,
+      "2018": 1,
+      "2020": 1,
+      "2021": 1,
+      "2023": 1
+    }
+  }
+}
