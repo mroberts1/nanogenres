@@ -12,6 +12,7 @@
 	} from 'd3-force';
 	import type { PageData } from './$types';
 	import type { OverlapNode, OverlapLink } from '$lib/datasets';
+	import { base } from '$app/paths';
 
 	let { data }: { data: PageData } = $props();
 
@@ -119,7 +120,7 @@
 	}
 </script>
 
-<a class="back" href="/">← all nanogenres</a>
+<a class="back" href="{base}/">← all nanogenres</a>
 <h1>Overlap graph</h1>
 <p class="meta">
 	Each node is a nanogenre; an edge connects two nanogenres that share at least
@@ -162,7 +163,7 @@
 					role="button"
 					tabindex="0"
 				>
-					<a href="/nanogenres/{n.id}">
+					<a href="{base}/nanogenres/{n.id}">
 						<circle r={radius(n)} fill="var(--card)" stroke="var(--accent)" stroke-width="1.5" />
 						<text
 							y={radius(n) + 12}

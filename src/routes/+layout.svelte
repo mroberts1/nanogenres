@@ -1,5 +1,6 @@
 <script lang="ts">
 	import favicon from '$lib/assets/favicon.svg';
+	import { base } from '$app/paths';
 
 	let { children } = $props();
 </script>
@@ -11,7 +12,7 @@
 </svelte:head>
 
 <header class="site-header">
-	<a href="/" class="brand">Nanogenres of Letterboxd</a>
+	<a href="{base}/" class="brand">Nanogenres of Letterboxd</a>
 </header>
 
 <main class="site-main">

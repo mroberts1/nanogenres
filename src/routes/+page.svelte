@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { PageData } from './$types';
+	import { base } from '$app/paths';
 
 	let { data }: { data: PageData } = $props();
 </script>
@@ -14,12 +15,12 @@
 <p class="count">
 	{data.summaries.length} nanogenres
 	<span class="sep">·</span>
-	<a href="/graph">overlap graph →</a>
+	<a href="{base}/graph">overlap graph →</a>
 </p>
 
 <div class="grid">
 	{#each data.summaries as n (n.slug)}
-		<a class="card" href="/nanogenres/{n.slug}">
+		<a class="card" href="{base}/nanogenres/{n.slug}">
 			<h2>{n.query}</h2>
 			<div class="stats">
 				{n.source_list_count} lists · {n.canonical_count} canonical films

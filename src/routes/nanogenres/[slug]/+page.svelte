@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { PageData } from './$types';
+	import { base } from '$app/paths';
 
 	let { data }: { data: PageData } = $props();
 
@@ -32,7 +33,7 @@
 	const yearMax = $derived(Math.max(1, ...yearBuckets.map(([, n]) => n)));
 </script>
 
-<a class="back" href="/">← all nanogenres</a>
+<a class="back" href="{base}/">← all nanogenres</a>
 <h1>{ng.query}</h1>
 <p class="meta">
 	{ng.source_list_count} source lists · {ng.canonical_count} canonical films · drawn from {ng.films_considered}
