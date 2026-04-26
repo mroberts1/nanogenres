@@ -1,11 +1,12 @@
 <script lang="ts">
-	import { onMount, onDestroy } from 'svelte';
 	import {
 		forceSimulation,
 		forceLink,
 		forceManyBody,
 		forceCenter,
 		forceCollide,
+		forceX,
+		forceY,
 		type Simulation,
 		type SimulationNodeDatum,
 		type SimulationLinkDatum
@@ -22,27 +23,29 @@
 	const W = 1000;
 	const H = 700;
 
-	// Reactive copies of the graph (with x/y filled in by simulation).
-	let nodes = $state<SimNode[]>([]);
-	let links = $state<SimLink[]>([]);
-
-	// Edge filter: minimum shared films required to draw a link.
-	// Recomputed locally — `data.graph` already filters at >= 2.
+	// Slider-controlled edge threshold.
 	let minShared = $state(3);
 
-	const filteredLinks = $derived(data.graph.links.filter((l) => l.weight >= minShared));
-	const linkedSlugs = $derived(
-		new Set(filteredLinks.flatMap((l) => [l.source as string, l.target as string]))
-	);
-	const filteredNodes = $derived(data.graph.nodes.filter((n) => linkedSlugs.has(n.id)));
-
+	// Hover state for highlight.
 	let hovered = $state<string | null>(null);
-	const hoveredNeighbors = $derived(neighborsOf(hovered));
+
+	// Reactive view: rebuilt as a fresh array on every simulation tick so
+	// Svelte 5's runes reactivity actually picks up the change.
+	let view = $state<{ nodes: SimNode[]; links: SimLink[] }>({ nodes: [], links: [] });
+
+	// Underlying d3-force-owned arrays (NOT $state — d3 mutates these in place).
+	let simNodes: SimNode[] = [];
+	let simLinks: SimLink[] = [];
+	let sim: Simulation<SimNode, SimLink> | null = null;
+
+	function radius(n: { size: number }) {
+		return 6 + Math.sqrt(n.size) * 1.6;
+	}
 
 	function neighborsOf(id: string | null): Set<string> {
 		if (!id) return new Set();
 		const out = new Set<string>([id]);
-		for (const l of links) {
+		for (const l of view.links) {
 			const s = (l.source as SimNode).id ?? (l.source as unknown as string);
 			const t = (l.target as SimNode).id ?? (l.target as unknown as string);
 			if (s === id) out.add(t as string);
@@ -51,37 +54,59 @@
 		return out;
 	}
 
-	let sim: Simulation<SimNode, SimLink> | null = null;
-
-	function startSim() {
+	function startSim(threshold: number) {
 		stopSim();
-		// Clone for d3-force (it mutates the array contents).
-		nodes = filteredNodes.map((n) => ({ ...n }));
-		links = filteredLinks.map((l) => ({ ...l }));
 
-		// Scale node radius by canonical_count (sqrt for visual area).
-		const sizeScale = (s: number) => 6 + Math.sqrt(s) * 1.6;
+		const filteredLinks = data.graph.links.filter((l) => l.weight >= threshold);
+		const linkedSlugs = new Set(
+			filteredLinks.flatMap((l) => [l.source as string, l.target as string])
+		);
+		const filteredNodes = data.graph.nodes.filter((n) => linkedSlugs.has(n.id));
 
-		sim = forceSimulation<SimNode, SimLink>(nodes)
+		// Seed positions across the canvas so the first frame already shows
+		// nodes spread out instead of clumped at the phyllotactic origin.
+		simNodes = filteredNodes.map((n, i) => {
+			const angle = (i / filteredNodes.length) * Math.PI * 2;
+			const r = Math.min(W, H) * 0.35;
+			return {
+				...n,
+				x: W / 2 + Math.cos(angle) * r,
+				y: H / 2 + Math.sin(angle) * r
+			};
+		});
+		simLinks = filteredLinks.map((l) => ({ ...l }));
+
+		sim = forceSimulation<SimNode, SimLink>(simNodes)
 			.force(
 				'link',
-				forceLink<SimNode, SimLink>(links)
+				forceLink<SimNode, SimLink>(simLinks)
 					.id((d) => d.id)
 					.distance((l) => 80 + 40 / Math.sqrt(l.weight))
-					.strength((l) => Math.min(1, l.weight / 8))
+					.strength((l) => Math.min(1, l.weight / 10))
 			)
-			.force('charge', forceManyBody().strength(-260))
-			.force('center', forceCenter(W / 2, H / 2))
+			.force('charge', forceManyBody<SimNode>().strength(-280).distanceMax(450))
+			.force('center', forceCenter(W / 2, H / 2).strength(1))
+			.force('x', forceX<SimNode>(W / 2).strength(0.05))
+			.force('y', forceY<SimNode>(H / 2).strength(0.05))
 			.force(
 				'collide',
-				forceCollide<SimNode>().radius((d) => sizeScale(d.size) + 4)
+				forceCollide<SimNode>()
+					.radius((d) => radius(d) + 6)
+					.strength(0.9)
 			)
 			.alpha(1)
-			.alphaDecay(0.025)
+			.alphaDecay(0.02)
 			.on('tick', () => {
-				// Trigger reactivity by reassigning references.
-				nodes = nodes;
-				links = links;
+				// Snapshot positions into a brand-new array so the runes proxy
+				// sees a real change and the template re-renders.
+				view = {
+					nodes: simNodes.map((n) => ({ ...n })),
+					links: simLinks.map((l) => ({
+						...l,
+						source: l.source,
+						target: l.target
+					}))
+				};
 			});
 	}
 
@@ -92,20 +117,14 @@
 		}
 	}
 
-	onMount(startSim);
-	onDestroy(stopSim);
-
-	// Restart when the edge threshold changes.
+	// Single effect drives both initial start and slider-triggered restart.
 	$effect(() => {
-		// Touch the deps so the effect re-runs.
-		void filteredNodes.length;
-		void filteredLinks.length;
-		startSim();
+		startSim(minShared);
+		return stopSim;
 	});
 
-	function radius(n: SimNode) {
-		return 6 + Math.sqrt(n.size) * 1.6;
-	}
+	const linkedNodeCount = $derived(view.nodes.length);
+	const linkCount = $derived(view.links.length);
 
 	function linkOpacity(l: SimLink): number {
 		if (!hovered) return Math.min(1, 0.15 + l.weight / 20);
@@ -116,7 +135,7 @@
 
 	function nodeOpacity(n: SimNode): number {
 		if (!hovered) return 1;
-		return hoveredNeighbors.has(n.id) ? 1 : 0.2;
+		return neighborsOf(hovered).has(n.id) ? 1 : 0.2;
 	}
 </script>
 
@@ -127,7 +146,7 @@
 	<strong>{minShared}</strong> canonical films. Node size = number of canonical films. Edge opacity =
 	intersection weight.
 	<br />
-	{filteredNodes.length} of {data.graph.nodes.length} nanogenres connected · {filteredLinks.length} edges.
+	{linkedNodeCount} of {data.graph.nodes.length} nanogenres connected · {linkCount} edges.
 </p>
 
 <div class="controls">
@@ -141,7 +160,7 @@
 <div class="graph-wrap">
 	<svg viewBox="0 0 {W} {H}" preserveAspectRatio="xMidYMid meet" role="img" aria-label="overlap graph">
 		<g class="links">
-			{#each links as l, i (i)}
+			{#each view.links as l, i (i)}
 				<line
 					x1={(l.source as SimNode).x ?? 0}
 					y1={(l.source as SimNode).y ?? 0}
@@ -154,7 +173,7 @@
 			{/each}
 		</g>
 		<g class="nodes">
-			{#each nodes as n (n.id)}
+			{#each view.nodes as n (n.id)}
 				<g
 					transform="translate({n.x ?? 0}, {n.y ?? 0})"
 					opacity={nodeOpacity(n)}
