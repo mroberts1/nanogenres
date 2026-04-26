@@ -1,0 +1,1291 @@
+{
+  "query": "doomer film",
+  "slug": "doomer-film",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/lukamike/list/doomer-film-canon/",
+      "user": "lukamike",
+      "slug": "doomer-film-canon",
+      "title": "Doomer Film Canon",
+      "desc": "So there is a list of 101 Dommer-core films (https://rateyourmusic.com/list/Casey_White/doomer-film-canon/) and now you can see the list of those movies on letterboxd",
+      "owner": "List by lukamike",
+      "tags": []
+    },
+    {
+      "href": "/allahfan730/list/the-doomer-film-enjoyer/",
+      "user": "allahfan730",
+      "slug": "the-doomer-film-enjoyer",
+      "title": "the doomer film enjoyer",
+      "desc": "im in a self created hell with no escape",
+      "owner": "List by juan",
+      "tags": []
+    },
+    {
+      "href": "/jessicamgm/list/the-quintessential-list-of-doomer-films/",
+      "user": "jessicamgm",
+      "slug": "the-quintessential-list-of-doomer-films",
+      "title": "THE QUINTESSENTIAL LIST OF DOOMER FILMS",
+      "desc": "favourites among doomers",
+      "owner": "List by 👄jess👄 PATRON",
+      "tags": [
+        "doomer",
+        "based",
+        "ciagrettes"
+      ]
+    },
+    {
+      "href": "/nihilx/list/doomer-films/",
+      "user": "nihilx",
+      "slug": "doomer-films",
+      "title": "Doomer films",
+      "desc": "David is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by David",
+      "tags": []
+    },
+    {
+      "href": "/atarax14/list/doomer-films/",
+      "user": "atarax14",
+      "slug": "doomer-films",
+      "title": "Doomer films",
+      "desc": "Hikki is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Hikki",
+      "tags": [
+        "doomer",
+        "wojak",
+        "depressing"
+      ]
+    },
+    {
+      "href": "/mysterioman/list/doomer-films/",
+      "user": "mysterioman",
+      "slug": "doomer-films",
+      "title": "Doomer films",
+      "desc": "Films that convey the energy of listening to Everlong by Foo Fighters on repeat the entire fuckin night",
+      "owner": "List by MysterioMan",
+      "tags": []
+    },
+    {
+      "href": "/flickcel/list/black-pilled-excess-male-literally-me-incel/",
+      "user": "flickcel",
+      "slug": "black-pilled-excess-male-literally-me-incel",
+      "title": "Black-pilled, Excess male, Literally me, Incel, Doomer, TFL/FA Film Essentials",
+      "desc": "Is that literally me on the screen?",
+      "owner": "List by Flickcel",
+      "tags": [
+        "incel",
+        "black-pilled",
+        "virgin",
+        "blackpilled",
+        "loner",
+        "lonely",
+        "doomer",
+        "forever-alone",
+        "true-forced-loneliness",
+        "involuntary-celibacy",
+        "fa",
+        "tfl",
+        "tflers",
+        "literally-me"
+      ]
+    }
+  ],
+  "source_list_count": 7,
+  "films_considered": 198,
+  "canonical_count": 39,
+  "films": [
+    {
+      "slug": "taxi-driver",
+      "title": "Taxi Driver",
+      "year": "1976",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd",
+        "Harvey Keitel",
+        "Peter Boyle",
+        "Leonard Harris"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 2306558,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-230-0-345-crop.jpg?v=3ae07cca2d",
+      "url": "https://letterboxd.com/film/taxi-driver/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "joker-2019",
+      "title": "Joker",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Todd Phillips"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz",
+        "Frances Conroy",
+        "Brett Cullen",
+        "Shea Whigham"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.84,
+      "rating_count": 4517044,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/6/7/7/5/406775-joker-0-230-0-345-crop.jpg?v=e4ea7f98cc",
+      "url": "https://letterboxd.com/film/joker-2019/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "drive-2011",
+      "title": "Drive",
+      "year": "2011",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Carey Mulligan",
+        "Bryan Cranston",
+        "Albert Brooks",
+        "Oscar Isaac",
+        "Christina Hendricks"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 1873033,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-230-0-345-crop.jpg?v=58a476ae28",
+      "url": "https://letterboxd.com/film/drive-2011/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "fight-club",
+      "title": "Fight Club",
+      "year": "1999",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto",
+        "Zach Grenier"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 4.27,
+      "rating_count": 5275068,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-230-0-345-crop.jpg?v=768b32dfa4",
+      "url": "https://letterboxd.com/film/fight-club/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "stalker",
+      "title": "Stalker",
+      "year": "1979",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Alisa Freyndlikh",
+        "Aleksandr Kaydanovskiy",
+        "Anatoliy Solonitsyn",
+        "Mykola Hrynko",
+        "Natalya Abramova",
+        "Faime Jurno"
+      ],
+      "countries": [
+        "USSR"
+      ],
+      "rating": 4.4,
+      "rating_count": 361539,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-230-0-345-crop.jpg?v=1852068db9",
+      "url": "https://letterboxd.com/film/stalker/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "her",
+      "title": "Her",
+      "year": "2013",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Spike Jonze"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Scarlett Johansson",
+        "Lynn Adrianna",
+        "Lisa Renee Pitts",
+        "Gabe Gomez",
+        "Chris Pratt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 2156743,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/au/nb/i6/lq/fsoTLnUXEUTNuVCBxAJMY0HPPd-0-230-0-345-crop.jpg?v=16789732be",
+      "url": "https://letterboxd.com/film/her/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "blade-runner-2049",
+      "title": "Blade Runner 2049",
+      "year": "2017",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas",
+        "Dave Bautista",
+        "Robin Wright",
+        "Sylvia Hoeks"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 2126831,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/5/4/3/9/265439-blade-runner-2049-0-230-0-345-crop.jpg?v=86735e0bb8",
+      "url": "https://letterboxd.com/film/blade-runner-2049/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "american-psycho",
+      "title": "American Psycho",
+      "year": "2000",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Mary Harron"
+      ],
+      "actors": [
+        "Christian Bale",
+        "Justin Theroux",
+        "Josh Lucas",
+        "Bill Sage",
+        "Chloë Sevigny",
+        "Reese Witherspoon"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 3722705,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5b/u9/av/il/ecoY7zJL6Ub3URP1oPhPfGflEjV-0-230-0-345-crop.jpg?v=8126850315",
+      "url": "https://letterboxd.com/film/american-psycho/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "under-the-silver-lake",
+      "title": "Under the Silver Lake",
+      "year": "2018",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "David Robert Mitchell"
+      ],
+      "actors": [
+        "Andrew Garfield",
+        "Riley Keough",
+        "Topher Grace",
+        "Callie Hernandez",
+        "Don McManus",
+        "Jeremy Bobb"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 276052,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/0/8/1/0/330810-under-the-silver-lake-0-230-0-345-crop.jpg?v=28f0cabef3",
+      "url": "https://letterboxd.com/film/under-the-silver-lake/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "control-2007",
+      "title": "Control",
+      "year": "2007",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Anton Corbijn"
+      ],
+      "actors": [
+        "Sam Riley",
+        "Samantha Morton",
+        "Alexandra Maria Lara",
+        "Joe Anderson",
+        "Toby Kebbell",
+        "Craig Parkinson"
+      ],
+      "countries": [
+        "Australia",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.92,
+      "rating_count": 92826,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/7/1/1/48711-control-0-230-0-345-crop.jpg?v=ec852f3e51",
+      "url": "https://letterboxd.com/film/control-2007/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "donnie-darko",
+      "title": "Donnie Darko",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "directors": [
+        "Richard Kelly"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Jena Malone",
+        "James Duval",
+        "Drew Barrymore",
+        "Beth Grant",
+        "Maggie Gyllenhaal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 2262921,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ye/jq/f3/22/nmb4QhCRmdfNP6rgb81yUFgI83l-0-230-0-345-crop.jpg?v=caa3999c6f",
+      "url": "https://letterboxd.com/film/donnie-darko/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "nightcrawler",
+      "title": "Nightcrawler",
+      "year": "2014",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Dan Gilroy"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Riz Ahmed",
+        "Rene Russo",
+        "Bill Paxton",
+        "Kevin Rahm",
+        "Michael Hyatt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.04,
+      "rating_count": 1735205,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g7/2e/vi/vy/A9ANrAWlmIovxzjAIiOgseSLNc9-0-230-0-345-crop.jpg?v=6bcb14c88c",
+      "url": "https://letterboxd.com/film/nightcrawler/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "trainspotting",
+      "title": "Trainspotting",
+      "year": "1996",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Danny Boyle"
+      ],
+      "actors": [
+        "Ewan McGregor",
+        "Ewen Bremner",
+        "Jonny Lee Miller",
+        "Kevin McKidd",
+        "Robert Carlyle",
+        "Kelly Macdonald"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 4.23,
+      "rating_count": 1185500,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/7/51497-trainspotting-0-230-0-345-crop.jpg?v=c8597f6cb5",
+      "url": "https://letterboxd.com/film/trainspotting/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "requiem-for-a-dream",
+      "title": "Requiem for a Dream",
+      "year": "2000",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Ellen Burstyn",
+        "Jared Leto",
+        "Jennifer Connelly",
+        "Marlon Wayans",
+        "Christopher McDonald",
+        "Louise Lasser"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 1609222,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/lv/4b/f2/zj/muym4jTjdLx7E6as09d1wlC3sOB-0-230-0-345-crop.jpg?v=b4d5a4aa37",
+      "url": "https://letterboxd.com/film/requiem-for-a-dream/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "full-metal-jacket",
+      "title": "Full Metal Jacket",
+      "year": "1987",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "actors": [
+        "Matthew Modine",
+        "Adam Baldwin",
+        "Vincent D'Onofrio",
+        "R. Lee Ermey",
+        "Dorian Harewood",
+        "Kevyn Major Howard"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.2,
+      "rating_count": 1039874,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/l0/l4/6c/7v/29veIwD38rVL2qY74emXQw4y25H-0-230-0-345-crop.jpg?v=6e44829670",
+      "url": "https://letterboxd.com/film/full-metal-jacket/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "lost-in-translation",
+      "title": "Lost in Translation",
+      "year": "2003",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Bill Murray",
+        "Scarlett Johansson",
+        "Giovanni Ribisi",
+        "Anna Faris",
+        "Akiko Takeshita",
+        "Kazuyoshi Minamimagoe"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 1466558,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/th/b5/6c/gl/5T8VvuFTdaawKLJk34i69Utaw7o-0-230-0-345-crop.jpg?v=ce6ae8e1b4",
+      "url": "https://letterboxd.com/film/lost-in-translation/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-lighthouse-2019",
+      "title": "The Lighthouse",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Willem Dafoe",
+        "Valeriia Karaman",
+        "Logan Hawkes",
+        "Kyla Nicolle",
+        "Shaun Clarke"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 1504904,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/3/8/6/3/433863-the-lighthouse-0-230-0-345-crop.jpg?v=ee97005537",
+      "url": "https://letterboxd.com/film/the-lighthouse-2019/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "falling-down",
+      "title": "Falling Down",
+      "year": "1993",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Joel Schumacher"
+      ],
+      "actors": [
+        "Michael Douglas",
+        "Robert Duvall",
+        "Barbara Hershey",
+        "Rachel Ticotin",
+        "Tuesday Weld",
+        "Frederic Forrest"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.68,
+      "rating_count": 208116,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/3/2/2/27322-falling-down-0-230-0-345-crop.jpg?v=3315b39694",
+      "url": "https://letterboxd.com/film/falling-down/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "first-reformed",
+      "title": "First Reformed",
+      "year": "2017",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Paul Schrader"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Amanda Seyfried",
+        "Cedric the Entertainer",
+        "Victoria Hill",
+        "Philip Ettinger",
+        "Michael Gaston"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 4.03,
+      "rating_count": 263860,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/25/z1/3z/xn/8HKA3Hwf8jQWy8TCYWr7C8Wft23-0-230-0-345-crop.jpg?v=79051e4cf2",
+      "url": "https://letterboxd.com/film/first-reformed/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "blade-runner",
+      "title": "Blade Runner",
+      "year": "1982",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Edward James Olmos",
+        "M. Emmet Walsh",
+        "Daryl Hannah"
+      ],
+      "countries": [
+        "USA",
+        "Hong Kong",
+        "UK"
+      ],
+      "rating": 4.1,
+      "rating_count": 1407760,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/85/io/38/dz/vfzE3pjE5G7G7kcZWrA3fnbZo7V-0-230-0-345-crop.jpg?v=0d5de70f0d",
+      "url": "https://letterboxd.com/film/blade-runner/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "american-beauty",
+      "title": "American Beauty",
+      "year": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Sam Mendes"
+      ],
+      "actors": [
+        "Kevin Spacey",
+        "Annette Bening",
+        "Thora Birch",
+        "Wes Bentley",
+        "Mena Suvari",
+        "Peter Gallagher"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.95,
+      "rating_count": 1171837,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/0/3/2703-american-beauty-0-230-0-345-crop.jpg?v=30329dd752",
+      "url": "https://letterboxd.com/film/american-beauty/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-girl-with-the-dragon-tattoo-2011",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": "2011",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Daniel Craig",
+        "Rooney Mara",
+        "Christopher Plummer",
+        "Stellan Skarsgård",
+        "Robin Wright",
+        "Yorick van Wageningen"
+      ],
+      "countries": [
+        "Sweden",
+        "USA"
+      ],
+      "rating": 3.9,
+      "rating_count": 633442,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0a/ec/72/pb/zHGxi75Ugw69jtCmOK8TvwU588z-0-230-0-345-crop.jpg?v=58931ddc0d",
+      "url": "https://letterboxd.com/film/the-girl-with-the-dragon-tattoo-2011/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Naomi Watts",
+        "Laura Harring",
+        "Justin Theroux",
+        "Ann Miller",
+        "Mark Pellegrino",
+        "Robert Forster"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.26,
+      "rating_count": 1223155,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-230-0-345-crop.jpg?v=3d69c00608",
+      "url": "https://letterboxd.com/film/mulholland-drive/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "naked",
+      "title": "Naked",
+      "year": "1993",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Mike Leigh"
+      ],
+      "actors": [
+        "David Thewlis",
+        "Lesley Sharp",
+        "Katrin Cartlidge",
+        "Greg Cruttwell",
+        "Claire Skinner",
+        "Peter Wight"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 4.01,
+      "rating_count": 125764,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/9/7/38397-naked-0-230-0-345-crop.jpg?v=6ff026f427",
+      "url": "https://letterboxd.com/film/naked/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "birdman-or-the-unexpected-virtue-of-ignorance",
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": "2014",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Alejandro G. Iñárritu"
+      ],
+      "actors": [
+        "Michael Keaton",
+        "Emma Stone",
+        "Zach Galifianakis",
+        "Edward Norton",
+        "Andrea Riseborough",
+        "Naomi Watts"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4,
+      "rating_count": 1189599,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/9/5/139795-birdman-0-230-0-345-crop.jpg?v=345680513e",
+      "url": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "angels-egg",
+      "title": "Angel's Egg",
+      "year": "1985",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Mystery"
+      ],
+      "directors": [
+        "Mamoru Oshii"
+      ],
+      "actors": [
+        "Keiichi Noda",
+        "Mako Hyodo",
+        "Jinpachi Nezu"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.09,
+      "rating_count": 151247,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/9/9/0/41990-angel-s-egg-0-230-0-345-crop.jpg?v=98f9bf2def",
+      "url": "https://letterboxd.com/film/angels-egg/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "eraserhead",
+      "title": "Eraserhead",
+      "year": "1977",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Jack Nance",
+        "Charlotte Stewart",
+        "Allen Joseph",
+        "Jeanne Bates",
+        "Judith Roberts",
+        "Laurel Near"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 535436,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cw/7x/ig/m6/l8oAmU5swopsyWzTHpZtAK15Mrc-0-230-0-345-crop.jpg?v=c9fb159d8f",
+      "url": "https://letterboxd.com/film/eraserhead/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "akira",
+      "title": "Akira",
+      "year": "1988",
+      "genres": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Katsuhiro Otomo"
+      ],
+      "actors": [
+        "Mitsuo Iwata",
+        "Nozomu Sasaki",
+        "Mami Koyama",
+        "Taro Ishida",
+        "Mizuho Suzuki",
+        "Tessyo Genda"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.28,
+      "rating_count": 818877,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
+      "url": "https://letterboxd.com/film/akira/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "blue-ruin",
+      "title": "Blue Ruin",
+      "year": "2013",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Jeremy Saulnier"
+      ],
+      "actors": [
+        "Macon Blair",
+        "Devin Ratray",
+        "Amy Hargreaves",
+        "Kevin Kolack",
+        "Eve Plumb",
+        "Stacy Rock"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.72,
+      "rating_count": 117114,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xb/lr/sn/ty/blue-ruin-poster-0-230-0-345-crop.jpg?v=70c7c07347",
+      "url": "https://letterboxd.com/film/blue-ruin/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "apocalypse-now",
+      "title": "Apocalypse Now",
+      "year": "1979",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "actors": [
+        "Martin Sheen",
+        "Marlon Brando",
+        "Frederic Forrest",
+        "Albert Hall",
+        "Laurence Fishburne",
+        "Sam Bottoms"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.44,
+      "rating_count": 969604,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/9/0/2690-apocalypse-now-0-230-0-345-crop.jpg?v=d4f99c09a3",
+      "url": "https://letterboxd.com/film/apocalypse-now/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-dark-knight",
+      "title": "The Dark Knight",
+      "year": "2008",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine",
+        "Maggie Gyllenhaal",
+        "Gary Oldman"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.49,
+      "rating_count": 4246657,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/78/y5/zg/ej/oefdD26aey8GPdx7Rm45PNncJdU-0-230-0-345-crop.jpg?v=2d0ce4be25",
+      "url": "https://letterboxd.com/film/the-dark-knight/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "melancholia",
+      "title": "Melancholia",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Lars von Trier"
+      ],
+      "actors": [
+        "Kirsten Dunst",
+        "Charlotte Gainsbourg",
+        "Kiefer Sutherland",
+        "Alexander Skarsgård",
+        "Cameron Spurr",
+        "Stellan Skarsgård"
+      ],
+      "countries": [
+        "Denmark",
+        "France",
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 3.84,
+      "rating_count": 357180,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1y/p9/o1/xu/eCjATHunhgLl9ARKUFtmKguaWDJ-0-230-0-345-crop.jpg?v=0fb0026d30",
+      "url": "https://letterboxd.com/film/melancholia/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-man-who-sleeps",
+      "title": "The Man Who Sleeps",
+      "year": "1974",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Bernard Queysanne"
+      ],
+      "actors": [
+        "Jacques Spiesser",
+        "Ludmila Mikaël"
+      ],
+      "countries": [
+        "France",
+        "Tunisia"
+      ],
+      "rating": 4.22,
+      "rating_count": 46974,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/3/8/6/84386-the-man-who-sleeps-0-230-0-345-crop.jpg?v=4ba91ef93d",
+      "url": "https://letterboxd.com/film/the-man-who-sleeps/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "christine-2016",
+      "title": "Christine",
+      "year": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Antonio Campos"
+      ],
+      "actors": [
+        "Rebecca Hall",
+        "Michael C. Hall",
+        "Tracy Letts",
+        "Maria Dizzia",
+        "J. Smith-Cameron",
+        "Timothy Simons"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.61,
+      "rating_count": 37892,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/w7/0z/tf/ys/xji5lxzK4qJYHriyUutSISJVSAC-0-230-0-345-crop.jpg?v=20b1769ecb",
+      "url": "https://letterboxd.com/film/christine-2016/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "oldboy",
+      "title": "Oldboy",
+      "year": "2003",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ],
+      "actors": [
+        "Choi Min-sik",
+        "Yoo Ji-tae",
+        "Kang Hye-jung",
+        "Kim Byeong-ok",
+        "Ji Dae-han",
+        "Oh Dal-su"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 4.36,
+      "rating_count": 1511594,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/4/51454-oldboy-0-230-0-345-crop.jpg?v=294dbcadef",
+      "url": "https://letterboxd.com/film/oldboy/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "kids",
+      "title": "Kids",
+      "year": "1995",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Larry Clark"
+      ],
+      "actors": [
+        "Leo Fitzpatrick",
+        "Justin Pierce",
+        "Chloë Sevigny",
+        "Rosario Dawson",
+        "Yakira Peguero",
+        "Atabey Rodriguez"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.37,
+      "rating_count": 236287,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/5/0/47250-kids-0-230-0-345-crop.jpg?v=a93dab25a6",
+      "url": "https://letterboxd.com/film/kids/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "se7en",
+      "title": "Se7en",
+      "year": "1995",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Gwyneth Paltrow",
+        "Kevin Spacey",
+        "John Cassini",
+        "R. Lee Ermey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.37,
+      "rating_count": 3482345,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/4/5/51345-se7en-0-230-0-345-crop.jpg?v=76a14ef6b4",
+      "url": "https://letterboxd.com/film/se7en/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "enter-the-void",
+      "title": "Enter the Void",
+      "year": "2009",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Gaspar Noé"
+      ],
+      "actors": [
+        "Paz de la Huerta",
+        "Nathaniel Brown",
+        "Cyril Roy",
+        "Olly Alexander",
+        "Masato Tanno",
+        "Ed Spear"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "rating": 3.77,
+      "rating_count": 245688,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/0/4/1/29041-enter-the-void-0-230-0-345-crop.jpg?v=5a7c2754fb",
+      "url": "https://letterboxd.com/film/enter-the-void/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "martyrs",
+      "title": "Martyrs",
+      "year": "2008",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Pascal Laugier"
+      ],
+      "actors": [
+        "Morjana Alaoui",
+        "Mylène Jampanoï",
+        "Catherine Bégin",
+        "Robert Toupin",
+        "Patricia Tulasne",
+        "Juliette Gosselin"
+      ],
+      "countries": [
+        "Canada",
+        "France"
+      ],
+      "rating": 3.6,
+      "rating_count": 267453,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/6/1/47061-martyrs-0-230-0-345-crop.jpg?v=26b1166803",
+      "url": "https://letterboxd.com/film/martyrs/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 32,
+      "Thriller": 15,
+      "Crime": 14,
+      "Science Fiction": 7,
+      "Mystery": 7,
+      "Horror": 4,
+      "Fantasy": 4,
+      "Comedy": 3,
+      "Action": 3,
+      "Romance": 2,
+      "War": 2,
+      "Animation": 2
+    },
+    "directors": {
+      "David Fincher": 3,
+      "David Lynch": 2,
+      "Martin Scorsese": 1,
+      "Todd Phillips": 1,
+      "Nicolas Winding Refn": 1,
+      "Andrei Tarkovsky": 1,
+      "Spike Jonze": 1,
+      "Denis Villeneuve": 1,
+      "Mary Harron": 1,
+      "David Robert Mitchell": 1,
+      "Anton Corbijn": 1,
+      "Richard Kelly": 1,
+      "Dan Gilroy": 1,
+      "Danny Boyle": 1,
+      "Darren Aronofsky": 1,
+      "Stanley Kubrick": 1,
+      "Sofia Coppola": 1,
+      "Robert Eggers": 1,
+      "Joel Schumacher": 1,
+      "Paul Schrader": 1
+    },
+    "years": {
+      "1974": 1,
+      "1976": 1,
+      "1977": 1,
+      "1979": 2,
+      "1982": 1,
+      "1985": 1,
+      "1987": 1,
+      "1988": 1,
+      "1993": 2,
+      "1995": 2,
+      "1996": 1,
+      "1999": 2,
+      "2000": 2,
+      "2001": 2,
+      "2003": 2,
+      "2007": 1,
+      "2008": 2,
+      "2009": 1,
+      "2011": 3,
+      "2013": 2,
+      "2014": 2,
+      "2016": 1,
+      "2017": 2,
+      "2018": 1,
+      "2019": 2
+    }
+  }
+}

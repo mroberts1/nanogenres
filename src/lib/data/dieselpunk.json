@@ -1,0 +1,727 @@
+{
+  "query": "dieselpunk",
+  "slug": "dieselpunk",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/vlahos/list/dieselpunk/",
+      "user": "vlahos",
+      "slug": "dieselpunk",
+      "title": "Dieselpunk",
+      "desc": "Movies with wwi and wwii technology aesthetics. Simular to steampunk but based on diesel powerd machines. Movies are usually lesa optimistic then steampunk And colors are usualy darker too.",
+      "owner": "List by vlahos",
+      "tags": [
+        "20s",
+        "30s",
+        "40s",
+        "wwi",
+        "wwii",
+        "diesel",
+        "dieselpunk",
+        "tesla",
+        "retrofuturism",
+        "pesimistic",
+        "future",
+        "past",
+        "cyberpunk-derivates",
+        "space",
+        "moon",
+        "nazi",
+        "word-war",
+        "super-soldier",
+        "technology"
+      ]
+    },
+    {
+      "href": "/kenziemichele/list/dieselpunk/",
+      "user": "kenziemichele",
+      "slug": "dieselpunk",
+      "title": "Dieselpunk",
+      "desc": "kenzie is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by kenzie PRO",
+      "tags": []
+    },
+    {
+      "href": "/pepetesoro/list/dieselpunk/",
+      "user": "pepetesoro",
+      "slug": "dieselpunk",
+      "title": "Dieselpunk",
+      "desc": "PepeTesoro is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by PepeTesoro PRO",
+      "tags": [
+        "ciencia-ficcion",
+        "otros"
+      ]
+    },
+    {
+      "href": "/sweatycheese/list/dieselpunk/",
+      "user": "sweatycheese",
+      "slug": "dieselpunk",
+      "title": "dieselpunk",
+      "desc": "patiently waiting for the day when a hardcore dieselpunk film is made.",
+      "owner": "List by sweatycheese",
+      "tags": [
+        "dieselpunk",
+        "steampunk",
+        "biopunk",
+        "decopunk"
+      ]
+    },
+    {
+      "href": "/delpa9/list/dieselpunk/",
+      "user": "delpa9",
+      "slug": "dieselpunk",
+      "title": "Dieselpunk",
+      "desc": "Film dieselpunk.",
+      "owner": "List by Delpa9",
+      "tags": [
+        "dieselpunk",
+        "retrofuturismo",
+        "fantascienza",
+        "retrofuturism",
+        "sciencefiction",
+        "anni30",
+        "anni40",
+        "30s",
+        "40s"
+      ]
+    },
+    {
+      "href": "/carreon/list/dieselpunk/",
+      "user": "carreon",
+      "slug": "dieselpunk",
+      "title": "Dieselpunk",
+      "desc": "Martin is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Martin Carreon",
+      "tags": []
+    },
+    {
+      "href": "/isabellaprice/list/dieselpunk/",
+      "user": "isabellaprice",
+      "slug": "dieselpunk",
+      "title": "Dieselpunk",
+      "desc": "Isabella is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Isabella Price",
+      "tags": []
+    }
+  ],
+  "source_list_count": 7,
+  "films_considered": 70,
+  "canonical_count": 19,
+  "films": [
+    {
+      "slug": "sky-captain-and-the-world-of-tomorrow",
+      "title": "Sky Captain and the World of Tomorrow",
+      "year": "2004",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Adventure",
+        "Action",
+        "Mystery"
+      ],
+      "directors": [
+        "Kerry Conran"
+      ],
+      "actors": [
+        "Jude Law",
+        "Gwyneth Paltrow",
+        "Angelina Jolie",
+        "Giovanni Ribisi",
+        "Michael Gambon",
+        "Bai Ling"
+      ],
+      "countries": [
+        "Italy",
+        "UK",
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 33215,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/4/2/48942-sky-captain-and-the-world-of-tomorrow-0-230-0-345-crop.jpg?v=5f99ee4dd9",
+      "url": "https://letterboxd.com/film/sky-captain-and-the-world-of-tomorrow/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-rocketeer",
+      "title": "The Rocketeer",
+      "year": "1991",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Family",
+        "Action"
+      ],
+      "directors": [
+        "Joe Johnston"
+      ],
+      "actors": [
+        "Billy Campbell",
+        "Jennifer Connelly",
+        "Alan Arkin",
+        "Timothy Dalton",
+        "Paul Sorvino",
+        "Terry O'Quinn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.42,
+      "rating_count": 53888,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8z/4b/gh/pn/tFOoAfyznMdCRJIvX3vDOpr3MCg-0-230-0-345-crop.jpg?v=d46b92bfc4",
+      "url": "https://letterboxd.com/film/the-rocketeer/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "captain-america-the-first-avenger",
+      "title": "Captain America: The First Avenger",
+      "year": "2011",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Joe Johnston"
+      ],
+      "actors": [
+        "Chris Evans",
+        "Hayley Atwell",
+        "Sebastian Stan",
+        "Tommy Lee Jones",
+        "Hugo Weaving",
+        "Dominic Cooper"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.35,
+      "rating_count": 1765735,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/0/9/50809-captain-america-the-first-avenger-0-230-0-345-crop.jpg?v=5a0d520040",
+      "url": "https://letterboxd.com/film/captain-america-the-first-avenger/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "metropolis",
+      "title": "Metropolis",
+      "year": "1927",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Fritz Lang"
+      ],
+      "actors": [
+        "Gustav Fröhlich",
+        "Brigitte Helm",
+        "Alfred Abel",
+        "Rudolf Klein-Rogge",
+        "Theodor Loos",
+        "Fritz Rasp"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 4.24,
+      "rating_count": 261084,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2z/xx/r0/hy/qriaeUUwdmlgethK3aSAx68mG05-0-230-0-345-crop.jpg?v=31b29ec62d",
+      "url": "https://letterboxd.com/film/metropolis/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "sucker-punch",
+      "title": "Sucker Punch",
+      "year": "2011",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Fantasy"
+      ],
+      "directors": [
+        "Zack Snyder"
+      ],
+      "actors": [
+        "Emily Browning",
+        "Abbie Cornish",
+        "Jena Malone",
+        "Vanessa Hudgens",
+        "Jamie Chung",
+        "Carla Gugino"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.9,
+      "rating_count": 235095,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0w/3u/f0/lk/sucker-punch-original-0-230-0-345-crop.jpg?v=8c0b8e9d6d",
+      "url": "https://letterboxd.com/film/sucker-punch/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "dark-city-1998",
+      "title": "Dark City",
+      "year": "1998",
+      "genres": [
+        "Mystery",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Alex Proyas"
+      ],
+      "actors": [
+        "Rufus Sewell",
+        "William Hurt",
+        "Kiefer Sutherland",
+        "Jennifer Connelly",
+        "Richard O'Brien",
+        "Ian Richardson"
+      ],
+      "countries": [
+        "Australia",
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 137756,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/6/0/50160-dark-city-0-230-0-345-crop.jpg?v=2627eaaa53",
+      "url": "https://letterboxd.com/film/dark-city-1998/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "iron-sky",
+      "title": "Iron Sky",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Timo Vuorensola"
+      ],
+      "actors": [
+        "Julia Dietze",
+        "Christopher Kirby",
+        "Götz Otto",
+        "Udo Kier",
+        "Peta Sergeant",
+        "Stephanie Paul"
+      ],
+      "countries": [
+        "Finland",
+        "Germany",
+        "Australia"
+      ],
+      "rating": 2.53,
+      "rating_count": 30337,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sz/j4/5h/31/4qyVtcCFqrlLMgHtlyxP57PI3ls-0-230-0-345-crop.jpg?v=ab90e9ab06",
+      "url": "https://letterboxd.com/film/iron-sky/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "9",
+      "title": "9",
+      "year": "2009",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Shane Acker"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Christopher Plummer",
+        "Martin Landau",
+        "John C. Reilly",
+        "Crispin Glover",
+        "Jennifer Connelly"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.51,
+      "rating_count": 204639,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/6/6/7/44667-9-0-230-0-345-crop.jpg?v=b33dd485d4",
+      "url": "https://letterboxd.com/film/9/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "k-20-the-fiend-with-twenty-faces",
+      "title": "K-20: The Fiend with Twenty Faces",
+      "year": "2008",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime"
+      ],
+      "directors": [
+        "Shimako Sato"
+      ],
+      "actors": [
+        "Takeshi Kaneshiro",
+        "Takako Matsu",
+        "Toru Nakamura",
+        "Kanata Hongo",
+        "Jun Kunimura",
+        "Yuki Imai"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.32,
+      "rating_count": 487,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/7/9/2/36792-k-20-the-fiend-with-twenty-faces-0-230-0-345-crop.jpg?v=0a0b71c943",
+      "url": "https://letterboxd.com/film/k-20-the-fiend-with-twenty-faces/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "iron-sky-the-coming-race",
+      "title": "Iron Sky: The Coming Race",
+      "year": "2019",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Timo Vuorensola"
+      ],
+      "actors": [
+        "Lara Rossi",
+        "Vladimir Burlakov",
+        "Kit Dale",
+        "Julia Dietze",
+        "Stephanie Paul",
+        "Tom Green"
+      ],
+      "countries": [
+        "Finland",
+        "Germany"
+      ],
+      "rating": 2.27,
+      "rating_count": 8018,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/4/2/1/229421-iron-sky-the-coming-race-0-230-0-345-crop.jpg?v=0194216d19",
+      "url": "https://letterboxd.com/film/iron-sky-the-coming-race/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "overlord-2018",
+      "title": "Overlord",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "War",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Julius Avery"
+      ],
+      "actors": [
+        "Jovan Adepo",
+        "Wyatt Russell",
+        "Pilou Asbæk",
+        "Mathilde Ollivier",
+        "John Magaro",
+        "Iain De Caestecker"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.24,
+      "rating_count": 151523,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/5/3/1/371531-overlord-0-230-0-345-crop.jpg?v=3414bc1377",
+      "url": "https://letterboxd.com/film/overlord-2018/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-shadow-1994",
+      "title": "The Shadow",
+      "year": "1994",
+      "genres": [
+        "Crime",
+        "Fantasy",
+        "Action"
+      ],
+      "directors": [
+        "Russell Mulcahy"
+      ],
+      "actors": [
+        "Alec Baldwin",
+        "John Lone",
+        "Penelope Ann Miller",
+        "Peter Boyle",
+        "Ian McKellen",
+        "Tim Curry"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.9,
+      "rating_count": 17620,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/9v/qh/t6/7f/paxluaJbupdDTpwsN4zUByw4cBb-0-230-0-345-crop.jpg?v=5f07d04c19",
+      "url": "https://letterboxd.com/film/the-shadow-1994/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "brazil",
+      "title": "Brazil",
+      "year": "1985",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "actors": [
+        "Jonathan Pryce",
+        "Robert De Niro",
+        "Katherine Helmond",
+        "Ian Holm",
+        "Bob Hoskins",
+        "Michael Palin"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 272429,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
+      "url": "https://letterboxd.com/film/brazil/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "indiana-jones-and-the-kingdom-of-the-crystal-skull",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "year": "2008",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Harrison Ford",
+        "Cate Blanchett",
+        "Karen Allen",
+        "Shia LaBeouf",
+        "Ray Winstone",
+        "John Hurt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.78,
+      "rating_count": 568837,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/3/9/51839-indiana-jones-and-the-kingdom-of-the-crystal-skull-0-230-0-345-crop.jpg?v=3dfe92e26e",
+      "url": "https://letterboxd.com/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hellboy",
+      "title": "Hellboy",
+      "year": "2004",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "directors": [
+        "Guillermo del Toro"
+      ],
+      "actors": [
+        "Ron Perlman",
+        "Selma Blair",
+        "Doug Jones",
+        "John Hurt",
+        "Rupert Evans",
+        "Jeffrey Tambor"
+      ],
+      "countries": [
+        "USA",
+        "Czechia"
+      ],
+      "rating": 3.43,
+      "rating_count": 330445,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/1/2/51012-hellboy-0-230-0-345-crop.jpg?v=e79d873290",
+      "url": "https://letterboxd.com/film/hellboy/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "indiana-jones-and-the-last-crusade",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": "1989",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Harrison Ford",
+        "Sean Connery",
+        "Denholm Elliott",
+        "Alison Doody",
+        "John Rhys-Davies",
+        "Julian Glover"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 813848,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/6/1/51961-indiana-jones-and-the-last-crusade-0-230-0-345-crop.jpg?v=a75f6c2e01",
+      "url": "https://letterboxd.com/film/indiana-jones-and-the-last-crusade/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "things-to-come",
+      "title": "Things to Come",
+      "year": "1936",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "William Cameron Menzies"
+      ],
+      "actors": [
+        "Raymond Massey",
+        "Edward Chapman",
+        "Ralph Richardson",
+        "Margaretta Scott",
+        "Cedric Hardwicke",
+        "Maurice Braddell"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.29,
+      "rating_count": 9758,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/6/3/9/49639-things-to-come-0-230-0-345-crop.jpg?v=ea016c3123",
+      "url": "https://letterboxd.com/film/things-to-come/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "gattaca",
+      "title": "Gattaca",
+      "year": "1997",
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Andrew Niccol"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Uma Thurman",
+        "Jude Law",
+        "Alan Arkin",
+        "Loren Dean",
+        "Gore Vidal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.81,
+      "rating_count": 372868,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/7/0/51370-gattaca-0-230-0-345-crop.jpg?v=a0ca9198ff",
+      "url": "https://letterboxd.com/film/gattaca/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "metropolis-2001",
+      "title": "Metropolis",
+      "year": "2001",
+      "genres": [
+        "Science Fiction",
+        "Animation"
+      ],
+      "directors": [
+        "Rintaro"
+      ],
+      "actors": [
+        "Yuka Imoto",
+        "Kohki Okada",
+        "Kosei Tomita",
+        "Kei Kobayashi",
+        "Rikako Aikawa",
+        "Masashi Ebara"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.81,
+      "rating_count": 33312,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/9/9/5/46995-metropolis-0-230-0-345-crop.jpg?v=acf398cd9d",
+      "url": "https://letterboxd.com/film/metropolis-2001/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Science Fiction": 13,
+      "Action": 12,
+      "Adventure": 7,
+      "Thriller": 4,
+      "Fantasy": 4,
+      "Mystery": 3,
+      "Comedy": 3,
+      "Drama": 2,
+      "Animation": 2,
+      "Crime": 2,
+      "Family": 1,
+      "Horror": 1,
+      "War": 1,
+      "Romance": 1
+    },
+    "directors": {
+      "Joe Johnston": 2,
+      "Timo Vuorensola": 2,
+      "Steven Spielberg": 2,
+      "Kerry Conran": 1,
+      "Fritz Lang": 1,
+      "Zack Snyder": 1,
+      "Alex Proyas": 1,
+      "Shane Acker": 1,
+      "Shimako Sato": 1,
+      "Julius Avery": 1,
+      "Russell Mulcahy": 1,
+      "Terry Gilliam": 1,
+      "Guillermo del Toro": 1,
+      "William Cameron Menzies": 1,
+      "Andrew Niccol": 1,
+      "Rintaro": 1
+    },
+    "years": {
+      "1927": 1,
+      "1936": 1,
+      "1985": 1,
+      "1989": 1,
+      "1991": 1,
+      "1994": 1,
+      "1997": 1,
+      "1998": 1,
+      "2001": 1,
+      "2004": 2,
+      "2008": 2,
+      "2009": 1,
+      "2011": 2,
+      "2012": 1,
+      "2018": 1,
+      "2019": 1
+    }
+  }
+}

@@ -1,0 +1,1618 @@
+{
+  "query": "backwoods horror",
+  "slug": "backwoods-horror",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/valrav3n/list/backwoods-horror/",
+      "user": "valrav3n",
+      "slug": "backwoods-horror",
+      "title": "Backwoods Horror",
+      "desc": "Films I consider 'backwoods' horror, and they might not respect all the codes of this subgenre, but you get the vibe. Ranked",
+      "owner": "List by Valrav3n",
+      "tags": [
+        "backwoods"
+      ]
+    },
+    {
+      "href": "/trinablonde/list/backwoods-horror/",
+      "user": "trinablonde",
+      "slug": "backwoods-horror",
+      "title": "Backwoods Horror",
+      "desc": "Emily is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Emily Dunlap",
+      "tags": []
+    },
+    {
+      "href": "/n0s4a22/list/backwoods-horror/",
+      "user": "n0s4a22",
+      "slug": "backwoods-horror",
+      "title": "Backwoods Horror",
+      "desc": "You’ll know it when you see it",
+      "owner": "List by N0S4A22",
+      "tags": []
+    },
+    {
+      "href": "/jamesclay/list/backwoods-horror/",
+      "user": "jamesclay",
+      "slug": "backwoods-horror",
+      "title": "Backwoods Horror",
+      "desc": "James C. Clay is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by James C. Clay PRO",
+      "tags": []
+    },
+    {
+      "href": "/gdoiron/list/backwoods-horror/",
+      "user": "gdoiron",
+      "slug": "backwoods-horror",
+      "title": "Backwoods Horror",
+      "desc": "Slasher films set in forests, woodlands, or rural locations that are affected by rural poverty.",
+      "owner": "List by Gray",
+      "tags": []
+    },
+    {
+      "href": "/meganleag/list/backwoods-horror/",
+      "user": "meganleag",
+      "slug": "backwoods-horror",
+      "title": "Backwoods Horror",
+      "desc": "Megan is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Megan Garside",
+      "tags": []
+    },
+    {
+      "href": "/postgaybaby/list/backwoods-horror/",
+      "user": "postgaybaby",
+      "slug": "backwoods-horror",
+      "title": "backwoods horror",
+      "desc": "my favorite sub genre of good old american horror",
+      "owner": "List by postgaybaby",
+      "tags": []
+    },
+    {
+      "href": "/morgandemon420/list/backwoods-horror/",
+      "user": "morgandemon420",
+      "slug": "backwoods-horror",
+      "title": "Backwoods Horror",
+      "desc": "MorganDemon420 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by MorganDemon420",
+      "tags": []
+    },
+    {
+      "href": "/dangrott/list/backwoods-horror/",
+      "user": "dangrott",
+      "slug": "backwoods-horror",
+      "title": "backwoods horror?",
+      "desc": "DannyBoy is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by DannyBoy",
+      "tags": []
+    },
+    {
+      "href": "/noahrandle05/list/backwoods-horror/",
+      "user": "noahrandle05",
+      "slug": "backwoods-horror",
+      "title": "Backwoods Horror",
+      "desc": "Noah Randle is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Noah Randle",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 318,
+  "canonical_count": 51,
+  "films": [
+    {
+      "slug": "the-texas-chain-saw-massacre",
+      "title": "The Texas Chain Saw Massacre",
+      "year": "1974",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Tobe Hooper"
+      ],
+      "actors": [
+        "Marilyn Burns",
+        "Allen Danziger",
+        "Paul A. Partain",
+        "William Vail",
+        "Teri McMinn",
+        "Edwin Neal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 907820,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/8/5/31985-the-texas-chain-saw-massacre-0-230-0-345-crop.jpg?v=c63b3f1958",
+      "url": "https://letterboxd.com/film/the-texas-chain-saw-massacre/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "deliverance",
+      "title": "Deliverance",
+      "year": "1972",
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "John Boorman"
+      ],
+      "actors": [
+        "Jon Voight",
+        "Burt Reynolds",
+        "Ned Beatty",
+        "Ronny Cox",
+        "Ed Ramey",
+        "Billy Redden"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.86,
+      "rating_count": 126379,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/0/6/46006-deliverance-0-230-0-345-crop.jpg?v=fb5053a2a7",
+      "url": "https://letterboxd.com/film/deliverance/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "wrong-turn",
+      "title": "Wrong Turn",
+      "year": "2003",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Rob Schmidt"
+      ],
+      "actors": [
+        "Eliza Dushku",
+        "Desmond Harrington",
+        "Emmanuelle Chriqui",
+        "Jeremy Sisto",
+        "Kevin Zegers",
+        "Lindy Booth"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 2.83,
+      "rating_count": 163483,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/7/3/2/46732-wrong-turn-0-230-0-345-crop.jpg?v=7a502c8055",
+      "url": "https://letterboxd.com/film/wrong-turn/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "house-of-1000-corpses",
+      "title": "House of 1000 Corpses",
+      "year": "2003",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Rob Zombie"
+      ],
+      "actors": [
+        "Sid Haig",
+        "Bill Moseley",
+        "Sheri Moon Zombie",
+        "Karen Black",
+        "Erin Daniels",
+        "Chris Hardwick"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.22,
+      "rating_count": 207380,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/6/2/50162-house-of-1000-corpses-0-230-0-345-crop.jpg?v=5bce1273ef",
+      "url": "https://letterboxd.com/film/house-of-1000-corpses/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-hills-have-eyes",
+      "title": "The Hills Have Eyes",
+      "year": "1977",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Wes Craven"
+      ],
+      "actors": [
+        "Susan Lanier",
+        "Robert Houston",
+        "Martin Speer",
+        "Dee Wallace",
+        "Russ Grieve",
+        "John Steadman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.09,
+      "rating_count": 107790,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/6/5/3/44653-the-hills-have-eyes-0-230-0-345-crop.jpg?v=1446082821",
+      "url": "https://letterboxd.com/film/the-hills-have-eyes/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "wolf-creek",
+      "title": "Wolf Creek",
+      "year": "2005",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Greg McLean"
+      ],
+      "actors": [
+        "John Jarratt",
+        "Cassandra Magrath",
+        "Kestie Morassi",
+        "Nathan Phillips",
+        "Gordon Poole",
+        "Guy O'Donnell"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "rating": 2.99,
+      "rating_count": 68721,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2v/ds/2m/ry/eiQqXee0LwUvwHWp6QnZDoP1qdI-0-230-0-345-crop.jpg?v=332b327130",
+      "url": "https://letterboxd.com/film/wolf-creek/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "eden-lake",
+      "title": "Eden Lake",
+      "year": "2008",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "James Watkins"
+      ],
+      "actors": [
+        "Kelly Reilly",
+        "Michael Fassbender",
+        "Jack O'Connell",
+        "Finn Atkins",
+        "Thomas Turgoose",
+        "James Burrows"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.22,
+      "rating_count": 147259,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hq/28/2l/x4/tn5ldUSjZJFkmnnLdCikGjMgiGj-0-230-0-345-crop.jpg?v=fc903f4c9a",
+      "url": "https://letterboxd.com/film/eden-lake/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "x-2022",
+      "title": "X",
+      "year": "2022",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Ti West"
+      ],
+      "actors": [
+        "Mia Goth",
+        "Jenna Ortega",
+        "Brittany Snow",
+        "Kid Cudi",
+        "Martin Henderson",
+        "Owen Campbell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 1677920,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/0/3/5/8/680358-x-0-230-0-345-crop.jpg?v=8ba5e11abf",
+      "url": "https://letterboxd.com/film/x-2022/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-devils-rejects",
+      "title": "The Devil's Rejects",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Crime"
+      ],
+      "directors": [
+        "Rob Zombie"
+      ],
+      "actors": [
+        "Sid Haig",
+        "Bill Moseley",
+        "Sheri Moon Zombie",
+        "William Forsythe",
+        "Ken Foree",
+        "Matthew McGrory"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.37,
+      "rating_count": 103550,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/5/0/50850-the-devil-s-rejects-0-230-0-345-crop.jpg?v=990c37918c",
+      "url": "https://letterboxd.com/film/the-devils-rejects/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "tucker-and-dale-vs-evil",
+      "title": "Tucker and Dale vs. Evil",
+      "year": "2010",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Eli Craig"
+      ],
+      "actors": [
+        "Tyler Labine",
+        "Alan Tudyk",
+        "Katrina Bowden",
+        "Jesse Moss",
+        "Philip Granger",
+        "Brandon Jay McLaren"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 207554,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ev/9g/mu/qp/lNaivZXcad1bXDoptUzV3PQ2Ms0-0-230-0-345-crop.jpg?v=a229fef0ed",
+      "url": "https://letterboxd.com/film/tucker-and-dale-vs-evil/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "cabin-fever",
+      "title": "Cabin Fever",
+      "year": "2002",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Eli Roth"
+      ],
+      "actors": [
+        "Rider Strong",
+        "Jordan Ladd",
+        "Cerina Vincent",
+        "Giuseppe Andrews",
+        "James DeBello",
+        "Eli Roth"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.73,
+      "rating_count": 94676,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/0/1/45201-cabin-fever-0-230-0-345-crop.jpg?v=bfa6895bfd",
+      "url": "https://letterboxd.com/film/cabin-fever/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "pearl-2022",
+      "title": "Pearl",
+      "year": "2022",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Ti West"
+      ],
+      "actors": [
+        "Mia Goth",
+        "David Corenswet",
+        "Tandi Wright",
+        "Matthew Sunderland",
+        "Emma Jenkins-Purro",
+        "Alistair Sewell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 1961598,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/3/8/2/2/853822-pearl-0-230-0-345-crop.jpg?v=471dfc4a24",
+      "url": "https://letterboxd.com/film/pearl-2022/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-blair-witch-project",
+      "title": "The Blair Witch Project",
+      "year": "1999",
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Daniel Myrick",
+        "Eduardo Sánchez"
+      ],
+      "actors": [
+        "Heather Donahue",
+        "Joshua Leonard",
+        "Michael C. Williams",
+        "Bob Griffin",
+        "Jim King",
+        "Sandra Sánchez"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 967248,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/5/9/50159-the-blair-witch-project-0-230-0-345-crop.jpg?v=05594b24b0",
+      "url": "https://letterboxd.com/film/the-blair-witch-project/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-texas-chainsaw-massacre-2",
+      "title": "The Texas Chainsaw Massacre 2",
+      "year": "1986",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Tobe Hooper"
+      ],
+      "actors": [
+        "Dennis Hopper",
+        "Caroline Williams",
+        "Bill Johnson",
+        "Jim Siedow",
+        "Bill Moseley",
+        "Lou Perryman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.13,
+      "rating_count": 138585,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/26/nt/ym/pz/1EI0Qs6AhtxdamRBsFC4zm2I6sj-0-230-0-345-crop.jpg?v=346cb7ee0b",
+      "url": "https://letterboxd.com/film/the-texas-chainsaw-massacre-2/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-descent",
+      "title": "The Descent",
+      "year": "2005",
+      "genres": [
+        "Horror",
+        "Adventure"
+      ],
+      "directors": [
+        "Neil Marshall"
+      ],
+      "actors": [
+        "Shauna Macdonald",
+        "Natalie Mendoza",
+        "Alex Reid",
+        "MyAnna Buring",
+        "Saskia Mulder",
+        "Nora-Jane Noone"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.57,
+      "rating_count": 455653,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/0/4/47204-the-descent-0-230-0-345-crop.jpg?v=bdd6f75932",
+      "url": "https://letterboxd.com/film/the-descent/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "jeepers-creepers",
+      "title": "Jeepers Creepers",
+      "year": "2001",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Victor Salva"
+      ],
+      "actors": [
+        "Gina Philips",
+        "Justin Long",
+        "Jonathan Breck",
+        "Patricia Belcher",
+        "Eileen Brennan",
+        "Brandon Smith"
+      ],
+      "countries": [
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.09,
+      "rating_count": 257794,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/5/0/6/47506-jeepers-creepers-0-230-0-345-crop.jpg?v=6d702fc8ce",
+      "url": "https://letterboxd.com/film/jeepers-creepers/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "hatchet",
+      "title": "Hatchet",
+      "year": "2006",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Adam Green"
+      ],
+      "actors": [
+        "Joel David Moore",
+        "Amara Zaragoza",
+        "Deon Richmond",
+        "Kane Hodder",
+        "Joleigh Fioravanti",
+        "Mercedes McNab"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 42095,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/8/9/8/44898-hatchet-0-230-0-345-crop.jpg?v=9c355d6caf",
+      "url": "https://letterboxd.com/film/hatchet/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "just-before-dawn-1981",
+      "title": "Just Before Dawn",
+      "year": "1981",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Jeff Lieberman"
+      ],
+      "actors": [
+        "George Kennedy",
+        "Mike Kellin",
+        "Chris Lemmon",
+        "Gregg Henry",
+        "Deborah Benson",
+        "Ralph Seymour"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.14,
+      "rating_count": 10532,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hl/xn/le/4q/llRG1ZsY8BC5Oh9MfRTYSRTcz0z-0-230-0-345-crop.jpg?v=0557c2fc4a",
+      "url": "https://letterboxd.com/film/just-before-dawn-1981/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "southern-comfort",
+      "title": "Southern Comfort",
+      "year": "1981",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Walter Hill"
+      ],
+      "actors": [
+        "Keith Carradine",
+        "Powers Boothe",
+        "Fred Ward",
+        "Franklyn Seales",
+        "T.K. Carter",
+        "Lewis Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.72,
+      "rating_count": 25269,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ks/kb/hm/ne/m6DvrQndASYnc6b7eqTuF26g3OZ-0-230-0-345-crop.jpg?v=effc3c90eb",
+      "url": "https://letterboxd.com/film/southern-comfort/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "in-a-violent-nature",
+      "title": "In a Violent Nature",
+      "year": "2024",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Chris Nash"
+      ],
+      "actors": [
+        "Ry Barrett",
+        "Andrea Pavlovic",
+        "Cameron Love",
+        "Reece Presley",
+        "Liam Leone",
+        "Charlotte Creaghan"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.74,
+      "rating_count": 187504,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/2/2/1098322-in-a-violent-nature-0-230-0-345-crop.jpg?v=96aab2dcd6",
+      "url": "https://letterboxd.com/film/in-a-violent-nature/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-hills-have-eyes-2006",
+      "title": "The Hills Have Eyes",
+      "year": "2006",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Alexandre Aja"
+      ],
+      "actors": [
+        "Aaron Stanford",
+        "Dan Byrd",
+        "Emilie de Ravin",
+        "Vinessa Shaw",
+        "Ted Levine",
+        "Kathleen Quinlan"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 2.99,
+      "rating_count": 165908,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/8/2/0/46820-the-hills-have-eyes-0-230-0-345-crop.jpg?v=31498604fb",
+      "url": "https://letterboxd.com/film/the-hills-have-eyes-2006/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "sator",
+      "title": "Sator",
+      "year": "2019",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Jordan Graham"
+      ],
+      "actors": [
+        "Michael Daniel",
+        "Rachel Johnson",
+        "Aurora Lowe",
+        "Gabe Nicholson",
+        "June Peterson",
+        "Wendy Taylor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.87,
+      "rating_count": 7533,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/8/6/3/5/538635-sator-0-230-0-345-crop.jpg?v=11a2a81542",
+      "url": "https://letterboxd.com/film/sator/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hellbender",
+      "title": "Hellbender",
+      "year": "2021",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Zelda Adams",
+        "Toby Poser",
+        "John Adams"
+      ],
+      "actors": [
+        "Zelda Adams",
+        "Toby Poser",
+        "Lulu Adams",
+        "John Adams",
+        "Rinzin Thonden",
+        "Khenzom"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.11,
+      "rating_count": 26785,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/0/9/763309-hellbender-0-230-0-345-crop.jpg?v=08a3378d69",
+      "url": "https://letterboxd.com/film/hellbender/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "friday-the-13th",
+      "title": "Friday the 13th",
+      "year": "1980",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Sean S. Cunningham"
+      ],
+      "actors": [
+        "Adrienne King",
+        "Betsy Palmer",
+        "Kevin Bacon",
+        "Jeannine Taylor",
+        "Harry Crosby",
+        "Laurie Bartram"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.99,
+      "rating_count": 521571,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/9/49299-friday-the-13th-0-230-0-345-crop.jpg?v=ec6f86b02b",
+      "url": "https://letterboxd.com/film/friday-the-13th/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-funhouse",
+      "title": "The Funhouse",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Tobe Hooper"
+      ],
+      "actors": [
+        "Elizabeth Berridge",
+        "Cooper Huckabee",
+        "Kevin Conway",
+        "Largo Woodruff",
+        "Miles Chapin",
+        "Jeanne Austin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.03,
+      "rating_count": 40473,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/8/9/43789-the-funhouse-0-230-0-345-crop.jpg?v=2191ed70c1",
+      "url": "https://letterboxd.com/film/the-funhouse/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "texas-chainsaw-massacre",
+      "title": "Texas Chainsaw Massacre",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Horror"
+      ],
+      "directors": [
+        "David Blue Garcia"
+      ],
+      "actors": [
+        "Sarah Yarkin",
+        "Elsie Fisher",
+        "Mark Burnham",
+        "Jacob Latimore",
+        "Moe Dunford",
+        "Olwen Fouéré"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 1.86,
+      "rating_count": 302414,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/9/5/6/558956-texas-chainsaw-massacre-0-230-0-345-crop.jpg?v=55135bba7f",
+      "url": "https://letterboxd.com/film/texas-chainsaw-massacre/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hatchet-ii",
+      "title": "Hatchet II",
+      "year": "2010",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Adam Green"
+      ],
+      "actors": [
+        "Danielle Harris",
+        "Kane Hodder",
+        "Tony Todd",
+        "Parry Shen",
+        "R.A. Mihailoff",
+        "AJ Bowen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.72,
+      "rating_count": 18720,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hu/p3/ie/kk/a8Hh6DIOjPE73Hw5ZihDr3k1JDw-0-230-0-345-crop.jpg?v=fb2e43b51f",
+      "url": "https://letterboxd.com/film/hatchet-ii/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-devil-all-the-time",
+      "title": "The Devil All the Time",
+      "year": "2020",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Antonio Campos"
+      ],
+      "actors": [
+        "Tom Holland",
+        "Robert Pattinson",
+        "Bill Skarsgård",
+        "Riley Keough",
+        "Jason Clarke",
+        "Sebastian Stan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.32,
+      "rating_count": 518780,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/9/9/4/5/429945-the-devil-all-the-time-0-230-0-345-crop.jpg?v=4b048ec678",
+      "url": "https://letterboxd.com/film/the-devil-all-the-time/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mothers-day",
+      "title": "Mother's Day",
+      "year": "1980",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Horror"
+      ],
+      "directors": [
+        "Charles Kaufman"
+      ],
+      "actors": [
+        "Nancy Hendrickson",
+        "Deborah Luce",
+        "Tiana Pierce",
+        "Frederick Coffin",
+        "Michael McCleery",
+        "Beatrice Pons"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.75,
+      "rating_count": 11749,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/0/3/42703-mother-s-day-0-230-0-345-crop.jpg?v=586a783037",
+      "url": "https://letterboxd.com/film/mothers-day/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-final-terror",
+      "title": "The Final Terror",
+      "year": "1983",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Andrew Davis"
+      ],
+      "actors": [
+        "John Friedrich",
+        "Adrian Zmed",
+        "Daryl Hannah",
+        "Ernest Harden Jr.",
+        "Lewis Smith",
+        "Rachel Ward"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.76,
+      "rating_count": 7389,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/4/1/2/49412-the-final-terror-0-230-0-345-crop.jpg?v=b545dd9176",
+      "url": "https://letterboxd.com/film/the-final-terror/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-return-of-the-texas-chainsaw-massacre",
+      "title": "The Return of the Texas Chainsaw Massacre",
+      "year": "1995",
+      "genres": [
+        "Thriller",
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Kim Henkel"
+      ],
+      "actors": [
+        "Renée Zellweger",
+        "Matthew McConaughey",
+        "Robert Jacks",
+        "Tonie Perensky",
+        "Joe Stevens",
+        "Lisa Marie Newmyer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 1.92,
+      "rating_count": 44792,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/3/9/8/41398-texas-chainsaw-massacre-the-next-generation-0-230-0-345-crop.jpg?v=dc437d23e6",
+      "url": "https://letterboxd.com/film/the-return-of-the-texas-chainsaw-massacre/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "redneck-zombies",
+      "title": "Redneck Zombies",
+      "year": "1987",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Pericles Lewnes"
+      ],
+      "actors": [
+        "Lisa M. DeHaven",
+        "William E. Benson",
+        "William Decker",
+        "Tyrone Taylor",
+        "James H. Housely",
+        "P. Floyd Piranha"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.62,
+      "rating_count": 3229,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/0/8/7/34087-redneck-zombies-0-230-0-345-crop.jpg?v=d53ef6e0af",
+      "url": "https://letterboxd.com/film/redneck-zombies/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "rituals",
+      "title": "Rituals",
+      "year": "1977",
+      "genres": [
+        "Adventure",
+        "Horror"
+      ],
+      "directors": [
+        "Peter Carter"
+      ],
+      "actors": [
+        "Hal Holbrook",
+        "Lawrence Dane",
+        "Robin Gammell",
+        "Ken James",
+        "Gary Reineke",
+        "Murray Westgate"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.31,
+      "rating_count": 6526,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/3/7/0/53370-rituals-0-230-0-345-crop.jpg?v=c75729fbc6",
+      "url": "https://letterboxd.com/film/rituals/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-texas-chainsaw-massacre",
+      "title": "The Texas Chainsaw Massacre",
+      "year": "2003",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Marcus Nispel"
+      ],
+      "actors": [
+        "Jessica Biel",
+        "Jonathan Tucker",
+        "Andrew Bryniarski",
+        "Erica Leerhsen",
+        "Eric Balfour",
+        "Mike Vogel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.07,
+      "rating_count": 162370,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/2/2/47222-the-texas-chainsaw-massacre-0-230-0-345-crop.jpg?v=1c3a6203e1",
+      "url": "https://letterboxd.com/film/the-texas-chainsaw-massacre/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-evil-dead",
+      "title": "The Evil Dead",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Sam Raimi"
+      ],
+      "actors": [
+        "Bruce Campbell",
+        "Ellen Sandweiss",
+        "Richard DeManincor",
+        "Betsy Baker",
+        "Theresa Tilly",
+        "Philip A. Gillis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.65,
+      "rating_count": 561454,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/c7/4g/ae/zn/7cpSdCrBY7UhiygkcP57dpixXsW-0-230-0-345-crop.jpg?v=1525e98692",
+      "url": "https://letterboxd.com/film/the-evil-dead/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "creep-2014",
+      "title": "Creep",
+      "year": "2014",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Patrick Brice"
+      ],
+      "actors": [
+        "Mark Duplass",
+        "Patrick Brice",
+        "Katie Aselton"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.34,
+      "rating_count": 559751,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/4/9/2/8/174928-creep-0-230-0-345-crop.jpg?v=d01c2ba3a8",
+      "url": "https://letterboxd.com/film/creep-2014/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "tourist-trap",
+      "title": "Tourist Trap",
+      "year": "1979",
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "David Schmoeller"
+      ],
+      "actors": [
+        "Chuck Connors",
+        "Jocelyn Jones",
+        "Jon Van Ness",
+        "Robin Sherwood",
+        "Tanya Roberts",
+        "Dawn Jeffory"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.05,
+      "rating_count": 36978,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/7/5/43775-tourist-trap-0-230-0-345-crop.jpg?v=f8784557aa",
+      "url": "https://letterboxd.com/film/tourist-trap/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "calvaire",
+      "title": "Calvaire",
+      "year": "2004",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Fabrice Du Welz"
+      ],
+      "actors": [
+        "Laurent Lucas",
+        "Jackie Berroyer",
+        "Jean-Luc Couchard",
+        "Philippe Nahon",
+        "Philippe Grand'Henry",
+        "Jo Prestia"
+      ],
+      "countries": [
+        "Belgium",
+        "France",
+        "Luxembourg"
+      ],
+      "rating": 3.11,
+      "rating_count": 19560,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/5/1/8/44518-the-ordeal-0-230-0-345-crop.jpg?v=867d60f20e",
+      "url": "https://letterboxd.com/film/calvaire/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "motel-hell",
+      "title": "Motel Hell",
+      "year": "1980",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Kevin Connor"
+      ],
+      "actors": [
+        "Rory Calhoun",
+        "Paul Linke",
+        "Nancy Parsons",
+        "Nina Axelrod",
+        "Wolfman Jack",
+        "Elaine Joyce"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3,
+      "rating_count": 21931,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/2/9/31629-motel-hell-0-230-0-345-crop.jpg?v=ece65de8ea",
+      "url": "https://letterboxd.com/film/motel-hell/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "straw-dogs",
+      "title": "Straw Dogs",
+      "year": "1971",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Sam Peckinpah"
+      ],
+      "actors": [
+        "Dustin Hoffman",
+        "Susan George",
+        "Peter Vaughan",
+        "T. P. McKenna",
+        "Del Henney",
+        "Jim Norton"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.77,
+      "rating_count": 63629,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/oc/e4/zi/pp/kn85ADdkCrL3I2uWfKKhxpjolU5-0-230-0-345-crop.jpg?v=c4c5763d80",
+      "url": "https://letterboxd.com/film/straw-dogs/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-backwoods-2006",
+      "title": "The Backwoods",
+      "year": "2006",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Action"
+      ],
+      "directors": [
+        "Koldo Serra"
+      ],
+      "actors": [
+        "Gary Oldman",
+        "Virginie Ledoyen",
+        "Paddy Considine",
+        "Aitana Sánchez-Gijón",
+        "Jon Ariño",
+        "Lluís Homar"
+      ],
+      "countries": [
+        "France",
+        "Spain",
+        "UK"
+      ],
+      "rating": 2.86,
+      "rating_count": 1987,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/3/7/7/44377-the-backwoods-0-230-0-345-crop.jpg?v=31dcd93975",
+      "url": "https://letterboxd.com/film/the-backwoods-2006/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "i-spit-on-your-grave",
+      "title": "I Spit on Your Grave",
+      "year": "1978",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Meir Zarchi"
+      ],
+      "actors": [
+        "Camille Keaton",
+        "Eron Tabor",
+        "Richard Pace",
+        "Anthony Nichols",
+        "Gunter Kleemann",
+        "Alexis Magnotti"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.78,
+      "rating_count": 39302,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/1/9/0/36190-i-spit-on-your-grave-0-230-0-345-crop.jpg?v=b14ebe10da",
+      "url": "https://letterboxd.com/film/i-spit-on-your-grave/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-ritual-2017",
+      "title": "The Ritual",
+      "year": "2017",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "David Bruckner"
+      ],
+      "actors": [
+        "Rafe Spall",
+        "Arsher Ali",
+        "Robert James-Collier",
+        "Sam Troughton",
+        "Paul Reid",
+        "Matthew Needham"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.16,
+      "rating_count": 420726,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/p0/5w/nn/bg/hHuJqzby593lmYmw1SzT0XYy99t-0-230-0-345-crop.jpg?v=5e686a841b",
+      "url": "https://letterboxd.com/film/the-ritual-2017/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "a-lonely-place-to-die",
+      "title": "A Lonely Place to Die",
+      "year": "2011",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Julian Gilbey"
+      ],
+      "actors": [
+        "Melissa George",
+        "Ed Speleers",
+        "Eamonn Walker",
+        "Alec Newman",
+        "Karel Roden",
+        "Kate Magowan"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 2.85,
+      "rating_count": 9594,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/8/4/1/67841-a-lonely-place-to-die-0-230-0-345-crop.jpg?v=c35fdf32ce",
+      "url": "https://letterboxd.com/film/a-lonely-place-to-die/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "angel-heart",
+      "title": "Angel Heart",
+      "year": "1987",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Alan Parker"
+      ],
+      "actors": [
+        "Mickey Rourke",
+        "Robert De Niro",
+        "Lisa Bonet",
+        "Charlotte Rampling",
+        "Stocker Fontelieu",
+        "Brownie McGhee"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.66,
+      "rating_count": 86049,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jt/4t/3m/tp/xFtrVJWygDiK2iZluUxNwuQZ6Sm-0-230-0-345-crop.jpg?v=5d628d4444",
+      "url": "https://letterboxd.com/film/angel-heart/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "backcountry",
+      "title": "Backcountry",
+      "year": "2014",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Adam MacDonald"
+      ],
+      "actors": [
+        "Missy Peregrym",
+        "Jeff Roop",
+        "Eric Balfour",
+        "Nicholas Campbell"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 2.78,
+      "rating_count": 23860,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/1/0/0/6/161006-backcountry-0-230-0-345-crop.jpg?v=4b4d010929",
+      "url": "https://letterboxd.com/film/backcountry/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lovely-dark-and-deep",
+      "title": "Lovely, Dark, and Deep",
+      "year": "2023",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Teresa Sutherland"
+      ],
+      "actors": [
+        "Georgina Campbell",
+        "Nick Blood",
+        "Wai Ching Ho",
+        "Edgar Morais",
+        "Ana Sofia Martins",
+        "Søren Hellerup"
+      ],
+      "countries": [
+        "Portugal"
+      ],
+      "rating": 2.66,
+      "rating_count": 9993,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/8/2/8/0/958280-lovely-dark-and-deep-0-230-0-345-crop.jpg?v=ec4c35d0df",
+      "url": "https://letterboxd.com/film/lovely-dark-and-deep/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-night-of-the-hunter",
+      "title": "The Night of the Hunter",
+      "year": "1955",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Charles Laughton"
+      ],
+      "actors": [
+        "Robert Mitchum",
+        "Shelley Winters",
+        "Lillian Gish",
+        "Billy Chapin",
+        "Sally Jane Bruce",
+        "James Gleason"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.26,
+      "rating_count": 236187,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/6/0/49860-the-night-of-the-hunter-0-230-0-345-crop.jpg?v=23fb657323",
+      "url": "https://letterboxd.com/film/the-night-of-the-hunter/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "i-spit-on-your-grave-2010",
+      "title": "I Spit on Your Grave",
+      "year": "2010",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Crime"
+      ],
+      "directors": [
+        "Steven R. Monroe"
+      ],
+      "actors": [
+        "Sarah Butler",
+        "Jeff Branson",
+        "Tracey Walter",
+        "Andrew Howard",
+        "Chad Lindberg",
+        "Rodney Eastman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.46,
+      "rating_count": 95775,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/2/1/3/21213-i-spit-on-your-grave-0-230-0-345-crop.jpg?v=2cfd94dbe0",
+      "url": "https://letterboxd.com/film/i-spit-on-your-grave-2010/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "near-dark",
+      "title": "Near Dark",
+      "year": "1987",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Kathryn Bigelow"
+      ],
+      "actors": [
+        "Adrian Pasdar",
+        "Jenny Wright",
+        "Lance Henriksen",
+        "Bill Paxton",
+        "Jenette Goldstein",
+        "Tim Thomerson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.53,
+      "rating_count": 89033,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/2/4/44924-near-dark-0-230-0-345-crop.jpg?v=1d3a4a8169",
+      "url": "https://letterboxd.com/film/near-dark/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-witch-2015",
+      "title": "The Witch",
+      "year": "2015",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Anya Taylor-Joy",
+        "Ralph Ineson",
+        "Kate Dickie",
+        "Harvey Scrimshaw",
+        "Ellie Grainger",
+        "Lucas Dawson"
+      ],
+      "countries": [
+        "Brazil",
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 1454100,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/y2/i8/9s/h1/tNr2KYytArZNSh0K8PUcHU3JnX4-0-230-0-345-crop.jpg?v=45f739a242",
+      "url": "https://letterboxd.com/film/the-witch-2015/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Horror": 46,
+      "Thriller": 23,
+      "Comedy": 8,
+      "Drama": 7,
+      "Crime": 7,
+      "Adventure": 4,
+      "Action": 4,
+      "Mystery": 3,
+      "Fantasy": 1
+    },
+    "directors": {
+      "Tobe Hooper": 3,
+      "Rob Zombie": 2,
+      "Ti West": 2,
+      "Adam Green": 2,
+      "John Boorman": 1,
+      "Rob Schmidt": 1,
+      "Wes Craven": 1,
+      "Greg McLean": 1,
+      "James Watkins": 1,
+      "Eli Craig": 1,
+      "Eli Roth": 1,
+      "Daniel Myrick": 1,
+      "Eduardo Sánchez": 1,
+      "Neil Marshall": 1,
+      "Victor Salva": 1,
+      "Jeff Lieberman": 1,
+      "Walter Hill": 1,
+      "Chris Nash": 1,
+      "Alexandre Aja": 1,
+      "Jordan Graham": 1
+    },
+    "years": {
+      "1955": 1,
+      "1971": 1,
+      "1972": 1,
+      "1974": 1,
+      "1977": 2,
+      "1978": 1,
+      "1979": 1,
+      "1980": 3,
+      "1981": 4,
+      "1983": 1,
+      "1986": 1,
+      "1987": 3,
+      "1995": 1,
+      "1999": 1,
+      "2001": 1,
+      "2002": 1,
+      "2003": 3,
+      "2004": 1,
+      "2005": 3,
+      "2006": 3,
+      "2008": 1,
+      "2010": 3,
+      "2011": 1,
+      "2014": 2,
+      "2015": 1,
+      "2017": 1,
+      "2019": 1,
+      "2020": 1,
+      "2021": 1,
+      "2022": 3,
+      "2023": 1,
+      "2024": 1
+    }
+  }
+}

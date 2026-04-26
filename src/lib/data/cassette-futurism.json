@@ -1,0 +1,1097 @@
+{
+  "query": "cassette futurism",
+  "slug": "cassette-futurism",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/talve/list/cassette-futurism/",
+      "user": "talve",
+      "slug": "cassette-futurism",
+      "title": "Cassette futurism",
+      "desc": "Martin is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Martin R PATRON",
+      "tags": []
+    },
+    {
+      "href": "/okibbey/list/cassette-futurism/",
+      "user": "okibbey",
+      "slug": "cassette-futurism",
+      "title": "Cassette Futurism",
+      "desc": "Only my favorite sci-fi aesthetic",
+      "owner": "List by okibbey",
+      "tags": []
+    },
+    {
+      "href": "/thalesfm/list/cassette-futurism/",
+      "user": "thalesfm",
+      "slug": "cassette-futurism",
+      "title": "Cassette Futurism",
+      "desc": "thalesfm is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by thalesfm",
+      "tags": []
+    },
+    {
+      "href": "/hstagner/list/cassette-futurism/",
+      "user": "hstagner",
+      "slug": "cassette-futurism",
+      "title": "Cassette Futurism",
+      "desc": "hstagner is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by hstagner PRO",
+      "tags": []
+    },
+    {
+      "href": "/pythrov/list/cassette-futurism/",
+      "user": "pythrov",
+      "slug": "cassette-futurism",
+      "title": "Cassette futurism",
+      "desc": "Pythrov is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Pythrov",
+      "tags": []
+    },
+    {
+      "href": "/tripngroove/list/cassette-futurism/",
+      "user": "tripngroove",
+      "slug": "cassette-futurism",
+      "title": "Cassette Futurism",
+      "desc": "Films that exemplify the aesthetics of Cassette Futurism.",
+      "owner": "List by tripngroove",
+      "tags": []
+    },
+    {
+      "href": "/romanebrblpz/list/cassette-futurism/",
+      "user": "romanebrblpz",
+      "slug": "cassette-futurism",
+      "title": "Cassette Futurism",
+      "desc": "Enamor ⋆ is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Enamor ⋆",
+      "tags": [
+        "aesthetic"
+      ]
+    },
+    {
+      "href": "/ethr0b3/list/cassette-futurism-formicapunk/",
+      "user": "ethr0b3",
+      "slug": "cassette-futurism-formicapunk",
+      "title": "Cassette Futurism/Formicapunk",
+      "desc": "Retro-futurism aestheticizing late 70s - mid 90s technology: cassette tapes, microcomputers, CRT monitors, Beta & VHS, slow-scan TV, chunky/blocky analogue stuff, maybe a little synth as a treat.",
+      "owner": "List by Ethan PRO",
+      "tags": []
+    },
+    {
+      "href": "/siena_brown/list/retro-cassette-futurism/",
+      "user": "siena_brown",
+      "slug": "retro-cassette-futurism",
+      "title": "retro/cassette futurism",
+      "desc": "i long for a world where hoverboards and fax machines can coexist ❤️",
+      "owner": "List by Siena 🌞",
+      "tags": []
+    }
+  ],
+  "source_list_count": 9,
+  "films_considered": 109,
+  "canonical_count": 32,
+  "films": [
+    {
+      "slug": "alien",
+      "title": "Alien",
+      "year": "1979",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Tom Skerritt",
+        "Sigourney Weaver",
+        "Veronica Cartwright",
+        "Harry Dean Stanton",
+        "John Hurt",
+        "Ian Holm"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 4.25,
+      "rating_count": 1835916,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8v/f1/qw/aa/bg7K6VtUG7Ew70gQj6SSroD5d4R-0-230-0-345-crop.jpg?v=a932f9e98e",
+      "url": "https://letterboxd.com/film/alien/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "tron",
+      "title": "Tron",
+      "year": "1982",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Steven Lisberger"
+      ],
+      "actors": [
+        "Jeff Bridges",
+        "Bruce Boxleitner",
+        "David Warner",
+        "Cindy Morgan",
+        "Barnard Hughes",
+        "Dan Shor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 174946,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/x2/ki/kc/v5/cTF8lpXvAwT1SLH9kVFZZl0AO0D-0-230-0-345-crop.jpg?v=8ed1949fef",
+      "url": "https://letterboxd.com/film/tron/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "star-wars",
+      "title": "Star Wars",
+      "year": "1977",
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "George Lucas"
+      ],
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Peter Cushing",
+        "Alec Guinness",
+        "Anthony Daniels"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.16,
+      "rating_count": 2523874,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/0/6/2706-star-wars-0-230-0-345-crop.jpg?v=f1f1271bf5",
+      "url": "https://letterboxd.com/film/star-wars/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "blade-runner",
+      "title": "Blade Runner",
+      "year": "1982",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Edward James Olmos",
+        "M. Emmet Walsh",
+        "Daryl Hannah"
+      ],
+      "countries": [
+        "USA",
+        "Hong Kong",
+        "UK"
+      ],
+      "rating": 4.1,
+      "rating_count": 1407609,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/85/io/38/dz/vfzE3pjE5G7G7kcZWrA3fnbZo7V-0-230-0-345-crop.jpg?v=0d5de70f0d",
+      "url": "https://letterboxd.com/film/blade-runner/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "strange-days",
+      "title": "Strange Days",
+      "year": "1995",
+      "genres": [
+        "Crime",
+        "Science Fiction",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Kathryn Bigelow"
+      ],
+      "actors": [
+        "Ralph Fiennes",
+        "Angela Bassett",
+        "Juliette Lewis",
+        "Tom Sizemore",
+        "Michael Wincott",
+        "Vincent D'Onofrio"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.84,
+      "rating_count": 95750,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1y/4q/va/98/sd-poster-0-230-0-345-crop.jpg?v=f28460c82d",
+      "url": "https://letterboxd.com/film/strange-days/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "akira",
+      "title": "Akira",
+      "year": "1988",
+      "genres": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Katsuhiro Otomo"
+      ],
+      "actors": [
+        "Mitsuo Iwata",
+        "Nozomu Sasaki",
+        "Mami Koyama",
+        "Taro Ishida",
+        "Mizuho Suzuki",
+        "Tessyo Genda"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.28,
+      "rating_count": 818584,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
+      "url": "https://letterboxd.com/film/akira/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "back-to-the-future-part-ii",
+      "title": "Back to the Future Part II",
+      "year": "1989",
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson",
+        "Thomas F. Wilson",
+        "Elisabeth Shue",
+        "James Tolkan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.9,
+      "rating_count": 1085270,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/8/6/51886-back-to-the-future-part-ii-0-230-0-345-crop.jpg?v=85bd0a310a",
+      "url": "https://letterboxd.com/film/back-to-the-future-part-ii/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "moon",
+      "title": "Moon",
+      "year": "2009",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Duncan Jones"
+      ],
+      "actors": [
+        "Sam Rockwell",
+        "Kevin Spacey",
+        "Dominique McElligott",
+        "Rosie Shaw",
+        "Adrienne Shaw",
+        "Kaya Scodelario"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 319874,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1z/15/kh/dw/ydmC5WsPEhMZKV7VwQ8jT8hQLlc-0-230-0-345-crop.jpg?v=4343a06e20",
+      "url": "https://letterboxd.com/film/moon/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "prospect-2018",
+      "title": "Prospect",
+      "year": "2018",
+      "genres": [
+        "Science Fiction"
+      ],
+      "directors": [
+        "Zeek Earl",
+        "Christopher Caldwell"
+      ],
+      "actors": [
+        "Sophie Thatcher",
+        "Pedro Pascal",
+        "Jay Duplass",
+        "Andre Royo",
+        "Sheila Vand",
+        "Anwan Glover"
+      ],
+      "countries": [
+        "Canada",
+        "USA",
+        "UK"
+      ],
+      "rating": 3.26,
+      "rating_count": 55196,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/6/0/2/9/436029-prospect-0-230-0-345-crop.jpg?v=816eb04f66",
+      "url": "https://letterboxd.com/film/prospect-2018/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "johnny-mnemonic",
+      "title": "Johnny Mnemonic",
+      "year": "1995",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Robert Longo"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Dina Meyer",
+        "Takeshi Kitano",
+        "Ice-T",
+        "Dolph Lundgren",
+        "Denis Akiyama"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.84,
+      "rating_count": 62743,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/7/4/7/46747-johnny-mnemonic-0-230-0-345-crop.jpg?v=831f2fc886",
+      "url": "https://letterboxd.com/film/johnny-mnemonic/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "ghost-in-the-shell",
+      "title": "Ghost in the Shell",
+      "year": "1995",
+      "genres": [
+        "Animation",
+        "Action",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Mamoru Oshii"
+      ],
+      "actors": [
+        "Atsuko Tanaka",
+        "Akio Otsuka",
+        "Iemasa Kayumi",
+        "Koichi Yamadera",
+        "Yutaka Nakano",
+        "Tamio Ohki"
+      ],
+      "countries": [
+        "Japan",
+        "UK"
+      ],
+      "rating": 4.1,
+      "rating_count": 422446,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/7/0/47270-ghost-in-the-shell-0-230-0-345-crop.jpg?v=c837d80ee1",
+      "url": "https://letterboxd.com/film/ghost-in-the-shell/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "silent-running",
+      "title": "Silent Running",
+      "year": "1972",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "directors": [
+        "Douglas Trumbull"
+      ],
+      "actors": [
+        "Bruce Dern",
+        "Cliff Potts",
+        "Ron Rifkin",
+        "Jesse Vint",
+        "Mark Persons",
+        "Steven Brown"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.31,
+      "rating_count": 22707,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kf/uj/0a/4x/kyEljmcf7YYmp85BdZffqiuRLfV-0-230-0-345-crop.jpg?v=aac5233909",
+      "url": "https://letterboxd.com/film/silent-running/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "thx-1138",
+      "title": "THX 1138",
+      "year": "1971",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "George Lucas"
+      ],
+      "actors": [
+        "Robert Duvall",
+        "Donald Pleasence",
+        "Don Pedro Colley",
+        "Maggie McOmie",
+        "Ian Wolfe",
+        "Marshall Efron"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 57277,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/8/51488-thx-1138-0-230-0-345-crop.jpg?v=965f4b2f99",
+      "url": "https://letterboxd.com/film/thx-1138/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "2001-a-space-odyssey",
+      "title": "2001: A Space Odyssey",
+      "year": "1968",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Mystery"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "actors": [
+        "Keir Dullea",
+        "Gary Lockwood",
+        "William Sylvester",
+        "Douglas Rain",
+        "Daniel Richter",
+        "Leonard Rossiter"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.25,
+      "rating_count": 1447848,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/7/51987-2001-a-space-odyssey-0-230-0-345-crop.jpg?v=a69c46a272",
+      "url": "https://letterboxd.com/film/2001-a-space-odyssey/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "solaris",
+      "title": "Solaris",
+      "year": "1972",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Natalya Bondarchuk",
+        "Donatas Banionis",
+        "Jüri Järvet",
+        "Vladislav Dvorzhetsky",
+        "Mykola Hrynko",
+        "Anatoliy Solonitsyn"
+      ],
+      "countries": [
+        "USSR"
+      ],
+      "rating": 4.22,
+      "rating_count": 203603,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-230-0-345-crop.jpg?v=18b2bcf9ce",
+      "url": "https://letterboxd.com/film/solaris/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "brazil",
+      "title": "Brazil",
+      "year": "1985",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "actors": [
+        "Jonathan Pryce",
+        "Robert De Niro",
+        "Katherine Helmond",
+        "Ian Holm",
+        "Bob Hoskins",
+        "Michael Palin"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 272429,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
+      "url": "https://letterboxd.com/film/brazil/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "robocop",
+      "title": "RoboCop",
+      "year": "1987",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Paul Verhoeven"
+      ],
+      "actors": [
+        "Peter Weller",
+        "Nancy Allen",
+        "Dan O'Herlihy",
+        "Ronny Cox",
+        "Kurtwood Smith",
+        "Miguel Ferrer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 408908,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dz/ke/a9/9m/robocop-0-230-0-345-crop.jpg?v=46efa9f76c",
+      "url": "https://letterboxd.com/film/robocop/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "total-recall",
+      "title": "Total Recall",
+      "year": "1990",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Paul Verhoeven"
+      ],
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Rachel Ticotin",
+        "Sharon Stone",
+        "Ronny Cox",
+        "Michael Ironside",
+        "Marshall Bell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 342592,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/9/1/51291-total-recall-0-230-0-345-crop.jpg?v=85f262b6c9",
+      "url": "https://letterboxd.com/film/total-recall/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "alien-romulus",
+      "title": "Alien: Romulus",
+      "year": "2024",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Fede Álvarez"
+      ],
+      "actors": [
+        "Cailee Spaeny",
+        "David Jonsson",
+        "Archie Renaux",
+        "Isabela Merced",
+        "Spike Fearn",
+        "Aileen Wu"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.58,
+      "rating_count": 1216426,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/0/4/5/9/850459-alien-romulus-0-230-0-345-crop.jpg?v=acabb7fd83",
+      "url": "https://letterboxd.com/film/alien-romulus/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "outland",
+      "title": "Outland",
+      "year": "1981",
+      "genres": [
+        "Science Fiction",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Western"
+      ],
+      "directors": [
+        "Peter Hyams"
+      ],
+      "actors": [
+        "Sean Connery",
+        "Peter Boyle",
+        "Frances Sternhagen",
+        "James B. Sikking",
+        "Kika Markham",
+        "Clarke Peters"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.41,
+      "rating_count": 21786,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/i2/0h/7p/6e/8mTMVl3jZfKfFO7uVGtshnh9bl8-0-230-0-345-crop.jpg?v=2dfc5a1e42",
+      "url": "https://letterboxd.com/film/outland/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "maniac-2018",
+      "title": "Maniac",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Cary Joji Fukunaga"
+      ],
+      "actors": [
+        "Emma Stone",
+        "Jonah Hill",
+        "Sonoya Mizuno",
+        "Justin Theroux",
+        "Sally Field"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.94,
+      "rating_count": 96394,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/5/5/6/2/475562-maniac-0-230-0-345-crop.jpg?v=466e763ccb",
+      "url": "https://letterboxd.com/film/maniac-2018/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-matrix",
+      "title": "The Matrix",
+      "year": "1999",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving",
+        "Gloria Foster",
+        "Joe Pantoliano"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.18,
+      "rating_count": 2756281,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-230-0-345-crop.jpg?v=fc7c366afe",
+      "url": "https://letterboxd.com/film/the-matrix/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "cowboy-bebop",
+      "title": "Cowboy Bebop",
+      "year": "1998",
+      "genres": [
+        "Western",
+        "Animation"
+      ],
+      "directors": [
+        "Ikuro Sato",
+        "Kunihiro Mori",
+        "Yoshiyuki Takei",
+        "Hirokazu Yamada",
+        "Tetsuya Watanabe",
+        "Shinichiro Watanabe"
+      ],
+      "actors": [
+        "Koichi Yamadera",
+        "Unsho Ishizuka",
+        "Megumi Hayashibara",
+        "Aoi Tada"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.64,
+      "rating_count": 245515,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/7/2/2/1/607221-cowboy-bebop-0-230-0-345-crop.jpg?v=06225f86b1",
+      "url": "https://letterboxd.com/film/cowboy-bebop/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-empire-strikes-back",
+      "title": "The Empire Strikes Back",
+      "year": "1980",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Irvin Kershner"
+      ],
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels",
+        "David Prowse"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.4,
+      "rating_count": 2160420,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/mp/pz/lf/2i/7BuH8itoSrLExs2YZSsM01Qk2no-0-230-0-345-crop.jpg?v=27c6c6fba7",
+      "url": "https://letterboxd.com/film/the-empire-strikes-back/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "blade-runner-2049",
+      "title": "Blade Runner 2049",
+      "year": "2017",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas",
+        "Dave Bautista",
+        "Robin Wright",
+        "Sylvia Hoeks"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 2126583,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/5/4/3/9/265439-blade-runner-2049-0-230-0-345-crop.jpg?v=86735e0bb8",
+      "url": "https://letterboxd.com/film/blade-runner-2049/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dark-star",
+      "title": "Dark Star",
+      "year": "1974",
+      "genres": [
+        "Comedy",
+        "Science Fiction"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "actors": [
+        "Brian Narelle",
+        "Cal Kuniholm",
+        "Dan O'Bannon",
+        "Dre Pahich",
+        "Adam Beckenbaugh",
+        "Nick Castle"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.09,
+      "rating_count": 44057,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/5/4/51054-dark-star-0-230-0-345-crop.jpg?v=516134e44c",
+      "url": "https://letterboxd.com/film/dark-star/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "2010-1984",
+      "title": "2010: The Year We Make Contact",
+      "year": "1984",
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "directors": [
+        "Peter Hyams"
+      ],
+      "actors": [
+        "Roy Scheider",
+        "John Lithgow",
+        "Helen Mirren",
+        "Bob Balaban",
+        "Keir Dullea",
+        "Douglas Rain"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.22,
+      "rating_count": 32905,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/3/3/8/49338-2010-1984-0-230-0-345-crop.jpg?v=8057824269",
+      "url": "https://letterboxd.com/film/2010-1984/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-terminator",
+      "title": "The Terminator",
+      "year": "1984",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Michael Biehn",
+        "Linda Hamilton",
+        "Paul Winfield",
+        "Lance Henriksen",
+        "Rick Rossovich"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 980398,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g2/2g/f0/6b/the-terminator-original-0-230-0-345-crop.jpg?v=677a47d94a",
+      "url": "https://letterboxd.com/film/the-terminator/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "beyond-the-black-rainbow",
+      "title": "Beyond the Black Rainbow",
+      "year": "2010",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Panos Cosmatos"
+      ],
+      "actors": [
+        "Michael J Rogers",
+        "Eva Bourne",
+        "Scott Hylands",
+        "Marilyn Norry",
+        "Rondel Reynoldson",
+        "Ryley Zinger"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.27,
+      "rating_count": 44254,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/5/9/9/15599-beyond-the-black-rainbow-0-230-0-345-crop.jpg?v=9b20f9b6c3",
+      "url": "https://letterboxd.com/film/beyond-the-black-rainbow/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "wargames",
+      "title": "WarGames",
+      "year": "1983",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "John Badham"
+      ],
+      "actors": [
+        "Matthew Broderick",
+        "Dabney Coleman",
+        "John Wood",
+        "Ally Sheedy",
+        "Barry Corbin",
+        "Juanin Clay"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.51,
+      "rating_count": 102599,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/9/2/51292-wargames-0-230-0-345-crop.jpg?v=8642fe2e30",
+      "url": "https://letterboxd.com/film/wargames/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "escape-from-new-york",
+      "title": "Escape from New York",
+      "year": "1981",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "actors": [
+        "Kurt Russell",
+        "Lee Van Cleef",
+        "Ernest Borgnine",
+        "Donald Pleasence",
+        "Isaac Hayes",
+        "Season Hubley"
+      ],
+      "countries": [
+        "UK",
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.63,
+      "rating_count": 264215,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ft/7g/e0/y0/50aa3ZKcDF0c3r6nqY5I4jP1xnp-0-230-0-345-crop.jpg?v=5fc0a2486a",
+      "url": "https://letterboxd.com/film/escape-from-new-york/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "colossus-the-forbin-project",
+      "title": "Colossus: The Forbin Project",
+      "year": "1970",
+      "genres": [
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Joseph Sargent"
+      ],
+      "actors": [
+        "Eric Braeden",
+        "Susan Clark",
+        "Gordon Pinsent",
+        "William Schallert",
+        "Georg Stanford Brown",
+        "Willard Sage"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.58,
+      "rating_count": 7961,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/8/0/8/42808-colossus-the-forbin-project-0-230-0-345-crop.jpg?v=2111be542c",
+      "url": "https://letterboxd.com/film/colossus-the-forbin-project/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Science Fiction": 30,
+      "Action": 13,
+      "Thriller": 9,
+      "Drama": 9,
+      "Adventure": 8,
+      "Comedy": 4,
+      "Horror": 3,
+      "Animation": 3,
+      "Mystery": 3,
+      "Crime": 2,
+      "Western": 2
+    },
+    "directors": {
+      "Ridley Scott": 2,
+      "George Lucas": 2,
+      "Paul Verhoeven": 2,
+      "Peter Hyams": 2,
+      "John Carpenter": 2,
+      "Steven Lisberger": 1,
+      "Kathryn Bigelow": 1,
+      "Katsuhiro Otomo": 1,
+      "Robert Zemeckis": 1,
+      "Duncan Jones": 1,
+      "Zeek Earl": 1,
+      "Christopher Caldwell": 1,
+      "Robert Longo": 1,
+      "Mamoru Oshii": 1,
+      "Douglas Trumbull": 1,
+      "Stanley Kubrick": 1,
+      "Andrei Tarkovsky": 1,
+      "Terry Gilliam": 1,
+      "Fede Álvarez": 1,
+      "Cary Joji Fukunaga": 1
+    },
+    "years": {
+      "1968": 1,
+      "1970": 1,
+      "1971": 1,
+      "1972": 2,
+      "1974": 1,
+      "1977": 1,
+      "1979": 1,
+      "1980": 1,
+      "1981": 2,
+      "1982": 2,
+      "1983": 1,
+      "1984": 2,
+      "1985": 1,
+      "1987": 1,
+      "1988": 1,
+      "1989": 1,
+      "1990": 1,
+      "1995": 3,
+      "1998": 1,
+      "1999": 1,
+      "2009": 1,
+      "2010": 1,
+      "2017": 1,
+      "2018": 2,
+      "2024": 1
+    }
+  }
+}

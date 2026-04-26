@@ -1,0 +1,1923 @@
+{
+  "query": "dirtbag cinema",
+  "slug": "dirtbag-cinema",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/dylanwachman/list/dirtbag-cinema/",
+      "user": "dylanwachman",
+      "slug": "dirtbag-cinema",
+      "title": "Dirtbag Cinema",
+      "desc": "A list of mostly-quality films about dirtbags for dirtbags. Embrace your inner grime.",
+      "owner": "List by 𝙙𝙮𝙡 ❄️ PATRON",
+      "tags": []
+    },
+    {
+      "href": "/johnatthemovies/list/dirtbag-cinema/",
+      "user": "johnatthemovies",
+      "slug": "dirtbag-cinema",
+      "title": "Dirtbag Cinema",
+      "desc": "johnatthemovies is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by johnatthemovies",
+      "tags": []
+    },
+    {
+      "href": "/donnienarco/list/dirtbag-cinema/",
+      "user": "donnienarco",
+      "slug": "dirtbag-cinema",
+      "title": "Dirtbag Cinema",
+      "desc": "DonnieNarco is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by DonnieNarco PRO",
+      "tags": []
+    },
+    {
+      "href": "/camein/list/dirtbag-cinema/",
+      "user": "camein",
+      "slug": "dirtbag-cinema",
+      "title": "dirtbag cinema",
+      "desc": "rated from most to least dirtbaggy",
+      "owner": "List by caroline",
+      "tags": []
+    },
+    {
+      "href": "/johnnymocny/list/dirtbag-cinema/",
+      "user": "johnnymocny",
+      "slug": "dirtbag-cinema",
+      "title": "Dirtbag Cinema",
+      "desc": "Johnny is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Johnny Mocny PRO",
+      "tags": []
+    },
+    {
+      "href": "/elleofwands/list/dirtbag-cinema/",
+      "user": "elleofwands",
+      "slug": "dirtbag-cinema",
+      "title": "dirtbag cinema",
+      "desc": "this is just a descriptor i use for certain movies and in doing so i accidentally convinced people it was an actual film movement\n\nso behold, DIRTBAG CINEMA:\n-made in the 70s (this is important. the 60s still have a shadow of the hays code and the 80s get too polished. must be made in the 70s, the prime Dirtbag Era)\n-also takes place in the 70s. no period or futuristic shit\n-involves shitty men doing shitty things\n-no woman has more than ten minutes of screentime\n-film grain and brown tones off the charts\n-usually gangster, crime, and/or action-focused\n-takes place in the city. in the STREETS!!!\n-setting feels grimy and dirty\n-amoral male protagonist. usually he’s a cop… more",
+      "owner": "List by elle",
+      "tags": []
+    },
+    {
+      "href": "/tonytost/list/towards-a-dirtbag-cinema/",
+      "user": "tonytost",
+      "slug": "towards-a-dirtbag-cinema",
+      "title": "Towards a Dirtbag Cinema",
+      "desc": "Tony is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Tony Tost PATRON",
+      "tags": []
+    },
+    {
+      "href": "/lintonfellows/list/prestige-dirtbag-cinema/",
+      "user": "lintonfellows",
+      "slug": "prestige-dirtbag-cinema",
+      "title": "Prestige Dirtbag Cinema",
+      "desc": "This list is an attempt to grapple with the term “Prestige Dirtbag Cinema,” or Prestige Dirtbag Movies, or PDC. The Big Picture Podcast introduced me to the concept of this being a genre, and it resonated with me. I knew intuitively that a lot of my favorite movies fit that bill. But what is Prestige Dirtbag Cinema? What movies make up the PDC canon? What are the unifying themes, techniques, and filmmakers? That’s my project here, and I would love your input. \n\nNothing is set in stone on this list, I will be updating in response to comments. Switch view to list mode to see the notes I’ve made on certain movies that I would consider borderline. \n\nNow some thoughts on what… more",
+      "owner": "List by LintonFellows PATRON",
+      "tags": [
+        "prestige-dirtbag-cinema",
+        "prestige-dirtbag-movies",
+        "prestige-dirtbag-movie",
+        "prestige-dirtbag-film",
+        "prestige-dirrbag",
+        "pdc",
+        "profile"
+      ]
+    },
+    {
+      "href": "/rosswbermaniv/list/the-dirtbag-cinema-canon-incomplete/",
+      "user": "rosswbermaniv",
+      "slug": "the-dirtbag-cinema-canon-incomplete",
+      "title": "The Dirtbag Cinema Canon (incomplete)",
+      "desc": "RossWBermanIV is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by RossWBermanIV PATRON",
+      "tags": []
+    }
+  ],
+  "source_list_count": 9,
+  "films_considered": 973,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "taxi-driver",
+      "title": "Taxi Driver",
+      "year": "1976",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd",
+        "Harvey Keitel",
+        "Peter Boyle",
+        "Leonard Harris"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 2306336,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-230-0-345-crop.jpg?v=3ae07cca2d",
+      "url": "https://letterboxd.com/film/taxi-driver/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "good-time",
+      "title": "Good Time",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Benny Safdie",
+        "Josh Safdie"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Benny Safdie",
+        "Buddy Duress",
+        "Taliah Webster",
+        "Jennifer Jason Leigh",
+        "Barkhad Abdi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.98,
+      "rating_count": 767511,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/2/3/6/2/362362-good-time-0-230-0-345-crop.jpg?v=f7b17715d2",
+      "url": "https://letterboxd.com/film/good-time/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "dog-day-afternoon",
+      "title": "Dog Day Afternoon",
+      "year": "1975",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Sidney Lumet"
+      ],
+      "actors": [
+        "Al Pacino",
+        "John Cazale",
+        "Charles Durning",
+        "Chris Sarandon",
+        "James Broderick",
+        "Penelope Allen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.31,
+      "rating_count": 514431,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/9/5/51195-dog-day-afternoon-0-230-0-345-crop.jpg?v=dcce1e7cbb",
+      "url": "https://letterboxd.com/film/dog-day-afternoon/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "uncut-gems",
+      "title": "Uncut Gems",
+      "year": "2019",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Benny Safdie",
+        "Josh Safdie"
+      ],
+      "actors": [
+        "Adam Sandler",
+        "LaKeith Stanfield",
+        "Julia Fox",
+        "Kevin Garnett",
+        "Idina Menzel",
+        "Eric Bogosian"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.95,
+      "rating_count": 1684728,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/2/6/6/404266-uncut-gems-0-230-0-345-crop.jpg?v=670cb7034d",
+      "url": "https://letterboxd.com/film/uncut-gems/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "red-rocket-2021",
+      "title": "Red Rocket",
+      "year": "2021",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Sean Baker"
+      ],
+      "actors": [
+        "Simon Rex",
+        "Suzanna Son",
+        "Bree Elrod",
+        "Ethan Darbone",
+        "Brenda Deiss",
+        "Judy Hill"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 208471,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/3/6/2/0/683620-red-rocket-0-230-0-345-crop.jpg?v=073384c9e9",
+      "url": "https://letterboxd.com/film/red-rocket-2021/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "inherent-vice",
+      "title": "Inherent Vice",
+      "year": "2014",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Josh Brolin",
+        "Owen Wilson",
+        "Katherine Waterston",
+        "Reese Witherspoon",
+        "Benicio del Toro"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 253134,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/8/3/0/125830-inherent-vice-0-230-0-345-crop.jpg?v=342795552c",
+      "url": "https://letterboxd.com/film/inherent-vice/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "wild-at-heart",
+      "title": "Wild at Heart",
+      "year": "1990",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Romance"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Laura Dern",
+        "Willem Dafoe",
+        "Diane Ladd",
+        "Harry Dean Stanton",
+        "J.E. Freeman"
+      ],
+      "countries": [
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.92,
+      "rating_count": 283207,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bi/3h/zv/k4/5Lu9HbcGBxjm4R1KNthmqaD5VRT-0-230-0-345-crop.jpg?v=36a83d1697",
+      "url": "https://letterboxd.com/film/wild-at-heart/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "thief",
+      "title": "Thief",
+      "year": "1981",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Michael Mann"
+      ],
+      "actors": [
+        "James Caan",
+        "Tuesday Weld",
+        "Robert Prosky",
+        "Willie Nelson",
+        "Jim Belushi",
+        "Tom Signorelli"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.07,
+      "rating_count": 203704,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/2/4/45224-thief-0-230-0-345-crop.jpg?v=775424c4c3",
+      "url": "https://letterboxd.com/film/thief/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "trainspotting",
+      "title": "Trainspotting",
+      "year": "1996",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Danny Boyle"
+      ],
+      "actors": [
+        "Ewan McGregor",
+        "Ewen Bremner",
+        "Jonny Lee Miller",
+        "Kevin McKidd",
+        "Robert Carlyle",
+        "Kelly Macdonald"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 4.23,
+      "rating_count": 1185363,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/7/51497-trainspotting-0-230-0-345-crop.jpg?v=c8597f6cb5",
+      "url": "https://letterboxd.com/film/trainspotting/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "fear-and-loathing-in-las-vegas",
+      "title": "Fear and Loathing in Las Vegas",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "actors": [
+        "Johnny Depp",
+        "Benicio del Toro",
+        "Tobey Maguire",
+        "Michael Lee Gogin",
+        "Larry Cedar",
+        "Brian Le Baron"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 423125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/2/5/50725-fear-and-loathing-in-las-vegas-0-230-0-345-crop.jpg?v=ff824b403c",
+      "url": "https://letterboxd.com/film/fear-and-loathing-in-las-vegas/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-card-counter",
+      "title": "The Card Counter",
+      "year": "2021",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Paul Schrader"
+      ],
+      "actors": [
+        "Oscar Isaac",
+        "Tiffany Haddish",
+        "Tye Sheridan",
+        "Willem Dafoe",
+        "Alexander Babara",
+        "Bobby C. King"
+      ],
+      "countries": [
+        "Sweden",
+        "UK",
+        "USA",
+        "China"
+      ],
+      "rating": 3.3,
+      "rating_count": 130973,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/9/5/6/3/569563-the-card-counter-0-230-0-345-crop.jpg?v=54ec4550f0",
+      "url": "https://letterboxd.com/film/the-card-counter/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "to-live-and-die-in-la",
+      "title": "To Live and Die in L.A.",
+      "year": "1985",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "William Friedkin"
+      ],
+      "actors": [
+        "William L. Petersen",
+        "Willem Dafoe",
+        "John Pankow",
+        "Debra Feuer",
+        "John Turturro",
+        "Dean Stockwell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4,
+      "rating_count": 112892,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/7/6/9/46769-to-live-and-die-in-l-a--0-230-0-345-crop.jpg?v=4a55db27ed",
+      "url": "https://letterboxd.com/film/to-live-and-die-in-la/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "blue-velvet",
+      "title": "Blue Velvet",
+      "year": "1986",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Isabella Rossellini",
+        "Kyle MacLachlan",
+        "Dennis Hopper",
+        "Laura Dern",
+        "Hope Lange",
+        "Dean Stockwell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.06,
+      "rating_count": 916633,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/9/51359-blue-velvet-0-230-0-345-crop.jpg?v=b0ee3c20f6",
+      "url": "https://letterboxd.com/film/blue-velvet/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "bringing-out-the-dead",
+      "title": "Bringing Out the Dead",
+      "year": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Patricia Arquette",
+        "John Goodman",
+        "Ving Rhames",
+        "Tom Sizemore",
+        "Marc Anthony"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 108357,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/6/4/47664-bringing-out-the-dead-0-230-0-345-crop.jpg?v=ede0e97e64",
+      "url": "https://letterboxd.com/film/bringing-out-the-dead/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "escape-from-new-york",
+      "title": "Escape from New York",
+      "year": "1981",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "actors": [
+        "Kurt Russell",
+        "Lee Van Cleef",
+        "Ernest Borgnine",
+        "Donald Pleasence",
+        "Isaac Hayes",
+        "Season Hubley"
+      ],
+      "countries": [
+        "UK",
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.63,
+      "rating_count": 264218,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ft/7g/e0/y0/50aa3ZKcDF0c3r6nqY5I4jP1xnp-0-230-0-345-crop.jpg?v=5fc0a2486a",
+      "url": "https://letterboxd.com/film/escape-from-new-york/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "y-tu-mama-tambien",
+      "title": "Y Tu Mamá También",
+      "year": "2001",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Alfonso Cuarón"
+      ],
+      "actors": [
+        "Diego Luna",
+        "Gael García Bernal",
+        "Maribel Verdú",
+        "Daniel Giménez Cacho",
+        "Diana Bracho",
+        "Verónica Langer"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "rating": 4.21,
+      "rating_count": 466758,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/8/51068-y-tu-mama-tambien-0-230-0-345-crop.jpg?v=1052852218",
+      "url": "https://letterboxd.com/film/y-tu-mama-tambien/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "mikey-and-nicky",
+      "title": "Mikey and Nicky",
+      "year": "1976",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Elaine May"
+      ],
+      "actors": [
+        "Peter Falk",
+        "John Cassavetes",
+        "Ned Beatty",
+        "Rose Arrick",
+        "Carol Grace",
+        "William Hickey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.07,
+      "rating_count": 75828,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/1/1/7211-mikey-and-nicky-0-230-0-345-crop.jpg?v=2473a05d8b",
+      "url": "https://letterboxd.com/film/mikey-and-nicky/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "le-samourai",
+      "title": "Le Samouraï",
+      "year": "1967",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Jean-Pierre Melville"
+      ],
+      "actors": [
+        "Alain Delon",
+        "François Périer",
+        "Nathalie Delon",
+        "Cathy Rosier",
+        "Michel Boisrond",
+        "Catherine Jourdan"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 4.22,
+      "rating_count": 206484,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/8/1/7/48817-le-samourai-0-230-0-345-crop.jpg?v=11267d74cc",
+      "url": "https://letterboxd.com/film/le-samourai/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "cruising",
+      "title": "Cruising",
+      "year": "1980",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery"
+      ],
+      "directors": [
+        "William Friedkin"
+      ],
+      "actors": [
+        "Al Pacino",
+        "Paul Sorvino",
+        "Karen Allen",
+        "Richard Cox",
+        "Don Scardino",
+        "Joe Spinell"
+      ],
+      "countries": [
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.59,
+      "rating_count": 97292,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/0/5/0/34050-cruising-0-230-0-345-crop.jpg?v=c1b1c9c1f9",
+      "url": "https://letterboxd.com/film/cruising/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "nightcrawler",
+      "title": "Nightcrawler",
+      "year": "2014",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Dan Gilroy"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Riz Ahmed",
+        "Rene Russo",
+        "Bill Paxton",
+        "Kevin Rahm",
+        "Michael Hyatt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.04,
+      "rating_count": 1735015,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g7/2e/vi/vy/A9ANrAWlmIovxzjAIiOgseSLNc9-0-230-0-345-crop.jpg?v=6bcb14c88c",
+      "url": "https://letterboxd.com/film/nightcrawler/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "drive-2011",
+      "title": "Drive",
+      "year": "2011",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Carey Mulligan",
+        "Bryan Cranston",
+        "Albert Brooks",
+        "Oscar Isaac",
+        "Christina Hendricks"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 1872760,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-230-0-345-crop.jpg?v=58a476ae28",
+      "url": "https://letterboxd.com/film/drive-2011/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-lighthouse-2019",
+      "title": "The Lighthouse",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Willem Dafoe",
+        "Valeriia Karaman",
+        "Logan Hawkes",
+        "Kyla Nicolle",
+        "Shaun Clarke"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 1504769,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/3/8/6/3/433863-the-lighthouse-0-230-0-345-crop.jpg?v=ee97005537",
+      "url": "https://letterboxd.com/film/the-lighthouse-2019/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "once-upon-a-time-in-hollywood",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Margot Robbie",
+        "Emile Hirsch",
+        "Margaret Qualley",
+        "Timothy Olyphant"
+      ],
+      "countries": [
+        "China",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 3048429,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-230-0-345-crop.jpg?v=f3e8612854",
+      "url": "https://letterboxd.com/film/once-upon-a-time-in-hollywood/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bad-boys-ii",
+      "title": "Bad Boys II",
+      "year": "2003",
+      "genres": [
+        "Crime",
+        "Action",
+        "Comedy"
+      ],
+      "directors": [
+        "Michael Bay"
+      ],
+      "actors": [
+        "Martin Lawrence",
+        "Will Smith",
+        "Jordi Mollà",
+        "Gabrielle Union",
+        "Peter Stormare",
+        "Theresa Randle"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.27,
+      "rating_count": 226647,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/4/7/3/47473-bad-boys-ii-0-230-0-345-crop.jpg?v=d23eb20062",
+      "url": "https://letterboxd.com/film/bad-boys-ii/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "burn-after-reading",
+      "title": "Burn After Reading",
+      "year": "2008",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Ethan Coen",
+        "Joel Coen"
+      ],
+      "actors": [
+        "George Clooney",
+        "Frances McDormand",
+        "Brad Pitt",
+        "John Malkovich",
+        "Tilda Swinton",
+        "Richard Jenkins"
+      ],
+      "countries": [
+        "USA",
+        "UK",
+        "France"
+      ],
+      "rating": 3.61,
+      "rating_count": 526124,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/5/4/49054-burn-after-reading-0-230-0-345-crop.jpg?v=1a29d1c090",
+      "url": "https://letterboxd.com/film/burn-after-reading/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "slc-punk",
+      "title": "SLC Punk",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Music",
+        "Comedy"
+      ],
+      "directors": [
+        "James Merendino"
+      ],
+      "actors": [
+        "Matthew Lillard",
+        "Michael A. Goorjian",
+        "Annabeth Gish",
+        "Jennifer Lien",
+        "Christopher McDonald",
+        "Devon Sawa"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 151589,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/3/3/5/48335-slc-punk-0-230-0-345-crop.jpg?v=d107067c95",
+      "url": "https://letterboxd.com/film/slc-punk/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-warriors",
+      "title": "The Warriors",
+      "year": "1979",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Walter Hill"
+      ],
+      "actors": [
+        "Michael Beck",
+        "James Remar",
+        "David Patrick Kelly",
+        "Dorsey Wright",
+        "David Harris",
+        "Deborah Van Valkenburgh"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 181468,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/7/0/45270-the-warriors-0-230-0-345-crop.jpg?v=acf7a78e78",
+      "url": "https://letterboxd.com/film/the-warriors/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "only-god-forgives",
+      "title": "Only God Forgives",
+      "year": "2013",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Kristin Scott Thomas",
+        "Vithaya Pansringarm",
+        "Rhatha Phongam",
+        "Gordon Brown",
+        "Tom Burke"
+      ],
+      "countries": [
+        "Denmark",
+        "France",
+        "Sweden",
+        "USA"
+      ],
+      "rating": 3,
+      "rating_count": 166271,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/4/2/7/64427-only-god-forgives-0-230-0-345-crop.jpg?v=9f33177721",
+      "url": "https://letterboxd.com/film/only-god-forgives/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "raising-arizona",
+      "title": "Raising Arizona",
+      "year": "1987",
+      "genres": [
+        "Crime",
+        "Comedy"
+      ],
+      "directors": [
+        "Joel Coen"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Holly Hunter",
+        "Trey Wilson",
+        "John Goodman",
+        "William Forsythe",
+        "Sam McMurray"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 314013,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/7/51707-raising-arizona-0-230-0-345-crop.jpg?v=4a10e2c93f",
+      "url": "https://letterboxd.com/film/raising-arizona/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "spring-breakers",
+      "title": "Spring Breakers",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Harmony Korine"
+      ],
+      "actors": [
+        "James Franco",
+        "Selena Gomez",
+        "Vanessa Hudgens",
+        "Ashley Benson",
+        "Rachel Anna Simon",
+        "Gucci Mane"
+      ],
+      "countries": [
+        "France",
+        "USA",
+        "Mexico"
+      ],
+      "rating": 2.79,
+      "rating_count": 374449,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/1/0/9/96109-spring-breakers-0-230-0-345-crop.jpg?v=419b8d6331",
+      "url": "https://letterboxd.com/film/spring-breakers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-loneliness-of-the-long-distance-runner",
+      "title": "The Loneliness of the Long Distance Runner",
+      "year": "1962",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Tony Richardson"
+      ],
+      "actors": [
+        "Michael Redgrave",
+        "Tom Courtenay",
+        "Avis Bunnage",
+        "Alec McCowen",
+        "James Bolam",
+        "Joe Robinson"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.86,
+      "rating_count": 10686,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/0/41830-the-loneliness-of-the-long-distance-runner-0-230-0-345-crop.jpg?v=0480f4f4ac",
+      "url": "https://letterboxd.com/film/the-loneliness-of-the-long-distance-runner/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "smithereens",
+      "title": "Smithereens",
+      "year": "1982",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Music"
+      ],
+      "directors": [
+        "Susan Seidelman"
+      ],
+      "actors": [
+        "Susan Berman",
+        "Brad Rijn",
+        "Richard Hell",
+        "Nada Despotovich",
+        "Roger Jett",
+        "Kitty Summerall"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.57,
+      "rating_count": 20051,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/1/1/3/78113-smithereens-0-230-0-345-crop.jpg?v=996eee659b",
+      "url": "https://letterboxd.com/film/smithereens/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "less-than-zero",
+      "title": "Less Than Zero",
+      "year": "1987",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Marek Kanievska"
+      ],
+      "actors": [
+        "Andrew McCarthy",
+        "Jami Gertz",
+        "Robert Downey Jr.",
+        "James Spader",
+        "Tony Bill",
+        "Nicholas Pryor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.18,
+      "rating_count": 24261,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/c1/hm/bb/nj/less-than-zero-0-230-0-345-crop.jpg?v=7478911c7a",
+      "url": "https://letterboxd.com/film/less-than-zero/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "rachel-getting-married",
+      "title": "Rachel Getting Married",
+      "year": "2008",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Jonathan Demme"
+      ],
+      "actors": [
+        "Anne Hathaway",
+        "Rosemarie DeWitt",
+        "Bill Irwin",
+        "Debra Winger",
+        "Tunde Adebimpe",
+        "Mather Zickel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.62,
+      "rating_count": 52458,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/99/bi/7m/q2/rq1z6yiYW1LTgXZhsyNgmtmOedK-0-230-0-345-crop.jpg?v=2a297d2663",
+      "url": "https://letterboxd.com/film/rachel-getting-married/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "sorcerer",
+      "title": "Sorcerer",
+      "year": "1977",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Adventure"
+      ],
+      "directors": [
+        "William Friedkin"
+      ],
+      "actors": [
+        "Roy Scheider",
+        "Bruno Cremer",
+        "Francisco Rabal",
+        "Amidou",
+        "Ramon Bieri",
+        "Peter Capell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.27,
+      "rating_count": 149386,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/6/5/0/25650-sorcerer-0-230-0-345-crop.jpg?v=8dd4d17006",
+      "url": "https://letterboxd.com/film/sorcerer/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "body-double",
+      "title": "Body Double",
+      "year": "1984",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Brian De Palma"
+      ],
+      "actors": [
+        "Craig Wasson",
+        "Melanie Griffith",
+        "Gregg Henry",
+        "Deborah Shelton",
+        "Guy Boyd",
+        "Dennis Franz"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 111542,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/4/1/45241-body-double-0-230-0-345-crop.jpg?v=00eec82639",
+      "url": "https://letterboxd.com/film/body-double/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "pulp-fiction",
+      "title": "Pulp Fiction",
+      "year": "1994",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "actors": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Bruce Willis",
+        "Ving Rhames",
+        "Harvey Keitel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.24,
+      "rating_count": 4142489,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-230-0-345-crop.jpg?v=dee19a8077",
+      "url": "https://letterboxd.com/film/pulp-fiction/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "scarface-1983",
+      "title": "Scarface",
+      "year": "1983",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime"
+      ],
+      "directors": [
+        "Brian De Palma"
+      ],
+      "actors": [
+        "Al Pacino",
+        "Steven Bauer",
+        "Michelle Pfeiffer",
+        "Mary Elizabeth Mastrantonio",
+        "Robert Loggia",
+        "Miriam Colon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 1543721,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/9/51939-scarface-0-230-0-345-crop.jpg?v=e64e66a6b8",
+      "url": "https://letterboxd.com/film/scarface-1983/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "miami-vice",
+      "title": "Miami Vice",
+      "year": "2006",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Michael Mann"
+      ],
+      "actors": [
+        "Colin Farrell",
+        "Jamie Foxx",
+        "Naomie Harris",
+        "Gong Li",
+        "John Ortiz",
+        "Ciarán Hinds"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.45,
+      "rating_count": 132548,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/6/8/51968-miami-vice-0-230-0-345-crop.jpg?v=323641dcfe",
+      "url": "https://letterboxd.com/film/miami-vice/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lost-highway",
+      "title": "Lost Highway",
+      "year": "1997",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Patricia Arquette",
+        "Bill Pullman",
+        "Balthazar Getty",
+        "Robert Blake",
+        "Robert Loggia",
+        "Michael Massee"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 424413,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-230-0-345-crop.jpg?v=49d0ffd43f",
+      "url": "https://letterboxd.com/film/lost-highway/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-place-beyond-the-pines",
+      "title": "The Place Beyond the Pines",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Derek Cianfrance"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Bradley Cooper",
+        "Eva Mendes",
+        "Rose Byrne",
+        "Ray Liotta",
+        "Dane DeHaan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.79,
+      "rating_count": 429699,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/2/0/0/80200-the-place-beyond-the-pines-0-230-0-345-crop.jpg?v=e30d64f591",
+      "url": "https://letterboxd.com/film/the-place-beyond-the-pines/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hard-eight",
+      "title": "Hard Eight",
+      "year": "1996",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "actors": [
+        "Philip Baker Hall",
+        "John C. Reilly",
+        "Gwyneth Paltrow",
+        "Samuel L. Jackson",
+        "F. William Parker",
+        "Philip Seymour Hoffman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.62,
+      "rating_count": 135824,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/1/3/47913-hard-eight-0-230-0-345-crop.jpg?v=d5198f6351",
+      "url": "https://letterboxd.com/film/hard-eight/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "la-haine",
+      "title": "La Haine",
+      "year": "1995",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Mathieu Kassovitz"
+      ],
+      "actors": [
+        "Vincent Cassel",
+        "Hubert Koundé",
+        "Saïd Taghmaoui",
+        "Abdel Ahmed Ghili",
+        "Solo",
+        "Joseph Momo"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.5,
+      "rating_count": 1032728,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/4/51684-la-haine-0-230-0-345-crop.jpg?v=b6677cc136",
+      "url": "https://letterboxd.com/film/la-haine/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-doom-generation",
+      "title": "The Doom Generation",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "Rose McGowan",
+        "James Duval",
+        "Johnathon Schaech",
+        "Cress Williams",
+        "Dustin Nguyễn",
+        "Lauren Tewes"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.79,
+      "rating_count": 110817,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/9/2/43792-the-doom-generation-0-230-0-345-crop.jpg?v=72134ca389",
+      "url": "https://letterboxd.com/film/the-doom-generation/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "friday",
+      "title": "Friday",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "F. Gary Gray"
+      ],
+      "actors": [
+        "Ice Cube",
+        "Chris Tucker",
+        "Nia Long",
+        "Tommy Lister Jr.",
+        "John Witherspoon",
+        "Anna Maria Horsford"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.59,
+      "rating_count": 233834,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/4/0/46040-friday-0-230-0-345-crop.jpg?v=c18c808736",
+      "url": "https://letterboxd.com/film/friday/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dazed-and-confused",
+      "title": "Dazed and Confused",
+      "year": "1993",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Jason London",
+        "Matthew McConaughey",
+        "Joey Lauren Adams",
+        "Rory Cochrane",
+        "Wiley Wiggins",
+        "Adam Goldberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 578401,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/2/9/47029-dazed-and-confused-0-230-0-345-crop.jpg?v=a3b615703a",
+      "url": "https://letterboxd.com/film/dazed-and-confused/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-big-lebowski",
+      "title": "The Big Lebowski",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Joel Coen"
+      ],
+      "actors": [
+        "Jeff Bridges",
+        "John Goodman",
+        "Julianne Moore",
+        "Steve Buscemi",
+        "David Huddleston",
+        "Philip Seymour Hoffman"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 1259228,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/5/51935-the-big-lebowski-0-230-0-345-crop.jpg?v=5cd64defcf",
+      "url": "https://letterboxd.com/film/the-big-lebowski/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dragged-across-concrete",
+      "title": "Dragged Across Concrete",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "S. Craig Zahler"
+      ],
+      "actors": [
+        "Mel Gibson",
+        "Vince Vaughn",
+        "Tory Kittles",
+        "Michael Jai White",
+        "Jennifer Carpenter",
+        "Don Johnson"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 69427,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/4/6/4/371464-dragged-across-concrete-0-230-0-345-crop.jpg?v=6eb51e66f2",
+      "url": "https://letterboxd.com/film/dragged-across-concrete/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "den-of-thieves",
+      "title": "Den of Thieves",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Christian Gudegast"
+      ],
+      "actors": [
+        "Gerard Butler",
+        "Pablo Schreiber",
+        "O'Shea Jackson Jr.",
+        "50 Cent",
+        "Meadow Williams",
+        "Maurice Compte"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 137614,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/1/7/5/4/381754-den-of-thieves-0-230-0-345-crop.jpg?v=d9f57ee143",
+      "url": "https://letterboxd.com/film/den-of-thieves/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-french-connection",
+      "title": "The French Connection",
+      "year": "1971",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "William Friedkin"
+      ],
+      "actors": [
+        "Gene Hackman",
+        "Roy Scheider",
+        "Fernando Rey",
+        "Tony Lo Bianco",
+        "Marcel Bozzuffi",
+        "Frédéric de Pasquale"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.99,
+      "rating_count": 200210,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/m0/ut/ds/ts/5XSGvIKl2yPvOkieFjc3rzLw7x0-0-230-0-345-crop.jpg?v=b5eb5cf6f7",
+      "url": "https://letterboxd.com/film/the-french-connection/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-conversation",
+      "title": "The Conversation",
+      "year": "1974",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "actors": [
+        "Gene Hackman",
+        "John Cazale",
+        "Allen Garfield",
+        "Frederic Forrest",
+        "Cindy Williams",
+        "Michael Higgins"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.15,
+      "rating_count": 264910,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/9/51529-the-conversation-0-230-0-345-crop.jpg?v=12ad21bbbf",
+      "url": "https://letterboxd.com/film/the-conversation/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "california-split",
+      "title": "California Split",
+      "year": "1974",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Altman"
+      ],
+      "actors": [
+        "George Segal",
+        "Elliott Gould",
+        "Ann Prentiss",
+        "Gwen Welles",
+        "Edward Walsh",
+        "Joseph Walsh"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.92,
+      "rating_count": 34516,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/6/9/9/30699-california-split-0-230-0-345-crop.jpg?v=1bbc00d2e6",
+      "url": "https://letterboxd.com/film/california-split/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "carnal-knowledge",
+      "title": "Carnal Knowledge",
+      "year": "1971",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Mike Nichols"
+      ],
+      "actors": [
+        "Jack Nicholson",
+        "Candice Bergen",
+        "Art Garfunkel",
+        "Ann-Margret",
+        "Rita Moreno",
+        "Cynthia O'Neal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.63,
+      "rating_count": 25095,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/8/6/3/27863-carnal-knowledge-0-230-0-345-crop.jpg?v=80da6e9398",
+      "url": "https://letterboxd.com/film/carnal-knowledge/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "fat-city",
+      "title": "Fat City",
+      "year": "1972",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "John Huston"
+      ],
+      "actors": [
+        "Stacy Keach",
+        "Jeff Bridges",
+        "Susan Tyrrell",
+        "Candy Clark",
+        "Nicholas Colasanto",
+        "Art Aragon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 20864,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/2/7/9/41279-fat-city-0-230-0-345-crop.jpg?v=f8da2a3c75",
+      "url": "https://letterboxd.com/film/fat-city/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-last-detail",
+      "title": "The Last Detail",
+      "year": "1973",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Hal Ashby"
+      ],
+      "actors": [
+        "Jack Nicholson",
+        "Otis Young",
+        "Randy Quaid",
+        "Clifton James",
+        "Carol Kane",
+        "Michael Moriarty"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.93,
+      "rating_count": 45309,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/3/8/42738-the-last-detail-0-230-0-345-crop.jpg?v=548751e49a",
+      "url": "https://letterboxd.com/film/the-last-detail/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "chinatown",
+      "title": "Chinatown",
+      "year": "1974",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ],
+      "actors": [
+        "Jack Nicholson",
+        "Faye Dunaway",
+        "John Huston",
+        "Perry Lopez",
+        "John Hillerman",
+        "Diane Ladd"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.3,
+      "rating_count": 478920,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/2/3/51323-chinatown-0-230-0-345-crop.jpg?v=b8e65cb89f",
+      "url": "https://letterboxd.com/film/chinatown/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-panic-in-needle-park",
+      "title": "The Panic in Needle Park",
+      "year": "1971",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Jerry Schatzberg"
+      ],
+      "actors": [
+        "Al Pacino",
+        "Kitty Winn",
+        "Alan Vint",
+        "Richard Bright",
+        "Kiel Martin",
+        "Michael McClanathan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.74,
+      "rating_count": 67432,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/4/1/3/34413-the-panic-in-needle-park-0-230-0-345-crop.jpg?v=d69e94ba20",
+      "url": "https://letterboxd.com/film/the-panic-in-needle-park/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "pickpocket",
+      "title": "Pickpocket",
+      "year": "1959",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Robert Bresson"
+      ],
+      "actors": [
+        "Martin LaSalle",
+        "Marika Green",
+        "Jean Pélégri",
+        "Dolly Scal",
+        "Pierre Leymarie",
+        "Kassagi"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.94,
+      "rating_count": 77410,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/3/6/51436-pickpocket-0-230-0-345-crop.jpg?v=4c798a0e55",
+      "url": "https://letterboxd.com/film/pickpocket/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "breathless",
+      "title": "Breathless",
+      "year": "1960",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Jean-Luc Godard"
+      ],
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Jean Seberg",
+        "Daniel Boulanger",
+        "Henri-Jacques Huet",
+        "Roger Hanin",
+        "Van Doude"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.9,
+      "rating_count": 299221,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/7/51787-breathless-0-230-0-345-crop.jpg?v=53a2f150d5",
+      "url": "https://letterboxd.com/film/breathless/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "badlands",
+      "title": "Badlands",
+      "year": "1973",
+      "genres": [
+        "Crime",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Terrence Malick"
+      ],
+      "actors": [
+        "Martin Sheen",
+        "Sissy Spacek",
+        "Warren Oates",
+        "Ramon Bieri",
+        "Alan Vint",
+        "Gary Littlejohn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4,
+      "rating_count": 181335,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/4/4/49844-badlands-0-230-0-345-crop.jpg?v=d57e83e76f",
+      "url": "https://letterboxd.com/film/badlands/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 45,
+      "Crime": 38,
+      "Thriller": 26,
+      "Comedy": 16,
+      "Action": 9,
+      "Mystery": 7,
+      "Romance": 7,
+      "Adventure": 2,
+      "Music": 2,
+      "Science Fiction": 1,
+      "Fantasy": 1,
+      "Horror": 1
+    },
+    "directors": {
+      "William Friedkin": 4,
+      "David Lynch": 3,
+      "Joel Coen": 3,
+      "Martin Scorsese": 2,
+      "Benny Safdie": 2,
+      "Josh Safdie": 2,
+      "Paul Thomas Anderson": 2,
+      "Michael Mann": 2,
+      "Nicolas Winding Refn": 2,
+      "Quentin Tarantino": 2,
+      "Brian De Palma": 2,
+      "Sidney Lumet": 1,
+      "Sean Baker": 1,
+      "Danny Boyle": 1,
+      "Terry Gilliam": 1,
+      "Paul Schrader": 1,
+      "John Carpenter": 1,
+      "Alfonso Cuarón": 1,
+      "Elaine May": 1,
+      "Jean-Pierre Melville": 1
+    },
+    "years": {
+      "1959": 1,
+      "1960": 1,
+      "1962": 1,
+      "1967": 1,
+      "1971": 3,
+      "1972": 1,
+      "1973": 2,
+      "1974": 3,
+      "1975": 1,
+      "1976": 2,
+      "1977": 1,
+      "1979": 1,
+      "1980": 1,
+      "1981": 2,
+      "1982": 1,
+      "1983": 1,
+      "1984": 1,
+      "1985": 1,
+      "1986": 1,
+      "1987": 2,
+      "1990": 1,
+      "1993": 1,
+      "1994": 1,
+      "1995": 3,
+      "1996": 2,
+      "1997": 1,
+      "1998": 3,
+      "1999": 1,
+      "2001": 1,
+      "2003": 1,
+      "2006": 1,
+      "2008": 2,
+      "2011": 1,
+      "2012": 2,
+      "2013": 1,
+      "2014": 2,
+      "2017": 1,
+      "2018": 2,
+      "2019": 3,
+      "2021": 2
+    }
+  }
+}

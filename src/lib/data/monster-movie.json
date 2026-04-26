@@ -1,0 +1,634 @@
+{
+  "query": "monster movie",
+  "slug": "monster-movie",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/sparkytheg/list/monster-movie/",
+      "user": "sparkytheg",
+      "slug": "monster-movie",
+      "title": "Monster Movie",
+      "desc": "SparkyTheG is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by SparkyTheG",
+      "tags": []
+    },
+    {
+      "href": "/callmel/list/monster-movie/",
+      "user": "callmel",
+      "slug": "monster-movie",
+      "title": "Monster movie",
+      "desc": "Lexise is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Lexise Lekova",
+      "tags": []
+    },
+    {
+      "href": "/martyrion/list/monster-movie/",
+      "user": "martyrion",
+      "slug": "monster-movie",
+      "title": "Monster movie",
+      "desc": "Mi fav monster movies",
+      "owner": "List by martyrion",
+      "tags": []
+    },
+    {
+      "href": "/naimalpha/list/monster-movie/",
+      "user": "naimalpha",
+      "slug": "monster-movie",
+      "title": "Monster Movie",
+      "desc": "Movie that have monster",
+      "owner": "List by NaimAlpha",
+      "tags": []
+    },
+    {
+      "href": "/matadoorchik/list/monster-movie/",
+      "user": "matadoorchik",
+      "slug": "monster-movie",
+      "title": "Monster movie",
+      "desc": "MaTaDOORchik is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by MaTaDOORchik",
+      "tags": []
+    },
+    {
+      "href": "/biankus/list/monster-movie/",
+      "user": "biankus",
+      "slug": "monster-movie",
+      "title": "Monster movie",
+      "desc": "biankus is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by biankus",
+      "tags": []
+    },
+    {
+      "href": "/guadeloop/list/monster-movie/",
+      "user": "guadeloop",
+      "slug": "monster-movie",
+      "title": "MONSTER MOVIE",
+      "desc": "no MONSTER MOVIE as personagens se deparam com uma AMEAÇA e são forçadas a CONTRA ATACAR",
+      "owner": "List by guadeloop",
+      "tags": []
+    },
+    {
+      "href": "/danielnor/list/monster-movie/",
+      "user": "danielnor",
+      "slug": "monster-movie",
+      "title": "Monster movie",
+      "desc": "DanielNOR is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by DanielNOR",
+      "tags": []
+    }
+  ],
+  "source_list_count": 8,
+  "films_considered": 66,
+  "canonical_count": 17,
+  "films": [
+    {
+      "slug": "jaws",
+      "title": "Jaws",
+      "year": "1975",
+      "genres": [
+        "Adventure",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Roy Scheider",
+        "Robert Shaw",
+        "Richard Dreyfuss",
+        "Lorraine Gary",
+        "Murray Hamilton",
+        "Carl Gottlieb"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.92,
+      "rating_count": 1660805,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/4/2/51542-jaws-0-230-0-345-crop.jpg?v=03299455f6",
+      "url": "https://letterboxd.com/film/jaws/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "tremors",
+      "title": "Tremors",
+      "year": "1990",
+      "genres": [
+        "Horror",
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "directors": [
+        "Ron Underwood"
+      ],
+      "actors": [
+        "Kevin Bacon",
+        "Fred Ward",
+        "Finn Carter",
+        "Michael Gross",
+        "Reba McEntire",
+        "Victor Wong"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.53,
+      "rating_count": 210870,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/as/zy/qv/ft/aC2wOckYHkLi9usARIfqR51OFV9-0-230-0-345-crop.jpg?v=71c5d815d7",
+      "url": "https://letterboxd.com/film/tremors/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "king-kong-2005",
+      "title": "King Kong",
+      "year": "2005",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Naomi Watts",
+        "Adrien Brody",
+        "Jack Black",
+        "Andy Serkis",
+        "Colin Hanks",
+        "Thomas Kretschmann"
+      ],
+      "countries": [
+        "USA",
+        "New Zealand",
+        "Germany"
+      ],
+      "rating": 3.41,
+      "rating_count": 472160,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jb/d6/wt/v2/ueMFrWi2NTqvpDAUWh5lSewai8Q-0-230-0-345-crop.jpg?v=df351e2420",
+      "url": "https://letterboxd.com/film/king-kong-2005/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "shin-godzilla",
+      "title": "Shin Godzilla",
+      "year": "2016",
+      "genres": [
+        "Action",
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Shinji Higuchi",
+        "Hideaki Anno"
+      ],
+      "actors": [
+        "Hiroki Hasegawa",
+        "Yutaka Takenouchi",
+        "Satomi Ishihara",
+        "Kengo Kora",
+        "Satoru Matsuo",
+        "Mikako Ichikawa"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.88,
+      "rating_count": 259119,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8g/5p/p4/6b/8YWirGQidtZeSEmhqvQM5FrI6N1-0-230-0-345-crop.jpg?v=10e3695a0f",
+      "url": "https://letterboxd.com/film/shin-godzilla/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "godzilla-minus-one",
+      "title": "Godzilla Minus One",
+      "year": "2023",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Takashi Yamazaki"
+      ],
+      "actors": [
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "Yuki Yamada",
+        "Munetaka Aoki",
+        "Hidetaka Yoshioka",
+        "Sakura Ando"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.07,
+      "rating_count": 879930,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/5/7/0/6/845706-godzilla-minus-one-0-230-0-345-crop.jpg?v=77a601d6de",
+      "url": "https://letterboxd.com/film/godzilla-minus-one/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "jurassic-park",
+      "title": "Jurassic Park",
+      "year": "1993",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum",
+        "Richard Attenborough",
+        "Bob Peck",
+        "Martin Ferrero"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.12,
+      "rating_count": 2173376,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1g/zz/ez/d8/yyCKYaW908ZbpexpnBJ3p8o87HA-0-230-0-345-crop.jpg?v=19a50874d0",
+      "url": "https://letterboxd.com/film/jurassic-park/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "deep-rising",
+      "title": "Deep Rising",
+      "year": "1998",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure",
+        "Horror"
+      ],
+      "directors": [
+        "Stephen Sommers"
+      ],
+      "actors": [
+        "Treat Williams",
+        "Famke Janssen",
+        "Anthony Heald",
+        "Kevin J. O'Connor",
+        "Wes Studi",
+        "Derrick O'Connor"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.07,
+      "rating_count": 27163,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/4/0/47140-deep-rising-0-230-0-345-crop.jpg?v=da0b164a09",
+      "url": "https://letterboxd.com/film/deep-rising/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-mist",
+      "title": "The Mist",
+      "year": "2007",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Frank Darabont"
+      ],
+      "actors": [
+        "Thomas Jane",
+        "Laurie Holden",
+        "Toby Jones",
+        "Marcia Gay Harden",
+        "Andre Braugher",
+        "William Sadler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 453234,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/0/2/48602-the-mist-0-230-0-345-crop.jpg?v=925b803013",
+      "url": "https://letterboxd.com/film/the-mist/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "king-kong",
+      "title": "King Kong",
+      "year": "1933",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "Merian C. Cooper",
+        "Ernest B. Schoedsack"
+      ],
+      "actors": [
+        "Robert Armstrong",
+        "Fay Wray",
+        "Bruce Cabot",
+        "Frank Reicher",
+        "Victor Wong",
+        "James Flavin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 114555,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/2/51812-king-kong-0-230-0-345-crop.jpg?v=a05d839067",
+      "url": "https://letterboxd.com/film/king-kong/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-thing",
+      "title": "The Thing",
+      "year": "1982",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "actors": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.35,
+      "rating_count": 1261701,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/t3/qn/vs/p5/s5fH3GqFcHbi2F0NSBSh4KRNTc0-0-230-0-345-crop.jpg?v=01880125bb",
+      "url": "https://letterboxd.com/film/the-thing/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "godzilla-2014",
+      "title": "Godzilla",
+      "year": "2014",
+      "genres": [
+        "Drama",
+        "Action",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Gareth Edwards"
+      ],
+      "actors": [
+        "Aaron Taylor-Johnson",
+        "Elizabeth Olsen",
+        "Juliette Binoche",
+        "Bryan Cranston",
+        "Ken Watanabe",
+        "Sally Hawkins"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.12,
+      "rating_count": 506898,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/3/3/6/98336-godzilla-0-230-0-345-crop.jpg?v=c1344855a7",
+      "url": "https://letterboxd.com/film/godzilla-2014/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "godzilla",
+      "title": "Godzilla",
+      "year": "1954",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Ishirō Honda"
+      ],
+      "actors": [
+        "Akira Takarada",
+        "Momoko Kôchi",
+        "Akihiko Hirata",
+        "Takashi Shimura",
+        "Fuyuki Murakami",
+        "Sachio Sakai"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.06,
+      "rating_count": 161377,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-230-0-345-crop.jpg?v=2b549c08f0",
+      "url": "https://letterboxd.com/film/godzilla/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "predator",
+      "title": "Predator",
+      "year": "1987",
+      "genres": [
+        "Thriller",
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "John McTiernan"
+      ],
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Carl Weathers",
+        "Kevin Peter Hall",
+        "Elpidia Carrillo",
+        "Bill Duke",
+        "Jesse Ventura"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 584780,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/4/51944-predator-0-230-0-345-crop.jpg?v=48eadd2372",
+      "url": "https://letterboxd.com/film/predator/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-host",
+      "title": "The Host",
+      "year": "2006",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Bong Joon Ho"
+      ],
+      "actors": [
+        "Song Kang-ho",
+        "Byun Hee-bong",
+        "Park Hae-il",
+        "Bae Doona",
+        "Ko A-sung",
+        "Oh Dal-su"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 3.76,
+      "rating_count": 310823,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/2/5/51125-the-host-0-230-0-345-crop.jpg?v=98f2d8c268",
+      "url": "https://letterboxd.com/film/the-host/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "nope",
+      "title": "Nope",
+      "year": "2022",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Jordan Peele"
+      ],
+      "actors": [
+        "Daniel Kaluuya",
+        "Keke Palmer",
+        "Brandon Perea",
+        "Michael Wincott",
+        "Steven Yeun",
+        "Wrenn Schmidt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 2038680,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/2/5/4/7/682547-nope-0-230-0-345-crop.jpg?v=d6a6158cc3",
+      "url": "https://letterboxd.com/film/nope/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "alien",
+      "title": "Alien",
+      "year": "1979",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Tom Skerritt",
+        "Sigourney Weaver",
+        "Veronica Cartwright",
+        "Harry Dean Stanton",
+        "John Hurt",
+        "Ian Holm"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 4.25,
+      "rating_count": 1836192,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8v/f1/qw/aa/bg7K6VtUG7Ew70gQj6SSroD5d4R-0-230-0-345-crop.jpg?v=a932f9e98e",
+      "url": "https://letterboxd.com/film/alien/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-lost-world-jurassic-park",
+      "title": "The Lost World: Jurassic Park",
+      "year": "1997",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Jeff Goldblum",
+        "Julianne Moore",
+        "Pete Postlethwaite",
+        "Arliss Howard",
+        "Richard Attenborough",
+        "Vince Vaughn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.13,
+      "rating_count": 610433,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ab/ir/xl/7z/u1fXmEQUCI9CjyHCCYOPBSq2DYo-0-230-0-345-crop.jpg?v=9931b85f00",
+      "url": "https://letterboxd.com/film/the-lost-world-jurassic-park/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Science Fiction": 14,
+      "Horror": 12,
+      "Action": 8,
+      "Adventure": 7,
+      "Thriller": 4,
+      "Drama": 3,
+      "Comedy": 1,
+      "Fantasy": 1,
+      "Mystery": 1
+    },
+    "directors": {
+      "Steven Spielberg": 3,
+      "Ron Underwood": 1,
+      "Peter Jackson": 1,
+      "Shinji Higuchi": 1,
+      "Hideaki Anno": 1,
+      "Takashi Yamazaki": 1,
+      "Stephen Sommers": 1,
+      "Frank Darabont": 1,
+      "Merian C. Cooper": 1,
+      "Ernest B. Schoedsack": 1,
+      "John Carpenter": 1,
+      "Gareth Edwards": 1,
+      "Ishirō Honda": 1,
+      "John McTiernan": 1,
+      "Bong Joon Ho": 1,
+      "Jordan Peele": 1,
+      "Ridley Scott": 1
+    },
+    "years": {
+      "1933": 1,
+      "1954": 1,
+      "1975": 1,
+      "1979": 1,
+      "1982": 1,
+      "1987": 1,
+      "1990": 1,
+      "1993": 1,
+      "1997": 1,
+      "1998": 1,
+      "2005": 1,
+      "2006": 1,
+      "2007": 1,
+      "2014": 1,
+      "2016": 1,
+      "2022": 1,
+      "2023": 1
+    }
+  }
+}

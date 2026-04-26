@@ -11,7 +11,11 @@
 	catalog is computed from Letterboxd user lists: each entry's canonical films are the ones that
 	recur across many independent lists using the same phrase.
 </p>
-<p class="count">{data.summaries.length} nanogenres</p>
+<p class="count">
+	{data.summaries.length} nanogenres
+	<span class="sep">·</span>
+	<a href="/graph">overlap graph →</a>
+</p>
 
 <div class="grid">
 	{#each data.summaries as n (n.slug)}
@@ -49,6 +53,10 @@
 		color: var(--dim);
 		font-size: 13px;
 		margin: 0 0 28px;
+	}
+	.sep {
+		opacity: 0.5;
+		margin: 0 6px;
 	}
 	.grid {
 		display: grid;

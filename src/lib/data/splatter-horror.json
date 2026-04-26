@@ -1,0 +1,1500 @@
+{
+  "query": "splatter horror",
+  "slug": "splatter-horror",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/bea_bop/list/splatter-horror/",
+      "user": "bea_bop",
+      "slug": "splatter-horror",
+      "title": "Splatter Horror",
+      "desc": "Splatter horror commonly delivers on showcasing extremely (sometimes to the point of hilarious absurdity) transgressive, viscerally gruesome acts of Grand Guignol violence and subsequent revulsion usually through the employment of special effects. Almost as an unspoken rule, they also tend to display a fascination with the vulnerability of the human body and the theatricality of its mutilation in numerous ways.\nOften the genre is associated with but not exclusive to another genres such the slasher, exploitation, body horror, comedy and even science fiction, but others may blur the lines.",
+      "owner": "List by Beatrix Harper",
+      "tags": []
+    },
+    {
+      "href": "/findmeplease/list/splatter-horror/",
+      "user": "findmeplease",
+      "slug": "splatter-horror",
+      "title": "SPLATTER HORROR.",
+      "desc": "Сплэттер - поджанр фильма ужасов, акцентирующий внимание на предельной жестокости демострирующиеся на экране. Море крови, расчленения, жестокие убийства.",
+      "owner": "List by findmeplease PRO",
+      "tags": [
+        "have-a-post"
+      ]
+    },
+    {
+      "href": "/doppelmutzi/list/splatter-horror/",
+      "user": "doppelmutzi",
+      "slug": "splatter-horror",
+      "title": "splatter horror",
+      "desc": "doppelmutzi is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by doppelmutzi",
+      "tags": []
+    },
+    {
+      "href": "/atruminsomnium/list/splatter-horror/",
+      "user": "atruminsomnium",
+      "slug": "splatter-horror",
+      "title": "Splatter Horror",
+      "desc": "AtrumInsomnium is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by AtrumInsomnium",
+      "tags": []
+    },
+    {
+      "href": "/art_af/list/splatter-horror/",
+      "user": "art_af",
+      "slug": "splatter-horror",
+      "title": "Splatter Horror",
+      "desc": "Anna is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Anna",
+      "tags": []
+    },
+    {
+      "href": "/harpyscout09/list/splatter-horror/",
+      "user": "harpyscout09",
+      "slug": "splatter-horror",
+      "title": "Splatter horror",
+      "desc": "Horror sub-genre that focuses on gore, blood, and more grotesque about the human body",
+      "owner": "List by harpyscout09",
+      "tags": []
+    },
+    {
+      "href": "/rogerito/list/splatter-horror/",
+      "user": "rogerito",
+      "slug": "splatter-horror",
+      "title": "Splatter Horror",
+      "desc": "O subgênero terror gore apresenta representações extremas e gráficas de violência, sangue coagulado e derramamento de sangue, exibindo efeitos visuais viscerais e chocantes. As histórias de gore são conhecidas por suas cenas exageradas de mutilação corporal, desmembramento e outras formas horríveis de violência.\nFonte: m.imdb.com/interest/in0000116/?ref_=ints_cat_12_int_i_9",
+      "owner": "List by Roger Mendez",
+      "tags": []
+    },
+    {
+      "href": "/dyllarose/list/splatter-horror/",
+      "user": "dyllarose",
+      "slug": "splatter-horror",
+      "title": "Splatter horror",
+      "desc": "dyllarose is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by dyllarose",
+      "tags": []
+    },
+    {
+      "href": "/elleathorrorvt/list/splatter-horror/",
+      "user": "elleathorrorvt",
+      "slug": "splatter-horror",
+      "title": "Splatter Horror",
+      "desc": "ElleAtHorrorVT is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by ElleAtHorrorVT",
+      "tags": []
+    }
+  ],
+  "source_list_count": 9,
+  "films_considered": 195,
+  "canonical_count": 47,
+  "films": [
+    {
+      "slug": "hostel",
+      "title": "Hostel",
+      "year": "2005",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Eli Roth"
+      ],
+      "actors": [
+        "Jay Hernandez",
+        "Derek Richardson",
+        "Eythor Gudjonsson",
+        "Barbara Nedeljakova",
+        "Jana Kaderabkova",
+        "Jennifer Lim"
+      ],
+      "countries": [
+        "USA",
+        "Czechia"
+      ],
+      "rating": 2.73,
+      "rating_count": 255842,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/5/4/50854-hostel-0-230-0-345-crop.jpg?v=a36ed6782d",
+      "url": "https://letterboxd.com/film/hostel/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "saw",
+      "title": "Saw",
+      "year": "2004",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "James Wan"
+      ],
+      "actors": [
+        "Tobin Bell",
+        "Cary Elwes",
+        "Leigh Whannell",
+        "Danny Glover",
+        "Monica Potter",
+        "Ken Leung"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 1115481,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qd/18/jq/1b/oFl8U5Mzohs6z8mL8KT4Gjoiirm-0-230-0-345-crop.jpg?v=3c58ef6252",
+      "url": "https://letterboxd.com/film/saw/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "saw-iii",
+      "title": "Saw III",
+      "year": "2006",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Darren Lynn Bousman"
+      ],
+      "actors": [
+        "Tobin Bell",
+        "Shawnee Smith",
+        "Angus Macfadyen",
+        "Bahar Soomekh",
+        "Donnie Wahlberg",
+        "Dina Meyer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.03,
+      "rating_count": 402320,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/2/51842-saw-iii-0-230-0-345-crop.jpg?v=c8721d4d0f",
+      "url": "https://letterboxd.com/film/saw-iii/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "terrifier-2016",
+      "title": "Terrifier",
+      "year": "2016",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Damien Leone"
+      ],
+      "actors": [
+        "David Howard Thornton",
+        "Jenna Kanell",
+        "Samantha Scaffidi",
+        "Catherine Corcoran",
+        "Pooya Mohseni",
+        "Matt McAllister"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.38,
+      "rating_count": 685186,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/2/5/1/354251-terrifier-0-230-0-345-crop.jpg?v=a413b49884",
+      "url": "https://letterboxd.com/film/terrifier-2016/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "terrifier-2",
+      "title": "Terrifier 2",
+      "year": "2022",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Damien Leone"
+      ],
+      "actors": [
+        "David Howard Thornton",
+        "Lauren LaVera",
+        "Elliott Fullam",
+        "Sarah Voigt",
+        "Kailey Hyman",
+        "Casey Hartnett"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.71,
+      "rating_count": 494764,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/8/9/0/7/588907-terrifier-2-0-230-0-345-crop.jpg?v=235a7cd041",
+      "url": "https://letterboxd.com/film/terrifier-2/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "wrong-turn",
+      "title": "Wrong Turn",
+      "year": "2003",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Rob Schmidt"
+      ],
+      "actors": [
+        "Eliza Dushku",
+        "Desmond Harrington",
+        "Emmanuelle Chriqui",
+        "Jeremy Sisto",
+        "Kevin Zegers",
+        "Lindy Booth"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 2.83,
+      "rating_count": 163526,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/7/3/2/46732-wrong-turn-0-230-0-345-crop.jpg?v=7a502c8055",
+      "url": "https://letterboxd.com/film/wrong-turn/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "saw-ii",
+      "title": "Saw II",
+      "year": "2005",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Darren Lynn Bousman"
+      ],
+      "actors": [
+        "Tobin Bell",
+        "Donnie Wahlberg",
+        "Shawnee Smith",
+        "Erik Knudsen",
+        "Franky G",
+        "Glenn Plummer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 542937,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/1/51841-saw-ii-0-230-0-345-crop.jpg?v=c8721d4d0f",
+      "url": "https://letterboxd.com/film/saw-ii/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "braindead-1992",
+      "title": "Braindead",
+      "year": "1992",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Timothy Balme",
+        "Diana Peñalver",
+        "Elizabeth Moody",
+        "Ian Watkin",
+        "Brenda Kendall",
+        "Stuart Devenie"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "rating": 3.94,
+      "rating_count": 131677,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/87/bo/zt/5w/auD6GTyZXrvkv8ZQIGmpJsHFJxn-0-230-0-345-crop.jpg?v=940b915d8a",
+      "url": "https://letterboxd.com/film/braindead-1992/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "i-spit-on-your-grave-2010",
+      "title": "I Spit on Your Grave",
+      "year": "2010",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Crime"
+      ],
+      "directors": [
+        "Steven R. Monroe"
+      ],
+      "actors": [
+        "Sarah Butler",
+        "Jeff Branson",
+        "Tracey Walter",
+        "Andrew Howard",
+        "Chad Lindberg",
+        "Rodney Eastman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.46,
+      "rating_count": 95785,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/2/1/3/21213-i-spit-on-your-grave-0-230-0-345-crop.jpg?v=2cfd94dbe0",
+      "url": "https://letterboxd.com/film/i-spit-on-your-grave-2010/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "martyrs",
+      "title": "Martyrs",
+      "year": "2008",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Pascal Laugier"
+      ],
+      "actors": [
+        "Morjana Alaoui",
+        "Mylène Jampanoï",
+        "Catherine Bégin",
+        "Robert Toupin",
+        "Patricia Tulasne",
+        "Juliette Gosselin"
+      ],
+      "countries": [
+        "Canada",
+        "France"
+      ],
+      "rating": 3.6,
+      "rating_count": 267453,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/6/1/47061-martyrs-0-230-0-345-crop.jpg?v=26b1166803",
+      "url": "https://letterboxd.com/film/martyrs/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "saw-iv",
+      "title": "Saw IV",
+      "year": "2007",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Darren Lynn Bousman"
+      ],
+      "actors": [
+        "Tobin Bell",
+        "Costas Mandylor",
+        "Scott Patterson",
+        "Betsy Russell",
+        "Lyriq Bent",
+        "Athena Karkanis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.78,
+      "rating_count": 304786,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/6/1/51461-saw-iv-0-230-0-345-crop.jpg?v=c2e8bb60bf",
+      "url": "https://letterboxd.com/film/saw-iv/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "ichi-the-killer",
+      "title": "Ichi the Killer",
+      "year": "2001",
+      "genres": [
+        "Horror",
+        "Crime",
+        "Action"
+      ],
+      "directors": [
+        "Takashi Miike"
+      ],
+      "actors": [
+        "Tadanobu Asano",
+        "Nao Omori",
+        "Shinya Tsukamoto",
+        "SABU",
+        "Paulyn Sun",
+        "Susumu Terajima"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.62,
+      "rating_count": 137446,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/9/0/8/46908-ichi-the-killer-0-230-0-345-crop.jpg?v=05cf96b1d5",
+      "url": "https://letterboxd.com/film/ichi-the-killer/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-evil-dead",
+      "title": "The Evil Dead",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Sam Raimi"
+      ],
+      "actors": [
+        "Bruce Campbell",
+        "Ellen Sandweiss",
+        "Richard DeManincor",
+        "Betsy Baker",
+        "Theresa Tilly",
+        "Philip A. Gillis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.65,
+      "rating_count": 561532,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/c7/4g/ae/zn/7cpSdCrBY7UhiygkcP57dpixXsW-0-230-0-345-crop.jpg?v=1525e98692",
+      "url": "https://letterboxd.com/film/the-evil-dead/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "inside-2007",
+      "title": "Inside",
+      "year": "2007",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Julien Maury",
+        "Alexandre Bustillo"
+      ],
+      "actors": [
+        "Alysson Paradis",
+        "Béatrice Dalle",
+        "Nathalie Roussel",
+        "François-Régis Marchasson",
+        "Jean-Baptiste Tabourin",
+        "Dominique Frot"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.44,
+      "rating_count": 67924,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/9/8/7/43987-inside-0-230-0-345-crop.jpg?v=18788ef2db",
+      "url": "https://letterboxd.com/film/inside-2007/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "hostel-part-ii",
+      "title": "Hostel: Part II",
+      "year": "2007",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Eli Roth"
+      ],
+      "actors": [
+        "Lauren German",
+        "Heather Matarazzo",
+        "Bijou Phillips",
+        "Vera Jordanova",
+        "Jay Hernandez",
+        "Roger Bart"
+      ],
+      "countries": [
+        "USA",
+        "Czechia"
+      ],
+      "rating": 2.73,
+      "rating_count": 94153,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/5/3/50853-hostel-part-ii-0-230-0-345-crop.jpg?v=8894b971c6",
+      "url": "https://letterboxd.com/film/hostel-part-ii/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "saw-vi",
+      "title": "Saw VI",
+      "year": "2009",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Kevin Greutert"
+      ],
+      "actors": [
+        "Tobin Bell",
+        "Costas Mandylor",
+        "Mark Rolston",
+        "Betsy Russell",
+        "Shawnee Smith",
+        "Peter Outerbridge"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.94,
+      "rating_count": 238022,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/6/8/7/37687-saw-vi-0-230-0-345-crop.jpg?v=93b5f6dceb",
+      "url": "https://letterboxd.com/film/saw-vi/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-hills-have-eyes-2006",
+      "title": "The Hills Have Eyes",
+      "year": "2006",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Alexandre Aja"
+      ],
+      "actors": [
+        "Aaron Stanford",
+        "Dan Byrd",
+        "Emilie de Ravin",
+        "Vinessa Shaw",
+        "Ted Levine",
+        "Kathleen Quinlan"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 2.99,
+      "rating_count": 165926,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/8/2/0/46820-the-hills-have-eyes-0-230-0-345-crop.jpg?v=31498604fb",
+      "url": "https://letterboxd.com/film/the-hills-have-eyes-2006/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "tucker-and-dale-vs-evil",
+      "title": "Tucker and Dale vs. Evil",
+      "year": "2010",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Eli Craig"
+      ],
+      "actors": [
+        "Tyler Labine",
+        "Alan Tudyk",
+        "Katrina Bowden",
+        "Jesse Moss",
+        "Philip Granger",
+        "Brandon Jay McLaren"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 207577,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ev/9g/mu/qp/lNaivZXcad1bXDoptUzV3PQ2Ms0-0-230-0-345-crop.jpg?v=a229fef0ed",
+      "url": "https://letterboxd.com/film/tucker-and-dale-vs-evil/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "ready-or-not-2019",
+      "title": "Ready or Not",
+      "year": "2019",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Matt Bettinelli-Olpin",
+        "Tyler Gillett"
+      ],
+      "actors": [
+        "Samara Weaving",
+        "Mark O'Brien",
+        "Adam Brody",
+        "Henry Czerny",
+        "Andie MacDowell",
+        "Melanie Scrofano"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.5,
+      "rating_count": 1242794,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/5/9/6/9/495969-ready-or-not-0-230-0-345-crop.jpg?v=13279f6ca8",
+      "url": "https://letterboxd.com/film/ready-or-not-2019/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "hatchet",
+      "title": "Hatchet",
+      "year": "2006",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Adam Green"
+      ],
+      "actors": [
+        "Joel David Moore",
+        "Amara Zaragoza",
+        "Deon Richmond",
+        "Kane Hodder",
+        "Joleigh Fioravanti",
+        "Mercedes McNab"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 42098,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/8/9/8/44898-hatchet-0-230-0-345-crop.jpg?v=9c355d6caf",
+      "url": "https://letterboxd.com/film/hatchet/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "saw-x",
+      "title": "Saw X",
+      "year": "2023",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Kevin Greutert"
+      ],
+      "actors": [
+        "Tobin Bell",
+        "Shawnee Smith",
+        "Synnøve Macody Lund",
+        "Steven Brand",
+        "Renata Vaca",
+        "Joshua Okamoto"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.24,
+      "rating_count": 447674,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/6/0/3/6/856036-saw-x-0-230-0-345-crop.jpg?v=d30236e00f",
+      "url": "https://letterboxd.com/film/saw-x/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "spiral-from-the-book-of-saw",
+      "title": "Spiral: From the Book of Saw",
+      "year": "2021",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Darren Lynn Bousman"
+      ],
+      "actors": [
+        "Chris Rock",
+        "Samuel L. Jackson",
+        "Max Minghella",
+        "Marisol Nichols",
+        "Dan Petronijevic",
+        "Richard Zeppieri"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.05,
+      "rating_count": 212273,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/0/0/7/1/530071-spiral-from-the-book-of-saw-0-230-0-345-crop.jpg?v=d837c5993c",
+      "url": "https://letterboxd.com/film/spiral-from-the-book-of-saw/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "tokyo-gore-police",
+      "title": "Tokyo Gore Police",
+      "year": "2008",
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Action"
+      ],
+      "directors": [
+        "Yoshihiro Nishimura"
+      ],
+      "actors": [
+        "Eihi Shiina",
+        "Itsuji Itao",
+        "Yukihide Benny",
+        "Jiji Bû",
+        "Ikuko Sawada",
+        "Cay Izumi"
+      ],
+      "countries": [
+        "Japan",
+        "USA"
+      ],
+      "rating": 3.38,
+      "rating_count": 26759,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/8/6/5/41865-tokyo-gore-police-0-230-0-345-crop.jpg?v=23c19bf599",
+      "url": "https://letterboxd.com/film/tokyo-gore-police/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "evil-dead",
+      "title": "Evil Dead",
+      "year": "2013",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Fede Álvarez"
+      ],
+      "actors": [
+        "Jane Levy",
+        "Shiloh Fernandez",
+        "Lou Taylor Pucci",
+        "Jessica Lucas",
+        "Elizabeth Blackmore",
+        "Phoenix Connolly"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 413785,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/he/wz/f9/h1/6gtHgAxgemVd3pIQlbg4YoniqEY-0-230-0-345-crop.jpg?v=c86fe09a93",
+      "url": "https://letterboxd.com/film/evil-dead/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "high-tension",
+      "title": "High Tension",
+      "year": "2003",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Alexandre Aja"
+      ],
+      "actors": [
+        "Cécile de France",
+        "Maïwenn",
+        "Philippe Nahon",
+        "Andrei Finti",
+        "Oana Pellea",
+        "Marco Claudiu Pascu"
+      ],
+      "countries": [
+        "France",
+        "Romania"
+      ],
+      "rating": 3.24,
+      "rating_count": 78875,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/2/5/46425-high-tension-0-230-0-345-crop.jpg?v=43a80a20fa",
+      "url": "https://letterboxd.com/film/high-tension/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "cabin-fever",
+      "title": "Cabin Fever",
+      "year": "2002",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Eli Roth"
+      ],
+      "actors": [
+        "Rider Strong",
+        "Jordan Ladd",
+        "Cerina Vincent",
+        "Giuseppe Andrews",
+        "James DeBello",
+        "Eli Roth"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.73,
+      "rating_count": 94683,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/0/1/45201-cabin-fever-0-230-0-345-crop.jpg?v=bfa6895bfd",
+      "url": "https://letterboxd.com/film/cabin-fever/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bone-tomahawk",
+      "title": "Bone Tomahawk",
+      "year": "2015",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Western"
+      ],
+      "directors": [
+        "S. Craig Zahler"
+      ],
+      "actors": [
+        "Kurt Russell",
+        "Patrick Wilson",
+        "Richard Jenkins",
+        "Matthew Fox",
+        "Lili Simmons",
+        "David Arquette"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.62,
+      "rating_count": 197003,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/2/2/9/8/222298-bone-tomahawk-0-230-0-345-crop.jpg?v=de275d2399",
+      "url": "https://letterboxd.com/film/bone-tomahawk/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-thing",
+      "title": "The Thing",
+      "year": "1982",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "actors": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.35,
+      "rating_count": 1261701,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/t3/qn/vs/p5/s5fH3GqFcHbi2F0NSBSh4KRNTc0-0-230-0-345-crop.jpg?v=01880125bb",
+      "url": "https://letterboxd.com/film/the-thing/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "maniac-2012",
+      "title": "Maniac",
+      "year": "2012",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Franck Khalfoun"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Nora Arnezeder",
+        "America Olivo",
+        "Zoe Aggeliki",
+        "Jan Broberg",
+        "Joshua De La Garza"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 3.17,
+      "rating_count": 45518,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/0/1/9/84019-maniac-2012-0-230-0-345-crop.jpg?v=6db08172f6",
+      "url": "https://letterboxd.com/film/maniac-2012/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "house-of-1000-corpses",
+      "title": "House of 1000 Corpses",
+      "year": "2003",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Rob Zombie"
+      ],
+      "actors": [
+        "Sid Haig",
+        "Bill Moseley",
+        "Sheri Moon Zombie",
+        "Karen Black",
+        "Erin Daniels",
+        "Chris Hardwick"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.22,
+      "rating_count": 207401,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/6/2/50162-house-of-1000-corpses-0-230-0-345-crop.jpg?v=5bce1273ef",
+      "url": "https://letterboxd.com/film/house-of-1000-corpses/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-devils-rejects",
+      "title": "The Devil's Rejects",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Crime"
+      ],
+      "directors": [
+        "Rob Zombie"
+      ],
+      "actors": [
+        "Sid Haig",
+        "Bill Moseley",
+        "Sheri Moon Zombie",
+        "William Forsythe",
+        "Ken Foree",
+        "Matthew McGrory"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.37,
+      "rating_count": 103559,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/5/0/50850-the-devil-s-rejects-0-230-0-345-crop.jpg?v=990c37918c",
+      "url": "https://letterboxd.com/film/the-devils-rejects/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "evil-dead-ii",
+      "title": "Evil Dead II",
+      "year": "1987",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "Sam Raimi"
+      ],
+      "actors": [
+        "Bruce Campbell",
+        "Sarah Berry",
+        "Dan Hicks",
+        "Kassie DePaiva",
+        "Ted Raimi",
+        "Denise Bixler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 433127,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/p9/tg/s4/ca/dxbIRmIo0rN5R6WGvxnJuUJPh3t-0-230-0-345-crop.jpg?v=12b2d3f8b3",
+      "url": "https://letterboxd.com/film/evil-dead-ii/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-collector-2009",
+      "title": "The Collector",
+      "year": "2009",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Marcus Dunstan"
+      ],
+      "actors": [
+        "Josh Stewart",
+        "Juan Fernández",
+        "Michael Reilly Burke",
+        "Madeline Zima",
+        "Andrea Roth",
+        "Karley Scott Collins"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.02,
+      "rating_count": 92058,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/4/2/8/38428-the-collector-0-230-0-345-crop.jpg?v=98e3a94366",
+      "url": "https://letterboxd.com/film/the-collector-2009/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "zombie-flesh-eaters",
+      "title": "Zombie Flesh Eaters",
+      "year": "1979",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Tisa Farrow",
+        "Ian McCulloch",
+        "Richard Johnson",
+        "Olga Karlatos",
+        "Al Cliver",
+        "Auretta Gay"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.58,
+      "rating_count": 54423,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/0/9/6/48096-zombie-flesh-eaters-0-230-0-345-crop.jpg?v=1e512e68f4",
+      "url": "https://letterboxd.com/film/zombie-flesh-eaters/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "malignant-2021",
+      "title": "Malignant",
+      "year": "2021",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "James Wan"
+      ],
+      "actors": [
+        "Annabelle Wallis",
+        "Maddie Hasson",
+        "George Young",
+        "Michole Briana White",
+        "Susanna Thompson",
+        "Ingrid Bisu"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.07,
+      "rating_count": 466615,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/6/3/4/8/546348-malignant-0-230-0-345-crop.jpg?v=11e0d82f5d",
+      "url": "https://letterboxd.com/film/malignant-2021/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-house-that-jack-built-2018",
+      "title": "The House That Jack Built",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Lars von Trier"
+      ],
+      "actors": [
+        "Matt Dillon",
+        "Bruno Ganz",
+        "Uma Thurman",
+        "Siobhan Fallon Hogan",
+        "Sofie Gråbøl",
+        "Riley Keough"
+      ],
+      "countries": [
+        "Denmark",
+        "France",
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 3.62,
+      "rating_count": 369743,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/2/4/3/2/332432-the-house-that-jack-built-0-230-0-345-crop.jpg?v=874acb1dbc",
+      "url": "https://letterboxd.com/film/the-house-that-jack-built-2018/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "final-destination-2",
+      "title": "Final Destination 2",
+      "year": "2003",
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "David R. Ellis"
+      ],
+      "actors": [
+        "Ali Larter",
+        "A.J. Cook",
+        "Michael Landes",
+        "David Paetkau",
+        "James Kirk",
+        "Lynda Boyd"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.96,
+      "rating_count": 566417,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/eh/sw/9a/g8/8joRaZ3wfcqIePImFJpgypQ71Jp-0-230-0-345-crop.jpg?v=4a3ad26442",
+      "url": "https://letterboxd.com/film/final-destination-2/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "train-to-busan",
+      "title": "Train to Busan",
+      "year": "2016",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Yeon Sang-ho"
+      ],
+      "actors": [
+        "Gong Yoo",
+        "Kim Su-an",
+        "Jung Yu-mi",
+        "Don Lee",
+        "Choi Woo-shik",
+        "An So-hee"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 3.98,
+      "rating_count": 1167797,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/0/9/1/2/330912-train-to-busan-0-230-0-345-crop.jpg?v=c85e151cfe",
+      "url": "https://letterboxd.com/film/train-to-busan/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mandy-2018",
+      "title": "Mandy",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Action"
+      ],
+      "directors": [
+        "Panos Cosmatos"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Andrea Riseborough",
+        "Linus Roache",
+        "Ned Dennehy",
+        "Olwen Fouéré",
+        "Richard Brake"
+      ],
+      "countries": [
+        "Belgium",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 290097,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/2/6/5/4/392654-mandy-0-230-0-345-crop.jpg?v=cf29f00f84",
+      "url": "https://letterboxd.com/film/mandy-2018/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "evil-dead-rise",
+      "title": "Evil Dead Rise",
+      "year": "2023",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Lee Cronin"
+      ],
+      "actors": [
+        "Lily Sullivan",
+        "Alyssa Sutherland",
+        "Morgan Davies",
+        "Gabrielle Echols",
+        "Nell Fisher",
+        "Mark Mitchinson"
+      ],
+      "countries": [
+        "New Zealand",
+        "Ireland",
+        "USA"
+      ],
+      "rating": 3.14,
+      "rating_count": 810404,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/6/7/6/1/636761-evil-dead-rise-0-230-0-345-crop.jpg?v=51a7fe0b29",
+      "url": "https://letterboxd.com/film/evil-dead-rise/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "terrifier-3",
+      "title": "Terrifier 3",
+      "year": "2024",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Damien Leone"
+      ],
+      "actors": [
+        "Lauren LaVera",
+        "David Howard Thornton",
+        "Samantha Scaffidi",
+        "Elliott Fullam",
+        "Margaret Anne Florence",
+        "Bryce Johnson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 439342,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/3/2/7/3/9/932739-terrifier-3-0-230-0-345-crop.jpg?v=6c46b036d1",
+      "url": "https://letterboxd.com/film/terrifier-3/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-texas-chain-saw-massacre",
+      "title": "The Texas Chain Saw Massacre",
+      "year": "1974",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Tobe Hooper"
+      ],
+      "actors": [
+        "Marilyn Burns",
+        "Allen Danziger",
+        "Paul A. Partain",
+        "William Vail",
+        "Teri McMinn",
+        "Edwin Neal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 907941,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/8/5/31985-the-texas-chain-saw-massacre-0-230-0-345-crop.jpg?v=c63b3f1958",
+      "url": "https://letterboxd.com/film/the-texas-chain-saw-massacre/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "texas-chainsaw-massacre",
+      "title": "Texas Chainsaw Massacre",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Horror"
+      ],
+      "directors": [
+        "David Blue Garcia"
+      ],
+      "actors": [
+        "Sarah Yarkin",
+        "Elsie Fisher",
+        "Mark Burnham",
+        "Jacob Latimore",
+        "Moe Dunford",
+        "Olwen Fouéré"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 1.86,
+      "rating_count": 302449,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/9/5/6/558956-texas-chainsaw-massacre-0-230-0-345-crop.jpg?v=55135bba7f",
+      "url": "https://letterboxd.com/film/texas-chainsaw-massacre/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-texas-chainsaw-massacre",
+      "title": "The Texas Chainsaw Massacre",
+      "year": "2003",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Marcus Nispel"
+      ],
+      "actors": [
+        "Jessica Biel",
+        "Jonathan Tucker",
+        "Andrew Bryniarski",
+        "Erica Leerhsen",
+        "Eric Balfour",
+        "Mike Vogel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.07,
+      "rating_count": 162402,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/2/2/47222-the-texas-chainsaw-massacre-0-230-0-345-crop.jpg?v=1c3a6203e1",
+      "url": "https://letterboxd.com/film/the-texas-chainsaw-massacre/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-final-destination",
+      "title": "The Final Destination",
+      "year": "2009",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "David R. Ellis"
+      ],
+      "actors": [
+        "Bobby Campo",
+        "Shantel VanSanten",
+        "Nick Zano",
+        "Haley Webb",
+        "Mykelti Williamson",
+        "Krista Allen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.09,
+      "rating_count": 406743,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dm/oa/gw/qk/qQ6IvrEDe5OutlYs1xRQby9gcZE-0-230-0-345-crop.jpg?v=2b994df6a2",
+      "url": "https://letterboxd.com/film/the-final-destination/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "audition",
+      "title": "Audition",
+      "year": "1999",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Takashi Miike"
+      ],
+      "actors": [
+        "Ryo Ishibashi",
+        "Eihi Shiina",
+        "Jun Kunimura",
+        "Tetsu Sawaki",
+        "Renji Ishibashi",
+        "Miyuki Matsuda"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.8,
+      "rating_count": 275759,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/d4/v1/sb/mo/uhfPMv88ccK5EfeMCHGgz2EiSSL-0-230-0-345-crop.jpg?v=15541a80bd",
+      "url": "https://letterboxd.com/film/audition/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-loved-ones",
+      "title": "The Loved Ones",
+      "year": "2009",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Sean Byrne"
+      ],
+      "actors": [
+        "Xavier Samuel",
+        "Robin McLeavy",
+        "John Brumpton",
+        "Richard Wilson",
+        "Victoria Thaine",
+        "Jessica McNamee"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "rating": 3.34,
+      "rating_count": 65061,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kz/v3/jv/pt/fJXQRtkMKAAmnEYDPaZ4BtsAhL3-0-230-0-345-crop.jpg?v=7eef5c3786",
+      "url": "https://letterboxd.com/film/the-loved-ones/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Horror": 47,
+      "Thriller": 13,
+      "Crime": 8,
+      "Mystery": 8,
+      "Drama": 6,
+      "Comedy": 5,
+      "Action": 4,
+      "Science Fiction": 2,
+      "Fantasy": 2,
+      "Western": 1,
+      "Adventure": 1
+    },
+    "directors": {
+      "Darren Lynn Bousman": 4,
+      "Eli Roth": 3,
+      "Damien Leone": 3,
+      "James Wan": 2,
+      "Takashi Miike": 2,
+      "Sam Raimi": 2,
+      "Kevin Greutert": 2,
+      "Alexandre Aja": 2,
+      "Rob Zombie": 2,
+      "David R. Ellis": 2,
+      "Rob Schmidt": 1,
+      "Peter Jackson": 1,
+      "Steven R. Monroe": 1,
+      "Pascal Laugier": 1,
+      "Julien Maury": 1,
+      "Alexandre Bustillo": 1,
+      "Eli Craig": 1,
+      "Matt Bettinelli-Olpin": 1,
+      "Tyler Gillett": 1,
+      "Adam Green": 1
+    },
+    "years": {
+      "1974": 1,
+      "1979": 1,
+      "1981": 1,
+      "1982": 1,
+      "1987": 1,
+      "1992": 1,
+      "1999": 1,
+      "2001": 1,
+      "2002": 1,
+      "2003": 5,
+      "2004": 1,
+      "2005": 3,
+      "2006": 3,
+      "2007": 3,
+      "2008": 2,
+      "2009": 4,
+      "2010": 2,
+      "2012": 1,
+      "2013": 1,
+      "2015": 1,
+      "2016": 2,
+      "2018": 2,
+      "2019": 1,
+      "2021": 2,
+      "2022": 2,
+      "2023": 2,
+      "2024": 1
+    }
+  }
+}

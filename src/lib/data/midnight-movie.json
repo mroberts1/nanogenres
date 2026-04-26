@@ -1,0 +1,1234 @@
+{
+  "query": "midnight movie",
+  "slug": "midnight-movie",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/doctor_hooligan/list/midnight-movie/",
+      "user": "doctor_hooligan",
+      "slug": "midnight-movie",
+      "title": "Midnight Movie",
+      "desc": "Noah is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Noah Vasseur PATRON",
+      "tags": [
+        "profile"
+      ]
+    },
+    {
+      "href": "/nightfiend/list/midnight-movie/",
+      "user": "nightfiend",
+      "slug": "midnight-movie",
+      "title": "MIDNIGHT MOVIE",
+      "desc": "𝐍𝐈𝐆𝐇𝐓 𝐅𝐈𝐄𝐍𝐃 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by 𝐍𝐈𝐆𝐇𝐓 𝐅𝐈𝐄𝐍𝐃 PRO",
+      "tags": [
+        "profile"
+      ]
+    },
+    {
+      "href": "/winiblob/list/midnight-movie/",
+      "user": "winiblob",
+      "slug": "midnight-movie",
+      "title": "Midnight Movie",
+      "desc": "Marco is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Marco Pini PRO",
+      "tags": []
+    },
+    {
+      "href": "/co_gat/list/midnight-movie/",
+      "user": "co_gat",
+      "slug": "midnight-movie",
+      "title": "Midnight movie",
+      "desc": "Co_Gat is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Co_Gat",
+      "tags": []
+    },
+    {
+      "href": "/bkloesel/list/midnight-movie/",
+      "user": "bkloesel",
+      "slug": "midnight-movie",
+      "title": "Midnight Movie",
+      "desc": "Fun as hell B-Level Horror movies",
+      "owner": "List by bkloesel",
+      "tags": []
+    },
+    {
+      "href": "/ramzimalek/list/midnight-movie/",
+      "user": "ramzimalek",
+      "slug": "midnight-movie",
+      "title": "Midnight Movie",
+      "desc": "RamziMalek is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by RamziMalek",
+      "tags": []
+    },
+    {
+      "href": "/jpotestivo/list/midnight-movie/",
+      "user": "jpotestivo",
+      "slug": "midnight-movie",
+      "title": "Midnight Movie",
+      "desc": "A family tradition of 3 generations of dads rousing their sons at midnight for sleepy-headed dreamlike movie experiences.",
+      "owner": "List by Joe Potestivo PRO",
+      "tags": []
+    },
+    {
+      "href": "/wiwitaek/list/midnight-movie/",
+      "user": "wiwitaek",
+      "slug": "midnight-movie",
+      "title": "Midnight Movie",
+      "desc": "Several films that is good to watch by midnight as we drift between reality and dreams after all day of work.",
+      "owner": "List by wiwitaek",
+      "tags": [
+        "favorite"
+      ]
+    }
+  ],
+  "source_list_count": 8,
+  "films_considered": 802,
+  "canonical_count": 37,
+  "films": [
+    {
+      "slug": "re-animator",
+      "title": "Re-Animator",
+      "year": "1985",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Stuart Gordon"
+      ],
+      "actors": [
+        "Jeffrey Combs",
+        "Bruce Abbott",
+        "Barbara Crampton",
+        "David Gale",
+        "Robert Sampson",
+        "Carolyn Purdy-Gordon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 181579,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/wd/b8/27/m3/hJnP2O0uTuh8HsR094WLTi3sQwc-0-230-0-345-crop.jpg?v=229c35a394",
+      "url": "https://letterboxd.com/film/re-animator/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "basket-case",
+      "title": "Basket Case",
+      "year": "1982",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Frank Henenlotter"
+      ],
+      "actors": [
+        "Kevin Van Hentenryck",
+        "Terri Susan Smith",
+        "Beverly Bonner",
+        "Robert Vogel",
+        "Diana Browne",
+        "Lloyd Pace"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.24,
+      "rating_count": 55932,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/1/8/1/34181-basket-case-0-230-0-345-crop.jpg?v=93b3c9a245",
+      "url": "https://letterboxd.com/film/basket-case/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "time-bandits",
+      "title": "Time Bandits",
+      "year": "1981",
+      "genres": [
+        "Family",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "actors": [
+        "Craig Warnock",
+        "David Rappaport",
+        "Kenny Baker",
+        "Mike Edmonds",
+        "Malcolm Dixon",
+        "Tiny Ross"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.54,
+      "rating_count": 77706,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/5/8/2/27582-time-bandits-0-230-0-345-crop.jpg?v=0de6454b3b",
+      "url": "https://letterboxd.com/film/time-bandits/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "psycho",
+      "title": "Psycho",
+      "year": "1960",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "actors": [
+        "Anthony Perkins",
+        "Janet Leigh",
+        "Vera Miles",
+        "John Gavin",
+        "Martin Balsam",
+        "John McIntire"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.31,
+      "rating_count": 1338608,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/8/51578-psycho-0-230-0-345-crop.jpg?v=7250c49dcd",
+      "url": "https://letterboxd.com/film/psycho/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "donnie-darko",
+      "title": "Donnie Darko",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "directors": [
+        "Richard Kelly"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Jena Malone",
+        "James Duval",
+        "Drew Barrymore",
+        "Beth Grant",
+        "Maggie Gyllenhaal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 2262624,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ye/jq/f3/22/nmb4QhCRmdfNP6rgb81yUFgI83l-0-230-0-345-crop.jpg?v=caa3999c6f",
+      "url": "https://letterboxd.com/film/donnie-darko/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "deep-red",
+      "title": "Deep Red",
+      "year": "1975",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "David Hemmings",
+        "Daria Nicolodi",
+        "Gabriele Lavia",
+        "Macha Méril",
+        "Eros Pagni",
+        "Giuliana Calandra"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.92,
+      "rating_count": 127832,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/37/4z/4w/cc/rSHs6nsCw6vJwgz9djlAp4g3NCN-0-230-0-345-crop.jpg?v=f93ceb8e5b",
+      "url": "https://letterboxd.com/film/deep-red/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "audition",
+      "title": "Audition",
+      "year": "1999",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Takashi Miike"
+      ],
+      "actors": [
+        "Ryo Ishibashi",
+        "Eihi Shiina",
+        "Jun Kunimura",
+        "Tetsu Sawaki",
+        "Renji Ishibashi",
+        "Miyuki Matsuda"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.8,
+      "rating_count": 275729,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/d4/v1/sb/mo/uhfPMv88ccK5EfeMCHGgz2EiSSL-0-230-0-345-crop.jpg?v=15541a80bd",
+      "url": "https://letterboxd.com/film/audition/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Naomi Watts",
+        "Laura Harring",
+        "Justin Theroux",
+        "Ann Miller",
+        "Mark Pellegrino",
+        "Robert Forster"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.26,
+      "rating_count": 1222890,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-230-0-345-crop.jpg?v=3d69c00608",
+      "url": "https://letterboxd.com/film/mulholland-drive/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "blood-and-black-lace",
+      "title": "Blood and Black Lace",
+      "year": "1964",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Mario Bava"
+      ],
+      "actors": [
+        "Cameron Mitchell",
+        "Eva Bartok",
+        "Thomas Reiner",
+        "Ariana Gorini",
+        "Dante DiPaolo",
+        "Mary Arden"
+      ],
+      "countries": [
+        "Germany",
+        "France",
+        "Italy"
+      ],
+      "rating": 3.72,
+      "rating_count": 57048,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/9/6/5/33965-blood-and-black-lace-0-230-0-345-crop.jpg?v=4e6a74dca9",
+      "url": "https://letterboxd.com/film/blood-and-black-lace/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "carnival-of-souls",
+      "title": "Carnival of Souls",
+      "year": "1962",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Mystery"
+      ],
+      "directors": [
+        "Herk Harvey"
+      ],
+      "actors": [
+        "Candace Hilligoss",
+        "Herk Harvey",
+        "Sidney Berger",
+        "Frances Feist",
+        "Art Ellison",
+        "Stan Levitt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 95212,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
+      "url": "https://letterboxd.com/film/carnival-of-souls/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "brick",
+      "title": "Brick",
+      "year": "2005",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Rian Johnson"
+      ],
+      "actors": [
+        "Joseph Gordon-Levitt",
+        "Nora Zehetner",
+        "Matt O'Leary",
+        "Noah Fleiss",
+        "Lukas Haas",
+        "Meagan Good"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 143111,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/2/2/47322-brick-0-230-0-345-crop.jpg?v=de1c77ff6b",
+      "url": "https://letterboxd.com/film/brick/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "x-2022",
+      "title": "X",
+      "year": "2022",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Ti West"
+      ],
+      "actors": [
+        "Mia Goth",
+        "Jenna Ortega",
+        "Brittany Snow",
+        "Kid Cudi",
+        "Martin Henderson",
+        "Owen Campbell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 1677924,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/0/3/5/8/680358-x-0-230-0-345-crop.jpg?v=8ba5e11abf",
+      "url": "https://letterboxd.com/film/x-2022/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "evil-dead-ii",
+      "title": "Evil Dead II",
+      "year": "1987",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "Sam Raimi"
+      ],
+      "actors": [
+        "Bruce Campbell",
+        "Sarah Berry",
+        "Dan Hicks",
+        "Kassie DePaiva",
+        "Ted Raimi",
+        "Denise Bixler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 433095,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/p9/tg/s4/ca/dxbIRmIo0rN5R6WGvxnJuUJPh3t-0-230-0-345-crop.jpg?v=12b2d3f8b3",
+      "url": "https://letterboxd.com/film/evil-dead-ii/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-thing",
+      "title": "The Thing",
+      "year": "1982",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "actors": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Keith David",
+        "Richard Dysart"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.35,
+      "rating_count": 1261517,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/t3/qn/vs/p5/s5fH3GqFcHbi2F0NSBSh4KRNTc0-0-230-0-345-crop.jpg?v=01880125bb",
+      "url": "https://letterboxd.com/film/the-thing/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "castle-freak",
+      "title": "Castle Freak",
+      "year": "1995",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Stuart Gordon"
+      ],
+      "actors": [
+        "Jeffrey Combs",
+        "Barbara Crampton",
+        "Jonathan Fuller",
+        "Jessica Dollarhide",
+        "Massimo Sarchielli",
+        "Elisabeth Kaza"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.11,
+      "rating_count": 24186,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/6/9/40469-castle-freak-0-230-0-345-crop.jpg?v=542ba2e861",
+      "url": "https://letterboxd.com/film/castle-freak/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "from-beyond",
+      "title": "From Beyond",
+      "year": "1986",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Stuart Gordon"
+      ],
+      "actors": [
+        "Jeffrey Combs",
+        "Barbara Crampton",
+        "Ken Foree",
+        "Ted Sorel",
+        "Carolyn Purdy-Gordon",
+        "Bunny Summers"
+      ],
+      "countries": [
+        "USA",
+        "Italy"
+      ],
+      "rating": 3.51,
+      "rating_count": 74342,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/0/3/6/43036-from-beyond-0-230-0-345-crop.jpg?v=1c81cab104",
+      "url": "https://letterboxd.com/film/from-beyond/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "happy-birthday-to-me",
+      "title": "Happy Birthday to Me",
+      "year": "1981",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "J. Lee Thompson"
+      ],
+      "actors": [
+        "Melissa Sue Anderson",
+        "Glenn Ford",
+        "Lawrence Dane",
+        "Sharon Acker",
+        "Frances Hyland",
+        "Tracey E. Bregman"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.06,
+      "rating_count": 19562,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/5/8/5/26585-happy-birthday-to-me-0-230-0-345-crop.jpg?v=cc33876856",
+      "url": "https://letterboxd.com/film/happy-birthday-to-me/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "after-hours",
+      "title": "After Hours",
+      "year": "1985",
+      "genres": [
+        "Thriller",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Griffin Dunne",
+        "Rosanna Arquette",
+        "Verna Bloom",
+        "Tommy Chong",
+        "Linda Fiorentino",
+        "Teri Garr"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.13,
+      "rating_count": 469406,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2z/7c/vx/lo/qpr5tRmvyx4rbv1gKMKbW1v5JUC-0-230-0-345-crop.jpg?v=3f65cdcb25",
+      "url": "https://letterboxd.com/film/after-hours/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "suspiria",
+      "title": "Suspiria",
+      "year": "1977",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Jessica Harper",
+        "Stefania Casini",
+        "Flavio Bucci",
+        "Miguel Bosé",
+        "Barbara Magnolfi",
+        "Susanna Javicoli"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.92,
+      "rating_count": 551397,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-230-0-345-crop.jpg?v=d1fbb1d377",
+      "url": "https://letterboxd.com/film/suspiria/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "night-of-the-comet",
+      "title": "Night of the Comet",
+      "year": "1984",
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Thom Eberhardt"
+      ],
+      "actors": [
+        "Catherine Mary Stewart",
+        "Robert Beltran",
+        "Kelli Maroney",
+        "Sharon Farrell",
+        "Mary Woronov",
+        "Geoffrey Lewis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.28,
+      "rating_count": 39271,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/3/2/8/40328-night-of-the-comet-0-230-0-345-crop.jpg?v=d187bc1663",
+      "url": "https://letterboxd.com/film/night-of-the-comet/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-house-by-the-cemetery",
+      "title": "The House by the Cemetery",
+      "year": "1981",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Catriona MacColl",
+        "Paolo Malco",
+        "Ania Pieroni",
+        "Giovanni Frezza",
+        "Silvia Collatina",
+        "Dagmar Lassander"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.24,
+      "rating_count": 31935,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/6/4/33364-the-house-by-the-cemetery-0-230-0-345-crop.jpg?v=d0efeaeb9b",
+      "url": "https://letterboxd.com/film/the-house-by-the-cemetery/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "only-lovers-left-alive",
+      "title": "Only Lovers Left Alive",
+      "year": "2013",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "directors": [
+        "Jim Jarmusch"
+      ],
+      "actors": [
+        "Tilda Swinton",
+        "Tom Hiddleston",
+        "Anton Yelchin",
+        "Mia Wasikowska",
+        "Jeffrey Wright",
+        "Slimane Dazi"
+      ],
+      "countries": [
+        "UK",
+        "Germany",
+        "France",
+        "Greece"
+      ],
+      "rating": 3.81,
+      "rating_count": 231874,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/5/6/3/114563-only-lovers-left-alive-0-230-0-345-crop.jpg?v=d6151d5d18",
+      "url": "https://letterboxd.com/film/only-lovers-left-alive/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "night-on-earth",
+      "title": "Night on Earth",
+      "year": "1991",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Jim Jarmusch"
+      ],
+      "actors": [
+        "Winona Ryder",
+        "Gena Rowlands",
+        "Giancarlo Esposito",
+        "Armin Mueller-Stahl",
+        "Rosie Perez",
+        "Isaach de Bankolé"
+      ],
+      "countries": [
+        "USA",
+        "Japan",
+        "France",
+        "Germany",
+        "UK"
+      ],
+      "rating": 4,
+      "rating_count": 131054,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/3/51723-night-on-earth-0-230-0-345-crop.jpg?v=b2c1cfb249",
+      "url": "https://letterboxd.com/film/night-on-earth/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "in-the-mood-for-love",
+      "title": "In the Mood for Love",
+      "year": "2000",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Wong Kar-Wai"
+      ],
+      "actors": [
+        "Maggie Cheung",
+        "Tony Leung Chiu-wai",
+        "Siu Ping-Lam",
+        "Rebecca Pan",
+        "Kelly Lai Chen",
+        "Joe Cheung Tung-Cho"
+      ],
+      "countries": [
+        "Hong Kong",
+        "France"
+      ],
+      "rating": 4.38,
+      "rating_count": 968751,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g1/7l/2j/qk/tSRdvZY1waXrTeMqeLBmq9IRs08-0-230-0-345-crop.jpg?v=938633fc19",
+      "url": "https://letterboxd.com/film/in-the-mood-for-love/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "crash",
+      "title": "Crash",
+      "year": "1996",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "David Cronenberg"
+      ],
+      "actors": [
+        "James Spader",
+        "Holly Hunter",
+        "Elias Koteas",
+        "Deborah Kara Unger",
+        "Rosanna Arquette",
+        "Peter MacNeill"
+      ],
+      "countries": [
+        "Canada",
+        "UK"
+      ],
+      "rating": 3.65,
+      "rating_count": 266759,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/6/8/51268-crash-0-230-0-345-crop.jpg?v=b67a17e4ec",
+      "url": "https://letterboxd.com/film/crash/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-exterminating-angel",
+      "title": "The Exterminating Angel",
+      "year": "1962",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Luis Buñuel"
+      ],
+      "actors": [
+        "Silvia Pinal",
+        "Jacqueline Andere",
+        "Claudio Brook",
+        "Enrique Rambal",
+        "José Baviera",
+        "Augusto Benedico"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "rating": 4.17,
+      "rating_count": 68931,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/0/0/8/33008-the-exterminating-angel-0-230-0-345-crop.jpg?v=2d01d47687",
+      "url": "https://letterboxd.com/film/the-exterminating-angel/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "funeral-parade-of-roses",
+      "title": "Funeral Parade of Roses",
+      "year": "1969",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Toshio Matsumoto"
+      ],
+      "actors": [
+        "Shinnosuke Ikehata",
+        "Yoshio Tsuchiya",
+        "Emiko Azuma",
+        "Toshiya Fujita",
+        "Kiyoshi Awazu",
+        "Osamu Ogasawara"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.33,
+      "rating_count": 72066,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/7/8/50978-funeral-parade-of-roses-0-230-0-345-crop.jpg?v=b5baaee99f",
+      "url": "https://letterboxd.com/film/funeral-parade-of-roses/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "timecrimes",
+      "title": "Timecrimes",
+      "year": "2007",
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "directors": [
+        "Nacho Vigalondo"
+      ],
+      "actors": [
+        "Karra Elejalde",
+        "Candela Fernández",
+        "Bárbara Goenaga",
+        "Nacho Vigalondo",
+        "Juan Inciarte",
+        "Libby Brien"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "rating": 3.65,
+      "rating_count": 65922,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qw/1c/o8/f5/yaPwrv8c2ZKVHdUicUUnA9LvCCh-0-230-0-345-crop.jpg?v=2db33610cd",
+      "url": "https://letterboxd.com/film/timecrimes/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-neon-demon",
+      "title": "The Neon Demon",
+      "year": "2016",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Elle Fanning",
+        "Karl Glusman",
+        "Jena Malone",
+        "Bella Heathcote",
+        "Abbey Lee",
+        "Desmond Harrington"
+      ],
+      "countries": [
+        "USA",
+        "Denmark",
+        "France",
+        "Belgium"
+      ],
+      "rating": 3.14,
+      "rating_count": 304625,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bq/o8/8y/yr/paofVcjP4QgIruLIqeRKIskpDUw-0-230-0-345-crop.jpg?v=c33585e69f",
+      "url": "https://letterboxd.com/film/the-neon-demon/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "humanist-vampire-seeking-consenting-suicidal-person",
+      "title": "Humanist Vampire Seeking Consenting Suicidal Person",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "Ariane Louis-Seize"
+      ],
+      "actors": [
+        "Sara Montpetit",
+        "Félix-Antoine Bénard",
+        "Steve Laplante",
+        "Sophie Cadieux",
+        "Noémie O'Farrell",
+        "Arnaud Vachon"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.89,
+      "rating_count": 175961,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/0/1/0/5/890105-humanist-vampire-seeking-consenting-suicidal-person-0-230-0-345-crop.jpg?v=17a4ea90a4",
+      "url": "https://letterboxd.com/film/humanist-vampire-seeking-consenting-suicidal-person/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-cook-the-thief-his-wife-her-lover",
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "year": "1989",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Greenaway"
+      ],
+      "actors": [
+        "Richard Bohringer",
+        "Michael Gambon",
+        "Helen Mirren",
+        "Alan Howard",
+        "Tim Roth",
+        "Ciarán Hinds"
+      ],
+      "countries": [
+        "France",
+        "UK"
+      ],
+      "rating": 4.19,
+      "rating_count": 78509,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cy/cy/d9/jb/the-cook-the-thief-0-230-0-345-crop.jpg?v=7ca169fca2",
+      "url": "https://letterboxd.com/film/the-cook-the-thief-his-wife-her-lover/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "frankenhooker",
+      "title": "Frankenhooker",
+      "year": "1990",
+      "genres": [
+        "Comedy",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Frank Henenlotter"
+      ],
+      "actors": [
+        "James Lorinz",
+        "Patty Mullen",
+        "Joanne Ritchie",
+        "J.J. Clark",
+        "Helmar Augustus Cooper",
+        "Louise Lasser"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 94034,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/gz/o6/ae/rc/nZKXY2R8PR8yD7LHvUbvVU9VJDy-0-230-0-345-crop.jpg?v=aeb7ac94b2",
+      "url": "https://letterboxd.com/film/frankenhooker/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "braindead-1992",
+      "title": "Braindead",
+      "year": "1992",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Timothy Balme",
+        "Diana Peñalver",
+        "Elizabeth Moody",
+        "Ian Watkin",
+        "Brenda Kendall",
+        "Stuart Devenie"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "rating": 3.94,
+      "rating_count": 131663,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/87/bo/zt/5w/auD6GTyZXrvkv8ZQIGmpJsHFJxn-0-230-0-345-crop.jpg?v=940b915d8a",
+      "url": "https://letterboxd.com/film/braindead-1992/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "brain-damage",
+      "title": "Brain Damage",
+      "year": "1988",
+      "genres": [
+        "Comedy",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Frank Henenlotter"
+      ],
+      "actors": [
+        "Rick Hearst",
+        "Jennifer Lowry",
+        "Gordon MacDonald",
+        "Theo Barnes",
+        "John Zacherle",
+        "Lucille Saint-Peter"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.54,
+      "rating_count": 41461,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/1/8/0/34180-brain-damage-0-230-0-345-crop.jpg?v=06ebc0ae92",
+      "url": "https://letterboxd.com/film/brain-damage/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "sweet-movie",
+      "title": "Sweet Movie",
+      "year": "1974",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Dušan Makavejev"
+      ],
+      "actors": [
+        "Carole Laure",
+        "Pierre Clémenti",
+        "Anna Prucnal",
+        "Sami Frey",
+        "John Vernon",
+        "Jane Mallett"
+      ],
+      "countries": [
+        "Canada",
+        "Germany",
+        "France"
+      ],
+      "rating": 3.19,
+      "rating_count": 10591,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/7/5/50975-sweet-movie-0-230-0-345-crop.jpg?v=66e0340280",
+      "url": "https://letterboxd.com/film/sweet-movie/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "delicatessen",
+      "title": "Delicatessen",
+      "year": "1991",
+      "genres": [
+        "Fantasy",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "directors": [
+        "Jean-Pierre Jeunet",
+        "Marc Caro"
+      ],
+      "actors": [
+        "Dominique Pinon",
+        "Marie-Laure Dougnac",
+        "Jean-Claude Dreyfus",
+        "Karin Viard",
+        "Ticky Holgado",
+        "Pascal Benezech"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.82,
+      "rating_count": 102610,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/6/0/51260-delicatessen-0-230-0-345-crop.jpg?v=dca54560ba",
+      "url": "https://letterboxd.com/film/delicatessen/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "possession",
+      "title": "Possession",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Andrzej Żuławski"
+      ],
+      "actors": [
+        "Isabelle Adjani",
+        "Sam Neill",
+        "Margit Carstensen",
+        "Heinz Bennent",
+        "Johanna Hofer",
+        "Carl Duering"
+      ],
+      "countries": [
+        "France",
+        "Germany"
+      ],
+      "rating": 4.04,
+      "rating_count": 445722,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8c/pk/z8/4v/aIjO3kraeaD4MDBSef3rTO2vIuZ-0-230-0-345-crop.jpg?v=cb9f332628",
+      "url": "https://letterboxd.com/film/possession/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Horror": 22,
+      "Comedy": 14,
+      "Drama": 13,
+      "Mystery": 11,
+      "Science Fiction": 9,
+      "Thriller": 9,
+      "Fantasy": 8,
+      "Romance": 3,
+      "Crime": 2,
+      "Family": 1,
+      "Adventure": 1
+    },
+    "directors": {
+      "Stuart Gordon": 3,
+      "Frank Henenlotter": 3,
+      "Dario Argento": 2,
+      "Jim Jarmusch": 2,
+      "Terry Gilliam": 1,
+      "Alfred Hitchcock": 1,
+      "Richard Kelly": 1,
+      "Takashi Miike": 1,
+      "David Lynch": 1,
+      "Mario Bava": 1,
+      "Herk Harvey": 1,
+      "Rian Johnson": 1,
+      "Ti West": 1,
+      "Sam Raimi": 1,
+      "John Carpenter": 1,
+      "J. Lee Thompson": 1,
+      "Martin Scorsese": 1,
+      "Thom Eberhardt": 1,
+      "Lucio Fulci": 1,
+      "Wong Kar-Wai": 1
+    },
+    "years": {
+      "1960": 1,
+      "1962": 2,
+      "1964": 1,
+      "1969": 1,
+      "1974": 1,
+      "1975": 1,
+      "1977": 1,
+      "1981": 4,
+      "1982": 2,
+      "1984": 1,
+      "1985": 2,
+      "1986": 1,
+      "1987": 1,
+      "1988": 1,
+      "1989": 1,
+      "1990": 1,
+      "1991": 2,
+      "1992": 1,
+      "1995": 1,
+      "1996": 1,
+      "1999": 1,
+      "2000": 1,
+      "2001": 2,
+      "2005": 1,
+      "2007": 1,
+      "2013": 1,
+      "2016": 1,
+      "2022": 1,
+      "2023": 1
+    }
+  }
+}

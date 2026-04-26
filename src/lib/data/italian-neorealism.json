@@ -1,0 +1,1363 @@
+{
+  "query": "italian neorealism",
+  "slug": "italian-neorealism",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/bfi/list/italian-neorealism/",
+      "user": "bfi",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": "One of the most significant post-war developments in cinema, Italian neorealism rejected traditional cinematic canons.\n\nNeorealism came to exist out of a moral necessity, following the urgency, as Cesare Zavattini, one of the movement’s architects, put it, to ‘find the hidden drama in everyday life’. When the subject of art becomes ordinary life, reality becomes spectacle.\n\nThis decisive decade is ripe for rediscovery; it’s been 80 years since Rossellini started work on Rome, Open City and 70 years since the ‘official’ end of the movement, yet it remains relevant to our current times in its ability to teach us the importance of freedom and to reinforce our capacity for compassion. - Giulia Saccogna, season curator\n\nChasing the Real: Italian Neorealism… more",
+      "owner": "List by British Film Institute HQ",
+      "tags": [
+        "bfi",
+        "british-film-institute",
+        "bfi-southbank",
+        "roberto-rossellini",
+        "neorealism"
+      ]
+    },
+    {
+      "href": "/jcmaltez/list/italian-neorealism/",
+      "user": "jcmaltez",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": "Post-war Italian films focusing on depicting reality, with little to no staged dramatization, many times recurring to non professional actors, and daily life stories with no heroes nor grandeur.",
+      "owner": "List by jcmaltez",
+      "tags": [
+        "italy",
+        "neorealism"
+      ]
+    },
+    {
+      "href": "/zinatkb/list/italian-neorealism/",
+      "user": "zinatkb",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": "Italian neorealism (1945-1952) also known as the Golden Age or Italian spring, is a national film movement characterized by stories set amongst the poor and the working class, filmed on location, frequently using non-professional actors. Italian neorealism films mostly contend with the difficult economic and moral conditions of post-World War II Italy, representing changes in the Italian psyche and conditions of everyday life, including poverty, oppression, injustice, and desperation.",
+      "owner": "List by Zinatkb",
+      "tags": [
+        "italian-neorealism"
+      ]
+    },
+    {
+      "href": "/rob_h/list/italian-neorealism/",
+      "user": "rob_h",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": "Back to: Index\nBack to: Index – Genres, Periods and Movements",
+      "owner": "List by Rob PATRON",
+      "tags": []
+    },
+    {
+      "href": "/smer/list/italian-neorealism/",
+      "user": "smer",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": "• Key Dates: 1943-1954\n\nOnce Mussolini's fascist regime had fallen, the Italian film industry cooperated with U.S. companies in order to secure an American dominance of the market. This caused Italian production companies to drastically scale down. Previously, throughout WWII, the likes of Guiseppe De Santis and Mario Alicata considered the possibility of a movement \"following the slow and tired step of the worker who returns home\". After the war, this sentiment aligned with the public's interests, as a coalition government was formed and the country aimed to restart with a liberal ideology.\nPrior to this, the Italian industry had been synonymous with elaborate studio settings, most notably thanks to Cinécitta studios, which had been left heavily damaged. With fewer… more",
+      "owner": "List by Smer PATRON",
+      "tags": [
+        "waves"
+      ]
+    },
+    {
+      "href": "/andy_f/list/italian-neorealism/",
+      "user": "andy_f",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": "The main works in Italian Neorealism according to Wikipedia.\n\nen.wikipedia.org/wiki/Italian_neorealism",
+      "owner": "List by Drew F",
+      "tags": []
+    },
+    {
+      "href": "/nemcgann/list/italian-neorealism/",
+      "user": "nemcgann",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": "nemcgann is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by nemcgann",
+      "tags": []
+    },
+    {
+      "href": "/mhtb/list/italian-neorealism/",
+      "user": "mhtb",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": null,
+      "owner": "List by Mahtab",
+      "tags": []
+    },
+    {
+      "href": "/mvalle/list/italian-neorealism/",
+      "user": "mvalle",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": "Mauricio is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Mauricio Valle PRO",
+      "tags": []
+    },
+    {
+      "href": "/ben230/list/italian-neorealism/",
+      "user": "ben230",
+      "slug": "italian-neorealism",
+      "title": "Italian Neorealism",
+      "desc": "Ben is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Ben Beneventano",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 73,
+  "canonical_count": 43,
+  "films": [
+    {
+      "slug": "rome-open-city",
+      "title": "Rome, Open City",
+      "year": "1945",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Roberto Rossellini"
+      ],
+      "actors": [
+        "Aldo Fabrizi",
+        "Marcello Pagliero",
+        "Harry Feist",
+        "Anna Magnani",
+        "Maria Michi",
+        "Francesco Grandjacquet"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 4.18,
+      "rating_count": 74877,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/5/2/51752-rome-open-city-0-230-0-345-crop.jpg?v=5f373e3c23",
+      "url": "https://letterboxd.com/film/rome-open-city/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "bicycle-thieves",
+      "title": "Bicycle Thieves",
+      "year": "1948",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Vittorio De Sica"
+      ],
+      "actors": [
+        "Lamberto Maggiorani",
+        "Enzo Staiola",
+        "Lianella Carell",
+        "Gino Saltamerenda",
+        "Vittorio Antonucci",
+        "Giulio Chiari"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 4.29,
+      "rating_count": 269763,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/3/0/48930-bicycle-thieves-0-230-0-345-crop.jpg?v=274fd27e34",
+      "url": "https://letterboxd.com/film/bicycle-thieves/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "stromboli",
+      "title": "Stromboli",
+      "year": "1950",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Roberto Rossellini"
+      ],
+      "actors": [
+        "Ingrid Bergman",
+        "Mario Vitale",
+        "Renzo Cesana",
+        "Mario Sponzo",
+        "Gaetano Famularo",
+        "Angelo Molino"
+      ],
+      "countries": [
+        "Italy",
+        "USA"
+      ],
+      "rating": 3.86,
+      "rating_count": 20383,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/4/8/5/49485-stromboli-0-230-0-345-crop.jpg?v=0b7d69d524",
+      "url": "https://letterboxd.com/film/stromboli/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "umberto-d",
+      "title": "Umberto D.",
+      "year": "1952",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Vittorio De Sica"
+      ],
+      "actors": [
+        "Carlo Battisti",
+        "Napoleone the Dog",
+        "Maria Pia Casilio",
+        "Lina Gennari",
+        "Elena Rea",
+        "Memmo Carotenuto"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 4.26,
+      "rating_count": 48981,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/1/9/51319-umberto-d--0-230-0-345-crop.jpg?v=1a5ed7cfcc",
+      "url": "https://letterboxd.com/film/umberto-d/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "shoeshine",
+      "title": "Shoeshine",
+      "year": "1946",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Vittorio De Sica"
+      ],
+      "actors": [
+        "Franco Interlenghi",
+        "Rinaldo Smordoni",
+        "Annielo Mele",
+        "Bruno Ortenzi",
+        "Emilio Cigoli",
+        "Gino Saltamerenda"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 4.08,
+      "rating_count": 13113,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/6/8/0/21680-shoeshine-0-230-0-345-crop.jpg?v=319729a4f2",
+      "url": "https://letterboxd.com/film/shoeshine/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "paisan",
+      "title": "Paisan",
+      "year": "1946",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Roberto Rossellini"
+      ],
+      "actors": [
+        "Carmela Sazio",
+        "Robert Van Loon",
+        "Benjamin Emanuel",
+        "Raymond Campbell",
+        "Harold Wagner",
+        "Albert Heinze"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.92,
+      "rating_count": 22779,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/81/l8/kg/zl/kXTQQxB1ToE4bhOcFbEFdZiubCF-0-230-0-345-crop.jpg?v=c513307ba3",
+      "url": "https://letterboxd.com/film/paisan/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "germany-year-zero",
+      "title": "Germany, Year Zero",
+      "year": "1948",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Roberto Rossellini"
+      ],
+      "actors": [
+        "Edmund Moeschke",
+        "Ernst Pittschau",
+        "Ingetraud Hinze",
+        "Franz-Otto Krüger",
+        "Erich Gühne",
+        "Heidi Blänkner"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "rating": 4.02,
+      "rating_count": 34424,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/2/4/47924-germany-year-zero-0-230-0-345-crop.jpg?v=09fd857f5a",
+      "url": "https://letterboxd.com/film/germany-year-zero/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "la-terra-trema",
+      "title": "La Terra Trema",
+      "year": "1948",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Luchino Visconti"
+      ],
+      "actors": [
+        "Antonio Arcidiacono",
+        "Giuseppe Arcidiacono",
+        "Venera Bonaccorso",
+        "Nicola Castorino",
+        "Rosa Catalano",
+        "Rosa Costanzo"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 4.03,
+      "rating_count": 9494,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/0/4/21704-la-terra-trema-0-230-0-345-crop.jpg?v=8abcf9481a",
+      "url": "https://letterboxd.com/film/la-terra-trema/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "bitter-rice",
+      "title": "Bitter Rice",
+      "year": "1949",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Giuseppe De Santis"
+      ],
+      "actors": [
+        "Doris Dowling",
+        "Silvana Mangano",
+        "Vittorio Gassman",
+        "Raf Vallone",
+        "Checco Rissone",
+        "Nico Pepe"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.86,
+      "rating_count": 10183,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/5/0/5/31505-bitter-rice-0-230-0-345-crop.jpg?v=5c9095e479",
+      "url": "https://letterboxd.com/film/bitter-rice/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "miracle-in-milan",
+      "title": "Miracle in Milan",
+      "year": "1951",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Vittorio De Sica"
+      ],
+      "actors": [
+        "Emma Gramatica",
+        "Francesco Golisano",
+        "Paolo Stoppa",
+        "Guglielmo Barnabò",
+        "Brunella Bovo",
+        "Anna Carena"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.9,
+      "rating_count": 14517,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/6/9/21769-miracle-in-milan-0-230-0-345-crop.jpg?v=c658b97482",
+      "url": "https://letterboxd.com/film/miracle-in-milan/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "bellissima",
+      "title": "Bellissima",
+      "year": "1951",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Luchino Visconti"
+      ],
+      "actors": [
+        "Anna Magnani",
+        "Walter Chiari",
+        "Tina Apicella",
+        "Gastone Renzelli",
+        "Tecla Scarano",
+        "Lola Braccini"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.88,
+      "rating_count": 10337,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/7/6/21776-bellissima-0-230-0-345-crop.jpg?v=f9eaf064e4",
+      "url": "https://letterboxd.com/film/bellissima/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "rome-11-00",
+      "title": "Rome 11:00",
+      "year": "1952",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Giuseppe De Santis"
+      ],
+      "actors": [
+        "Carla Del Poggio",
+        "Lucia Bosè",
+        "Lea Padovani",
+        "Maria Grazia Francia",
+        "Eva Vanicek",
+        "Massimo Girotti"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 3.97,
+      "rating_count": 1549,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/3/8/6/118386-rome-11-00-0-230-0-345-crop.jpg?v=44da762106",
+      "url": "https://letterboxd.com/film/rome-11-00/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "journey-to-italy",
+      "title": "Journey to Italy",
+      "year": "1954",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Roberto Rossellini"
+      ],
+      "actors": [
+        "Ingrid Bergman",
+        "George Sanders",
+        "Maria Mauban",
+        "Anna Proclemer",
+        "Paul Müller",
+        "Leslie Daniels"
+      ],
+      "countries": [
+        "Italy",
+        "France"
+      ],
+      "rating": 3.81,
+      "rating_count": 34440,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/2/1/50121-journey-to-italy-0-230-0-345-crop.jpg?v=242f483a5f",
+      "url": "https://letterboxd.com/film/journey-to-italy/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "obsession-1943",
+      "title": "Obsession",
+      "year": "1943",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Romance"
+      ],
+      "directors": [
+        "Luchino Visconti"
+      ],
+      "actors": [
+        "Clara Calamai",
+        "Massimo Girotti",
+        "Dhia Cristiani",
+        "Elio Marcuzzo",
+        "Vittorio Duse",
+        "Michele Riccardini"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.69,
+      "rating_count": 12702,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/3/1/48931-ossessione-0-230-0-345-crop.jpg?v=6c13948617",
+      "url": "https://letterboxd.com/film/obsession-1943/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "europa-51",
+      "title": "Europa '51",
+      "year": "1952",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Roberto Rossellini"
+      ],
+      "actors": [
+        "Ingrid Bergman",
+        "Alexander Knox",
+        "Ettore Giannini",
+        "Giulietta Masina",
+        "Teresa Pellati",
+        "Marcella Rovena"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.91,
+      "rating_count": 11334,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/5/6/8/23568-europe-51-0-230-0-345-crop.jpg?v=05978ceac6",
+      "url": "https://letterboxd.com/film/europa-51/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-flowers-of-st-francis",
+      "title": "The Flowers of St. Francis",
+      "year": "1950",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Roberto Rossellini"
+      ],
+      "actors": [
+        "Aldo Fabrizi",
+        "Gianfranco Bellini",
+        "Peparuolo",
+        "Severino Pisacane",
+        "Roberto Sorrentino",
+        "Nazario Gerardi"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.89,
+      "rating_count": 9923,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/7/2/9572-the-flowers-of-st-francis-0-230-0-345-crop.jpg?v=a4e025b63f",
+      "url": "https://letterboxd.com/film/the-flowers-of-st-francis/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "i-vitelloni",
+      "title": "I Vitelloni",
+      "year": "1953",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Federico Fellini"
+      ],
+      "actors": [
+        "Franco Interlenghi",
+        "Alberto Sordi",
+        "Franco Fabrizi",
+        "Leopoldo Trieste",
+        "Riccardo Fellini",
+        "Leonora Ruffo"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 3.98,
+      "rating_count": 41590,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/4/8/9/44489-i-vitelloni-0-230-0-345-crop.jpg?v=50416a2c68",
+      "url": "https://letterboxd.com/film/i-vitelloni/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "la-strada",
+      "title": "La Strada",
+      "year": "1954",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Federico Fellini"
+      ],
+      "actors": [
+        "Giulietta Masina",
+        "Anthony Quinn",
+        "Richard Basehart",
+        "Aldo Silvani",
+        "Marcella Rovere",
+        "Livia Venturini"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 4.18,
+      "rating_count": 88706,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/5/51685-la-strada-0-230-0-345-crop.jpg?v=1748210a21",
+      "url": "https://letterboxd.com/film/la-strada/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-bandit-1946",
+      "title": "The Bandit",
+      "year": "1946",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Alberto Lattuada"
+      ],
+      "actors": [
+        "Anna Magnani",
+        "Amedeo Nazzari",
+        "Carla Del Poggio",
+        "Carlo Campanini",
+        "Eliana Banducci",
+        "Mino Doro"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.51,
+      "rating_count": 823,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/0/9/8/111098-the-bandit-0-230-0-345-crop.jpg?v=a31fc0de98",
+      "url": "https://letterboxd.com/film/the-bandit-1946/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "tragic-hunt",
+      "title": "Tragic Hunt",
+      "year": "1947",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Giuseppe De Santis"
+      ],
+      "actors": [
+        "Vivi Gioi",
+        "Andrea Checchi",
+        "Carla Del Poggio",
+        "Vittorio Duse",
+        "Massimo Girotti",
+        "Checco Rissone"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.49,
+      "rating_count": 298,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/2/7/146427-tragic-hunt-0-230-0-345-crop.jpg?v=e21ff5e6cd",
+      "url": "https://letterboxd.com/film/tragic-hunt/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-mill-on-the-po",
+      "title": "The Mill on the Po",
+      "year": "1949",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Alberto Lattuada"
+      ],
+      "actors": [
+        "Carla Del Poggio",
+        "Jacques Sernas",
+        "Mario Besesti",
+        "Giacomo Giuradei",
+        "Nino Pavese",
+        "Giulio Calì"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.51,
+      "rating_count": 342,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/0/2/9/9/200299-the-mill-on-the-po-0-230-0-345-crop.jpg?v=5006c42c0d",
+      "url": "https://letterboxd.com/film/the-mill-on-the-po/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "variety-lights",
+      "title": "Variety Lights",
+      "year": "1950",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Alberto Lattuada",
+        "Federico Fellini"
+      ],
+      "actors": [
+        "Peppino De Filippo",
+        "Carla Del Poggio",
+        "Giulietta Masina",
+        "John Kitzmiller",
+        "Dante Maggio",
+        "Checco Durante"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.47,
+      "rating_count": 6957,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/5/9/21759-variety-lights-0-230-0-345-crop.jpg?v=f411eee45e",
+      "url": "https://letterboxd.com/film/variety-lights/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-machine-that-kills-bad-people",
+      "title": "The Machine That Kills Bad People",
+      "year": "1952",
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "directors": [
+        "Roberto Rossellini"
+      ],
+      "actors": [
+        "Giovanni Amato",
+        "Marilyn Buferd",
+        "Pietro Carloni",
+        "Joseph Falletta",
+        "Gennaro Pisano",
+        "Helen Tubbs"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.44,
+      "rating_count": 3218,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/2/6/8/83268-the-machine-that-kills-bad-people-0-230-0-345-crop.jpg?v=267461af44",
+      "url": "https://letterboxd.com/film/the-machine-that-kills-bad-people/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "lamore-1948",
+      "title": "L'Amore",
+      "year": "1948",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Roberto Rossellini"
+      ],
+      "actors": [
+        "Anna Magnani",
+        "Federico Fellini",
+        "Peparuolo",
+        "Amelia Robert"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.53,
+      "rating_count": 4610,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/0/5/21705-amore-0-230-0-345-crop.jpg?v=92eb464a4c",
+      "url": "https://letterboxd.com/film/lamore-1948/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-white-sheik",
+      "title": "The White Sheik",
+      "year": "1952",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Federico Fellini"
+      ],
+      "actors": [
+        "Alberto Sordi",
+        "Brunella Bovo",
+        "Leopoldo Trieste",
+        "Giulietta Masina",
+        "Ernesto Almirante",
+        "Lilia Landi"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.51,
+      "rating_count": 11606,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/8/7/21787-the-white-sheik-0-230-0-345-crop.jpg?v=5dd4a91d79",
+      "url": "https://letterboxd.com/film/the-white-sheik/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-vanquished-1953",
+      "title": "The Vanquished",
+      "year": "1953",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Michelangelo Antonioni"
+      ],
+      "actors": [
+        "Etchika Choureau",
+        "Jean-Pierre Mocky",
+        "Jacques Sempey",
+        "Henri Poirier",
+        "Annie Noël",
+        "Guy De Meulan"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 3.3,
+      "rating_count": 1641,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/1/2/7/76127-the-vanquished-0-230-0-345-crop.jpg?v=fd0f38e1de",
+      "url": "https://letterboxd.com/film/the-vanquished-1953/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-lady-without-camelias",
+      "title": "The Lady Without Camelias",
+      "year": "1953",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Michelangelo Antonioni"
+      ],
+      "actors": [
+        "Lucia Bosè",
+        "Andrea Checchi",
+        "Gino Cervi",
+        "Ivan Desny",
+        "Alain Cuny",
+        "Monica Clay"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.66,
+      "rating_count": 3506,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/0/5/6/78056-the-lady-without-camelias-0-230-0-345-crop.jpg?v=d934388142",
+      "url": "https://letterboxd.com/film/the-lady-without-camelias/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "bread-love-and-dreams",
+      "title": "Bread, Love and Dreams",
+      "year": "1953",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Luigi Comencini"
+      ],
+      "actors": [
+        "Vittorio De Sica",
+        "Gina Lollobrigida",
+        "Marisa Merlini",
+        "Tina Pica",
+        "Maria Pia Casilio",
+        "Memmo Carotenuto"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.5,
+      "rating_count": 3567,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/8/4/9684-bread-love-and-dreams-0-230-0-345-crop.jpg?v=680551a6c0",
+      "url": "https://letterboxd.com/film/bread-love-and-dreams/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-children-are-watching-us",
+      "title": "The Children Are Watching Us",
+      "year": "1943",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Vittorio De Sica"
+      ],
+      "actors": [
+        "Emilio Cigoli",
+        "Luciano De Ambrosis",
+        "Isa Pola",
+        "Adriano Rimoldi",
+        "Giovanna Cigoli",
+        "Jone Frigerio"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.88,
+      "rating_count": 4318,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/7/4/5274-the-children-are-watching-us-0-230-0-345-crop.jpg?v=32b4c688f8",
+      "url": "https://letterboxd.com/film/the-children-are-watching-us/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "without-pity",
+      "title": "Without Pity",
+      "year": "1948",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crime"
+      ],
+      "directors": [
+        "Alberto Lattuada"
+      ],
+      "actors": [
+        "Carla Del Poggio",
+        "John Kitzmiller",
+        "Pierre Claudé",
+        "Giulietta Masina",
+        "Folco Lulli",
+        "Raf Pindi"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.4,
+      "rating_count": 655,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/8/7/2/133872-without-pity-0-230-0-345-crop.jpg?v=79815af9a4",
+      "url": "https://letterboxd.com/film/without-pity/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "to-live-in-peace",
+      "title": "To Live in Peace",
+      "year": "1947",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "War"
+      ],
+      "directors": [
+        "Luigi Zampa"
+      ],
+      "actors": [
+        "Aldo Fabrizi",
+        "Gar Moore",
+        "Mirella Monti",
+        "John Kitzmiller",
+        "Heinrich Bode",
+        "Ave Ninchi"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.47,
+      "rating_count": 219,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/0/9/9/95099-to-live-in-peace-0-230-0-345-crop.jpg?v=7840c0f58f",
+      "url": "https://letterboxd.com/film/to-live-in-peace/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "story-of-a-love-affair",
+      "title": "Story of a Love Affair",
+      "year": "1950",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Michelangelo Antonioni"
+      ],
+      "actors": [
+        "Massimo Girotti",
+        "Lucia Bosè",
+        "Gino Rossi",
+        "Marika Rowsky",
+        "Ferdinando Sarmi",
+        "Rubi D'Alma"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.52,
+      "rating_count": 5173,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/8/4/2/15842-story-of-a-love-affair-0-230-0-345-crop.jpg?v=62292e936d",
+      "url": "https://letterboxd.com/film/story-of-a-love-affair/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "love-in-the-city",
+      "title": "Love in the City",
+      "year": "1953",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Carlo Lizzani",
+        "Alberto Lattuada",
+        "Federico Fellini",
+        "Michelangelo Antonioni",
+        "Dino Risi",
+        "Francesco Maselli"
+      ],
+      "actors": [
+        "Rita Josa",
+        "Rosanna Carta",
+        "Enrico Pelliccia",
+        "Donatella Marrosu",
+        "Paolo Pacetti",
+        "Nella Bertuccioni"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.4,
+      "rating_count": 2869,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/9/6/31296-love-in-the-city-0-230-0-345-crop.jpg?v=146df28ffc",
+      "url": "https://letterboxd.com/film/love-in-the-city/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "indiscretion-of-an-american-wife",
+      "title": "Indiscretion of an American Wife",
+      "year": "1953",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Vittorio De Sica"
+      ],
+      "actors": [
+        "Jennifer Jones",
+        "Montgomery Clift",
+        "Gino Cervi",
+        "Richard Beymer",
+        "Paolo Stoppa",
+        "Nando Bruno"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.09,
+      "rating_count": 2881,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/2/2/4/61224-indiscretion-of-an-american-wife-0-230-0-345-crop.jpg?v=884d1b2c43",
+      "url": "https://letterboxd.com/film/indiscretion-of-an-american-wife/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "senso",
+      "title": "Senso",
+      "year": "1954",
+      "genres": [
+        "Romance",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Luchino Visconti"
+      ],
+      "actors": [
+        "Farley Granger",
+        "Alida Valli",
+        "Massimo Girotti",
+        "Heinz Moog",
+        "Rina Morelli",
+        "Christian Marquand"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.77,
+      "rating_count": 12777,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/9/5/0/21950-senso-0-230-0-345-crop.jpg?v=7266ca2afb",
+      "url": "https://letterboxd.com/film/senso/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "rocco-and-his-brothers",
+      "title": "Rocco and His Brothers",
+      "year": "1960",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Luchino Visconti"
+      ],
+      "actors": [
+        "Alain Delon",
+        "Renato Salvatori",
+        "Annie Girardot",
+        "Katina Paxinou",
+        "Alessandra Panaro",
+        "Spiros Focás"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 4.32,
+      "rating_count": 43830,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/3/8/47738-rocco-and-his-brothers-0-230-0-345-crop.jpg?v=50b0fb7b37",
+      "url": "https://letterboxd.com/film/rocco-and-his-brothers/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "accattone",
+      "title": "Accattone",
+      "year": "1961",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Pier Paolo Pasolini"
+      ],
+      "actors": [
+        "Franco Citti",
+        "Franca Pasut",
+        "Silvana Corsini",
+        "Paola Guidi",
+        "Adriana Asti",
+        "Luciano Conti"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.91,
+      "rating_count": 28478,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/5/4/4/44544-accattone-0-230-0-345-crop.jpg?v=e93b355b20",
+      "url": "https://letterboxd.com/film/accattone/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "il-grido",
+      "title": "Il Grido",
+      "year": "1957",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Michelangelo Antonioni"
+      ],
+      "actors": [
+        "Steve Cochran",
+        "Alida Valli",
+        "Dorian Gray",
+        "Jacqueline Jones",
+        "Gabriella Pallotta",
+        "Pina Boldrini"
+      ],
+      "countries": [
+        "USA",
+        "Italy"
+      ],
+      "rating": 3.81,
+      "rating_count": 7727,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/9/4/6/23946-il-grido-0-230-0-345-crop.jpg?v=d576d22399",
+      "url": "https://letterboxd.com/film/il-grido/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "outcry",
+      "title": "Outcry",
+      "year": "1946",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Aldo Vergano"
+      ],
+      "actors": [
+        "Massimo Serato",
+        "Vittorio Duse",
+        "Elli Parvo",
+        "Lea Padovani",
+        "Carlo Lizzani",
+        "Checco Rissone"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/8/9/2/116892-outcry-0-230-0-345-crop.jpg?v=498c49b4a9",
+      "url": "https://letterboxd.com/film/outcry/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-roof",
+      "title": "The Roof",
+      "year": "1956",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Vittorio De Sica"
+      ],
+      "actors": [
+        "Gabriella Pallotta",
+        "Giorgio Listuzzi",
+        "Gastone Renzelli",
+        "Maria Di Rollo",
+        "Luciano Pigozzi",
+        "Maria Di Fiori"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.84,
+      "rating_count": 2481,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/0/7/1/4/90714-the-roof-0-230-0-345-crop.jpg?v=ad92d6a28c",
+      "url": "https://letterboxd.com/film/the-roof/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "il-posto",
+      "title": "Il Posto",
+      "year": "1961",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ermanno Olmi"
+      ],
+      "actors": [
+        "Loredana Detto",
+        "Sandro Panseri",
+        "Corrado Aprile",
+        "Guido Chiti",
+        "Tullio Kezich",
+        "Bice Melegari"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 4.15,
+      "rating_count": 18655,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/9/1/7/30917-il-posto-0-230-0-345-crop.jpg?v=e8e0d7d717",
+      "url": "https://letterboxd.com/film/il-posto/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "mamma-roma",
+      "title": "Mamma Roma",
+      "year": "1962",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Pier Paolo Pasolini"
+      ],
+      "actors": [
+        "Anna Magnani",
+        "Ettore Garofolo",
+        "Franco Citti",
+        "Silvana Corsini",
+        "Luisa Loiano",
+        "Paolo Volponi"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 4.02,
+      "rating_count": 24001,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/6/2/9/17629-mamma-roma-0-230-0-345-crop.jpg?v=12a7d0e65e",
+      "url": "https://letterboxd.com/film/mamma-roma/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-fiances",
+      "title": "The Fiancés",
+      "year": "1963",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ermanno Olmi"
+      ],
+      "actors": [
+        "Anna Canzi",
+        "Carlo Cabrini"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.9,
+      "rating_count": 4471,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/6/666-the-fiances-0-230-0-345-crop.jpg?v=5de1ed8c98",
+      "url": "https://letterboxd.com/film/the-fiances/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 40,
+      "Romance": 10,
+      "Comedy": 7,
+      "Crime": 6,
+      "War": 5,
+      "Fantasy": 2,
+      "History": 2,
+      "Action": 1
+    },
+    "directors": {
+      "Roberto Rossellini": 9,
+      "Vittorio De Sica": 7,
+      "Luchino Visconti": 5,
+      "Federico Fellini": 5,
+      "Alberto Lattuada": 5,
+      "Michelangelo Antonioni": 5,
+      "Giuseppe De Santis": 3,
+      "Pier Paolo Pasolini": 2,
+      "Ermanno Olmi": 2,
+      "Luigi Comencini": 1,
+      "Luigi Zampa": 1,
+      "Carlo Lizzani": 1,
+      "Dino Risi": 1,
+      "Francesco Maselli": 1,
+      "Aldo Vergano": 1
+    },
+    "years": {
+      "1943": 2,
+      "1945": 1,
+      "1946": 4,
+      "1947": 2,
+      "1948": 5,
+      "1949": 2,
+      "1950": 4,
+      "1951": 2,
+      "1952": 5,
+      "1953": 6,
+      "1954": 3,
+      "1956": 1,
+      "1957": 1,
+      "1960": 1,
+      "1961": 2,
+      "1962": 1,
+      "1963": 1
+    }
+  }
+}

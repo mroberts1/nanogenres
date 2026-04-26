@@ -1,0 +1,427 @@
+{
+  "query": "hangout movie",
+  "slug": "hangout-movie",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/mrs_ratgirl/list/hangout-movie/",
+      "user": "mrs_ratgirl",
+      "slug": "hangout-movie",
+      "title": "hangout movie",
+      "desc": "jesse is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by jesse",
+      "tags": [
+        "chill",
+        "fun",
+        "hang-out",
+        "stoner"
+      ]
+    },
+    {
+      "href": "/chofa2006/list/hangout-movie/",
+      "user": "chofa2006",
+      "slug": "hangout-movie",
+      "title": "Hangout movie",
+      "desc": "Sofi is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Sofi",
+      "tags": []
+    },
+    {
+      "href": "/notrivia/list/hypnagogic-horror-horror-as-hangout-movie/",
+      "user": "notrivia",
+      "slug": "hypnagogic-horror-horror-as-hangout-movie",
+      "title": "Hypnagogic Horror, Horror as Hangout Movie",
+      "desc": "horror movies that are too slow; horror movies where nothing much happens; horror movies that feel like porno with the fucking taken out; horror movies that make you feel like you just snorted heroin; horror movies where jazz fusion scores all the scares for some dumb reason; horror movies that take the scenic route to just about everything.\n\n\nConsider watching these 31 movies in this order one per day in October",
+      "owner": "List by notrivia",
+      "tags": []
+    },
+    {
+      "href": "/gubnet/list/hangout-movie-masterpieces/",
+      "user": "gubnet",
+      "slug": "hangout-movie-masterpieces",
+      "title": "Hangout Movie Masterpieces",
+      "desc": "My favorite films from my favorite genre. When you wanna hang, these are the best of them.",
+      "owner": "List by Gunner Willis",
+      "tags": []
+    },
+    {
+      "href": "/geminimoonriver/list/the-graduate-is-a-hangout-movie-but-youre/",
+      "user": "geminimoonriver",
+      "slug": "the-graduate-is-a-hangout-movie-but-youre",
+      "title": "The Graduate is a hangout movie but you’re hanging out with your will to live and it shows up late",
+      "desc": "geminimoonriver is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by geminimoonriver",
+      "tags": []
+    },
+    {
+      "href": "/rentonh/list/hangout-movie-vibes/",
+      "user": "rentonh",
+      "slug": "hangout-movie-vibes",
+      "title": "Hangout movie vibes",
+      "desc": "Mood board for our movie",
+      "owner": "List by Renton Hinderer",
+      "tags": []
+    },
+    {
+      "href": "/blackstar16/list/in-the-mood-for-a-hangout-movie/",
+      "user": "blackstar16",
+      "slug": "in-the-mood-for-a-hangout-movie",
+      "title": "In The Mood For A: Hangout Movie",
+      "desc": "“Say, man, you got a joint?”\n\n“No, not on me, man”\n\n“It'd be a lot cooler if you did”\n\nFunnily enough, it was Quentin Tarantino who coined the sub-genre as ‘hangout films’. For those who don’t know how to classify a film in the ‘hangout’ sub-genre, it’s a movie where plot and camerawork you may admire but whose primary attraction is the characters. However it’s not the same as a character driven film like Taxi Driver. It’s characterised by a certain lightness of tone, and (perhaps most crucially) a languid, almost meandering pace. The familiarity bred by the hangout film is that of the dorm room, the small high school class, or indeed the film crew; it arises not through… more",
+      "owner": "List by Ollie PATRON",
+      "tags": [
+        "in-the-mood-for-a",
+        "recs"
+      ]
+    },
+    {
+      "href": "/isabelisfun/list/the-modern-teen-hangout-movie/",
+      "user": "isabelisfun",
+      "slug": "the-modern-teen-hangout-movie",
+      "title": "the teen hangout movie",
+      "desc": "isabel is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by isabel",
+      "tags": []
+    }
+  ],
+  "source_list_count": 8,
+  "films_considered": 149,
+  "canonical_count": 11,
+  "films": [
+    {
+      "slug": "inherent-vice",
+      "title": "Inherent Vice",
+      "year": "2014",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Josh Brolin",
+        "Owen Wilson",
+        "Katherine Waterston",
+        "Reese Witherspoon",
+        "Benicio del Toro"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 253134,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/8/3/0/125830-inherent-vice-0-230-0-345-crop.jpg?v=342795552c",
+      "url": "https://letterboxd.com/film/inherent-vice/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "licorice-pizza",
+      "title": "Licorice Pizza",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "actors": [
+        "Alana Haim",
+        "Cooper Hoffman",
+        "Sean Penn",
+        "Tom Waits",
+        "Bradley Cooper",
+        "Benny Safdie"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.53,
+      "rating_count": 798672,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/1/0/8/6/641086-licorice-pizza-0-230-0-345-crop.jpg?v=6f08c3828c",
+      "url": "https://letterboxd.com/film/licorice-pizza/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "shiva-baby-2020",
+      "title": "Shiva Baby",
+      "year": "2020",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Emma Seligman"
+      ],
+      "actors": [
+        "Rachel Sennott",
+        "Molly Gordon",
+        "Polly Draper",
+        "Danny Deferrari",
+        "Fred Melamed",
+        "Dianna Agron"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 665352,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/9/0/9/3/589093-shiva-baby-0-230-0-345-crop.jpg?v=a258215f88",
+      "url": "https://letterboxd.com/film/shiva-baby-2020/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "were-all-going-to-the-worlds-fair",
+      "title": "We're All Going to the World's Fair",
+      "year": "2021",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Jane Schoenbrun"
+      ],
+      "actors": [
+        "Anna Cobb",
+        "Michael J Rogers",
+        "May Leitz",
+        "Theo Anthony",
+        "Evan Santiago",
+        "Turner Greaves"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 137711,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/5/5/2/2/695522-we-re-all-going-to-the-world-s-fair-0-230-0-345-crop.jpg?v=d123af3067",
+      "url": "https://letterboxd.com/film/were-all-going-to-the-worlds-fair/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dazed-and-confused",
+      "title": "Dazed and Confused",
+      "year": "1993",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Jason London",
+        "Matthew McConaughey",
+        "Joey Lauren Adams",
+        "Rory Cochrane",
+        "Wiley Wiggins",
+        "Adam Goldberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 578401,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/2/9/47029-dazed-and-confused-0-230-0-345-crop.jpg?v=a3b615703a",
+      "url": "https://letterboxd.com/film/dazed-and-confused/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "american-movie",
+      "title": "American Movie",
+      "year": "1999",
+      "genres": [
+        "Documentary",
+        "Comedy"
+      ],
+      "directors": [
+        "Chris Smith"
+      ],
+      "actors": [
+        "Mark Borchardt",
+        "Mike Schank",
+        "Tom Schimmels",
+        "Monica Borchardt",
+        "Alex Borchardt",
+        "Chris Borchardt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.2,
+      "rating_count": 55781,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/am/1r/q9/fe/y8dJgWr1HeW0RRxwANDWvgIXdsF-0-230-0-345-crop.jpg?v=0e951bb2c4",
+      "url": "https://letterboxd.com/film/american-movie/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-gods-of-times-square",
+      "title": "The Gods of Times Square",
+      "year": "1999",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Richard Sandler"
+      ],
+      "actors": [],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.87,
+      "rating_count": 1180,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/7/6/5/78765-the-gods-of-times-square-0-230-0-345-crop.jpg?v=156c5916ab",
+      "url": "https://letterboxd.com/film/the-gods-of-times-square/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "frances-ha",
+      "title": "Frances Ha",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Noah Baumbach"
+      ],
+      "actors": [
+        "Greta Gerwig",
+        "Mickey Sumner",
+        "Michael Zegen",
+        "Adam Driver",
+        "Charlotte d'Amboise",
+        "Patrick Heusinger"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.03,
+      "rating_count": 637097,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/0/8/3/96083-frances-ha-0-230-0-345-crop.jpg?v=0bb538988b",
+      "url": "https://letterboxd.com/film/frances-ha/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "clerks",
+      "title": "Clerks",
+      "year": "1994",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Kevin Smith"
+      ],
+      "actors": [
+        "Brian O'Halloran",
+        "Jeff Anderson",
+        "Marilyn Ghigliotti",
+        "Lisa Spoonauer",
+        "Jason Mewes",
+        "Kevin Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 228998,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/03/4k/8o/ul/clerks-0-230-0-345-crop.jpg?v=35be012b59",
+      "url": "https://letterboxd.com/film/clerks/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lady-bird",
+      "title": "Lady Bird",
+      "year": "2017",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Greta Gerwig"
+      ],
+      "actors": [
+        "Saoirse Ronan",
+        "Laurie Metcalf",
+        "Tracy Letts",
+        "Lucas Hedges",
+        "Timothée Chalamet",
+        "Beanie Feldstein"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 2977143,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/6/2/7/9/326279-lady-bird-0-230-0-345-crop.jpg?v=754ff28eb4",
+      "url": "https://letterboxd.com/film/lady-bird/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "booksmart",
+      "title": "Booksmart",
+      "year": "2019",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Olivia Wilde"
+      ],
+      "actors": [
+        "Kaitlyn Dever",
+        "Beanie Feldstein",
+        "Jessica Williams",
+        "Jason Sudeikis",
+        "Lisa Kudrow",
+        "Will Forte"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 895121,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/5/4/5/0/435450-booksmart-0-230-0-345-crop.jpg?v=5930d440be",
+      "url": "https://letterboxd.com/film/booksmart/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Comedy": 9,
+      "Drama": 7,
+      "Documentary": 2,
+      "Mystery": 1,
+      "Romance": 1,
+      "Horror": 1
+    },
+    "directors": {
+      "Paul Thomas Anderson": 2,
+      "Emma Seligman": 1,
+      "Jane Schoenbrun": 1,
+      "Richard Linklater": 1,
+      "Chris Smith": 1,
+      "Richard Sandler": 1,
+      "Noah Baumbach": 1,
+      "Kevin Smith": 1,
+      "Greta Gerwig": 1,
+      "Olivia Wilde": 1
+    },
+    "years": {
+      "1993": 1,
+      "1994": 1,
+      "1999": 2,
+      "2012": 1,
+      "2014": 1,
+      "2017": 1,
+      "2019": 1,
+      "2020": 1,
+      "2021": 2
+    }
+  }
+}

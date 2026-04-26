@@ -1,0 +1,1929 @@
+{
+  "query": "y2k aesthetic",
+  "slug": "y2k-aesthetic",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/jorgr/list/y2k-aesthetic/",
+      "user": "jorgr",
+      "slug": "y2k-aesthetic",
+      "title": "y2k aesthetic",
+      "desc": "Jorge Ramírez is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Jorge Ramírez",
+      "tags": []
+    },
+    {
+      "href": "/froglantern/list/y2k-aesthetic/",
+      "user": "froglantern",
+      "slug": "y2k-aesthetic",
+      "title": "Y2K Aesthetic",
+      "desc": "Shiny black & chrome outfits. Digital alphanumeric graphics. Visions of the future circa 1999.",
+      "owner": "List by FrogLantern PATRON",
+      "tags": [
+        "distilled-vibes",
+        "aesthetic",
+        "stylistic",
+        "decades",
+        "1990s",
+        "2000s"
+      ]
+    },
+    {
+      "href": "/juangris/list/y2k-aesthetic/",
+      "user": "juangris",
+      "slug": "y2k-aesthetic",
+      "title": "Y2k aesthetic",
+      "desc": "juangris is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by juangris",
+      "tags": []
+    },
+    {
+      "href": "/microsoft_sam/list/y2k-aesthetic/",
+      "user": "microsoft_sam",
+      "slug": "y2k-aesthetic",
+      "title": "Y2K Aesthetic",
+      "desc": "Microsoft_Sam is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Microsoft_Sam",
+      "tags": [
+        "y2k",
+        "90s",
+        "2000s",
+        "early-2000s"
+      ]
+    },
+    {
+      "href": "/techniclrpakdrm/list/y2k-aesthetic/",
+      "user": "techniclrpakdrm",
+      "slug": "y2k-aesthetic",
+      "title": "Y2K Aesthetic",
+      "desc": "That time of American Culture where everything felt post-modern. Nobody could challenge America militarily on the world stage, the Soviet Union collapsed, China hadn’t grown into an economic powerhouse just yet, the Columbine shooting felt like an exception, 9/11 was right around the corner, & social media wasn’t ripping families apart. \n\n(Note: not all of these movies need to necessarily come out in the year 2000, they just have to be a Blue Collar Comedy or Stoner Flicks from this arbitrary time span of when the economy rebounded a bit after Stagflation/Persian Gulf War & sorta fade out after 9/11)",
+      "owner": "List by TechniclrPakdrm",
+      "tags": []
+    },
+    {
+      "href": "/marinabelmont/list/y2k-aesthetic/",
+      "user": "marinabelmont",
+      "slug": "y2k-aesthetic",
+      "title": "Y2K Aesthetic",
+      "desc": "Films that have a major Y2K/early 2000s look or feel or have a significant part that has it\n\nalso posters\n\nalso theres gonna be a lot of SOV on here",
+      "owner": "List by Marina Belmont",
+      "tags": []
+    },
+    {
+      "href": "/bbgirlspit/list/y2k-aesthetics-in-film/",
+      "user": "bbgirlspit",
+      "slug": "y2k-aesthetics-in-film",
+      "title": "Y2K Aesthetics in Film",
+      "desc": "BB is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by BB",
+      "tags": []
+    },
+    {
+      "href": "/frathehuman/list/early-2000-y2k-aesthetic/",
+      "user": "frathehuman",
+      "slug": "early-2000-y2k-aesthetic",
+      "title": "early 2000 y2k aesthetic",
+      "desc": "frate is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by frate",
+      "tags": []
+    },
+    {
+      "href": "/somelikeitpop/list/the-instagram-pinterest-y2k-aesthetic/",
+      "user": "somelikeitpop",
+      "slug": "the-instagram-pinterest-y2k-aesthetic",
+      "title": "*y2k aesthetic*",
+      "desc": "tumblr is obsessed w/ these films, tiktok & instagram recreate early 2000s iconic looks and pinterest has the mood boards. even if it wasn’t in 2000-2009, it has become co-opted into …. the “y2k aesthetic”",
+      "owner": "List by Zoe PRO",
+      "tags": []
+    }
+  ],
+  "source_list_count": 9,
+  "films_considered": 634,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "the-matrix",
+      "title": "The Matrix",
+      "year": "1999",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving",
+        "Gloria Foster",
+        "Joe Pantoliano"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.18,
+      "rating_count": 2756287,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-230-0-345-crop.jpg?v=fc7c366afe",
+      "url": "https://letterboxd.com/film/the-matrix/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "hackers",
+      "title": "Hackers",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Iain Softley"
+      ],
+      "actors": [
+        "Jonny Lee Miller",
+        "Angelina Jolie",
+        "Matthew Lillard",
+        "Jesse Bradford",
+        "Renoly Santiago",
+        "Laurence Mason"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.31,
+      "rating_count": 96330,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dp/sq/oj/cg/hNjxJbejPHSmKVidHQ9ZHaC0Z7r-0-230-0-345-crop.jpg?v=f0ff67d1b9",
+      "url": "https://letterboxd.com/film/hackers/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "blade-ii",
+      "title": "Blade II",
+      "year": "2002",
+      "genres": [
+        "Horror",
+        "Action",
+        "Fantasy",
+        "Thriller"
+      ],
+      "directors": [
+        "Guillermo del Toro"
+      ],
+      "actors": [
+        "Wesley Snipes",
+        "Kris Kristofferson",
+        "Ron Perlman",
+        "Leonor Varela",
+        "Norman Reedus",
+        "Thomas Kretschmann"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.3,
+      "rating_count": 210303,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/7/8/1/27781-blade-ii-0-230-0-345-crop.jpg?v=cc47042eaa",
+      "url": "https://letterboxd.com/film/blade-ii/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "ultraviolet",
+      "title": "Ultraviolet",
+      "year": "2006",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Kurt Wimmer"
+      ],
+      "actors": [
+        "Milla Jovovich",
+        "Cameron Bright",
+        "Nick Chinlund",
+        "Sebastien Andrieu",
+        "Ida Martin",
+        "William Fichtner"
+      ],
+      "countries": [
+        "Hong Kong",
+        "USA"
+      ],
+      "rating": 2.05,
+      "rating_count": 42528,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/7/1/4/46714-ultraviolet-0-230-0-345-crop.jpg?v=7a502c8055",
+      "url": "https://letterboxd.com/film/ultraviolet/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "charlies-angels",
+      "title": "Charlie's Angels",
+      "year": "2000",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Action"
+      ],
+      "directors": [
+        "McG"
+      ],
+      "actors": [
+        "Cameron Diaz",
+        "Drew Barrymore",
+        "Lucy Liu",
+        "Bill Murray",
+        "Sam Rockwell",
+        "Tim Curry"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.24,
+      "rating_count": 394309,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1m/yy/vt/1n/eBzf9d09Vgq2HSVC4fIZm1QNQd-0-230-0-345-crop.jpg?v=2ad9c80809",
+      "url": "https://letterboxd.com/film/charlies-angels/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-bourne-identity-2002",
+      "title": "The Bourne Identity",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Action",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Doug Liman"
+      ],
+      "actors": [
+        "Matt Damon",
+        "Franka Potente",
+        "Chris Cooper",
+        "Clive Owen",
+        "Brian Cox",
+        "Adewale Akinnuoye-Agbaje"
+      ],
+      "countries": [
+        "USA",
+        "Germany",
+        "Czechia"
+      ],
+      "rating": 3.74,
+      "rating_count": 480568,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/2/2/5/50225-the-bourne-identity-0-230-0-345-crop.jpg?v=84a1e28f00",
+      "url": "https://letterboxd.com/film/the-bourne-identity-2002/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "zenon-girl-of-the-21st-century",
+      "title": "Zenon: Girl of the 21st Century",
+      "year": "1999",
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "TV Movie",
+        "Comedy",
+        "Family"
+      ],
+      "directors": [
+        "Kenneth Johnson"
+      ],
+      "actors": [
+        "Kirsten Storms",
+        "Raven-Symoné",
+        "Stuart Pankin",
+        "Holly Fulger",
+        "Frederick Coffin",
+        "Bob Bancroft"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.95,
+      "rating_count": 17125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/9/4/9/28949-zenon-girl-of-the-21st-century-0-230-0-345-crop.jpg?v=01f40899c5",
+      "url": "https://letterboxd.com/film/zenon-girl-of-the-21st-century/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "ai-artificial-intelligence",
+      "title": "A.I. Artificial Intelligence",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Haley Joel Osment",
+        "Jude Law",
+        "Frances O'Connor",
+        "Sam Robards",
+        "Jake Thomas",
+        "William Hurt"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.65,
+      "rating_count": 304234,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/0/51480-a-i-artificial-intelligence-0-230-0-345-crop.jpg?v=cce766abd8",
+      "url": "https://letterboxd.com/film/ai-artificial-intelligence/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-animatrix",
+      "title": "The Animatrix",
+      "year": "2003",
+      "genres": [
+        "Animation",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Yoshiaki Kawajiri",
+        "Mahiro Maeda",
+        "Shinichiro Watanabe",
+        "Takeshi Koike",
+        "Peter Chung",
+        "Koji Morimoto",
+        "Andrew R. Jones"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Carrie-Anne Moss",
+        "Clayton Watson",
+        "Pamela Adlon",
+        "Melinda Clarke",
+        "John DiMaggio"
+      ],
+      "countries": [
+        "Japan",
+        "USA",
+        "South Korea"
+      ],
+      "rating": 3.73,
+      "rating_count": 75824,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/2/6/1/10261-the-animatrix-0-230-0-345-crop.jpg?v=83fe23ae91",
+      "url": "https://letterboxd.com/film/the-animatrix/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "2gether",
+      "title": "2gether",
+      "year": "2000",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Music"
+      ],
+      "directors": [
+        "Nigel Dick"
+      ],
+      "actors": [
+        "Noah Bastian",
+        "Alan Blumenfeld",
+        "Michael Cuccione",
+        "Kevin Farley",
+        "Evan Farmer",
+        "Alex Solowitz"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.35,
+      "rating_count": 650,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/1/8/14018-2gether-0-230-0-345-crop.jpg?v=11fd8ca47d",
+      "url": "https://letterboxd.com/film/2gether/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "josie-and-the-pussycats",
+      "title": "Josie and the Pussycats",
+      "year": "2001",
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "directors": [
+        "Deborah Kaplan",
+        "Harry Elfont"
+      ],
+      "actors": [
+        "Rachael Leigh Cook",
+        "Rosario Dawson",
+        "Tara Reid",
+        "Alan Cumming",
+        "Parker Posey",
+        "Gabriel Mann"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.58,
+      "rating_count": 73689,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/6/7/6/39676-josie-and-the-pussycats-0-230-0-345-crop.jpg?v=c717dd138a",
+      "url": "https://letterboxd.com/film/josie-and-the-pussycats/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "gia",
+      "title": "Gia",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Michael Cristofer"
+      ],
+      "actors": [
+        "Angelina Jolie",
+        "Elizabeth Mitchell",
+        "Eric Michael Cole",
+        "Kylie Travis",
+        "Louis Giambalvo",
+        "John Considine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.84,
+      "rating_count": 192748,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/0/1/8/43018-gia-0-230-0-345-crop.jpg?v=edd11ef917",
+      "url": "https://letterboxd.com/film/gia/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "millennium-mambo",
+      "title": "Millennium Mambo",
+      "year": "2001",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Hou Hsiao-hsien"
+      ],
+      "actors": [
+        "Shu Qi",
+        "Jack Kao",
+        "Duan Chun-hao",
+        "Doze Niu Cheng-Tse",
+        "Jun Takeuchi",
+        "Yi-Hsuan Chen"
+      ],
+      "countries": [
+        "Taiwan",
+        "France"
+      ],
+      "rating": 3.82,
+      "rating_count": 77021,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/1/9/5/45195-millennium-mambo-0-230-0-345-crop.jpg?v=0ef842bc87",
+      "url": "https://letterboxd.com/film/millennium-mambo/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "zoolander",
+      "title": "Zoolander",
+      "year": "2001",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Ben Stiller"
+      ],
+      "actors": [
+        "Ben Stiller",
+        "Owen Wilson",
+        "Christine Taylor",
+        "Will Ferrell",
+        "Milla Jovovich",
+        "Jerry Stiller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.41,
+      "rating_count": 855173,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/9/8/47198-zoolander-0-230-0-345-crop.jpg?v=b30902c672",
+      "url": "https://letterboxd.com/film/zoolander/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "fight-club",
+      "title": "Fight Club",
+      "year": "1999",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Edward Norton",
+        "Brad Pitt",
+        "Helena Bonham Carter",
+        "Meat Loaf",
+        "Jared Leto",
+        "Zach Grenier"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 4.27,
+      "rating_count": 5273542,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-230-0-345-crop.jpg?v=768b32dfa4",
+      "url": "https://letterboxd.com/film/fight-club/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "spring-breakers",
+      "title": "Spring Breakers",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Harmony Korine"
+      ],
+      "actors": [
+        "James Franco",
+        "Selena Gomez",
+        "Vanessa Hudgens",
+        "Ashley Benson",
+        "Rachel Anna Simon",
+        "Gucci Mane"
+      ],
+      "countries": [
+        "France",
+        "USA",
+        "Mexico"
+      ],
+      "rating": 2.79,
+      "rating_count": 374448,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/1/0/9/96109-spring-breakers-0-230-0-345-crop.jpg?v=419b8d6331",
+      "url": "https://letterboxd.com/film/spring-breakers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "oldboy",
+      "title": "Oldboy",
+      "year": "2003",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ],
+      "actors": [
+        "Choi Min-sik",
+        "Yoo Ji-tae",
+        "Kang Hye-jung",
+        "Kim Byeong-ok",
+        "Ji Dae-han",
+        "Oh Dal-su"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 4.36,
+      "rating_count": 1511367,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/4/51454-oldboy-0-230-0-345-crop.jpg?v=294dbcadef",
+      "url": "https://letterboxd.com/film/oldboy/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-matrix-reloaded",
+      "title": "The Matrix Reloaded",
+      "year": "2003",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving",
+        "Jada Pinkett Smith",
+        "Gloria Foster"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.43,
+      "rating_count": 678419,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/7/51517-the-matrix-reloaded-0-230-0-345-crop.jpg?v=a8bd09d740",
+      "url": "https://letterboxd.com/film/the-matrix-reloaded/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "existenz",
+      "title": "eXistenZ",
+      "year": "1999",
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "David Cronenberg"
+      ],
+      "actors": [
+        "Jennifer Jason Leigh",
+        "Jude Law",
+        "Ian Holm",
+        "Willem Dafoe",
+        "Don McKellar",
+        "Callum Keith Rennie"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "France"
+      ],
+      "rating": 3.61,
+      "rating_count": 130939,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/6/2/50662-existenz-0-230-0-345-crop.jpg?v=8df9e4b893",
+      "url": "https://letterboxd.com/film/existenz/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "run-lola-run",
+      "title": "Run Lola Run",
+      "year": "1998",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Tom Tykwer"
+      ],
+      "actors": [
+        "Franka Potente",
+        "Moritz Bleibtreu",
+        "Herbert Knaup",
+        "Nina Petri",
+        "Armin Rohde",
+        "Joachim Król"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 3.86,
+      "rating_count": 252403,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/6/51946-run-lola-run-0-230-0-345-crop.jpg?v=06ffcb44b3",
+      "url": "https://letterboxd.com/film/run-lola-run/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-one",
+      "title": "The One",
+      "year": "2001",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "James Wong"
+      ],
+      "actors": [
+        "Jet Li",
+        "Carla Gugino",
+        "Delroy Lindo",
+        "Jason Statham",
+        "James Morrison",
+        "Dylan Bruno"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.83,
+      "rating_count": 42722,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/8/8/8/45888-the-one-0-230-0-345-crop.jpg?v=314b45842e",
+      "url": "https://letterboxd.com/film/the-one/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "minority-report",
+      "title": "Minority Report",
+      "year": "2002",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Samantha Morton",
+        "Colin Farrell",
+        "Max von Sydow",
+        "Kathryn Morris",
+        "Steve Harris"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 529564,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1o/qh/5e/ur/dS5AHLt4DhZpisxryIxKJU6Urxb-0-230-0-345-crop.jpg?v=921863cb0d",
+      "url": "https://letterboxd.com/film/minority-report/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "equilibrium",
+      "title": "Equilibrium",
+      "year": "2002",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Kurt Wimmer"
+      ],
+      "actors": [
+        "Christian Bale",
+        "Taye Diggs",
+        "Angus Macfadyen",
+        "Matthew Harbour",
+        "Sean Bean",
+        "Emily Watson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.34,
+      "rating_count": 149382,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ym/wn/qh/0g/equilibrium-0-230-0-345-crop.jpg?v=4ccf964a4e",
+      "url": "https://letterboxd.com/film/equilibrium/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "resident-evil",
+      "title": "Resident Evil",
+      "year": "2002",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Paul W. S. Anderson"
+      ],
+      "actors": [
+        "Milla Jovovich",
+        "Michelle Rodriguez",
+        "Eric Mabius",
+        "James Purefoy",
+        "Martin Crewes",
+        "Colin Salmon"
+      ],
+      "countries": [
+        "Canada",
+        "France",
+        "Germany",
+        "UK"
+      ],
+      "rating": 2.94,
+      "rating_count": 286369,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/be/up/oa/mj/4IuJ58S6jSQ4z7KoIPweX4HDx0n-0-230-0-345-crop.jpg?v=fa13fd465a",
+      "url": "https://letterboxd.com/film/resident-evil/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "godzilla-against-mechagodzilla",
+      "title": "Godzilla Against MechaGodzilla",
+      "year": "2002",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Masaaki Tezuka"
+      ],
+      "actors": [
+        "Yumiko Shaku",
+        "Shin Takuma",
+        "Kana Onodera",
+        "Koh Takasugi",
+        "Akira Nakao",
+        "Yûsuke Tomoi"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.47,
+      "rating_count": 16938,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/4/0/6/44406-godzilla-against-mechagodzilla-0-230-0-345-crop.jpg?v=cc1d4f989c",
+      "url": "https://letterboxd.com/film/godzilla-against-mechagodzilla/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-matrix-revolutions",
+      "title": "The Matrix Revolutions",
+      "year": "2003",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving",
+        "Jada Pinkett Smith",
+        "Mary Alice"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.17,
+      "rating_count": 526735,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/6/51516-the-matrix-revolutions-0-230-0-345-crop.jpg?v=919dceb0be",
+      "url": "https://letterboxd.com/film/the-matrix-revolutions/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "underworld-2003",
+      "title": "Underworld",
+      "year": "2003",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Fantasy"
+      ],
+      "directors": [
+        "Len Wiseman"
+      ],
+      "actors": [
+        "Kate Beckinsale",
+        "Scott Speedman",
+        "Michael Sheen",
+        "Shane Brolly",
+        "Bill Nighy",
+        "Erwin Leder"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.14,
+      "rating_count": 146161,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/68/ib/c9/cp/rdkxl5iXdpVU188cL1LLG3sy6z4-0-230-0-345-crop.jpg?v=f3b9a4eda9",
+      "url": "https://letterboxd.com/film/underworld-2003/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "i-robot",
+      "title": "I, Robot",
+      "year": "2004",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Alex Proyas"
+      ],
+      "actors": [
+        "Will Smith",
+        "Bridget Moynahan",
+        "Alan Tudyk",
+        "James Cromwell",
+        "Bruce Greenwood",
+        "Adrian Ricard"
+      ],
+      "countries": [
+        "USA",
+        "Germany",
+        "Canada"
+      ],
+      "rating": 3.2,
+      "rating_count": 440570,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ux/1s/8d/ra/2mkFzf168xJrV6Leqq0bjqOlJCK-0-230-0-345-crop.jpg?v=0e4ac7c060",
+      "url": "https://letterboxd.com/film/i-robot/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "debs",
+      "title": "D.E.B.S.",
+      "year": "2004",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Angela Robinson"
+      ],
+      "actors": [
+        "Sara Foster",
+        "Jordana Brewster",
+        "Meagan Good",
+        "Devon Aoki",
+        "Jill Ritchie",
+        "Geoff Stults"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 172013,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/7/51577-d-e-b-s--0-230-0-345-crop.jpg?v=f3585ff569",
+      "url": "https://letterboxd.com/film/debs/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "on-flux-2005",
+      "title": "Æon Flux",
+      "year": "2005",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Karyn Kusama"
+      ],
+      "actors": [
+        "Charlize Theron",
+        "Marton Csokas",
+        "Jonny Lee Miller",
+        "Sophie Okonedo",
+        "Frances McDormand",
+        "Pete Postlethwaite"
+      ],
+      "countries": [
+        "USA",
+        "Germany"
+      ],
+      "rating": 2.34,
+      "rating_count": 48774,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/5/9/47859-on-flux-0-230-0-345-crop.jpg?v=2528504aba",
+      "url": "https://letterboxd.com/film/on-flux-2005/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "y2k-1999",
+      "title": "Y2K",
+      "year": "1999",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "TV Movie"
+      ],
+      "directors": [
+        "Dick Lowry"
+      ],
+      "actors": [
+        "Ken Olin",
+        "Joe Morton",
+        "Zack Ward",
+        "Ronny Cox",
+        "Kate Vernon",
+        "Jane McGregor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/0/6/8/3/170683-y2k-0-230-0-345-crop.jpg?v=62956f2487",
+      "url": "https://letterboxd.com/film/y2k-1999/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "y2k",
+      "title": "Y2K",
+      "year": "1999",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Richard Pepin"
+      ],
+      "actors": [
+        "Louis Gossett Jr.",
+        "Jaimz Woolvett",
+        "Malcolm McDowell",
+        "Ed O'Ross",
+        "Sarah Chalke",
+        "Rick Ravanello"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/1/9/8/41198-y2k-0-230-0-345-crop.jpg?v=29cb7deae6",
+      "url": "https://letterboxd.com/film/y2k/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-cell",
+      "title": "The Cell",
+      "year": "2000",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "directors": [
+        "Tarsem Singh"
+      ],
+      "actors": [
+        "Jennifer Lopez",
+        "Vince Vaughn",
+        "Vincent D'Onofrio",
+        "Catherine Sutherland",
+        "James Gammon",
+        "Colton James"
+      ],
+      "countries": [
+        "USA",
+        "Germany",
+        "Namibia"
+      ],
+      "rating": 3.28,
+      "rating_count": 83384,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/5/7/8/47578-the-cell-0-230-0-345-crop.jpg?v=54a80b4cb4",
+      "url": "https://letterboxd.com/film/the-cell/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "jason-x",
+      "title": "Jason X",
+      "year": "2001",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "James Isaac"
+      ],
+      "actors": [
+        "Kane Hodder",
+        "Jeff Geddis",
+        "Lexa Doig",
+        "David Cronenberg",
+        "Markus Parilo",
+        "Jonathan Potts"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.17,
+      "rating_count": 112390,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/7/3/45273-jason-x-0-230-0-345-crop.jpg?v=611a127bf7",
+      "url": "https://letterboxd.com/film/jason-x/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "vanilla-sky",
+      "title": "Vanilla Sky",
+      "year": "2001",
+      "genres": [
+        "Romance",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "directors": [
+        "Cameron Crowe"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Penélope Cruz",
+        "Cameron Diaz",
+        "Kurt Russell",
+        "Jason Lee",
+        "Noah Taylor"
+      ],
+      "countries": [
+        "USA",
+        "Spain"
+      ],
+      "rating": 3.55,
+      "rating_count": 366897,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/0/2/50702-vanilla-sky-0-230-0-345-crop.jpg?v=fbd4b97e55",
+      "url": "https://letterboxd.com/film/vanilla-sky/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "gattaca",
+      "title": "Gattaca",
+      "year": "1997",
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Andrew Niccol"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Uma Thurman",
+        "Jude Law",
+        "Alan Arkin",
+        "Loren Dean",
+        "Gore Vidal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.81,
+      "rating_count": 372870,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/7/0/51370-gattaca-0-230-0-345-crop.jpg?v=a0ca9198ff",
+      "url": "https://letterboxd.com/film/gattaca/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "solaris-2002",
+      "title": "Solaris",
+      "year": "2002",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Steven Soderbergh"
+      ],
+      "actors": [
+        "George Clooney",
+        "Natascha McElhone",
+        "Viola Davis",
+        "Jeremy Davies",
+        "Ulrich Tukur",
+        "Michael Ensign"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.24,
+      "rating_count": 54779,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/5/2/3/50523-solaris-0-230-0-345-crop.jpg?v=d4fe5b84fe",
+      "url": "https://letterboxd.com/film/solaris-2002/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "clockstoppers",
+      "title": "Clockstoppers",
+      "year": "2002",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Family",
+        "Thriller"
+      ],
+      "directors": [
+        "Jonathan Frakes"
+      ],
+      "actors": [
+        "Jesse Bradford",
+        "Paula Garcés",
+        "French Stewart",
+        "Michael Biehn",
+        "Robin Thomas",
+        "Julia Sweeney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.5,
+      "rating_count": 11310,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/5/6/42656-clockstoppers-0-230-0-345-crop.jpg?v=14fa3230cc",
+      "url": "https://letterboxd.com/film/clockstoppers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "cypher",
+      "title": "Cypher",
+      "year": "2002",
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "directors": [
+        "Vincenzo Natali"
+      ],
+      "actors": [
+        "Jeremy Northam",
+        "Kristina Nicoll",
+        "Nigel Bennett",
+        "Kari Matchett",
+        "Lucy Liu",
+        "Timothy Webber"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.24,
+      "rating_count": 6640,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/5/1/6/46516-cypher-0-230-0-345-crop.jpg?v=0473127ecd",
+      "url": "https://letterboxd.com/film/cypher/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "event-horizon",
+      "title": "Event Horizon",
+      "year": "1997",
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Paul W. S. Anderson"
+      ],
+      "actors": [
+        "Laurence Fishburne",
+        "Sam Neill",
+        "Kathleen Quinlan",
+        "Joely Richardson",
+        "Richard T. Jones",
+        "Jack Noseworthy"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.33,
+      "rating_count": 229445,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ee/z5/lx/dc/vo02iJLsem3VCJ2TNvSzRiJMpAE-0-230-0-345-crop.jpg?v=c047098184",
+      "url": "https://letterboxd.com/film/event-horizon/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "nowhere",
+      "title": "Nowhere",
+      "year": "1997",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "James Duval",
+        "Rachel True",
+        "Nathan Bexton",
+        "Chiara Mastroianni",
+        "Debi Mazar",
+        "Kathleen Robertson"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.99,
+      "rating_count": 126682,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1c/re/ju/yk/9CaVnvBRbzsM7mcJoIMncpHSBBN-0-230-0-345-crop.jpg?v=067121cd23",
+      "url": "https://letterboxd.com/film/nowhere/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "2046",
+      "title": "2046",
+      "year": "2004",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Wong Kar-Wai"
+      ],
+      "actors": [
+        "Tony Leung Chiu-wai",
+        "Gong Li",
+        "Faye Wong",
+        "Takuya Kimura",
+        "Zhang Ziyi",
+        "Dong Jie"
+      ],
+      "countries": [
+        "Germany",
+        "Hong Kong",
+        "China",
+        "France",
+        "Italy"
+      ],
+      "rating": 4.05,
+      "rating_count": 141042,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/0/8/51308-2046-0-230-0-345-crop.jpg?v=52246d30bc",
+      "url": "https://letterboxd.com/film/2046/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hellraiser-hellworld",
+      "title": "Hellraiser: Hellworld",
+      "year": "2005",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Rick Bota"
+      ],
+      "actors": [
+        "Katheryn Winnick",
+        "Christopher Jacot",
+        "Henry Cavill",
+        "Khary Payton",
+        "Anna Tolputt",
+        "Lance Henriksen"
+      ],
+      "countries": [
+        "Romania",
+        "USA"
+      ],
+      "rating": 1.9,
+      "rating_count": 22187,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/3/5/7/44357-hellraiser-hellworld-0-230-0-345-crop.jpg?v=d0929300ac",
+      "url": "https://letterboxd.com/film/hellraiser-hellworld/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "steveoedekerkcom",
+      "title": "steve.oedekerk.com",
+      "year": "1997",
+      "genres": [
+        "Animation",
+        "TV Movie",
+        "Comedy"
+      ],
+      "directors": [
+        "Steve Oedekerk"
+      ],
+      "actors": [
+        "Steve Oedekerk",
+        "Thomas F. Wilson",
+        "Kristian Alfonso",
+        "John Mendoza",
+        "Stephen Root",
+        "Fred Willard"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/7/7/2/8/467728-steve-oedekerk-com-0-230-0-345-crop.jpg?v=2e49386460",
+      "url": "https://letterboxd.com/film/steveoedekerkcom/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dark-city-1998",
+      "title": "Dark City",
+      "year": "1998",
+      "genres": [
+        "Mystery",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Alex Proyas"
+      ],
+      "actors": [
+        "Rufus Sewell",
+        "William Hurt",
+        "Kiefer Sutherland",
+        "Jennifer Connelly",
+        "Richard O'Brien",
+        "Ian Richardson"
+      ],
+      "countries": [
+        "Australia",
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 137756,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/6/0/50160-dark-city-0-230-0-345-crop.jpg?v=2627eaaa53",
+      "url": "https://letterboxd.com/film/dark-city-1998/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "2000-ad",
+      "title": "2000 AD",
+      "year": "2000",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "Gordon Chan"
+      ],
+      "actors": [
+        "Aaron Kwok",
+        "Daniel Wu",
+        "Phyllis Quek",
+        "James Lye",
+        "Gigi Choi",
+        "Andrew Lin Hoi"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Singapore"
+      ],
+      "rating": 3.18,
+      "rating_count": 261,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/2/7/30527-2000-ad-0-230-0-345-crop.jpg?v=656499f555",
+      "url": "https://letterboxd.com/film/2000-ad/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "prince-rave-un2-the-year-2000",
+      "title": "Prince: Rave Un2 the Year 2000",
+      "year": "1999",
+      "genres": [
+        "Music"
+      ],
+      "directors": [
+        "Geoff Wonfor"
+      ],
+      "actors": [
+        "Prince",
+        "Morris Day",
+        "Lenny Kravitz",
+        "Larry Graham",
+        "George Clinton",
+        "Maceo Parker"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.64,
+      "rating_count": 261,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/3/4/25434-prince-rave-un2-the-year-2000-0-230-0-345-crop.jpg?v=cdffdfd131",
+      "url": "https://letterboxd.com/film/prince-rave-un2-the-year-2000/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "y2k-family-survival-guide",
+      "title": "Y2K Family Survival Guide",
+      "year": "1999",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Donnie Bisley"
+      ],
+      "actors": [
+        "Leonard Nimoy",
+        "Gordon Denniston",
+        "Greg Hallmark",
+        "Lee Holcomb",
+        "Steve Horn",
+        "Rick Ingraschi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/5/7/0/4/255704-y2k-family-survival-guide-0-230-0-345-crop.jpg?v=a47c075313",
+      "url": "https://letterboxd.com/film/y2k-family-survival-guide/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "donnie-darko",
+      "title": "Donnie Darko",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "directors": [
+        "Richard Kelly"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Jena Malone",
+        "James Duval",
+        "Drew Barrymore",
+        "Beth Grant",
+        "Maggie Gyllenhaal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 2262639,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ye/jq/f3/22/nmb4QhCRmdfNP6rgb81yUFgI83l-0-230-0-345-crop.jpg?v=caa3999c6f",
+      "url": "https://letterboxd.com/film/donnie-darko/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "blade",
+      "title": "Blade",
+      "year": "1998",
+      "genres": [
+        "Action",
+        "Horror"
+      ],
+      "directors": [
+        "Stephen Norrington"
+      ],
+      "actors": [
+        "Wesley Snipes",
+        "Stephen Dorff",
+        "Kris Kristofferson",
+        "N'Bushe Wright",
+        "Donal Logue",
+        "Udo Kier"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.5,
+      "rating_count": 405826,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/7/3/0/27730-blade-0-230-0-345-crop.jpg?v=c6c4275ae2",
+      "url": "https://letterboxd.com/film/blade/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "little-nicky",
+      "title": "Little Nicky",
+      "year": "2000",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Steven Brill"
+      ],
+      "actors": [
+        "Adam Sandler",
+        "Patricia Arquette",
+        "Harvey Keitel",
+        "Rhys Ifans",
+        "Tommy Lister Jr.",
+        "Rodney Dangerfield"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.46,
+      "rating_count": 125174,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/9/2/6/46926-little-nicky-0-230-0-345-crop.jpg?v=f17c94b619",
+      "url": "https://letterboxd.com/film/little-nicky/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "shes-all-that",
+      "title": "She's All That",
+      "year": "1999",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Robert Iscove"
+      ],
+      "actors": [
+        "Freddie Prinze Jr.",
+        "Rachael Leigh Cook",
+        "Paul Walker",
+        "Jodi Lyn O'Keefe",
+        "Kevin Pollak",
+        "Anna Paquin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.95,
+      "rating_count": 406378,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/5/46345-she-s-all-that-0-230-0-345-crop.jpg?v=9ac5114625",
+      "url": "https://letterboxd.com/film/shes-all-that/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "wasted-1996",
+      "title": "Wasted!",
+      "year": "1996",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Aryan Kaganof"
+      ],
+      "actors": [
+        "Fem van der Elzen",
+        "Tygo Gernandt",
+        "Thom Hoffman",
+        "Hugo Metsers",
+        "Mike Libanon",
+        "Skip Goeree"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "rating": 3.4,
+      "rating_count": 405,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/8/0/5/58805-wasted--0-230-0-345-crop.jpg?v=2884444117",
+      "url": "https://letterboxd.com/film/wasted-1996/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mean-girls",
+      "title": "Mean Girls",
+      "year": "2004",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Mark Waters"
+      ],
+      "actors": [
+        "Lindsay Lohan",
+        "Rachel McAdams",
+        "Lizzy Caplan",
+        "Lacey Chabert",
+        "Amanda Seyfried",
+        "Daniel Franzese"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 3063474,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/4/9/46049-mean-girls-0-230-0-345-crop.jpg?v=e6378abb7b",
+      "url": "https://letterboxd.com/film/mean-girls/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "jennifers-body",
+      "title": "Jennifer's Body",
+      "year": "2009",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Karyn Kusama"
+      ],
+      "actors": [
+        "Megan Fox",
+        "Amanda Seyfried",
+        "Johnny Simmons",
+        "Adam Brody",
+        "Sal Cortez",
+        "Ryan Levine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.46,
+      "rating_count": 1416805,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/0/5/39305-jennifer-s-body-0-230-0-345-crop.jpg?v=af7fb6bd86",
+      "url": "https://letterboxd.com/film/jennifers-body/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-princess-diaries",
+      "title": "The Princess Diaries",
+      "year": "2001",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Family"
+      ],
+      "directors": [
+        "Garry Marshall"
+      ],
+      "actors": [
+        "Anne Hathaway",
+        "Julie Andrews",
+        "Heather Matarazzo",
+        "Caroline Goodall",
+        "Héctor Elizondo",
+        "Robert Schwartzman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.71,
+      "rating_count": 1239867,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5w/kf/y1/r9/89CTU3plfKw6mGpzkLmdQkHHLeS-0-230-0-345-crop.jpg?v=66ee5d3a6c",
+      "url": "https://letterboxd.com/film/the-princess-diaries/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "angus-thongs-and-perfect-snogging",
+      "title": "Angus, Thongs and Perfect Snogging",
+      "year": "2008",
+      "genres": [
+        "Family",
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Gurinder Chadha"
+      ],
+      "actors": [
+        "Georgia Groome",
+        "Eleanor Tomlinson",
+        "Aaron Taylor-Johnson",
+        "Tommy Bastow",
+        "Alan Davies",
+        "Karen Taylor"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.41,
+      "rating_count": 157103,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/3/6/6/44366-angus-thongs-and-perfect-snogging-0-230-0-345-crop.jpg?v=d0929300ac",
+      "url": "https://letterboxd.com/film/angus-thongs-and-perfect-snogging/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "clueless",
+      "title": "Clueless",
+      "year": "1995",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Amy Heckerling"
+      ],
+      "actors": [
+        "Alicia Silverstone",
+        "Stacey Dash",
+        "Brittany Murphy",
+        "Paul Rudd",
+        "Donald Faison",
+        "Elisa Donovan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 1810725,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fn/rr/3z/h7/i8gEHh2sszB6YWLC0jl559sxAeN-0-230-0-345-crop.jpg?v=593192fedf",
+      "url": "https://letterboxd.com/film/clueless/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "10-things-i-hate-about-you",
+      "title": "10 Things I Hate About You",
+      "year": "1999",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Gil Junger"
+      ],
+      "actors": [
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.05,
+      "rating_count": 3797218,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/4/7/49047-10-things-i-hate-about-you-0-230-0-345-crop.jpg?v=55ccac3542",
+      "url": "https://letterboxd.com/film/10-things-i-hate-about-you/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "500-days-of-summer",
+      "title": "(500) Days of Summer",
+      "year": "2009",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Marc Webb"
+      ],
+      "actors": [
+        "Joseph Gordon-Levitt",
+        "Zooey Deschanel",
+        "Geoffrey Arend",
+        "Chloë Grace Moretz",
+        "Matthew Gray Gubler",
+        "Clark Gregg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.65,
+      "rating_count": 2998336,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/5/0/39350--500-days-of-summer-0-230-0-345-crop.jpg?v=05995ae0b3",
+      "url": "https://letterboxd.com/film/500-days-of-summer/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Science Fiction": 27,
+      "Thriller": 24,
+      "Action": 23,
+      "Drama": 19,
+      "Comedy": 17,
+      "Romance": 11,
+      "Horror": 9,
+      "Mystery": 8,
+      "Adventure": 6,
+      "Fantasy": 4,
+      "Family": 4,
+      "Crime": 3,
+      "TV Movie": 3,
+      "Music": 3,
+      "Animation": 2,
+      "Documentary": 1
+    },
+    "directors": {
+      "Lana Wachowski": 3,
+      "Lilly Wachowski": 3,
+      "Kurt Wimmer": 2,
+      "Steven Spielberg": 2,
+      "Paul W. S. Anderson": 2,
+      "Alex Proyas": 2,
+      "Karyn Kusama": 2,
+      "Iain Softley": 1,
+      "Guillermo del Toro": 1,
+      "McG": 1,
+      "Doug Liman": 1,
+      "Kenneth Johnson": 1,
+      "Yoshiaki Kawajiri": 1,
+      "Mahiro Maeda": 1,
+      "Shinichiro Watanabe": 1,
+      "Takeshi Koike": 1,
+      "Peter Chung": 1,
+      "Koji Morimoto": 1,
+      "Andrew R. Jones": 1,
+      "Nigel Dick": 1
+    },
+    "years": {
+      "1995": 2,
+      "1996": 1,
+      "1997": 4,
+      "1998": 4,
+      "1999": 10,
+      "2000": 5,
+      "2001": 9,
+      "2002": 9,
+      "2003": 5,
+      "2004": 4,
+      "2005": 2,
+      "2006": 1,
+      "2008": 1,
+      "2009": 2,
+      "2012": 1
+    }
+  }
+}

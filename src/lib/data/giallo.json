@@ -1,0 +1,1961 @@
+{
+  "query": "giallo",
+  "slug": "giallo",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/biscottikyle/list/giallo/",
+      "user": "biscottikyle",
+      "slug": "giallo",
+      "title": "Giallo",
+      "desc": "A list of Gialli compiled from Troy Howarth's books So Deadly, So Perverse Vol. 1 and Vol. 2 and from a wonderfully amazing blog called Krimi in the Pocket Giallo on the Brain by Leonard Jacobs krimi-giallo-casebook.blogspot.com/\n\nThese are only gialli made in Italy or by Italians. I realize that there are gialli made elsewhere but just keeping this list limited to Italy to focus on watching and making another list for foreign gialli.",
+      "owner": "List by Kyle Fleischfresser PATRON",
+      "tags": []
+    },
+    {
+      "href": "/screeningnotes/list/giallo/",
+      "user": "screeningnotes",
+      "slug": "giallo",
+      "title": "Giallo",
+      "desc": "I'm sure there's a better way to find other people's lists, but as an honorary boomer I always struggle, so these are the two lists I use for reference: Exclusive Gialli (only made by Italians in Italy) & Inclusive Gialli (made elsewhere in Europe as well)\n\nIf you’re looking for stuff like Suspiria or modern gialli, you can find them here.",
+      "owner": "List by ScreeningNotes PATRON",
+      "tags": [
+        "giallo",
+        "genre",
+        "horror",
+        "ranked",
+        "thriller",
+        "italy",
+        "foreign"
+      ]
+    },
+    {
+      "href": "/fuchsiadyke/list/giallo/",
+      "user": "fuchsiadyke",
+      "slug": "giallo",
+      "title": "Giallo",
+      "desc": "Sally Jane is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Sally Jane Black PATRON",
+      "tags": [
+        "giallo",
+        "horror",
+        "exploitation",
+        "genre"
+      ]
+    },
+    {
+      "href": "/larinho/list/giallo/",
+      "user": "larinho",
+      "slug": "giallo",
+      "title": "Giallo",
+      "desc": "A list of all the gialli I've seen. I'll update it as I watch more entries.",
+      "owner": "List by Lara Pop",
+      "tags": []
+    },
+    {
+      "href": "/lucacanali/list/giallo/",
+      "user": "lucacanali",
+      "slug": "giallo",
+      "title": "Giallo",
+      "desc": "Ranked list.\nproto/post-gialli and some films from Spain and UK included.",
+      "owner": "List by Luca Canali PRO",
+      "tags": [
+        "genre",
+        "giallo",
+        "allstats"
+      ]
+    },
+    {
+      "href": "/hastapura/list/giallo/",
+      "user": "hastapura",
+      "slug": "giallo",
+      "title": "giallo",
+      "desc": "tentative ranking of all giallo i have seen recently enough to offer an opinion on. \n\nnone of that cattet/forzani stuff honey. suspiria is not a giallo. the formula is something like 30% plot 70% vibes/cinematography/score",
+      "owner": "List by strida",
+      "tags": [
+        "giallo",
+        "ranked"
+      ]
+    },
+    {
+      "href": "/gymnopedie/list/giallo/",
+      "user": "gymnopedie",
+      "slug": "giallo",
+      "title": "Giallo",
+      "desc": "\"In Italian cinema, giallo is a genre of murder mystery fiction that often contains slasher, thriller, psychological horror, sexploitation, and, less frequently, supernatural horror elements. This particular style of Italian-produced murder mystery horror-thriller film usually blends the atmosphere and suspense of thriller fiction with elements of horror fiction and eroticism, and often involves a mysterious killer whose identity is not revealed until the final act of the film. The genre developed in the mid-to-late 1960s, peaked in popularity during the 1970s, and subsequently declined in commercial mainstream filmmaking over the next few decades, though examples continue to be produced.\"",
+      "owner": "List by Gymnopedie PATRON",
+      "tags": [
+        "giallo"
+      ]
+    },
+    {
+      "href": "/kenpocourage/list/giallo/",
+      "user": "kenpocourage",
+      "slug": "giallo",
+      "title": "Giallo!",
+      "desc": "A list of all the Gialli I've watched/re-watched since starting Letterboxd.\n\nNOTE: In addition to the Italian gialli, I'm also including non-Italian gialli (ala. Blue Eyes of the Broken Doll and Dressed To Kill) and giallo-inflected movies (ala. Cruising and Alice, Sweet Alice). I'll specifically write a note beneath the title that identifies these as non-Italian.",
+      "owner": "List by Dan Santelli PATRON",
+      "tags": [
+        "giallo",
+        "horror",
+        "italian",
+        "genre-films"
+      ]
+    },
+    {
+      "href": "/maraudervideo/list/giallo/",
+      "user": "maraudervideo",
+      "slug": "giallo",
+      "title": "Giallo",
+      "desc": "Giallo is probably my favourite genre of Italian cinema and one of my favourites genres of film in general, so I've made it my life duty to watch as many of them as I can. This is a list of the films I've seen thus far.\n\nItalian productions and co-productions are included. Giallo/Poliziotteschi hybrids are included as well.\n\nWork in progress.",
+      "owner": "List by marauder",
+      "tags": [
+        "giallo",
+        "italy",
+        "mystery",
+        "watched",
+        "murder"
+      ]
+    },
+    {
+      "href": "/screendrafts/list/giallo/",
+      "user": "screendrafts",
+      "slug": "giallo",
+      "title": "GIALLO",
+      "desc": "Shock Waves cohorts Rebekah McKendry and Elric Kane draft the seven best Giallo films ever made!\nEpisode released on 1/21/20",
+      "owner": "List by Screen Drafts",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 315,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "blood-and-black-lace",
+      "title": "Blood and Black Lace",
+      "year": "1964",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Mario Bava"
+      ],
+      "actors": [
+        "Cameron Mitchell",
+        "Eva Bartok",
+        "Thomas Reiner",
+        "Ariana Gorini",
+        "Dante DiPaolo",
+        "Mary Arden"
+      ],
+      "countries": [
+        "Germany",
+        "France",
+        "Italy"
+      ],
+      "rating": 3.72,
+      "rating_count": 57048,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/9/6/5/33965-blood-and-black-lace-0-230-0-345-crop.jpg?v=4e6a74dca9",
+      "url": "https://letterboxd.com/film/blood-and-black-lace/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "deep-red",
+      "title": "Deep Red",
+      "year": "1975",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "David Hemmings",
+        "Daria Nicolodi",
+        "Gabriele Lavia",
+        "Macha Méril",
+        "Eros Pagni",
+        "Giuliana Calandra"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.92,
+      "rating_count": 127832,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/37/4z/4w/cc/rSHs6nsCw6vJwgz9djlAp4g3NCN-0-230-0-345-crop.jpg?v=f93ceb8e5b",
+      "url": "https://letterboxd.com/film/deep-red/",
+      "appears_in_n_lists": 10
+    },
+    {
+      "slug": "the-bird-with-the-crystal-plumage",
+      "title": "The Bird with the Crystal Plumage",
+      "year": "1970",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Tony Musante",
+        "Suzy Kendall",
+        "Enrico Maria Salerno",
+        "Eva Renzi",
+        "Umberto Raho",
+        "Renato Romano"
+      ],
+      "countries": [
+        "Germany",
+        "Italy"
+      ],
+      "rating": 3.7,
+      "rating_count": 70170,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/7/2/39072-the-bird-with-the-crystal-plumage-0-230-0-345-crop.jpg?v=f186187f43",
+      "url": "https://letterboxd.com/film/the-bird-with-the-crystal-plumage/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "a-lizard-in-a-womans-skin",
+      "title": "A Lizard in a Woman's Skin",
+      "year": "1971",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Florinda Bolkan",
+        "Stanley Baker",
+        "Jean Sorel",
+        "Silvia Monti",
+        "Alberto de Mendoza",
+        "Penny Brown"
+      ],
+      "countries": [
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "rating": 3.56,
+      "rating_count": 14949,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/9/7/3797-a-lizard-in-a-woman-s-skin-0-230-0-345-crop.jpg?v=ed0e38cc9e",
+      "url": "https://letterboxd.com/film/a-lizard-in-a-womans-skin/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-strange-vice-of-mrs-wardh",
+      "title": "The Strange Vice of Mrs Wardh",
+      "year": "1971",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Horror"
+      ],
+      "directors": [
+        "Sergio Martino"
+      ],
+      "actors": [
+        "Edwige Fenech",
+        "George Hilton",
+        "Ivan Rassimov",
+        "Conchita Airoldi",
+        "Manuel Gil",
+        "Carlo Alighiero"
+      ],
+      "countries": [
+        "Italy",
+        "Spain"
+      ],
+      "rating": 3.6,
+      "rating_count": 12646,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/4/8/31648-the-strange-vice-of-mrs-wardh-0-230-0-345-crop.jpg?v=e619348253",
+      "url": "https://letterboxd.com/film/the-strange-vice-of-mrs-wardh/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-fifth-cord",
+      "title": "The Fifth Cord",
+      "year": "1971",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Luigi Bazzoni"
+      ],
+      "actors": [
+        "Franco Nero",
+        "Silvia Monti",
+        "Wolfgang Preiss",
+        "Edmund Purdom",
+        "Rossella Falk",
+        "Renato Romano"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.48,
+      "rating_count": 6888,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/4/1/3/22413-the-fifth-cord-0-230-0-345-crop.jpg?v=84360786e0",
+      "url": "https://letterboxd.com/film/the-fifth-cord/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "dont-torture-a-duckling",
+      "title": "Don't Torture a Duckling",
+      "year": "1972",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Florinda Bolkan",
+        "Barbara Bouchet",
+        "Tomas Milian",
+        "Irene Papas",
+        "Marc Porel",
+        "Georges Wilson"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.67,
+      "rating_count": 32132,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/3/9/16239-don-t-torture-a-duckling-0-230-0-345-crop.jpg?v=47ac6f44d1",
+      "url": "https://letterboxd.com/film/dont-torture-a-duckling/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "torso",
+      "title": "Torso",
+      "year": "1973",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Sergio Martino"
+      ],
+      "actors": [
+        "Suzy Kendall",
+        "Tina Aumont",
+        "Luc Merenda",
+        "John Richardson",
+        "Roberto Bisacco",
+        "Ernesto Colli"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.43,
+      "rating_count": 23415,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/0/1/4/31014-torso-0-230-0-345-crop.jpg?v=973ef29ec3",
+      "url": "https://letterboxd.com/film/torso/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-psychic",
+      "title": "The Psychic",
+      "year": "1977",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Jennifer O'Neill",
+        "Gabriele Ferzetti",
+        "Marc Porel",
+        "Gianni Garko",
+        "Ida Galli",
+        "Jenny Tamburi"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.54,
+      "rating_count": 16473,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/2/7/7/34277-the-psychic-0-230-0-345-crop.jpg?v=ae646aa888",
+      "url": "https://letterboxd.com/film/the-psychic/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "tenebre",
+      "title": "Tenebre",
+      "year": "1982",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Anthony Franciosa",
+        "John Saxon",
+        "Daria Nicolodi",
+        "Giuliano Gemma",
+        "Christian Borromeo",
+        "Mirella D'Angelo"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.74,
+      "rating_count": 85726,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/6/2/3/32623-tenebre-0-230-0-345-crop.jpg?v=7486dd976a",
+      "url": "https://letterboxd.com/film/tenebre/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "opera",
+      "title": "Opera",
+      "year": "1987",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Cristina Marsillach",
+        "Ian Charleson",
+        "Urbano Barberini",
+        "Daria Nicolodi",
+        "Coralina Cataldi-Tassoni",
+        "Antonella Vitale"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.65,
+      "rating_count": 65377,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/2/2/6/39226-opera-0-230-0-345-crop.jpg?v=2c8f105685",
+      "url": "https://letterboxd.com/film/opera/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-black-belly-of-the-tarantula",
+      "title": "The Black Belly of the Tarantula",
+      "year": "1971",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Paolo Cavara"
+      ],
+      "actors": [
+        "Giancarlo Giannini",
+        "Claudine Auger",
+        "Barbara Bouchet",
+        "Rossella Falk",
+        "Silvano Tranquilli",
+        "Annabella Incontrera"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 3.23,
+      "rating_count": 5707,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/2/7/1/35271-black-belly-of-the-tarantula-0-230-0-345-crop.jpg?v=b7ecba96d0",
+      "url": "https://letterboxd.com/film/the-black-belly-of-the-tarantula/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-cat-o-nine-tails",
+      "title": "The Cat o' Nine Tails",
+      "year": "1971",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "James Franciscus",
+        "Karl Malden",
+        "Catherine Spaak",
+        "Pier Paolo Capponi",
+        "Horst Frank",
+        "Rada Rassimov"
+      ],
+      "countries": [
+        "Germany",
+        "France",
+        "Italy"
+      ],
+      "rating": 3.36,
+      "rating_count": 27588,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/5/3/0/34530-the-cat-o-nine-tails-0-230-0-345-crop.jpg?v=88b1002068",
+      "url": "https://letterboxd.com/film/the-cat-o-nine-tails/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "what-have-you-done-to-solange",
+      "title": "What Have You Done to Solange?",
+      "year": "1972",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Massimo Dallamano"
+      ],
+      "actors": [
+        "Fabio Testi",
+        "Karin Baal",
+        "Cristina Galbó",
+        "Joachim Fuchsberger",
+        "Günther Stoll",
+        "Claudia Butenuth"
+      ],
+      "countries": [
+        "Germany",
+        "Italy"
+      ],
+      "rating": 3.52,
+      "rating_count": 10728,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/2/4/2/48242-what-have-you-done-to-solange--0-230-0-345-crop.jpg?v=30d567ea69",
+      "url": "https://letterboxd.com/film/what-have-you-done-to-solange/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "your-vice-is-a-locked-room-and-only-i-have-the-key",
+      "title": "Your Vice Is a Locked Room and Only I Have the Key",
+      "year": "1972",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Sergio Martino"
+      ],
+      "actors": [
+        "Edwige Fenech",
+        "Anita Strindberg",
+        "Luigi Pistilli",
+        "Ivan Rassimov",
+        "Angela La Vorgna",
+        "Enrica Bonaccorti"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.43,
+      "rating_count": 13497,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/5/3/9/59539-your-vice-is-a-locked-room-and-only-i-have-the-key-0-230-0-345-crop.jpg?v=3b84f897d9",
+      "url": "https://letterboxd.com/film/your-vice-is-a-locked-room-and-only-i-have-the-key/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "short-night-of-glass-dolls",
+      "title": "Short Night of Glass Dolls",
+      "year": "1971",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Aldo Lado"
+      ],
+      "actors": [
+        "Ingrid Thulin",
+        "Jean Sorel",
+        "Mario Adorf",
+        "Barbara Bach",
+        "Fabijan Šovagović",
+        "José Quaglio"
+      ],
+      "countries": [
+        "Germany",
+        "Italy",
+        "Yugoslavia"
+      ],
+      "rating": 3.45,
+      "rating_count": 7212,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/8/7/24887-short-night-of-glass-dolls-0-230-0-345-crop.jpg?v=3509660f65",
+      "url": "https://letterboxd.com/film/short-night-of-glass-dolls/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-case-of-the-bloody-iris",
+      "title": "The Case of the Bloody Iris",
+      "year": "1972",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Giuliano Carnimeo"
+      ],
+      "actors": [
+        "Edwige Fenech",
+        "George Hilton",
+        "Paola Quattrini",
+        "Giampiero Albertini",
+        "Franco Agostini",
+        "Oreste Lionello"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.33,
+      "rating_count": 6819,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/0/8/1/33081-the-case-of-the-bloody-iris-0-230-0-345-crop.jpg?v=db4471b7a5",
+      "url": "https://letterboxd.com/film/the-case-of-the-bloody-iris/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-house-with-laughing-windows",
+      "title": "The House with Laughing Windows",
+      "year": "1976",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Pupi Avati"
+      ],
+      "actors": [
+        "Lino Capolicchio",
+        "Francesca Marciano",
+        "Gianni Cavina",
+        "Giulio Pizzirani",
+        "Bob Tonelli",
+        "Vanna Busoni"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.58,
+      "rating_count": 15942,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/1/8/8718-the-house-with-laughing-windows-0-230-0-345-crop.jpg?v=a74059aa42",
+      "url": "https://letterboxd.com/film/the-house-with-laughing-windows/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-new-york-ripper",
+      "title": "The New York Ripper",
+      "year": "1982",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Jack Hedley",
+        "Almanta Suska",
+        "Howard Ross",
+        "Andrea Occhipinti",
+        "Alexandra Delli Colli",
+        "Paolo Malco"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.31,
+      "rating_count": 26659,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/b5/na/5u/e2/yoR0uX8YXjtyRHv48byKYK8nsjg-0-230-0-345-crop.jpg?v=957ea24cd8",
+      "url": "https://letterboxd.com/film/the-new-york-ripper/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "sleepless",
+      "title": "Sleepless",
+      "year": "2001",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Max von Sydow",
+        "Stefano Dionisi",
+        "Chiara Caselli",
+        "Gabriele Lavia",
+        "Rossella Falk",
+        "Paolo Maria Scalondro"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.21,
+      "rating_count": 7700,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/2/4/9/25249-sleepless-0-230-0-345-crop.jpg?v=e0d9194382",
+      "url": "https://letterboxd.com/film/sleepless/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-girl-who-knew-too-much",
+      "title": "The Girl Who Knew Too Much",
+      "year": "1963",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Mario Bava"
+      ],
+      "actors": [
+        "John Saxon",
+        "Letícia Román",
+        "Valentina Cortese",
+        "Dante DiPaolo",
+        "Titti Tomaino",
+        "Luigi Bonos"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.54,
+      "rating_count": 14507,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/9/7/9/33979-the-girl-who-knew-too-much-0-230-0-345-crop.jpg?v=dfc5cbb349",
+      "url": "https://letterboxd.com/film/the-girl-who-knew-too-much/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "four-flies-on-grey-velvet",
+      "title": "Four Flies on Grey Velvet",
+      "year": "1971",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Michael Brandon",
+        "Mimsy Farmer",
+        "Jean-Pierre Marielle",
+        "Aldo Bufi Landi",
+        "Calisto Calisti",
+        "Marisa Fabbri"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 3.44,
+      "rating_count": 26029,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/8/2/5/31825-four-flies-on-grey-velvet-0-230-0-345-crop.jpg?v=d91993ddb4",
+      "url": "https://letterboxd.com/film/four-flies-on-grey-velvet/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-case-of-the-scorpions-tail",
+      "title": "The Case of the Scorpion's Tail",
+      "year": "1971",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Sergio Martino"
+      ],
+      "actors": [
+        "George Hilton",
+        "Anita Strindberg",
+        "Alberto de Mendoza",
+        "Ida Galli",
+        "Janine Reynaud",
+        "Luigi Pistilli"
+      ],
+      "countries": [
+        "Italy",
+        "Spain"
+      ],
+      "rating": 3.42,
+      "rating_count": 5787,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/3/7/7/41377-the-case-of-the-scorpion-s-tail-0-230-0-345-crop.jpg?v=3a01dd3920",
+      "url": "https://letterboxd.com/film/the-case-of-the-scorpions-tail/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "a-bay-of-blood",
+      "title": "A Bay of Blood",
+      "year": "1971",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Mario Bava"
+      ],
+      "actors": [
+        "Claudine Auger",
+        "Luigi Pistilli",
+        "Claudio Camaso",
+        "Anna Maria Rosati",
+        "Chris Avram",
+        "Leopoldo Trieste"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.37,
+      "rating_count": 39041,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/3/48833-a-bay-of-blood-0-230-0-345-crop.jpg?v=8576ae86dd",
+      "url": "https://letterboxd.com/film/a-bay-of-blood/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "all-the-colours-of-the-dark",
+      "title": "All the Colours of the Dark",
+      "year": "1972",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Sergio Martino"
+      ],
+      "actors": [
+        "George Hilton",
+        "Edwige Fenech",
+        "Ivan Rassimov",
+        "Julián Ugarte",
+        "George Rigaud",
+        "Maria Cumani Quasimodo"
+      ],
+      "countries": [
+        "Italy",
+        "Spain"
+      ],
+      "rating": 3.52,
+      "rating_count": 19372,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ds/nd/8h/k6/6eh5n7OuZuxoqvEDuXzb46mIlxv-0-230-0-345-crop.jpg?v=494485aa53",
+      "url": "https://letterboxd.com/film/all-the-colours-of-the-dark/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "spasmo",
+      "title": "Spasmo",
+      "year": "1974",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Umberto Lenzi"
+      ],
+      "actors": [
+        "Robert Hoffmann",
+        "Suzy Kendall",
+        "Ivan Rassimov",
+        "Adolfo Lastretti",
+        "Franco Silva",
+        "Mario Erpichini"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.13,
+      "rating_count": 3208,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/1/7/1/78171-spasmo-0-230-0-345-crop.jpg?v=3226f932e6",
+      "url": "https://letterboxd.com/film/spasmo/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "what-have-they-done-to-your-daughters",
+      "title": "What Have They Done to Your Daughters?",
+      "year": "1974",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Massimo Dallamano"
+      ],
+      "actors": [
+        "Giovanna Ralli",
+        "Claudio Cassinelli",
+        "Mario Adorf",
+        "Franco Fabrizi",
+        "Farley Granger",
+        "Marina Berti"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.5,
+      "rating_count": 6812,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/5/3/6/54536-what-have-they-done-to-your-daughters--0-230-0-345-crop.jpg?v=1b5a88dabd",
+      "url": "https://letterboxd.com/film/what-have-they-done-to-your-daughters/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "eyeball",
+      "title": "Eyeball",
+      "year": "1975",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Umberto Lenzi"
+      ],
+      "actors": [
+        "Martine Brochard",
+        "John Richardson",
+        "Ines Pellegrini",
+        "Andrés Mejuto",
+        "Mirta Miller",
+        "Daniele Vargas"
+      ],
+      "countries": [
+        "Italy",
+        "Spain"
+      ],
+      "rating": 3.11,
+      "rating_count": 4433,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/4/8/9/24489-eyeball-0-230-0-345-crop.jpg?v=bad6a064fb",
+      "url": "https://letterboxd.com/film/eyeball/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-forbidden-photos-of-a-lady-above-suspicion",
+      "title": "The Forbidden Photos of a Lady Above Suspicion",
+      "year": "1970",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Luciano Ercoli"
+      ],
+      "actors": [
+        "Dagmar Lassander",
+        "Pier Paolo Capponi",
+        "Simón Andreu",
+        "Osvaldo Genazzani",
+        "Salvador Huguet",
+        "Nieves Navarro"
+      ],
+      "countries": [
+        "Spain",
+        "Italy"
+      ],
+      "rating": 3.3,
+      "rating_count": 4345,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/0/3/2/77032-the-forbidden-photos-of-a-lady-above-suspicion-0-230-0-345-crop.jpg?v=2fd335810f",
+      "url": "https://letterboxd.com/film/the-forbidden-photos-of-a-lady-above-suspicion/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "a-quiet-place-to-kill",
+      "title": "A Quiet Place to Kill",
+      "year": "1970",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Umberto Lenzi"
+      ],
+      "actors": [
+        "Carroll Baker",
+        "Jean Sorel",
+        "Alberto Dalbés",
+        "Anna Proclemer",
+        "Luis Dávila",
+        "Marina Coffa"
+      ],
+      "countries": [
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "rating": 3.24,
+      "rating_count": 2668,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/0/6/5/85065-a-quiet-place-to-kill-0-230-0-345-crop.jpg?v=4573512737",
+      "url": "https://letterboxd.com/film/a-quiet-place-to-kill/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "death-walks-on-high-heels",
+      "title": "Death Walks on High Heels",
+      "year": "1971",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Luciano Ercoli"
+      ],
+      "actors": [
+        "Frank Wolff",
+        "Nieves Navarro",
+        "Simón Andreu",
+        "Carlo Gentili",
+        "George Rigaud",
+        "José Manuel Martín"
+      ],
+      "countries": [
+        "Spain",
+        "Italy"
+      ],
+      "rating": 3.28,
+      "rating_count": 4574,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/4/5/4/63454-death-walks-on-high-heels-0-230-0-345-crop.jpg?v=10d5cd1d61",
+      "url": "https://letterboxd.com/film/death-walks-on-high-heels/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "who-saw-her-die",
+      "title": "Who Saw Her Die?",
+      "year": "1972",
+      "genres": [
+        "Horror",
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Aldo Lado"
+      ],
+      "actors": [
+        "George Lazenby",
+        "Anita Strindberg",
+        "Adolfo Celi",
+        "Dominique Boschero",
+        "Peter Chatel",
+        "Piero Vida"
+      ],
+      "countries": [
+        "Italy",
+        "Germany"
+      ],
+      "rating": 3.29,
+      "rating_count": 5615,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/5/3/8/54538-who-saw-her-die--0-230-0-345-crop.jpg?v=bad942b601",
+      "url": "https://letterboxd.com/film/who-saw-her-die/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-red-queen-kills-seven-times",
+      "title": "The Red Queen Kills Seven Times",
+      "year": "1972",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Emilio P. Miraglia"
+      ],
+      "actors": [
+        "Barbara Bouchet",
+        "Ugo Pagliai",
+        "Marina Malfatti",
+        "Marino Masé",
+        "Pia Giancaro",
+        "Sybil Danning"
+      ],
+      "countries": [
+        "Germany",
+        "Italy"
+      ],
+      "rating": 3.41,
+      "rating_count": 9737,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/7/5/9/24759-the-red-queen-kills-seven-times-0-230-0-345-crop.jpg?v=c120035957",
+      "url": "https://letterboxd.com/film/the-red-queen-kills-seven-times/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "death-walks-at-midnight",
+      "title": "Death Walks at Midnight",
+      "year": "1972",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Luciano Ercoli"
+      ],
+      "actors": [
+        "Nieves Navarro",
+        "Simón Andreu",
+        "Pietro Martellanza",
+        "Carlo Gentili",
+        "Ivano Staccioli",
+        "Claudio Pellegrini"
+      ],
+      "countries": [
+        "Spain",
+        "Italy"
+      ],
+      "rating": 3.31,
+      "rating_count": 5290,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/4/6/5/76465-death-walks-at-midnight-0-230-0-345-crop.jpg?v=730427a570",
+      "url": "https://letterboxd.com/film/death-walks-at-midnight/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "autopsy-1975",
+      "title": "Autopsy",
+      "year": "1975",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Armando Crispino"
+      ],
+      "actors": [
+        "Mimsy Farmer",
+        "Barry Primus",
+        "Ray Lovelock",
+        "Carlo Cataneo",
+        "Angela Goodwin",
+        "Gaby Wagner"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.06,
+      "rating_count": 4191,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/4/1/1/79411-autopsy-0-230-0-345-crop.jpg?v=172e2b98a5",
+      "url": "https://letterboxd.com/film/autopsy-1975/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-killer-must-kill-again",
+      "title": "The Killer Must Kill Again",
+      "year": "1975",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Horror"
+      ],
+      "directors": [
+        "Luigi Cozzi"
+      ],
+      "actors": [
+        "George Hilton",
+        "Antoine Saint-John",
+        "Femi Benussi",
+        "Cristina Galbó",
+        "Eduardo Fajardo",
+        "Teresa Velázquez"
+      ],
+      "countries": [
+        "Italy",
+        "France"
+      ],
+      "rating": 3.19,
+      "rating_count": 1509,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/9/6/3796-the-killer-must-kill-again-0-230-0-345-crop.jpg?v=79ec47dcb2",
+      "url": "https://letterboxd.com/film/the-killer-must-kill-again/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-bloodstained-shadow",
+      "title": "The Bloodstained Shadow",
+      "year": "1978",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Antonio Bido"
+      ],
+      "actors": [
+        "Lino Capolicchio",
+        "Stefania Casini",
+        "Craig Hill",
+        "Massimo Serato",
+        "Juliette Mayniel",
+        "Laura Nucci"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.21,
+      "rating_count": 3037,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/2/6/9/81269-the-bloodstained-shadow-0-230-0-345-crop.jpg?v=382c7a50a5",
+      "url": "https://letterboxd.com/film/the-bloodstained-shadow/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "stage-fright-1987",
+      "title": "Stage Fright",
+      "year": "1987",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Michele Soavi"
+      ],
+      "actors": [
+        "Barbara Cupisti",
+        "David Brandon",
+        "Robert Gligorov",
+        "Mary Sellers",
+        "Giovanni Lombardo Radice",
+        "James Sampson"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.51,
+      "rating_count": 28206,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/9/4/38994-stage-fright-1987-0-230-0-345-crop.jpg?v=4b448b8915",
+      "url": "https://letterboxd.com/film/stage-fright-1987/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "trauma-1993",
+      "title": "Trauma",
+      "year": "1993",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Christopher Rydell",
+        "Asia Argento",
+        "Piper Laurie",
+        "Frederic Forrest",
+        "Laura Johnson",
+        "Dominique Serrand"
+      ],
+      "countries": [
+        "Italy",
+        "USA"
+      ],
+      "rating": 2.97,
+      "rating_count": 12087,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/4/3/20743-trauma-0-230-0-345-crop.jpg?v=aa029ff275",
+      "url": "https://letterboxd.com/film/trauma-1993/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "footprints-on-the-moon-1975",
+      "title": "Footprints on the Moon",
+      "year": "1975",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Luigi Bazzoni",
+        "Mario Fanelli"
+      ],
+      "actors": [
+        "Florinda Bolkan",
+        "Peter McEnery",
+        "Nicoletta Elmi",
+        "Klaus Kinski",
+        "Lila Kedrova",
+        "Caterina Boratto"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.47,
+      "rating_count": 5800,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/8/2/1/68821-footprints-0-230-0-345-crop.jpg?v=6af60f81ca",
+      "url": "https://letterboxd.com/film/footprints-on-the-moon-1975/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "one-on-top-of-the-other",
+      "title": "One on Top of the Other",
+      "year": "1969",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Lucio Fulci"
+      ],
+      "actors": [
+        "Jean Sorel",
+        "Marisa Mell",
+        "Elsa Martinelli",
+        "Alberto de Mendoza",
+        "John Ireland",
+        "Riccardo Cucciolla"
+      ],
+      "countries": [
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "rating": 3.44,
+      "rating_count": 3869,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/1/8/0/60180-one-on-top-of-the-other-0-230-0-345-crop.jpg?v=7c5debff66",
+      "url": "https://letterboxd.com/film/one-on-top-of-the-other/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "so-sweet-so-perverse",
+      "title": "So Sweet... So Perverse",
+      "year": "1969",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Umberto Lenzi"
+      ],
+      "actors": [
+        "Carroll Baker",
+        "Jean-Louis Trintignant",
+        "Erika Blanc",
+        "Horst Frank",
+        "Helga Liné",
+        "Ermelinda De Felice"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "rating": 3.09,
+      "rating_count": 2842,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/4/3/2/62432-so-sweet-so-perverse-0-230-0-345-crop.jpg?v=0f99554780",
+      "url": "https://letterboxd.com/film/so-sweet-so-perverse/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "five-dolls-for-an-august-moon",
+      "title": "Five Dolls for an August Moon",
+      "year": "1970",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Mario Bava"
+      ],
+      "actors": [
+        "Ira von Fürstenberg",
+        "Edwige Fenech",
+        "Howard Ross",
+        "Helena Ronee",
+        "Teodoro Corrà",
+        "Ely Galleani"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.03,
+      "rating_count": 7370,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/if/rj/qg/gt/xZFS3RwudBCW3TPVzA7SBWEyAeS-0-230-0-345-crop.jpg?v=61de3c8745",
+      "url": "https://letterboxd.com/film/five-dolls-for-an-august-moon/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "hatchet-for-the-honeymoon",
+      "title": "Hatchet for the Honeymoon",
+      "year": "1970",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Mario Bava"
+      ],
+      "actors": [
+        "Stephen Forsyth",
+        "Dagmar Lassander",
+        "Laura Betti",
+        "Jesús Puente",
+        "Femi Benussi",
+        "Antonia Mas"
+      ],
+      "countries": [
+        "Italy",
+        "Spain"
+      ],
+      "rating": 3.34,
+      "rating_count": 7880,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/9/7/0/33970-hatchet-for-the-honeymoon-0-230-0-345-crop.jpg?v=45771934d9",
+      "url": "https://letterboxd.com/film/hatchet-for-the-honeymoon/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-bloodstained-butterfly",
+      "title": "The Bloodstained Butterfly",
+      "year": "1971",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Duccio Tessari"
+      ],
+      "actors": [
+        "Helmut Berger",
+        "Giancarlo Sbragia",
+        "Ida Galli",
+        "Wendy D'Olive",
+        "Günther Stoll",
+        "Carole André"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.26,
+      "rating_count": 3539,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/8/2/4/32824-the-bloodstained-butterfly-0-230-0-345-crop.jpg?v=6f2c43c114",
+      "url": "https://letterboxd.com/film/the-bloodstained-butterfly/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-night-evelyn-came-out-of-the-grave",
+      "title": "The Night Evelyn Came Out of the Grave",
+      "year": "1971",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Emilio P. Miraglia"
+      ],
+      "actors": [
+        "Anthony Steffen",
+        "Marina Malfatti",
+        "Enzo Tarascio",
+        "Giacomo Rossi Stuart",
+        "Umberto Raho",
+        "Roberto Maldera"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.08,
+      "rating_count": 5237,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/5/8/4/22584-the-night-evelyn-came-out-of-the-grave-0-230-0-345-crop.jpg?v=f03785e189",
+      "url": "https://letterboxd.com/film/the-night-evelyn-came-out-of-the-grave/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "slaughter-hotel",
+      "title": "Slaughter Hotel",
+      "year": "1971",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Fernando Di Leo"
+      ],
+      "actors": [
+        "Klaus Kinski",
+        "Margaret Lee",
+        "Rosalba Neri",
+        "Jane Garret",
+        "John Karlsen",
+        "Gioia Desideri"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.71,
+      "rating_count": 2650,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/5/2/2/34522-slaughter-hotel-0-230-0-345-crop.jpg?v=9036a1e9df",
+      "url": "https://letterboxd.com/film/slaughter-hotel/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "seven-blood-stained-orchids",
+      "title": "Seven Blood-Stained Orchids",
+      "year": "1972",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Umberto Lenzi"
+      ],
+      "actors": [
+        "Antonio Sabàto",
+        "Uschi Glas",
+        "Pier Paolo Capponi",
+        "Rossella Falk",
+        "Marina Malfatti",
+        "Renato Romano"
+      ],
+      "countries": [
+        "Germany",
+        "Italy"
+      ],
+      "rating": 3.18,
+      "rating_count": 3854,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/6/0/7/49607-seven-blood-stained-orchids-0-230-0-345-crop.jpg?v=5ef4f838d5",
+      "url": "https://letterboxd.com/film/seven-blood-stained-orchids/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "amuck",
+      "title": "Amuck!",
+      "year": "1972",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Silvio Amadio"
+      ],
+      "actors": [
+        "Barbara Bouchet",
+        "Farley Granger",
+        "Rosalba Neri",
+        "Dino Mele",
+        "Umberto Raho",
+        "Patrizia Viotti"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.18,
+      "rating_count": 3100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/426-amuck--0-230-0-345-crop.jpg?v=a926372132",
+      "url": "https://letterboxd.com/film/amuck/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "eye-in-the-labyrinth",
+      "title": "Eye in the Labyrinth",
+      "year": "1972",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Mario Caiano"
+      ],
+      "actors": [
+        "Rosemary Dexter",
+        "Adolfo Celi",
+        "Alida Valli",
+        "Horst Frank",
+        "Sybil Danning",
+        "Franco Ressel"
+      ],
+      "countries": [
+        "Monaco",
+        "Italy"
+      ],
+      "rating": 3.03,
+      "rating_count": 1959,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/8/9/61989-eye-in-the-labyrinth-0-230-0-345-crop.jpg?v=a805e88d3e",
+      "url": "https://letterboxd.com/film/eye-in-the-labyrinth/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "puzzle-1974",
+      "title": "Puzzle",
+      "year": "1974",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Duccio Tessari"
+      ],
+      "actors": [
+        "Senta Berger",
+        "Luc Merenda",
+        "Umberto Orsini",
+        "Anita Strindberg",
+        "Bruno Corazzari",
+        "Rosario Borelli"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.22,
+      "rating_count": 1665,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/5/7/4/77574-puzzle-1974-0-230-0-345-crop.jpg?v=ba8f843f00",
+      "url": "https://letterboxd.com/film/puzzle-1974/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-suspicious-death-of-a-minor",
+      "title": "The Suspicious Death of a Minor",
+      "year": "1975",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ],
+      "directors": [
+        "Sergio Martino"
+      ],
+      "actors": [
+        "Claudio Cassinelli",
+        "Patrizia Castaldi",
+        "Mel Ferrer",
+        "Massimo Girotti",
+        "Lia Tanzi",
+        "Gianfranco Barra"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.39,
+      "rating_count": 4152,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/5/2/7/66527-the-suspicious-death-of-a-minor-0-230-0-345-crop.jpg?v=4138df351c",
+      "url": "https://letterboxd.com/film/the-suspicious-death-of-a-minor/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "a-blade-in-the-dark",
+      "title": "A Blade in the Dark",
+      "year": "1983",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Lamberto Bava"
+      ],
+      "actors": [
+        "Andrea Occhipinti",
+        "Anny Papa",
+        "Fabiola Toledo",
+        "Michele Soavi",
+        "Valéria Cavalli",
+        "Stanko Molnar"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.98,
+      "rating_count": 7049,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/8/9/24889-a-blade-in-the-dark-0-230-0-345-crop.jpg?v=06ee00a00f",
+      "url": "https://letterboxd.com/film/a-blade-in-the-dark/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "body-puzzle",
+      "title": "Body Puzzle",
+      "year": "1992",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Lamberto Bava"
+      ],
+      "actors": [
+        "Joanna Pacula",
+        "Tomas Arana",
+        "François Montagut",
+        "Erika Blanc",
+        "Gianni Garko",
+        "Matteo Gazzolo"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 2.85,
+      "rating_count": 1606,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/3/9/6/32396-body-puzzle-0-230-0-345-crop.jpg?v=3c7536b103",
+      "url": "https://letterboxd.com/film/body-puzzle/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-stendhal-syndrome",
+      "title": "The Stendhal Syndrome",
+      "year": "1996",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Asia Argento",
+        "Thomas Kretschmann",
+        "Marco Leonardi",
+        "Luigi Diberti",
+        "Paolo Bonacelli",
+        "Lucia Stara"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.25,
+      "rating_count": 15017,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/2/5/1/25251-the-stendhal-syndrome-0-230-0-345-crop.jpg?v=7bf7e1700f",
+      "url": "https://letterboxd.com/film/the-stendhal-syndrome/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-perfume-of-the-lady-in-black",
+      "title": "The Perfume of the Lady in Black",
+      "year": "1974",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Francesco Barilli"
+      ],
+      "actors": [
+        "Mimsy Farmer",
+        "Maurizio Bonuglia",
+        "Mario Scaccia",
+        "Jho Jhenkins",
+        "Niké Arrighi",
+        "Lara Wendel"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.44,
+      "rating_count": 6308,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/1/3/1513-the-perfume-of-the-lady-in-black-0-230-0-345-crop.jpg?v=1eef683931",
+      "url": "https://letterboxd.com/film/the-perfume-of-the-lady-in-black/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-possessed-1965",
+      "title": "The Possessed",
+      "year": "1965",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Luigi Bazzoni",
+        "Franco Rossellini"
+      ],
+      "actors": [
+        "Peter Baldwin",
+        "Salvo Randone",
+        "Valentina Cortese",
+        "Pia Lindström",
+        "Pier Giovanni Anchisi",
+        "Ennio Balbo"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.59,
+      "rating_count": 5286,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/4/4/0/84440-the-possessed-0-230-0-345-crop.jpg?v=d6567d30c6",
+      "url": "https://letterboxd.com/film/the-possessed-1965/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "a-black-veil-for-lisa",
+      "title": "A Black Veil for Lisa",
+      "year": "1968",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Massimo Dallamano"
+      ],
+      "actors": [
+        "John Mills",
+        "Luciana Paluzzi",
+        "Robert Hoffmann",
+        "Renate Kasché",
+        "Tullio Altamura",
+        "Enzo Fiermonte"
+      ],
+      "countries": [
+        "Italy",
+        "Germany"
+      ],
+      "rating": 3.13,
+      "rating_count": 995,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/9/1/7/84917-a-black-veil-for-lisa-0-230-0-345-crop.jpg?v=4bc1ffeb8a",
+      "url": "https://letterboxd.com/film/a-black-veil-for-lisa/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "death-laid-an-egg",
+      "title": "Death Laid an Egg",
+      "year": "1968",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Giulio Questi"
+      ],
+      "actors": [
+        "Gina Lollobrigida",
+        "Jean-Louis Trintignant",
+        "Ewa Aulin",
+        "Jean Sobieski",
+        "Renato Romano",
+        "Vittorio André"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 3.12,
+      "rating_count": 4107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/7/8/5/98785-death-laid-an-egg-0-230-0-345-crop.jpg?v=a08709d165",
+      "url": "https://letterboxd.com/film/death-laid-an-egg/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-laughing-woman",
+      "title": "The Laughing Woman",
+      "year": "1969",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "directors": [
+        "Piero Schivazappa"
+      ],
+      "actors": [
+        "Dagmar Lassander",
+        "Philippe Leroy",
+        "Lorenza Guerrieri",
+        "Varo Soleri",
+        "Maria Cumani Quasimodo",
+        "Mirella Pamphili"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.7,
+      "rating_count": 7002,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/2/5/5/82255-the-laughing-woman-0-230-0-345-crop.jpg?v=7ba680f694",
+      "url": "https://letterboxd.com/film/the-laughing-woman/",
+      "appears_in_n_lists": 4
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Thriller": 56,
+      "Horror": 52,
+      "Mystery": 47,
+      "Crime": 12,
+      "Drama": 5,
+      "Comedy": 1,
+      "Romance": 1
+    },
+    "directors": {
+      "Dario Argento": 9,
+      "Sergio Martino": 6,
+      "Mario Bava": 5,
+      "Lucio Fulci": 5,
+      "Umberto Lenzi": 5,
+      "Luigi Bazzoni": 3,
+      "Massimo Dallamano": 3,
+      "Luciano Ercoli": 3,
+      "Aldo Lado": 2,
+      "Emilio P. Miraglia": 2,
+      "Duccio Tessari": 2,
+      "Lamberto Bava": 2,
+      "Paolo Cavara": 1,
+      "Giuliano Carnimeo": 1,
+      "Pupi Avati": 1,
+      "Armando Crispino": 1,
+      "Luigi Cozzi": 1,
+      "Antonio Bido": 1,
+      "Michele Soavi": 1,
+      "Mario Fanelli": 1
+    },
+    "years": {
+      "1963": 1,
+      "1964": 1,
+      "1965": 1,
+      "1968": 2,
+      "1969": 3,
+      "1970": 5,
+      "1971": 13,
+      "1972": 11,
+      "1973": 1,
+      "1974": 4,
+      "1975": 6,
+      "1976": 1,
+      "1977": 1,
+      "1978": 1,
+      "1982": 2,
+      "1983": 1,
+      "1987": 2,
+      "1992": 1,
+      "1993": 1,
+      "1996": 1,
+      "2001": 1
+    }
+  }
+}
