@@ -39,7 +39,7 @@
 	const H = 720;
 
 	// Min nanogenres a director must bridge to be shown.
-	let minNanogenres = $state(3);
+	let minNanogenres = $state(6);
 
 	// View snapshot, reassigned each tick so Svelte 5 picks up changes.
 	let view = $state<{ nodes: SimNode[]; links: SimLink[] }>({ nodes: [], links: [] });
@@ -175,7 +175,7 @@
 <div class="controls">
 	<label>
 		Min nanogenres bridged
-		<input type="range" min="2" max="6" step="1" bind:value={minNanogenres} />
+		<input type="range" min="2" max="10" step="1" bind:value={minNanogenres} />
 		<span class="num">{minNanogenres}</span>
 	</label>
 </div>

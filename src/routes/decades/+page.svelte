@@ -210,7 +210,7 @@
 		height: 22px;
 		text-align: center;
 		color: var(--bg);
-		background-color: rgba(229, 142, 168, var(--i, 0));
+		background-color: rgba(var(--heat-rgb), var(--i, 0));
 		border: 1px solid transparent;
 		font-size: 10px;
 		font-weight: 600;
