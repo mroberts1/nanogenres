@@ -149,6 +149,96 @@ export function getCatalogDecadeMatrix(): DecadeMatrix {
 	return { decades, rows, globalMax };
 }
 
+// ---- Director constellation ----
+
+export interface DirectorNode {
+	id: string; // "d:<name>"
+	name: string;
+	totalFilms: number;
+	nanogenreCount: number;
+	nanogenreSlugs: string[];
+}
+
+export interface DirectorNanogenreNode {
+	id: string; // "n:<slug>"
+	slug: string;
+	label: string;
+	size: number;
+}
+
+export interface DirectorLink {
+	source: string;
+	target: string;
+	value: number; // canonical films by this director in this nanogenre
+}
+
+export interface DirectorConstellation {
+	directors: DirectorNode[];
+	nanogenres: DirectorNanogenreNode[];
+	links: DirectorLink[];
+}
+
+/**
+ * Build a bipartite director <-> nanogenre graph. Only directors that
+ * appear in at least `minNanogenres` distinct nanogenres are returned;
+ * those are the ones that actually "bridge" nanogenres.
+ */
+export function getDirectorConstellation(minNanogenres = 2): DirectorConstellation {
+	const all = getAllNanogenres();
+
+	const directorMap = new Map<string, Map<string, number>>();
+	for (const ng of all) {
+		for (const f of ng.films) {
+			for (const d of f.directors ?? []) {
+				if (!d) continue;
+				let m = directorMap.get(d);
+				if (!m) {
+					m = new Map();
+					directorMap.set(d, m);
+				}
+				m.set(ng.slug, (m.get(ng.slug) ?? 0) + 1);
+			}
+		}
+	}
+
+	const directors: DirectorNode[] = [];
+	const links: DirectorLink[] = [];
+	const usedNgSlugs = new Set<string>();
+
+	for (const [name, ngMap] of directorMap) {
+		if (ngMap.size < minNanogenres) continue;
+		const id = `d:${name}`;
+		let total = 0;
+		const slugs: string[] = [];
+		for (const [slug, count] of ngMap) {
+			total += count;
+			slugs.push(slug);
+			usedNgSlugs.add(slug);
+			links.push({ source: id, target: `n:${slug}`, value: count });
+		}
+		directors.push({
+			id,
+			name,
+			totalFilms: total,
+			nanogenreCount: ngMap.size,
+			nanogenreSlugs: slugs
+		});
+	}
+
+	directors.sort((a, b) => b.nanogenreCount - a.nanogenreCount || b.totalFilms - a.totalFilms);
+
+	const nanogenres: DirectorNanogenreNode[] = all
+		.filter((ng) => usedNgSlugs.has(ng.slug))
+		.map((ng) => ({
+			id: `n:${ng.slug}`,
+			slug: ng.slug,
+			label: ng.query,
+			size: ng.canonical_count
+		}));
+
+	return { directors, nanogenres, links };
+}
+
 /**
  * Compute a weighted, undirected nanogenre-overlap graph.
  * Two nanogenres are connected by an edge iff they share at least

@@ -18,6 +18,8 @@
 	<a href="{base}/graph">overlap graph →</a>
 	<span class="sep">·</span>
 	<a href="{base}/decades">decade heatmap →</a>
+	<span class="sep">·</span>
+	<a href="{base}/directors">director constellation →</a>
 </p>
 
 <div class="grid">

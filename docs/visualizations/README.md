@@ -4,4 +4,5 @@ Short, opinionated readers' guides for each visualization in the nanogenres wiki
 - [Film cross-membership chips](./cross-membership-chips.md) — on every `/nanogenres/[slug]` page. How porous each nanogenre's canon is.
 - [Catalog decade heatmap](./decade-heatmap.md) — `/decades`. Where in time each nanogenre's canon lives.
 - [Genre → country Sankey](./genre-country-sankey.md) — bottom of every `/nanogenres/[slug]` page. How each nanogenre decomposes into traditional genres and countries.
+- [Director constellation](./director-constellation.md) — `/directors`. Bipartite graph of directors who bridge multiple nanogenres.
 Each guide is short on purpose — read the relevant one before spending time interpreting the visualization, then come back to it if you spot something surprising.
