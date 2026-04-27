@@ -2,6 +2,7 @@
 	import type { PageData } from './$types';
 	import { base } from '$app/paths';
 	import { sankey, sankeyLinkHorizontal, sankeyLeft } from 'd3-sankey';
+	import UsageGuide from '$lib/UsageGuide.svelte';
 
 	let { data }: { data: PageData } = $props();
 
@@ -75,6 +76,10 @@
 		· {overlapping} also appear in other nanogenres
 	{/if}
 </p>
+
+{#if data.chipsGuide}
+	<UsageGuide html={data.chipsGuide} label="Usage guide — cross-membership chips" />
+{/if}
 
 <section>
 	<h2>Canonical films</h2>
@@ -173,6 +178,9 @@
 {#if skLayout}
 	<section>
 		<h2>Genre → country flow</h2>
+		{#if data.sankeyGuide}
+			<UsageGuide html={data.sankeyGuide} label="Usage guide — genre → country flow" />
+		{/if}
 		<p class="sankey-meta">
 			How this nanogenre's canonical films decompose by traditional genre and country of
 			origin. Top {data.sankey.nodes.filter((n) => n.layer === 0).length} genres on the left, top

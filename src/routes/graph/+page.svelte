@@ -14,6 +14,7 @@
 	import type { PageData } from './$types';
 	import type { OverlapNode, OverlapLink } from '$lib/datasets';
 	import { base } from '$app/paths';
+	import UsageGuide from '$lib/UsageGuide.svelte';
 
 	let { data }: { data: PageData } = $props();
 
@@ -148,6 +149,10 @@
 	<br />
 	{linkedNodeCount} of {data.graph.nodes.length} nanogenres connected · {linkCount} edges.
 </p>
+
+{#if data.guide}
+	<UsageGuide html={data.guide} />
+{/if}
 
 <div class="controls">
 	<label>

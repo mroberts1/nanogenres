@@ -2,6 +2,7 @@
 	import type { PageData } from './$types';
 	import type { ScatterPoint } from '$lib/datasets';
 	import { base } from '$app/paths';
+	import UsageGuide from '$lib/UsageGuide.svelte';
 
 	let { data }: { data: PageData } = $props();
 
@@ -83,6 +84,10 @@
 	<br />
 	{data.points.length} points across {data.nanogenres.length} nanogenres.
 </p>
+
+{#if data.guide}
+	<UsageGuide html={data.guide} />
+{/if}
 
 <div class="controls">
 	<label>

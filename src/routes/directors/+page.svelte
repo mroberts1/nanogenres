@@ -17,6 +17,7 @@
 		DirectorLink
 	} from '$lib/datasets';
 	import { base } from '$app/paths';
+	import UsageGuide from '$lib/UsageGuide.svelte';
 
 	let { data }: { data: PageData } = $props();
 
@@ -171,6 +172,10 @@
 	{visibleDirs} directors · {visibleNgs} nanogenres · {view.links.length} links. ({totalDirsAvailable}
 	directors total bridge ≥2 nanogenres.)
 </p>
+
+{#if data.guide}
+	<UsageGuide html={data.guide} />
+{/if}
 
 <div class="controls">
 	<label>

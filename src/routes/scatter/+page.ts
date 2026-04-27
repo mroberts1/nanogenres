@@ -1,4 +1,5 @@
 import { getAllNanogenres, getScatterPoints } from '$lib/datasets';
+import { getGuide } from '$lib/guides';
 import type { PageLoad } from './$types';
 
 export const load: PageLoad = () => {
@@ -6,6 +7,7 @@ export const load: PageLoad = () => {
 		points: getScatterPoints(),
 		nanogenres: getAllNanogenres()
 			.map((n) => ({ slug: n.slug, label: n.query }))
-			.sort((a, b) => a.label.localeCompare(b.label))
+			.sort((a, b) => a.label.localeCompare(b.label)),
+		guide: getGuide('rating-canonicality-scatter')
 	};
 };

@@ -5,6 +5,7 @@ import {
 	getFilmMembership,
 	getNanogenre
 } from '$lib/datasets';
+import { getGuide } from '$lib/guides';
 import type { PageLoad, EntryGenerator } from './$types';
 
 export interface CrossMember {
@@ -118,7 +119,13 @@ export const load: PageLoad = ({ params }) => {
 
 	const sankey = computeSankey(data.films);
 
-	return { nanogenre: data, crossMemberships, sankey };
+	return {
+		nanogenre: data,
+		crossMemberships,
+		sankey,
+		chipsGuide: getGuide('cross-membership-chips'),
+		sankeyGuide: getGuide('genre-country-sankey')
+	};
 };
 
 export const entries: EntryGenerator = () => {

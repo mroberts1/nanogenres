@@ -2,6 +2,7 @@
 	import type { PageData } from './$types';
 	import type { DecadeRow } from '$lib/datasets';
 	import { base } from '$app/paths';
+	import UsageGuide from '$lib/UsageGuide.svelte';
 
 	let { data }: { data: PageData } = $props();
 
@@ -51,6 +52,10 @@
 	<br />
 	{data.matrix.rows.length} nanogenres · {data.matrix.decades[0]}–{data.matrix.decades.at(-1)}.
 </p>
+
+{#if data.guide}
+	<UsageGuide html={data.guide} />
+{/if}
 
 <div class="controls">
 	<label>
