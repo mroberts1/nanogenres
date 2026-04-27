@@ -1,6 +1,7 @@
 <script lang="ts">
 	import type { PageData } from './$types';
 	import { base } from '$app/paths';
+	import { sankey, sankeyLinkHorizontal, sankeyLeft } from 'd3-sankey';
 
 	let { data }: { data: PageData } = $props();
 
@@ -8,6 +9,31 @@
 	const overlapping = $derived(
 		ng.films.filter((f) => (data.crossMemberships[f.slug]?.length ?? 0) > 0).length
 	);
+
+	// --- Genre/country Sankey layout ---
+	const SK_W = 720;
+	const SK_H = 360;
+	const skLayout = $derived.by(() => {
+		if (data.sankey.nodes.length === 0 || data.sankey.links.length === 0) return null;
+		const sk = sankey<
+			{ id: string; name: string; layer: 0 | 1; total: number },
+			{ source: string; target: string; value: number }
+		>()
+			.nodeId((d) => d.id)
+			.nodeAlign(sankeyLeft)
+			.nodeWidth(12)
+			.nodePadding(10)
+			.extent([
+				[10, 10],
+				[SK_W - 10, SK_H - 10]
+			]);
+		return sk({
+			nodes: data.sankey.nodes.map((n) => ({ ...n })),
+			links: data.sankey.links.map((l) => ({ ...l }))
+		});
+	});
+	const skLinkPath = sankeyLinkHorizontal();
+	let skHovered = $state<string | null>(null);
 
 	const topGenres = $derived(
 		Object.entries(ng.aggregates.genres)
@@ -140,6 +166,69 @@
 	</ul>
 </section>
 
+{#if skLayout}
+	<section>
+		<h2>Genre → country flow</h2>
+		<p class="sankey-meta">
+			How this nanogenre's canonical films decompose by traditional genre and country of
+			origin. Top {data.sankey.nodes.filter((n) => n.layer === 0).length} genres on the left, top
+			{data.sankey.nodes.filter((n) => n.layer === 1).length} countries on the right; flow width
+			= number of canonical films with that genre/country pairing.
+		</p>
+		<div class="sankey-wrap">
+			<svg
+				viewBox="0 0 {SK_W} {SK_H}"
+				preserveAspectRatio="xMidYMid meet"
+				role="img"
+				aria-label="genre to country sankey"
+			>
+				<g class="sk-links">
+					{#each skLayout.links as l, i (i)}
+						{@const sId = (typeof l.source === 'object' ? l.source.id : l.source) as string}
+						{@const tId = (typeof l.target === 'object' ? l.target.id : l.target) as string}
+						<path
+							d={skLinkPath(l) ?? ''}
+							stroke="var(--accent-2)"
+							stroke-width={Math.max(1, l.width ?? 0)}
+							fill="none"
+							opacity={!skHovered || skHovered === sId || skHovered === tId ? 0.45 : 0.08}
+						>
+							<title>{sId.slice(2)} → {tId.slice(2)} · {l.value} films</title>
+						</path>
+					{/each}
+				</g>
+				<g class="sk-nodes">
+					{#each skLayout.nodes as n (n.id)}
+						<g
+							onmouseenter={() => (skHovered = n.id)}
+							onmouseleave={() => (skHovered = null)}
+						>
+							<rect
+								x={n.x0}
+								y={n.y0}
+								width={Math.max(1, (n.x1 ?? 0) - (n.x0 ?? 0))}
+								height={Math.max(1, (n.y1 ?? 0) - (n.y0 ?? 0))}
+								fill="var(--accent)"
+							/>
+							<text
+								x={n.layer === 0 ? (n.x0 ?? 0) - 6 : (n.x1 ?? 0) + 6}
+								y={(((n.y0 ?? 0) + (n.y1 ?? 0)) / 2)}
+								text-anchor={n.layer === 0 ? 'end' : 'start'}
+								dominant-baseline="middle"
+								font-size="11"
+								fill="var(--fg)"
+							>
+								{n.name}
+								<tspan fill="var(--dim)" font-size="10"> · {n.total}</tspan>
+							</text>
+						</g>
+					{/each}
+				</g>
+			</svg>
+		</div>
+	</section>
+{/if}
+
 <style>
 	.back {
 		display: inline-block;
@@ -218,6 +307,30 @@
 		color: var(--fg);
 		background: var(--card);
 		text-decoration: none;
+	}
+	.sankey-meta {
+		color: var(--dim);
+		font-size: 13px;
+		margin: 0 0 12px;
+		max-width: 640px;
+	}
+	.sankey-wrap {
+		background: var(--card);
+		border: 1px solid var(--line);
+		border-radius: 10px;
+		padding: 12px;
+		overflow: hidden;
+	}
+	.sankey-wrap svg {
+		display: block;
+		width: 100%;
+		height: auto;
+	}
+	.sk-links path {
+		transition: opacity 100ms;
+	}
+	.sk-nodes rect {
+		cursor: default;
 	}
 	.agg-grid {
 		display: grid;
