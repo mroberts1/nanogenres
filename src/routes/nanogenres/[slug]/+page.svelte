@@ -11,8 +11,12 @@
 	);
 
 	// --- Genre/country Sankey layout ---
-	const SK_W = 720;
-	const SK_H = 360;
+	// Wider viewBox + label gutters so genre/country names + counts have room
+	// to extend outside the bars without being clipped at the SVG edge.
+	const SK_W = 900;
+	const SK_H = 380;
+	const SK_LABEL_PAD_L = 140;
+	const SK_LABEL_PAD_R = 140;
 	const skLayout = $derived.by(() => {
 		if (data.sankey.nodes.length === 0 || data.sankey.links.length === 0) return null;
 		const sk = sankey<
@@ -24,8 +28,8 @@
 			.nodeWidth(12)
 			.nodePadding(10)
 			.extent([
-				[10, 10],
-				[SK_W - 10, SK_H - 10]
+				[SK_LABEL_PAD_L, 10],
+				[SK_W - SK_LABEL_PAD_R, SK_H - 10]
 			]);
 		return sk({
 			nodes: data.sankey.nodes.map((n) => ({ ...n })),
