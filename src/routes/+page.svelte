@@ -16,6 +16,8 @@
 	{data.summaries.length} nanogenres
 	<span class="sep">·</span>
 	<a href="{base}/graph">overlap graph →</a>
+	<span class="sep">·</span>
+	<a href="{base}/decades">decade heatmap →</a>
 </p>
 
 <div class="grid">

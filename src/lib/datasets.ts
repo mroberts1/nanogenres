@@ -74,6 +74,81 @@ export function getFilmMembership(): Map<string, string[]> {
 	return out;
 }
 
+export interface DecadeRow {
+	slug: string;
+	label: string;
+	/** Counts aligned with the matrix `decades` array. */
+	counts: number[];
+	total: number;
+	rowMax: number;
+	/** Earliest/latest decade with a non-zero count, or null if no dated films. */
+	earliest: string | null;
+	latest: string | null;
+}
+
+export interface DecadeMatrix {
+	decades: string[];
+	rows: DecadeRow[];
+	/** Largest single-cell count across the entire matrix (for global normalization). */
+	globalMax: number;
+}
+
+/**
+ * Bucket every nanogenre's canonical-film year aggregates into decades to
+ * produce a (nanogenre x decade) matrix suitable for a heatmap.
+ */
+export function getCatalogDecadeMatrix(): DecadeMatrix {
+	const all = getAllNanogenres();
+
+	let minYear = Infinity;
+	let maxYear = -Infinity;
+	for (const ng of all) {
+		for (const y of Object.keys(ng.aggregates.years)) {
+			if (!/^\d{4}$/.test(y)) continue;
+			const n = +y;
+			if (n < minYear) minYear = n;
+			if (n > maxYear) maxYear = n;
+		}
+	}
+	if (!isFinite(minYear)) {
+		minYear = 2000;
+		maxYear = 2020;
+	}
+
+	const minDecade = Math.floor(minYear / 10) * 10;
+	const maxDecade = Math.floor(maxYear / 10) * 10;
+	const decades: string[] = [];
+	for (let d = minDecade; d <= maxDecade; d += 10) decades.push(`${d}s`);
+
+	let globalMax = 0;
+	const rows: DecadeRow[] = all.map((ng) => {
+		const counts = decades.map(() => 0);
+		for (const [y, c] of Object.entries(ng.aggregates.years)) {
+			if (!/^\d{4}$/.test(y)) continue;
+			const decade = Math.floor(+y / 10) * 10;
+			const idx = (decade - minDecade) / 10;
+			if (idx >= 0 && idx < counts.length) counts[idx] += c;
+		}
+		const total = counts.reduce((a, b) => a + b, 0);
+		const rowMax = Math.max(0, ...counts);
+		if (rowMax > globalMax) globalMax = rowMax;
+		const firstIdx = counts.findIndex((c) => c > 0);
+		const lastIdx =
+			firstIdx < 0 ? -1 : counts.length - 1 - [...counts].reverse().findIndex((c) => c > 0);
+		return {
+			slug: ng.slug,
+			label: ng.query,
+			counts,
+			total,
+			rowMax,
+			earliest: firstIdx >= 0 ? decades[firstIdx] : null,
+			latest: lastIdx >= 0 ? decades[lastIdx] : null
+		};
+	});
+
+	return { decades, rows, globalMax };
+}
+
 /**
  * Compute a weighted, undirected nanogenre-overlap graph.
  * Two nanogenres are connected by an edge iff they share at least
