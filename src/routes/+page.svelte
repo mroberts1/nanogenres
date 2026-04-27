@@ -20,6 +20,8 @@
 	<a href="{base}/decades">decade heatmap →</a>
 	<span class="sep">·</span>
 	<a href="{base}/directors">director constellation →</a>
+	<span class="sep">·</span>
+	<a href="{base}/scatter">rating scatter →</a>
 </p>
 
 <div class="grid">

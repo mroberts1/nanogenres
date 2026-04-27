@@ -149,6 +149,41 @@ export function getCatalogDecadeMatrix(): DecadeMatrix {
 	return { decades, rows, globalMax };
 }
 
+// ---- Rating x canonicality scatter ----
+
+export interface ScatterPoint {
+	filmSlug: string;
+	title: string;
+	year: string | null;
+	nanogenreSlug: string;
+	nanogenreLabel: string;
+	appearsInNLists: number;
+	rating: number;
+}
+
+/**
+ * One row per (film, nanogenre) pair, suitable for plotting as a scatter.
+ * Films without a Letterboxd rating are dropped.
+ */
+export function getScatterPoints(): ScatterPoint[] {
+	const points: ScatterPoint[] = [];
+	for (const ng of getAllNanogenres()) {
+		for (const f of ng.films) {
+			if (f.rating == null) continue;
+			points.push({
+				filmSlug: f.slug,
+				title: f.title,
+				year: f.year,
+				nanogenreSlug: ng.slug,
+				nanogenreLabel: ng.query,
+				appearsInNLists: f.appears_in_n_lists,
+				rating: f.rating
+			});
+		}
+	}
+	return points;
+}
+
 // ---- Director constellation ----
 
 export interface DirectorNode {
