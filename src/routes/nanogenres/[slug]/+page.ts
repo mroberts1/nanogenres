@@ -31,6 +31,20 @@ export interface SankeyData {
 	links: SankeyLink[];
 }
 
+// Abbreviate verbose country names so Sankey labels fit cleanly without
+// the truncated look. Letterboxd already returns 'UK' and 'USA' short, so
+// we only need to handle the few long names that survive its normalization.
+const COUNTRY_ABBR: Record<string, string> = {
+	'United Arab Emirates': 'UAE',
+	'Bosnia and Herzegovina': 'Bosnia',
+	'Democratic Republic of Congo': 'DR Congo',
+	'North Macedonia': 'N. Macedonia'
+};
+
+function abbrCountry(name: string): string {
+	return COUNTRY_ABBR[name] ?? name;
+}
+
 function computeSankey(films: { genres: string[]; countries: string[] }[]): SankeyData {
 	const TOP_GENRES = 8;
 	const TOP_COUNTRIES = 10;
@@ -42,7 +56,8 @@ function computeSankey(films: { genres: string[]; countries: string[] }[]): Sank
 	for (const f of films) {
 		if (!f.genres?.length || !f.countries?.length) continue;
 		for (const g of f.genres) {
-			for (const c of f.countries) {
+			for (const cRaw of f.countries) {
+				const c = abbrCountry(cRaw);
 				const key = `${g}\u0001${c}`;
 				pairCounts.set(key, (pairCounts.get(key) ?? 0) + 1);
 				genreTotals.set(g, (genreTotals.get(g) ?? 0) + 1);
