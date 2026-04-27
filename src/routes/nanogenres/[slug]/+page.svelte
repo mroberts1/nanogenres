@@ -5,6 +5,9 @@
 	let { data }: { data: PageData } = $props();
 
 	const ng = $derived(data.nanogenre);
+	const overlapping = $derived(
+		ng.films.filter((f) => (data.crossMemberships[f.slug]?.length ?? 0) > 0).length
+	);
 
 	const topGenres = $derived(
 		Object.entries(ng.aggregates.genres)
@@ -38,6 +41,9 @@
 <p class="meta">
 	{ng.source_list_count} source lists · {ng.canonical_count} canonical films · drawn from {ng.films_considered}
 	candidate films · min appearances: {ng.min_list_appearances_used}
+	{#if overlapping > 0}
+		· {overlapping} also appear in other nanogenres
+	{/if}
 </p>
 
 <section>
@@ -58,7 +64,16 @@
 			{#each ng.films as f, i (f.slug)}
 				<tr>
 					<td class="num">{i + 1}</td>
-					<td><a href={f.url} target="_blank" rel="noopener">{f.title}</a></td>
+					<td>
+						<a href={f.url} target="_blank" rel="noopener">{f.title}</a>
+						{#if data.crossMemberships[f.slug]?.length}
+							<div class="chips">
+								{#each data.crossMemberships[f.slug] as m (m.slug)}
+									<a class="chip" href="{base}/nanogenres/{m.slug}">{m.query}</a>
+								{/each}
+							</div>
+						{/if}
+					</td>
 					<td>{f.year ?? ''}</td>
 					<td>{f.directors.join(', ')}</td>
 					<td class="dim">{f.genres.join(', ')}</td>
@@ -176,6 +191,33 @@
 	}
 	.dim {
 		color: var(--dim);
+	}
+	.chips {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 4px;
+		margin-top: 4px;
+	}
+	.chip {
+		display: inline-block;
+		padding: 2px 8px;
+		border-radius: 999px;
+		background: var(--bg);
+		border: 1px solid var(--line);
+		color: var(--dim);
+		font-size: 11px;
+		line-height: 1.4;
+		white-space: nowrap;
+		transition:
+			border-color 120ms,
+			color 120ms,
+			background 120ms;
+	}
+	.chip:hover {
+		border-color: var(--accent);
+		color: var(--fg);
+		background: var(--card);
+		text-decoration: none;
 	}
 	.agg-grid {
 		display: grid;
