@@ -67,6 +67,11 @@
 	const yearMax = $derived(Math.max(1, ...yearBuckets.map(([, n]) => n)));
 </script>
 
+<svelte:head>
+	<title>{ng.query} — Nanogenres of Letterboxd</title>
+	<meta name="description" content="{ng.canonical_count} canonical films across {ng.source_list_count} Letterboxd lists for the '{ng.query}' nanogenre." />
+</svelte:head>
+
 <a class="back" href="{base}/">← all nanogenres</a>
 <h1>{ng.query}</h1>
 <p class="meta">

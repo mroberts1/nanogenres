@@ -77,7 +77,7 @@
 </main>
 
 <footer class="site-footer">
-	<small>Prototype. Data scraped from Letterboxd via Playwright.</small>
+	<small>Data scraped from Letterboxd via Playwright.</small>
 </footer>
 
 <style>

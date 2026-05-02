@@ -43,6 +43,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Decade Heatmap — Nanogenres of Letterboxd</title>
+</svelte:head>
+
 <a class="back" href="{base}/">← all nanogenres</a>
 <h1>Catalog decade heatmap</h1>
 <p class="meta">

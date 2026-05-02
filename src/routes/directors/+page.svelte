@@ -161,6 +161,10 @@
 	const totalDirsAvailable = $derived(data.constellation.directors.length);
 </script>
 
+<svelte:head>
+	<title>Director Constellation — Nanogenres of Letterboxd</title>
+</svelte:head>
+
 <a class="back" href="{base}/">← all nanogenres</a>
 <h1>Director constellation</h1>
 <p class="meta">

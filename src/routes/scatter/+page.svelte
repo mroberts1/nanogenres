@@ -75,6 +75,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Rating vs. Canonicality — Nanogenres of Letterboxd</title>
+</svelte:head>
+
 <a class="back" href="{base}/">← all nanogenres</a>
 <h1>Rating × canonicality</h1>
 <p class="meta">
