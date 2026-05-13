@@ -1,0 +1,51 @@
+[search] https://letterboxd.com/search/lists/mallcore/
+[search] 9 candidates -> 6 relevant (rejected low-quality=0, off-topic=3)
+[list] https://letterboxd.com/ihatejeffkoons/list/mallcore/
+[list] https://letterboxd.com/thesaurusrex/list/mallcore/
+[list] https://letterboxd.com/emilymac/list/mallcore/
+[list] https://letterboxd.com/jswan13/list/mallcore/
+[list] https://letterboxd.com/prozacwife/list/mallcore/
+[list] https://letterboxd.com/unawarewolf/list/no-hope-post-vaporwave-digidoom-mallcore/
+    1/9 Mallrats (1995) x4 — Romance, Comedy
+    2/9 True Stories (1986) x3 — Comedy, Music
+    3/9 Chopping Mall (1986) x3 — Science Fiction, Horror
+    4/9 Paul Blart: Mall Cop (2009) x3 — Adventure, Comedy, Family, Action
+    5/9 Tim and Eric's Billion Dollar Movie (2012) x2 — Comedy
+    6/9 Dawn of the Dead (1978) x2 — Horror, Science Fiction
+    7/9 Bill & Ted's Excellent Adventure (1989) x2 — Science Fiction, Adventure, Comedy
+    8/9 Fast Times at Ridgemont High (1982) x2 — Drama, Romance, Comedy
+    9/9 Dawn of the Dead (2004) x2 — Science Fiction, Horror
+
+[done] /root/letterboxd-nanogenres/data/mallcore.json
+{
+  "slug": "mallcore",
+  "lists_used": 6,
+  "canonical_films": 9,
+  "top_5": [
+    [
+      "Mallrats",
+      "1995",
+      4
+    ],
+    [
+      "True Stories",
+      "1986",
+      3
+    ],
+    [
+      "Chopping Mall",
+      "1986",
+      3
+    ],
+    [
+      "Paul Blart: Mall Cop",
+      "2009",
+      3
+    ],
+    [
+      "Tim and Eric's Billion Dollar Movie",
+      "2012",
+      2
+    ]
+  ]
+}

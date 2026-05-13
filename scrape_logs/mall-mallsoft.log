@@ -1,0 +1,21 @@
+[search] https://letterboxd.com/search/lists/mallsoft/
+[search] 4 candidates -> 3 relevant (rejected low-quality=0, off-topic=1)
+[list] https://letterboxd.com/sempergumby/list/mallsoft/
+  drop (only 3 films) /sempergumby/list/mallsoft/
+[list] https://letterboxd.com/miguelmcqueen/list/mall-culture-mallsofts-visual-album-material/
+[list] https://letterboxd.com/lestoraptor/list/mallsoft-movies/
+    1/1 Chopping Mall (1986) x2 — Science Fiction, Horror
+
+[done] /root/letterboxd-nanogenres/data/mallsoft.json
+{
+  "slug": "mallsoft",
+  "lists_used": 2,
+  "canonical_films": 1,
+  "top_5": [
+    [
+      "Chopping Mall",
+      "1986",
+      2
+    ]
+  ]
+}

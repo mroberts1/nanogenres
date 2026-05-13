@@ -1,12 +1,106 @@
 [search] https://letterboxd.com/search/lists/good+for+her/
-[search] https://letterboxd.com/search/lists/good+for+her/
-[search] https://letterboxd.com/tag/good-for-her/lists/
-[search] 0 candidates -> 0 relevant (rejected low-quality=0, off-topic=0)
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=1)
+[list] https://letterboxd.com/paulnewman/list/good-for-her/
+[list] https://letterboxd.com/strvngers/list/good-for-her/
+[list] https://letterboxd.com/thehandmaiden/list/good-for-her/
+[list] https://letterboxd.com/emily_roma/list/good-for-her/
+[list] https://letterboxd.com/iaurapalmer/list/good-for-her/
+[list] https://letterboxd.com/pupgrl/list/good-for-her/
+[list] https://letterboxd.com/mcumagik/list/good-for-her/
+[list] https://letterboxd.com/sinobite/list/good-for-her/
+[list] https://letterboxd.com/k4rmacoma/list/good-for-her/
+[list] https://letterboxd.com/valenxo/list/good-for-her/
+    1/60 Gone Girl (2014) x9 — Drama, Mystery, Thriller
+    2/60 Carrie (1976) x9 — Horror, Thriller
+    3/60 Jennifer's Body (2009) x8 — Horror, Comedy
+    4/60 Ex Machina (2015) x8 — Science Fiction, Drama
+    5/60 Ready or Not (2019) x7 — Horror, Comedy
+    6/60 The Invisible Man (2020) x7 — Science Fiction, Horror, Thriller
+    7/60 The Witch (2015) x7 — Horror
+    8/60 The Love Witch (2016) x7 — Romance, Horror, Comedy, Fantasy
+    9/60 The Handmaiden (2016) x6 — Thriller, Romance, Drama
+   10/60 Kill Bill: Vol. 1 (2003) x6 — Crime, Action
+   11/60 Pearl (2022) x6 — Horror
+   12/60 Kill Bill: Vol. 2 (2004) x5 — Thriller, Action, Crime
+   13/60 Midsommar (2019) x5 — Mystery, Drama, Horror
+   14/60 Knives Out (2019) x5 — Mystery, Comedy, Crime
+   15/60 Ocean's Eight (2018) x5 — Crime, Action, Comedy
+   16/60 You're Next (2011) x5 — Thriller, Mystery, Horror
+   17/60 Fresh (2022) x5 — Horror, Thriller
+   18/60 Revenge (2017) x5 — Horror, Action, Thriller, Drama
+   19/60 Last Night in Soho (2021) x5 — Horror, Mystery
+   20/60 Thelma & Louise (1991) x4 — Drama, Adventure, Crime, Thriller
+   21/60 Inglourious Basterds (2009) x4 — War, Drama, Thriller
+   22/60 Thoroughbreds (2017) x4 — Thriller, Drama
+   23/60 Chicago (2002) x4 — Comedy, Crime, Drama
+   24/60 Legally Blonde (2001) x4 — Comedy
+   25/60 Hush (2016) x4 — Horror, Thriller
+   26/60 Prey (2022) x4 — Action, Thriller, Science Fiction
+   27/60 Phantom Thread (2017) x4 — Drama, Romance
+   28/60 Suspiria (1977) x4 — Horror
+   29/60 The Hunt (2020) x4 — Thriller, Action, Horror
+   30/60 Raw (2016) x4 — Drama, Horror
+   31/60 Promising Young Woman (2020) x4 — Crime, Drama, Thriller
+   32/60 The Craft (1996) x4 — Horror, Fantasy, Drama
+   33/60 Black Swan (2010) x4 — Drama, Thriller, Horror
+   34/60 The Silence of the Lambs (1991) x4 — Crime, Thriller, Horror, Drama
+   35/60 But I'm a Cheerleader (1999) x4 — Romance, Drama, Comedy
+   36/60 X (2022) x4 — Horror
+   37/60 May (2002) x4 — Comedy, Drama, Horror
+   38/60 Suspiria (2018) x4 — Horror, Mystery, Drama
+   39/60 Stoker (2013) x3 — Horror, Drama, Thriller
+   40/60 Mad Max: Fury Road (2015) x3 — Science Fiction, Adventure, Action
+   41/60 Enough (2002) x3 — Drama, Thriller
+   42/60 Hustlers (2019) x3 — Comedy, Crime, Drama
+   43/60 Alien (1979) x3 — Horror, Science Fiction
+   44/60 Aliens (1986) x3 — Thriller, Science Fiction, Horror, Action
+   45/60 The Final Girls (2015) x3 — Comedy, Horror
+   46/60 The Beguiled (2017) x3 — Drama
+   47/60 Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020) x3 — Action, Crime
+   48/60 The Nightingale (2018) x3 — Thriller, Western, Drama
+   49/60 The Girl with the Dragon Tattoo (2011) x3 — Crime, Mystery, Thriller
+   50/60 Bound (1996) x3 — Crime, Thriller, Drama
+   51/60 Us (2019) x3 — Horror, Mystery
+   52/60 Companion (2025) x3 — Thriller, Science Fiction, Horror
+   53/60 The Menu (2022) x3 — Comedy, Horror
+   54/60 Send Help (2026) x3 — Thriller, Horror, Comedy
+   55/60 The Rocky Horror Picture Show (1975) x3 — Horror, Comedy, Science Fiction
+   56/60 MaXXXine (2024) x3 — Horror, Thriller
+   57/60 Fear Street: 1994 (2021) x3 — Horror, Mystery, Drama
+   58/60 The Babysitter (2017) x3 — Horror, Comedy
+   59/60 Assassination Nation (2018) x3 — Thriller, Comedy, Horror
+   60/60 Black Widow (2021) x3 — Action, Adventure, Science Fiction
 
 [done] /root/letterboxd-nanogenres/data/good-for-her.json
 {
   "slug": "good-for-her",
-  "lists_used": 0,
-  "canonical_films": 0,
-  "top_5": []
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Gone Girl",
+      "2014",
+      9
+    ],
+    [
+      "Carrie",
+      "1976",
+      9
+    ],
+    [
+      "Jennifer's Body",
+      "2009",
+      8
+    ],
+    [
+      "Ex Machina",
+      "2015",
+      8
+    ],
+    [
+      "Ready or Not",
+      "2019",
+      7
+    ]
+  ]
 }

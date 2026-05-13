@@ -1,0 +1,675 @@
+{
+  "query": "mall movies",
+  "slug": "mall-movies",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/dmk9047/list/mall-movies/",
+      "user": "dmk9047",
+      "slug": "mall-movies",
+      "title": "Mall Movies*",
+      "desc": "*that I’ve seen, in alphabetical order\n\nBody Double and Jackie Brown aren't technically mall movies, but they contain memorable mall sequences.",
+      "owner": "List by DMK PATRON",
+      "tags": []
+    },
+    {
+      "href": "/tophermart/list/mall-movies/",
+      "user": "tophermart",
+      "slug": "mall-movies",
+      "title": "Mall Movies",
+      "desc": "Films with scenes taking place inside large American indoor shopping malls. Bonus points for authentic shots of cozy, wood-paneled 80s consumerism.",
+      "owner": "List by Christopher Martin PRO",
+      "tags": [
+        "mall",
+        "shopping-mall",
+        "mall-movie"
+      ]
+    },
+    {
+      "href": "/ornithopter/list/mall-movies/",
+      "user": "ornithopter",
+      "slug": "mall-movies",
+      "title": "Mall movies",
+      "desc": "Date movies: get the big popcorn, drink a slurpy, get some nachos, skate, smoke (not vape), listen to numetal...",
+      "owner": "List by ornithopter",
+      "tags": []
+    },
+    {
+      "href": "/cruisingcinema/list/mall-movies/",
+      "user": "cruisingcinema",
+      "slug": "mall-movies",
+      "title": "Mall Movies",
+      "desc": "Shopping mall? More like CHOPPING Mall, amirite ladies?\n\nAnother oddly specific subgenre I've noticed.",
+      "owner": "List by CruisingCinema",
+      "tags": [
+        "mall",
+        "shopping",
+        "department-stores",
+        "malls",
+        "horror",
+        "comedy"
+      ]
+    },
+    {
+      "href": "/spiralshell/list/mall-movies/",
+      "user": "spiralshell",
+      "slug": "mall-movies",
+      "title": "Mall movies",
+      "desc": "spiralshell is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by spiralshell",
+      "tags": []
+    },
+    {
+      "href": "/fleshpained/list/mall-movies/",
+      "user": "fleshpained",
+      "slug": "mall-movies",
+      "title": "Mall Movies",
+      "desc": "a list of movies that feature malls",
+      "owner": "List by eben",
+      "tags": [
+        "malls",
+        "mallcore"
+      ]
+    },
+    {
+      "href": "/mbtyson/list/mall-movies/",
+      "user": "mbtyson",
+      "slug": "mall-movies",
+      "title": "Mall movies",
+      "desc": "Movies with favorite mall scenes.",
+      "owner": "List by Matt Tyson PATRON",
+      "tags": []
+    }
+  ],
+  "source_list_count": 7,
+  "films_considered": 73,
+  "canonical_count": 19,
+  "films": [
+    {
+      "slug": "chopping-mall",
+      "title": "Chopping Mall",
+      "year": "1986",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Jim Wynorski"
+      ],
+      "actors": [
+        "Kelli Maroney",
+        "Tony O'Dell",
+        "Russell Todd",
+        "Karrie Emerson",
+        "Barbara Crampton",
+        "Nick Segal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.87,
+      "rating_count": 67383,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/2/5/7/33257-chopping-mall-0-230-0-345-crop.jpg?v=ca349604e7",
+      "url": "https://letterboxd.com/film/chopping-mall/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "mallrats",
+      "title": "Mallrats",
+      "year": "1995",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Kevin Smith"
+      ],
+      "actors": [
+        "Jason Lee",
+        "Jeremy London",
+        "Shannen Doherty",
+        "Claire Forlani",
+        "Ben Affleck",
+        "Joey Lauren Adams"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 106490,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/aj/70/qm/3a/dwWAr8T0q0KHv5rTu0eVaqpCJ2C-0-230-0-345-crop.jpg?v=2068cb36e1",
+      "url": "https://letterboxd.com/film/mallrats/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "dawn-of-the-dead",
+      "title": "Dawn of the Dead",
+      "year": "1978",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "George A. Romero"
+      ],
+      "actors": [
+        "David Emge",
+        "Ken Foree",
+        "Scott H. Reiniger",
+        "Gaylen Ross",
+        "David Crawford",
+        "David Early"
+      ],
+      "countries": [
+        "Italy",
+        "USA"
+      ],
+      "rating": 3.95,
+      "rating_count": 193506,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/q9/17/om/9y/8D6WEfNZr6JadQrqJr5OOq1QlV0-0-230-0-345-crop.jpg?v=b65bcfbd46",
+      "url": "https://letterboxd.com/film/dawn-of-the-dead/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "fast-times-at-ridgemont-high",
+      "title": "Fast Times at Ridgemont High",
+      "year": "1982",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Amy Heckerling"
+      ],
+      "actors": [
+        "Sean Penn",
+        "Jennifer Jason Leigh",
+        "Judge Reinhold",
+        "Phoebe Cates",
+        "Brian Backer",
+        "Robert Romanus"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 178400,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ou/6a/j4/uh/lvEenO2CikD4Zo3rFK1flAU99Pr-0-230-0-345-crop.jpg?v=1a3d11da89",
+      "url": "https://letterboxd.com/film/fast-times-at-ridgemont-high/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "golden-eighties",
+      "title": "Golden Eighties",
+      "year": "1986",
+      "genres": [
+        "Romance",
+        "Music",
+        "Comedy"
+      ],
+      "directors": [
+        "Chantal Akerman"
+      ],
+      "actors": [
+        "Myriam Boyer",
+        "Delphine Seyrig",
+        "Fanny Cottençon",
+        "Lio",
+        "Pascale Salkin",
+        "Charles Denner"
+      ],
+      "countries": [
+        "Belgium",
+        "France",
+        "Switzerland"
+      ],
+      "rating": 3.74,
+      "rating_count": 9826,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/5/5/2355-golden-eighties-0-230-0-345-crop.jpg?v=ee4adf15c3",
+      "url": "https://letterboxd.com/film/golden-eighties/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "jackie-brown",
+      "title": "Jackie Brown",
+      "year": "1997",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "actors": [
+        "Pam Grier",
+        "Samuel L. Jackson",
+        "Robert De Niro",
+        "Bridget Fonda",
+        "Michael Keaton",
+        "Robert Forster"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 607601,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/08/3j/am/rx/4XVPYOdMAizdNMSwS0SK3fPJcvR-0-230-0-345-crop.jpg?v=ddcf6a79e0",
+      "url": "https://letterboxd.com/film/jackie-brown/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "jasper-mall",
+      "title": "Jasper Mall",
+      "year": "2020",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Brett Whitcomb",
+        "Bradford Thomason"
+      ],
+      "actors": [],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.62,
+      "rating_count": 5575,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/0/3/9/2/580392-jasper-mall-0-230-0-345-crop.jpg?v=324ab2bfd1",
+      "url": "https://letterboxd.com/film/jasper-mall/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "paul-blart-mall-cop",
+      "title": "Paul Blart: Mall Cop",
+      "year": "2009",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Action"
+      ],
+      "directors": [
+        "Steve Carr"
+      ],
+      "actors": [
+        "Kevin James",
+        "Keir O'Donnell",
+        "Jayma Mays",
+        "Raini Rodriguez",
+        "Shirley Knight",
+        "Stephen Rannazzisi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.55,
+      "rating_count": 247055,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/9/9/4/42994-paul-blart-mall-cop-0-230-0-345-crop.jpg?v=c4a59b1c47",
+      "url": "https://letterboxd.com/film/paul-blart-mall-cop/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "true-stories",
+      "title": "True Stories",
+      "year": "1986",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "directors": [
+        "David Byrne"
+      ],
+      "actors": [
+        "David Byrne",
+        "John Goodman",
+        "Annie McEnroe",
+        "Jo Harvey Allen",
+        "Spalding Gray",
+        "Alix Elias"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.08,
+      "rating_count": 45686,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/5/0/5/36505-true-stories-0-230-0-345-crop.jpg?v=5fa184ff03",
+      "url": "https://letterboxd.com/film/true-stories/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "chain",
+      "title": "Chain",
+      "year": "2004",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Jem Cohen"
+      ],
+      "actors": [
+        "Miho Nikaido",
+        "Mira Billotte",
+        "Vanessa Hope",
+        "Tarik O'Regan",
+        "Rick Aquino",
+        "Douglas A. Scocco"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 2039,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/9/0/0/148900-chain-0-230-0-345-crop.jpg?v=9be5f950ea",
+      "url": "https://letterboxd.com/film/chain/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dawn-of-the-dead-2004",
+      "title": "Dawn of the Dead",
+      "year": "2004",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Zack Snyder"
+      ],
+      "actors": [
+        "Sarah Polley",
+        "Ving Rhames",
+        "Jake Weber",
+        "Ty Burrell",
+        "Mekhi Phifer",
+        "Michael Kelly"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.43,
+      "rating_count": 245304,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jd/d8/7x/e8/yfqsgzW6AQYmBjIEIq0y9EB1Rgl-0-230-0-345-crop.jpg?v=7d5cbe2c3c",
+      "url": "https://letterboxd.com/film/dawn-of-the-dead-2004/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "fear-street-1994",
+      "title": "Fear Street: 1994",
+      "year": "2021",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Leigh Janiak"
+      ],
+      "actors": [
+        "Kiana Madeira",
+        "Olivia Scott Welch",
+        "Benjamin Flores Jr.",
+        "Julia Rehwald",
+        "Fred Hechinger",
+        "Maya Hawke"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.16,
+      "rating_count": 700486,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/7/8/7/518787-fear-street-part-one-1994-0-230-0-345-crop.jpg?v=b53287ce08",
+      "url": "https://letterboxd.com/film/fear-street-1994/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "night-of-the-comet",
+      "title": "Night of the Comet",
+      "year": "1984",
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Thom Eberhardt"
+      ],
+      "actors": [
+        "Catherine Mary Stewart",
+        "Robert Beltran",
+        "Kelli Maroney",
+        "Sharon Farrell",
+        "Mary Woronov",
+        "Geoffrey Lewis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.28,
+      "rating_count": 39526,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/3/2/8/40328-night-of-the-comet-0-230-0-345-crop.jpg?v=d187bc1663",
+      "url": "https://letterboxd.com/film/night-of-the-comet/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "observe-and-report",
+      "title": "Observe and Report",
+      "year": "2009",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Jody Hill"
+      ],
+      "actors": [
+        "Seth Rogen",
+        "Ray Liotta",
+        "Anna Faris",
+        "Michael Peña",
+        "Dan Bakkedahl",
+        "Jesse Plemons"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.83,
+      "rating_count": 50888,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/2/8/1/41281-observe-and-report-0-230-0-345-crop.jpg?v=a8ae5927b2",
+      "url": "https://letterboxd.com/film/observe-and-report/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "paul-blart-mall-cop-2",
+      "title": "Paul Blart: Mall Cop 2",
+      "year": "2015",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Family"
+      ],
+      "directors": [
+        "Andy Fickman"
+      ],
+      "actors": [
+        "Kevin James",
+        "Raini Rodriguez",
+        "Neal McDonough",
+        "Daniella Alonso",
+        "Eduardo Verástegui",
+        "David Henrie"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 1.98,
+      "rating_count": 90323,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/7/4/5/180745-paul-blart-mall-cop-2-0-230-0-345-crop.jpg?v=ed8df2ffc2",
+      "url": "https://letterboxd.com/film/paul-blart-mall-cop-2/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "smooth-talk",
+      "title": "Smooth Talk",
+      "year": "1985",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Joyce Chopra"
+      ],
+      "actors": [
+        "Laura Dern",
+        "Treat Williams",
+        "Mary Kay Place",
+        "Levon Helm",
+        "Elizabeth Berridge",
+        "Margaret Welsh"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.59,
+      "rating_count": 17699,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/5/5/7/29557-smooth-talk-0-230-0-345-crop.jpg?v=c4449bde13",
+      "url": "https://letterboxd.com/film/smooth-talk/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bill-teds-excellent-adventure",
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": "1989",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Stephen Herek"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Alex Winter",
+        "George Carlin",
+        "Terry Camilleri",
+        "Dan Shor",
+        "Tony Steedman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.68,
+      "rating_count": 242188,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/9/4/50894-bill-ted-s-excellent-adventure-0-230-0-345-crop.jpg?v=7515d21045",
+      "url": "https://letterboxd.com/film/bill-teds-excellent-adventure/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "phantom-of-the-mall-erics-revenge",
+      "title": "Phantom of the Mall: Eric's Revenge",
+      "year": "1989",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Richard Friedman"
+      ],
+      "actors": [
+        "Derek Rydall",
+        "Kari Whitman",
+        "Rob Estes",
+        "Pauly Shore",
+        "Morgan Fairchild",
+        "Ken Foree"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 9830,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/9/5/8/72958-phantom-of-the-mall-eric-s-revenge-0-230-0-345-crop.jpg?v=6005ac2033",
+      "url": "https://letterboxd.com/film/phantom-of-the-mall-erics-revenge/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mall-city",
+      "title": "Mall City",
+      "year": "1983",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "directors": [
+        "Hugh Kinniburgh"
+      ],
+      "actors": [],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.42,
+      "rating_count": 230,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/0/5/9/0/710590-mall-city-0-230-0-345-crop.jpg?v=a9772ef6f4",
+      "url": "https://letterboxd.com/film/mall-city/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Comedy": 9,
+      "Horror": 6,
+      "Drama": 6,
+      "Science Fiction": 5,
+      "Romance": 3,
+      "Music": 3,
+      "Crime": 2,
+      "Thriller": 2,
+      "Documentary": 2,
+      "Adventure": 2,
+      "Family": 2,
+      "Action": 2,
+      "Mystery": 1
+    },
+    "directors": {
+      "Jim Wynorski": 1,
+      "Kevin Smith": 1,
+      "George A. Romero": 1,
+      "Amy Heckerling": 1,
+      "Chantal Akerman": 1,
+      "Quentin Tarantino": 1,
+      "Brett Whitcomb": 1,
+      "Bradford Thomason": 1,
+      "Steve Carr": 1,
+      "David Byrne": 1,
+      "Jem Cohen": 1,
+      "Zack Snyder": 1,
+      "Leigh Janiak": 1,
+      "Thom Eberhardt": 1,
+      "Jody Hill": 1,
+      "Andy Fickman": 1,
+      "Joyce Chopra": 1,
+      "Stephen Herek": 1,
+      "Richard Friedman": 1,
+      "Hugh Kinniburgh": 1
+    },
+    "years": {
+      "1978": 1,
+      "1982": 1,
+      "1983": 1,
+      "1984": 1,
+      "1985": 1,
+      "1986": 3,
+      "1989": 2,
+      "1995": 1,
+      "1997": 1,
+      "2004": 2,
+      "2009": 2,
+      "2015": 1,
+      "2020": 1,
+      "2021": 1
+    }
+  }
+}

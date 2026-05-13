@@ -1,0 +1,12 @@
+[search] https://letterboxd.com/search/lists/mall/
+[search] https://letterboxd.com/search/lists/mall/
+[search] https://letterboxd.com/tag/mall/lists/
+[search] 0 candidates -> 0 relevant (rejected low-quality=0, off-topic=0)
+
+[done] /root/letterboxd-nanogenres/data/mall.json
+{
+  "slug": "mall",
+  "lists_used": 0,
+  "canonical_films": 0,
+  "top_5": []
+}

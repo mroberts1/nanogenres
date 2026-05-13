@@ -1,0 +1,68 @@
+[search] https://letterboxd.com/search/lists/mall+movies/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/dmk9047/list/mall-movies/
+[list] https://letterboxd.com/tophermart/list/mall-movies/
+[list] https://letterboxd.com/ornithopter/list/mall-movies/
+[list] https://letterboxd.com/cruisingcinema/list/mall-movies/
+[list] https://letterboxd.com/alex_untitled/list/mall-movies/
+  drop (only 4 films) /alex_untitled/list/mall-movies/
+[list] https://letterboxd.com/spiralshell/list/mall-movies/
+[list] https://letterboxd.com/fleshpained/list/mall-movies/
+[list] https://letterboxd.com/mbtyson/list/mall-movies/
+[list] https://letterboxd.com/pizzabagel/list/mall-movies/
+  drop (only 3 films) /pizzabagel/list/mall-movies/
+[list] https://letterboxd.com/spaige/list/mall-movies/
+  drop (only 3 films) /spaige/list/mall-movies/
+    1/19 Chopping Mall (1986) x6 — Science Fiction, Horror
+    2/19 Mallrats (1995) x6 — Romance, Comedy
+    3/19 Dawn of the Dead (1978) x5 — Horror, Science Fiction
+    4/19 Fast Times at Ridgemont High (1982) x4 — Drama, Romance, Comedy
+    5/19 Golden Eighties (1986) x3 — Romance, Music, Comedy
+    6/19 Jackie Brown (1997) x3 — Crime, Thriller, Drama
+    7/19 Jasper Mall (2020) x3 — Documentary
+    8/19 Paul Blart: Mall Cop (2009) x3 — Adventure, Comedy, Family, Action
+    9/19 True Stories (1986) x3 — Comedy, Music
+   10/19 Chain (2004) x2 — Drama
+   11/19 Dawn of the Dead (2004) x2 — Science Fiction, Horror
+   12/19 Fear Street: 1994 (2021) x2 — Horror, Mystery, Drama
+   13/19 Night of the Comet (1984) x2 — Science Fiction, Comedy, Horror
+   14/19 Observe and Report (2009) x2 — Comedy, Drama, Crime
+   15/19 Paul Blart: Mall Cop 2 (2015) x2 — Comedy, Action, Family
+   16/19 Smooth Talk (1985) x2 — Drama, Thriller
+   17/19 Bill & Ted's Excellent Adventure (1989) x2 — Science Fiction, Adventure, Comedy
+   18/19 Phantom of the Mall: Eric's Revenge (1989) x2 — Horror
+   19/19 Mall City (1983) x2 — Documentary, Music
+
+[done] /root/letterboxd-nanogenres/data/mall-movies.json
+{
+  "slug": "mall-movies",
+  "lists_used": 7,
+  "canonical_films": 19,
+  "top_5": [
+    [
+      "Chopping Mall",
+      "1986",
+      6
+    ],
+    [
+      "Mallrats",
+      "1995",
+      6
+    ],
+    [
+      "Dawn of the Dead",
+      "1978",
+      5
+    ],
+    [
+      "Fast Times at Ridgemont High",
+      "1982",
+      4
+    ],
+    [
+      "Golden Eighties",
+      "1986",
+      3
+    ]
+  ]
+}
