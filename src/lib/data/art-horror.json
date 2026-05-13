@@ -1,0 +1,1970 @@
+{
+  "query": "art horror",
+  "slug": "art-horror",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/stevenhou/list/art-horror/",
+      "user": "stevenhou",
+      "slug": "art-horror",
+      "title": "Art Horror",
+      "desc": "\"Art-horror films tend to rely more on atmosphere and style to create an unnerving experience than on actual “scares.” They may have characters or situations that lend themselves to typical horror narratives, but very often they work against viewer expectations by unfolding in elliptical ways, or keeping the actual horrors offscreen, or sending their stories in new, surreal directions.\"\nwww.vulture.com/2014/04/under-the-skin-and-a-history-of-art-horror-film.html\n\n* not an actually coherent grouping w/ hard and fast criteria. literally just #vibes at the moment. dont listen to my idiotic comments in the discussion section",
+      "owner": "List by stevennn n",
+      "tags": [
+        "horror",
+        "art",
+        "art-house",
+        "art-horror",
+        "psychological",
+        "thriller",
+        "cerebral",
+        "surreal",
+        "stylistic",
+        "atmospheric"
+      ]
+    },
+    {
+      "href": "/becksmdvin/list/horror/",
+      "user": "becksmdvin",
+      "slug": "horror",
+      "title": "ART HORROR",
+      "desc": "I present to you my obsession with horror prosthetics",
+      "owner": "List by becksmdvin",
+      "tags": []
+    },
+    {
+      "href": "/thethirdtruman/list/art-horror/",
+      "user": "thethirdtruman",
+      "slug": "art-horror",
+      "title": "Art Horror",
+      "desc": "TheThirdTruman is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by TheThirdTruman",
+      "tags": []
+    },
+    {
+      "href": "/miau/list/art-horror/",
+      "user": "miau",
+      "slug": "art-horror",
+      "title": "Art Horror",
+      "desc": "Horror movies in which art plays an important role - or in which paintings are the source of evil and death.",
+      "owner": "List by miau PATRON",
+      "tags": []
+    },
+    {
+      "href": "/mirandav169/list/art-horror/",
+      "user": "mirandav169",
+      "slug": "art-horror",
+      "title": "art horror",
+      "desc": "mirandav169 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by mirandav169",
+      "tags": []
+    },
+    {
+      "href": "/scumfnck/list/art-horror/",
+      "user": "scumfnck",
+      "slug": "art-horror",
+      "title": "Art Horror",
+      "desc": "Angledust is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Angledust PATRON",
+      "tags": [
+        "horror",
+        "art",
+        "art-house",
+        "art-horror",
+        "psychological",
+        "thriller",
+        "cerebral",
+        "surreal",
+        "stylistic",
+        "atmospheric"
+      ]
+    },
+    {
+      "href": "/suminoio/list/art-horror/",
+      "user": "suminoio",
+      "slug": "art-horror",
+      "title": "Art horror",
+      "desc": "suminoio is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by suminoio",
+      "tags": []
+    },
+    {
+      "href": "/panelframepixel/list/art-horror/",
+      "user": "panelframepixel",
+      "slug": "art-horror",
+      "title": "Art-Horror",
+      "desc": "PANEL, FRAME & PIXEL is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by PANEL, FRAME & PIXEL",
+      "tags": []
+    },
+    {
+      "href": "/thedudemind/list/art-horror/",
+      "user": "thedudemind",
+      "slug": "art-horror",
+      "title": "art horror",
+      "desc": "Dude is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Dude Lebowski",
+      "tags": []
+    },
+    {
+      "href": "/djela/list/art-horror-1/",
+      "user": "djela",
+      "slug": "art-horror-1",
+      "title": "ART HORROR",
+      "desc": "List of horror films composed from the book Art-horror: The films of Ari Aster and Robert Eggers by Adrian Gmelch. This list is from the appendix.\n\n1 — 29: list from the appendix\n30 — 34: Aster and Eggers\n35 — : others",
+      "owner": "List by Đela",
+      "tags": [
+        "horror"
+      ]
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 409,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "possession",
+      "title": "Possession",
+      "year": "1981",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Andrzej Żuławski"
+      ],
+      "actors": [
+        "Isabelle Adjani",
+        "Sam Neill",
+        "Margit Carstensen",
+        "Heinz Bennent",
+        "Johanna Hofer",
+        "Carl Duering"
+      ],
+      "countries": [
+        "France",
+        "Germany"
+      ],
+      "rating": 4.04,
+      "rating_count": 452390,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8c/pk/z8/4v/aIjO3kraeaD4MDBSef3rTO2vIuZ-0-230-0-345-crop.jpg?v=cb9f332628",
+      "url": "https://letterboxd.com/film/possession/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "eraserhead",
+      "title": "Eraserhead",
+      "year": "1977",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Jack Nance",
+        "Charlotte Stewart",
+        "Allen Joseph",
+        "Jeanne Bates",
+        "Judith Roberts",
+        "Laurel Near"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 540748,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cw/7x/ig/m6/l8oAmU5swopsyWzTHpZtAK15Mrc-0-230-0-345-crop.jpg?v=c9fb159d8f",
+      "url": "https://letterboxd.com/film/eraserhead/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "suspiria",
+      "title": "Suspiria",
+      "year": "1977",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Dario Argento"
+      ],
+      "actors": [
+        "Jessica Harper",
+        "Stefania Casini",
+        "Flavio Bucci",
+        "Miguel Bosé",
+        "Barbara Magnolfi",
+        "Susanna Javicoli"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 3.92,
+      "rating_count": 557109,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-230-0-345-crop.jpg?v=d1fbb1d377",
+      "url": "https://letterboxd.com/film/suspiria/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "midsommar",
+      "title": "Midsommar",
+      "year": "2019",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Ari Aster"
+      ],
+      "actors": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "William Jackson Harper",
+        "Will Poulter",
+        "Vilhelm Blomgren",
+        "Isabelle Grill"
+      ],
+      "countries": [
+        "Sweden",
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 3688286,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/9/5/6/4/459564-midsommar-0-230-0-345-crop.jpg?v=ed7b8ded1f",
+      "url": "https://letterboxd.com/film/midsommar/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "hereditary",
+      "title": "Hereditary",
+      "year": "2018",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Ari Aster"
+      ],
+      "actors": [
+        "Toni Collette",
+        "Alex Wolff",
+        "Gabriel Byrne",
+        "Milly Shapiro",
+        "Ann Dowd",
+        "Mallory Bechtel"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.93,
+      "rating_count": 2619325,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/4/3/4/8/424348-hereditary-0-230-0-345-crop.jpg?v=470e48b681",
+      "url": "https://letterboxd.com/film/hereditary/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-witch-2015",
+      "title": "The Witch",
+      "year": "2015",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Anya Taylor-Joy",
+        "Ralph Ineson",
+        "Kate Dickie",
+        "Harvey Scrimshaw",
+        "Ellie Grainger",
+        "Lucas Dawson"
+      ],
+      "countries": [
+        "Brazil",
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 1464234,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/y2/i8/9s/h1/tNr2KYytArZNSh0K8PUcHU3JnX4-0-230-0-345-crop.jpg?v=45f739a242",
+      "url": "https://letterboxd.com/film/the-witch-2015/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-babadook",
+      "title": "The Babadook",
+      "year": "2014",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Jennifer Kent"
+      ],
+      "actors": [
+        "Essie Davis",
+        "Noah Wiseman",
+        "Hayley McElhinney",
+        "Daniel Henshall",
+        "Barbara West",
+        "Ben Winspear"
+      ],
+      "countries": [
+        "Australia",
+        "Canada"
+      ],
+      "rating": 3.31,
+      "rating_count": 769620,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/9/7/2/8/169728-the-babadook-0-230-0-345-crop.jpg?v=0821d9c945",
+      "url": "https://letterboxd.com/film/the-babadook/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "audition",
+      "title": "Audition",
+      "year": "1999",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Takashi Miike"
+      ],
+      "actors": [
+        "Ryo Ishibashi",
+        "Eihi Shiina",
+        "Jun Kunimura",
+        "Tetsu Sawaki",
+        "Renji Ishibashi",
+        "Miyuki Matsuda"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.8,
+      "rating_count": 278157,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/d4/v1/sb/mo/uhfPMv88ccK5EfeMCHGgz2EiSSL-0-230-0-345-crop.jpg?v=15541a80bd",
+      "url": "https://letterboxd.com/film/audition/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "videodrome",
+      "title": "Videodrome",
+      "year": "1983",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "David Cronenberg"
+      ],
+      "actors": [
+        "James Woods",
+        "Debbie Harry",
+        "Sonja Smits",
+        "Peter Dvorsky",
+        "Leslie Carlson",
+        "Jack Creley"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.88,
+      "rating_count": 375122,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xw/sw/3v/st/o8psaYgwTYFpqJhHISoMq178J4n-0-230-0-345-crop.jpg?v=837f65a552",
+      "url": "https://letterboxd.com/film/videodrome/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-brood",
+      "title": "The Brood",
+      "year": "1979",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "David Cronenberg"
+      ],
+      "actors": [
+        "Oliver Reed",
+        "Samantha Eggar",
+        "Art Hindle",
+        "Henry Beckman",
+        "Nuala Fitzgerald",
+        "Cindy Hinds"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.59,
+      "rating_count": 106415,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/y4/da/6d/zs/osLd3jkFx5D1vGc5UkAqvY3dyOX-0-230-0-345-crop.jpg?v=58e68fe1a7",
+      "url": "https://letterboxd.com/film/the-brood/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "hour-of-the-wolf",
+      "title": "Hour of the Wolf",
+      "year": "1968",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Max von Sydow",
+        "Liv Ullmann",
+        "Gertrud Fridh",
+        "Georg Rydeberg",
+        "Erland Josephson",
+        "Naima Wifstrand"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.02,
+      "rating_count": 67270,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/2/2/40422-hour-of-the-wolf-0-230-0-345-crop.jpg?v=328a5ea98c",
+      "url": "https://letterboxd.com/film/hour-of-the-wolf/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "repulsion",
+      "title": "Repulsion",
+      "year": "1965",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ],
+      "actors": [
+        "Catherine Deneuve",
+        "Ian Hendry",
+        "John Fraser",
+        "Yvonne Furneaux",
+        "Patrick Wymark",
+        "Renée Houston"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.91,
+      "rating_count": 101942,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/6/3/45263-repulsion-0-230-0-345-crop.jpg?v=54da67ac02",
+      "url": "https://letterboxd.com/film/repulsion/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "lamb-2021",
+      "title": "Lamb",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "Valdimar Jóhannsson"
+      ],
+      "actors": [
+        "Noomi Rapace",
+        "Hilmir Snær Guðnason",
+        "Björn Hlynur Haraldsson",
+        "Ingvar E. Sigurðsson",
+        "Ester Bibi",
+        "Sigurður Elvar Viðarson"
+      ],
+      "countries": [
+        "Iceland",
+        "Poland",
+        "Sweden"
+      ],
+      "rating": 3.11,
+      "rating_count": 217732,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/7/1/1/4/707114-lamb-0-230-0-345-crop.jpg?v=06329d82b2",
+      "url": "https://letterboxd.com/film/lamb-2021/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "saint-maud",
+      "title": "Saint Maud",
+      "year": "2019",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Rose Glass"
+      ],
+      "actors": [
+        "Morfydd Clark",
+        "Jennifer Ehle",
+        "Lily Frazer",
+        "Lily Knight",
+        "Rosie Sansom",
+        "Caoilfhionn Dunne"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.47,
+      "rating_count": 236537,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8i/fl/ux/x4/uQjxpEYktu36ZiWKfn0t0FySmXl-0-230-0-345-crop.jpg?v=adf9e62e9b",
+      "url": "https://letterboxd.com/film/saint-maud/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-lighthouse-2019",
+      "title": "The Lighthouse",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Willem Dafoe",
+        "Valeriia Karaman",
+        "Logan Hawkes",
+        "Kyla Nicolle",
+        "Shaun Clarke"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 1515470,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/3/8/6/3/433863-the-lighthouse-0-230-0-345-crop.jpg?v=ee97005537",
+      "url": "https://letterboxd.com/film/the-lighthouse-2019/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "suspiria-2018",
+      "title": "Suspiria",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Luca Guadagnino"
+      ],
+      "actors": [
+        "Dakota Johnson",
+        "Tilda Swinton",
+        "Mia Goth",
+        "Angela Winkler",
+        "Ingrid Caven",
+        "Chloë Grace Moretz"
+      ],
+      "countries": [
+        "Italy",
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 540359,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/3/0/6/6/293066-suspiria-0-230-0-345-crop.jpg?v=1e4a2f2d40",
+      "url": "https://letterboxd.com/film/suspiria-2018/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "enemy",
+      "title": "Enemy",
+      "year": "2013",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Mélanie Laurent",
+        "Sarah Gadon",
+        "Isabella Rossellini",
+        "Joshua Peace",
+        "Tim Post"
+      ],
+      "countries": [
+        "Canada",
+        "France",
+        "Spain"
+      ],
+      "rating": 3.56,
+      "rating_count": 585016,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sj/00/0d/n1/aQkyFHzNzZoMhxZ7c0IaK8BljED-0-230-0-345-crop.jpg?v=338dcff82c",
+      "url": "https://letterboxd.com/film/enemy/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "under-the-skin-2013",
+      "title": "Under the Skin",
+      "year": "2013",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Jonathan Glazer"
+      ],
+      "actors": [
+        "Scarlett Johansson",
+        "Jeremy McWilliams",
+        "Lynsey Taylor Mackay",
+        "Dougie McConnell",
+        "Kevin McAlinden",
+        "D. Meade"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Switzerland"
+      ],
+      "rating": 3.6,
+      "rating_count": 371938,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/1/9/8/80198-under-the-skin-0-230-0-345-crop.jpg?v=732bdd03b9",
+      "url": "https://letterboxd.com/film/under-the-skin-2013/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "antichrist",
+      "title": "Antichrist",
+      "year": "2009",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Lars von Trier"
+      ],
+      "actors": [
+        "Willem Dafoe",
+        "Charlotte Gainsbourg",
+        "Storm Acheche Sahlstrøm"
+      ],
+      "countries": [
+        "Denmark",
+        "France",
+        "Germany",
+        "Italy",
+        "Poland",
+        "Sweden"
+      ],
+      "rating": 3.39,
+      "rating_count": 248363,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/d7/y1/ub/ph/lY4Y9buUIZY17vpvL5dsBpbORo0-0-230-0-345-crop.jpg?v=1e15ad22d2",
+      "url": "https://letterboxd.com/film/antichrist/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "nosferatu-the-vampyre",
+      "title": "Nosferatu the Vampyre",
+      "year": "1979",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Werner Herzog"
+      ],
+      "actors": [
+        "Klaus Kinski",
+        "Isabelle Adjani",
+        "Bruno Ganz",
+        "Roland Topor",
+        "Walter Ladengast",
+        "Martje Grohmann"
+      ],
+      "countries": [
+        "Germany",
+        "France"
+      ],
+      "rating": 3.81,
+      "rating_count": 157419,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/3/2/9/48329-nosferatu-the-vampyre-0-230-0-345-crop.jpg?v=3d227a531f",
+      "url": "https://letterboxd.com/film/nosferatu-the-vampyre/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "house",
+      "title": "House",
+      "year": "1977",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Nobuhiko Obayashi"
+      ],
+      "actors": [
+        "Kimiko Ikegami",
+        "Kumiko Ohba",
+        "Ai Matsubara",
+        "Miki Jinbo",
+        "Eriko Tanaka",
+        "Masayo Miyako"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.99,
+      "rating_count": 352066,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7f/z3/ho/6j/6vblWscFAbIm9V5CwHC7IImgAq9-0-230-0-345-crop.jpg?v=b505ff45b0",
+      "url": "https://letterboxd.com/film/house/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "kwaidan",
+      "title": "Kwaidan",
+      "year": "1964",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Masaki Kobayashi"
+      ],
+      "actors": [
+        "Michiyo Aratama",
+        "Rentaro Mikuni",
+        "Misako Watanabe",
+        "Kenjirō Ishiyama",
+        "Ranko Akagi",
+        "Fumie Kitahara"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.24,
+      "rating_count": 60814,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hx/mh/nt/mz/kwaidan-0-230-0-345-crop.jpg?v=02c4c5b569",
+      "url": "https://letterboxd.com/film/kwaidan/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "eyes-without-a-face",
+      "title": "Eyes Without a Face",
+      "year": "1960",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Georges Franju"
+      ],
+      "actors": [
+        "Pierre Brasseur",
+        "Alida Valli",
+        "Édith Scob",
+        "Juliette Mayniel",
+        "Alexandre Rignault",
+        "Béatrice Altariba"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 3.92,
+      "rating_count": 167855,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/1/9/4/31194-eyes-without-a-face-0-230-0-345-crop.jpg?v=80edfca3cc",
+      "url": "https://letterboxd.com/film/eyes-without-a-face/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "men-2022",
+      "title": "Men",
+      "year": "2022",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Alex Garland"
+      ],
+      "actors": [
+        "Jessie Buckley",
+        "Rory Kinnear",
+        "Paapa Essiedu",
+        "Gayle Rankin",
+        "Sarah Twomey",
+        "Zak Rothera-Oxley"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 345974,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/9/2/9/8/699298-men-0-230-0-345-crop.jpg?v=5065da5191",
+      "url": "https://letterboxd.com/film/men-2022/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "mother-2017",
+      "title": "mother!",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris",
+        "Michelle Pfeiffer",
+        "Brian Gleeson",
+        "Domhnall Gleeson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 856227,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/1/1/316311-mother--0-230-0-345-crop.jpg?v=399e8950fd",
+      "url": "https://letterboxd.com/film/mother-2017/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-killing-of-a-sacred-deer",
+      "title": "The Killing of a Sacred Deer",
+      "year": "2017",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Yorgos Lanthimos"
+      ],
+      "actors": [
+        "Colin Farrell",
+        "Nicole Kidman",
+        "Barry Keoghan",
+        "Raffey Cassidy",
+        "Sunny Suljic",
+        "Bill Camp"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Ireland"
+      ],
+      "rating": 3.7,
+      "rating_count": 807624,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop.jpg?v=f2a22b1af9",
+      "url": "https://letterboxd.com/film/the-killing-of-a-sacred-deer/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "get-out-2017",
+      "title": "Get Out",
+      "year": "2017",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Jordan Peele"
+      ],
+      "actors": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Catherine Keener",
+        "Bradley Whitford",
+        "Caleb Landry Jones",
+        "Marcus Henderson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 4365089,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/1/1/7/353117-get-out-0-230-0-345-crop.jpg?v=136acec030",
+      "url": "https://letterboxd.com/film/get-out-2017/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-neon-demon",
+      "title": "The Neon Demon",
+      "year": "2016",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Elle Fanning",
+        "Karl Glusman",
+        "Jena Malone",
+        "Bella Heathcote",
+        "Abbey Lee",
+        "Desmond Harrington"
+      ],
+      "countries": [
+        "USA",
+        "Denmark",
+        "France",
+        "Belgium"
+      ],
+      "rating": 3.14,
+      "rating_count": 306486,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bq/o8/8y/yr/paofVcjP4QgIruLIqeRKIskpDUw-0-230-0-345-crop.jpg?v=c33585e69f",
+      "url": "https://letterboxd.com/film/the-neon-demon/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "raw-2016",
+      "title": "Raw",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Julia Ducournau"
+      ],
+      "actors": [
+        "Garance Marillier",
+        "Ella Rumpf",
+        "Rabah Nait Oufella",
+        "Laurent Lucas",
+        "Joana Preiss",
+        "Bouli Lanners"
+      ],
+      "countries": [
+        "Belgium",
+        "France",
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 446058,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/7/9/7/4/327974-raw-0-230-0-345-crop.jpg?v=fe5f9080d2",
+      "url": "https://letterboxd.com/film/raw-2016/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "goodnight-mommy",
+      "title": "Goodnight Mommy",
+      "year": "2014",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "Severin Fiala",
+        "Veronika Franz"
+      ],
+      "actors": [
+        "Elias Schwarz",
+        "Lukas Schwarz",
+        "Susanne Wuest",
+        "Hans Escher",
+        "Elfriede Schatz",
+        "Karl Purker"
+      ],
+      "countries": [
+        "Austria"
+      ],
+      "rating": 3.36,
+      "rating_count": 160838,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/9/6/1/3/209613-goodnight-mommy-0-230-0-345-crop.jpg?v=0defccf247",
+      "url": "https://letterboxd.com/film/goodnight-mommy/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "it-follows",
+      "title": "It Follows",
+      "year": "2014",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "David Robert Mitchell"
+      ],
+      "actors": [
+        "Maika Monroe",
+        "Keir Gilchrist",
+        "Daniel Zovatto",
+        "Jake Weary",
+        "Olivia Luccardi",
+        "Lili Sepe"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.41,
+      "rating_count": 842999,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-230-0-345-crop.jpg?v=0f234ef9c3",
+      "url": "https://letterboxd.com/film/it-follows/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "only-lovers-left-alive",
+      "title": "Only Lovers Left Alive",
+      "year": "2013",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "directors": [
+        "Jim Jarmusch"
+      ],
+      "actors": [
+        "Tilda Swinton",
+        "Tom Hiddleston",
+        "Anton Yelchin",
+        "Mia Wasikowska",
+        "Jeffrey Wright",
+        "Slimane Dazi"
+      ],
+      "countries": [
+        "UK",
+        "Germany",
+        "France",
+        "Greece"
+      ],
+      "rating": 3.81,
+      "rating_count": 233466,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/5/6/3/114563-only-lovers-left-alive-0-230-0-345-crop.jpg?v=d6151d5d18",
+      "url": "https://letterboxd.com/film/only-lovers-left-alive/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "black-swan",
+      "title": "Black Swan",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Natalie Portman",
+        "Mila Kunis",
+        "Vincent Cassel",
+        "Barbara Hershey",
+        "Winona Ryder",
+        "Benjamin Millepied"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.17,
+      "rating_count": 3068963,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yt/ae/iz/kj/bIjkE9Og0nulRycj144sCcQcsZ6-0-230-0-345-crop.jpg?v=a571e4c644",
+      "url": "https://letterboxd.com/film/black-swan/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "martyrs",
+      "title": "Martyrs",
+      "year": "2008",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Pascal Laugier"
+      ],
+      "actors": [
+        "Morjana Alaoui",
+        "Mylène Jampanoï",
+        "Catherine Bégin",
+        "Robert Toupin",
+        "Patricia Tulasne",
+        "Juliette Gosselin"
+      ],
+      "countries": [
+        "Canada",
+        "France"
+      ],
+      "rating": 3.6,
+      "rating_count": 270878,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/6/1/47061-martyrs-0-230-0-345-crop.jpg?v=26b1166803",
+      "url": "https://letterboxd.com/film/martyrs/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "inland-empire",
+      "title": "Inland Empire",
+      "year": "2006",
+      "genres": [
+        "Mystery",
+        "Fantasy",
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Laura Dern",
+        "Jeremy Irons",
+        "Justin Theroux",
+        "Harry Dean Stanton",
+        "Karolina Gruszka",
+        "Peter J. Lucas"
+      ],
+      "countries": [
+        "USA",
+        "France",
+        "Poland"
+      ],
+      "rating": 3.89,
+      "rating_count": 186145,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/2/2/50822-inland-empire-0-230-0-345-crop.jpg?v=b4bd226d73",
+      "url": "https://letterboxd.com/film/inland-empire/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "tetsuo-the-iron-man",
+      "title": "Tetsuo: The Iron Man",
+      "year": "1989",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Shinya Tsukamoto"
+      ],
+      "actors": [
+        "Tomorowo Taguchi",
+        "Shinya Tsukamoto",
+        "Kei Fujiwara",
+        "Nobu Kanaoka",
+        "Naomasa Musaka",
+        "Renji Ishibashi"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.87,
+      "rating_count": 122866,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/6/0/2/23602-tetsuo-the-iron-man-0-230-0-345-crop.jpg?v=7db3db7b0d",
+      "url": "https://letterboxd.com/film/tetsuo-the-iron-man/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "dead-ringers",
+      "title": "Dead Ringers",
+      "year": "1988",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "David Cronenberg"
+      ],
+      "actors": [
+        "Jeremy Irons",
+        "Geneviève Bujold",
+        "Heidi von Palleske",
+        "Barbara Gordon",
+        "Shirley Douglas",
+        "Stephen Lack"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 134126,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/o5/f8/9s/nn/4Dq2qYkyJeJGw0mfhQVXgI2pMYx-0-230-0-345-crop.jpg?v=7265fa979c",
+      "url": "https://letterboxd.com/film/dead-ringers/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-fly-1986",
+      "title": "The Fly",
+      "year": "1986",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "David Cronenberg"
+      ],
+      "actors": [
+        "Jeff Goldblum",
+        "Geena Davis",
+        "John Getz",
+        "Joy Boushel",
+        "Leslie Carlson",
+        "George Chuvalo"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 4,
+      "rating_count": 535241,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/7/1/47171-the-fly-0-230-0-345-crop.jpg?v=30802b8573",
+      "url": "https://letterboxd.com/film/the-fly-1986/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "angst",
+      "title": "Angst",
+      "year": "1983",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Crime"
+      ],
+      "directors": [
+        "Gerald Kargl"
+      ],
+      "actors": [
+        "Erwin Leder",
+        "Robert Hunger-Bühler",
+        "Silvia Rabenreither",
+        "Karin Springer",
+        "Edith Rosset",
+        "Josefine Lakatha"
+      ],
+      "countries": [
+        "Austria"
+      ],
+      "rating": 3.71,
+      "rating_count": 65282,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6p/3d/1m/v8/zZh5WSo9P4SuB2S8D37b3ewWDjk-0-230-0-345-crop.jpg?v=fc7634d4ee",
+      "url": "https://letterboxd.com/film/angst/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-tenant",
+      "title": "The Tenant",
+      "year": "1976",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ],
+      "actors": [
+        "Roman Polanski",
+        "Isabelle Adjani",
+        "Melvyn Douglas",
+        "Jo Van Fleet",
+        "Bernard Fresson",
+        "Shelley Winters"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.88,
+      "rating_count": 70443,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/6/2/45262-the-tenant-0-230-0-345-crop.jpg?v=24a7cf2aac",
+      "url": "https://letterboxd.com/film/the-tenant/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-wicker-man",
+      "title": "The Wicker Man",
+      "year": "1973",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Robin Hardy"
+      ],
+      "actors": [
+        "Edward Woodward",
+        "Christopher Lee",
+        "Britt Ekland",
+        "Diane Cilento",
+        "Ingrid Pitt",
+        "Roy Boyd"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.97,
+      "rating_count": 307780,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/6/6/2/41662-the-wicker-man-0-230-0-345-crop.jpg?v=1ccafd8db0",
+      "url": "https://letterboxd.com/film/the-wicker-man/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "dont-look-now",
+      "title": "Don't Look Now",
+      "year": "1973",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Nicolas Roeg"
+      ],
+      "actors": [
+        "Donald Sutherland",
+        "Julie Christie",
+        "Hilary Mason",
+        "Massimo Serato",
+        "Clelia Matania",
+        "Renato Scarpa"
+      ],
+      "countries": [
+        "Italy",
+        "UK"
+      ],
+      "rating": 3.78,
+      "rating_count": 126394,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/b1/xg/44/w1/mK1SxllUiyAjtugZg3M64e2CTu3-0-230-0-345-crop.jpg?v=caa512b778",
+      "url": "https://letterboxd.com/film/dont-look-now/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "images",
+      "title": "Images",
+      "year": "1972",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Robert Altman"
+      ],
+      "actors": [
+        "Susannah York",
+        "René Auberjonois",
+        "Marcel Bozzuffi",
+        "Hugh Millais",
+        "Cathryn Harrison",
+        "John Morley"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.75,
+      "rating_count": 21824,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/8/5/3/32853-images-0-230-0-345-crop.jpg?v=00b22d5c5c",
+      "url": "https://letterboxd.com/film/images/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "rosemarys-baby",
+      "title": "Rosemary's Baby",
+      "year": "1968",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ],
+      "actors": [
+        "Mia Farrow",
+        "John Cassavetes",
+        "Ruth Gordon",
+        "Sidney Blackmer",
+        "Maurice Evans",
+        "Ralph Bellamy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.21,
+      "rating_count": 573870,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ea/vc/su/y2/fdLOXB8AysEGRL44I1RvoKiWDcW-0-230-0-345-crop.jpg?v=8e18e4f70c",
+      "url": "https://letterboxd.com/film/rosemarys-baby/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "carnival-of-souls",
+      "title": "Carnival of Souls",
+      "year": "1962",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Mystery"
+      ],
+      "directors": [
+        "Herk Harvey"
+      ],
+      "actors": [
+        "Candace Hilligoss",
+        "Herk Harvey",
+        "Sidney Berger",
+        "Frances Feist",
+        "Art Ellison",
+        "Stan Levitt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 95832,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
+      "url": "https://letterboxd.com/film/carnival-of-souls/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-innocents",
+      "title": "The Innocents",
+      "year": "1961",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Jack Clayton"
+      ],
+      "actors": [
+        "Deborah Kerr",
+        "Peter Wyngarde",
+        "Megs Jenkins",
+        "Michael Redgrave",
+        "Martin Stephens",
+        "Pamela Franklin"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 4.12,
+      "rating_count": 66801,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/6/0/8/41608-the-innocents-0-230-0-345-crop.jpg?v=16ab88a1be",
+      "url": "https://letterboxd.com/film/the-innocents/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "haxan",
+      "title": "Häxan",
+      "year": "1922",
+      "genres": [
+        "History",
+        "Documentary",
+        "Horror"
+      ],
+      "directors": [
+        "Benjamin Christensen"
+      ],
+      "actors": [
+        "Benjamin Christensen",
+        "Ella La Cour",
+        "Emmy Schønfeld",
+        "Kate Fabian",
+        "Oscar Stribolt",
+        "Wilhelmine Henriksen"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.05,
+      "rating_count": 61366,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/7/1/8871-haxan-0-230-0-345-crop.jpg?v=cd0cff7624",
+      "url": "https://letterboxd.com/film/haxan/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "nosferatu",
+      "title": "Nosferatu",
+      "year": "1922",
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
+      "directors": [
+        "F. W. Murnau"
+      ],
+      "actors": [
+        "Max Schreck",
+        "Gustav von Wangenheim",
+        "Greta Schröder",
+        "Georg H. Schnell",
+        "Ruth Landshoff",
+        "Gustav Botz"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 3.82,
+      "rating_count": 408253,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/7/1/51471-nosferatu-0-230-0-345-crop.jpg?v=97f8f97666",
+      "url": "https://letterboxd.com/film/nosferatu/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "relic",
+      "title": "Relic",
+      "year": "2020",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Natalie Erika James"
+      ],
+      "actors": [
+        "Emily Mortimer",
+        "Bella Heathcote",
+        "Robyn Nevin",
+        "Chris Bunton",
+        "Steve Rodgers",
+        "Catherine Glavicic"
+      ],
+      "countries": [
+        "Australia",
+        "USA"
+      ],
+      "rating": 3.14,
+      "rating_count": 63761,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/8/4/0/3/468403-relic-0-230-0-345-crop.jpg?v=3066e17fdc",
+      "url": "https://letterboxd.com/film/relic/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "nosferatu-2024",
+      "title": "Nosferatu",
+      "year": "2024",
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Lily-Rose Depp",
+        "Nicholas Hoult",
+        "Bill Skarsgård",
+        "Aaron Taylor-Johnson",
+        "Willem Dafoe",
+        "Emma Corrin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.66,
+      "rating_count": 2566656,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/9/5/0/5/359505-nosferatu-2024-0-230-0-345-crop.jpg?v=a12d4ad648",
+      "url": "https://letterboxd.com/film/nosferatu-2024/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "i-saw-the-tv-glow",
+      "title": "I Saw the TV Glow",
+      "year": "2024",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Jane Schoenbrun"
+      ],
+      "actors": [
+        "Justice Smith",
+        "Jack Haven",
+        "Ian Foreman",
+        "Helena Howard",
+        "Lindsey Jordan",
+        "Danielle Deadwyler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 807206,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/0/772230-i-saw-the-tv-glow-0-230-0-345-crop.jpg?v=73972177ff",
+      "url": "https://letterboxd.com/film/i-saw-the-tv-glow/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "beau-is-afraid",
+      "title": "Beau Is Afraid",
+      "year": "2023",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "Ari Aster"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Patti LuPone",
+        "Amy Ryan",
+        "Nathan Lane",
+        "Kylie Rogers",
+        "Denis Ménochet"
+      ],
+      "countries": [
+        "USA",
+        "Finland"
+      ],
+      "rating": 3.42,
+      "rating_count": 531898,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/5/8/5/6/715856-beau-is-afraid-0-230-0-345-crop.jpg?v=b5fd01665a",
+      "url": "https://letterboxd.com/film/beau-is-afraid/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "nanny-2022",
+      "title": "Nanny",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Nikyatu Jusu"
+      ],
+      "actors": [
+        "Anna Diop",
+        "Michelle Monaghan",
+        "Sinqua Walls",
+        "Morgan Spector",
+        "Rose Decker",
+        "Leslie Uggams"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.06,
+      "rating_count": 29188,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/8/6/9/3/758693-nanny-0-230-0-345-crop.jpg?v=b41dac9f91",
+      "url": "https://letterboxd.com/film/nanny-2022/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "titane",
+      "title": "Titane",
+      "year": "2021",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Julia Ducournau"
+      ],
+      "actors": [
+        "Vincent Lindon",
+        "Agathe Rousselle",
+        "Garance Marillier",
+        "Laïs Salameh",
+        "Mara Cissé",
+        "Marin Judas"
+      ],
+      "countries": [
+        "Belgium",
+        "France"
+      ],
+      "rating": 3.55,
+      "rating_count": 427620,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/6/5/5/3/556553-titane-0-230-0-345-crop.jpg?v=1383f3a942",
+      "url": "https://letterboxd.com/film/titane/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "possessor",
+      "title": "Possessor",
+      "year": "2020",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Brandon Cronenberg"
+      ],
+      "actors": [
+        "Andrea Riseborough",
+        "Christopher Abbott",
+        "Jennifer Jason Leigh",
+        "Sean Bean",
+        "Tuppence Middleton",
+        "Rossif Sutherland"
+      ],
+      "countries": [
+        "Australia",
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.56,
+      "rating_count": 206033,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/8/5/4/0/368540-possessor-0-230-0-345-crop.jpg?v=c949ea1fc0",
+      "url": "https://letterboxd.com/film/possessor/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "swallow-2019",
+      "title": "Swallow",
+      "year": "2019",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Carlo Mirabella-Davis"
+      ],
+      "actors": [
+        "Haley Bennett",
+        "Austin Stowell",
+        "Elizabeth Marvel",
+        "David Rasche",
+        "Denis O'Hare",
+        "Luna Lauren Vélez"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.4,
+      "rating_count": 148698,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/3/2/9/514329-swallow-0-230-0-345-crop.jpg?v=79c114b6f4",
+      "url": "https://letterboxd.com/film/swallow-2019/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "us-2019",
+      "title": "Us",
+      "year": "2019",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Jordan Peele"
+      ],
+      "actors": [
+        "Lupita Nyong'o",
+        "Winston Duke",
+        "Elisabeth Moss",
+        "Tim Heidecker",
+        "Shahadi Wright Joseph",
+        "Evan Alex"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.63,
+      "rating_count": 2321478,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/5/2/0/390520-us-0-230-0-345-crop.jpg?v=968884c876",
+      "url": "https://letterboxd.com/film/us-2019/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-house-that-jack-built-2018",
+      "title": "The House That Jack Built",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Lars von Trier"
+      ],
+      "actors": [
+        "Matt Dillon",
+        "Bruno Ganz",
+        "Uma Thurman",
+        "Siobhan Fallon Hogan",
+        "Sofie Gråbøl",
+        "Riley Keough"
+      ],
+      "countries": [
+        "Denmark",
+        "France",
+        "Germany",
+        "Sweden"
+      ],
+      "rating": 3.62,
+      "rating_count": 372785,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/2/4/3/2/332432-the-house-that-jack-built-0-230-0-345-crop.jpg?v=874acb1dbc",
+      "url": "https://letterboxd.com/film/the-house-that-jack-built-2018/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "climax-2018",
+      "title": "Climax",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Thriller",
+        "Music"
+      ],
+      "directors": [
+        "Gaspar Noé"
+      ],
+      "actors": [
+        "Sofia Boutella",
+        "Romain Guillermic",
+        "Souheila Yacoub",
+        "Kiddy Smile",
+        "Claude-Emmanuelle Gajan-Maull",
+        "Giselle Palmer"
+      ],
+      "countries": [
+        "France",
+        "Belgium",
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 467915,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
+      "url": "https://letterboxd.com/film/climax-2018/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "annihilation",
+      "title": "Annihilation",
+      "year": "2018",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Alex Garland"
+      ],
+      "actors": [
+        "Natalie Portman",
+        "Jennifer Jason Leigh",
+        "Gina Rodriguez",
+        "Tessa Thompson",
+        "Tuva Novotny",
+        "Oscar Isaac"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.57,
+      "rating_count": 937843,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/7/7/8/4/227784-annihilation-0-230-0-345-crop.jpg?v=35308091d6",
+      "url": "https://letterboxd.com/film/annihilation/",
+      "appears_in_n_lists": 3
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Horror": 56,
+      "Drama": 30,
+      "Thriller": 26,
+      "Mystery": 17,
+      "Fantasy": 11,
+      "Science Fiction": 9,
+      "Comedy": 2,
+      "Crime": 2,
+      "Romance": 1,
+      "History": 1,
+      "Documentary": 1,
+      "Adventure": 1,
+      "Music": 1
+    },
+    "directors": {
+      "David Cronenberg": 4,
+      "Ari Aster": 3,
+      "Robert Eggers": 3,
+      "Roman Polanski": 3,
+      "David Lynch": 2,
+      "Lars von Trier": 2,
+      "Alex Garland": 2,
+      "Darren Aronofsky": 2,
+      "Jordan Peele": 2,
+      "Julia Ducournau": 2,
+      "Andrzej Żuławski": 1,
+      "Dario Argento": 1,
+      "Jennifer Kent": 1,
+      "Takashi Miike": 1,
+      "Ingmar Bergman": 1,
+      "Valdimar Jóhannsson": 1,
+      "Rose Glass": 1,
+      "Luca Guadagnino": 1,
+      "Denis Villeneuve": 1,
+      "Jonathan Glazer": 1
+    },
+    "years": {
+      "1922": 2,
+      "1960": 1,
+      "1961": 1,
+      "1962": 1,
+      "1964": 1,
+      "1965": 1,
+      "1968": 2,
+      "1972": 1,
+      "1973": 2,
+      "1976": 1,
+      "1977": 3,
+      "1979": 2,
+      "1981": 1,
+      "1983": 2,
+      "1986": 1,
+      "1988": 1,
+      "1989": 1,
+      "1999": 1,
+      "2006": 1,
+      "2008": 1,
+      "2009": 1,
+      "2010": 1,
+      "2013": 3,
+      "2014": 3,
+      "2015": 1,
+      "2016": 2,
+      "2017": 3,
+      "2018": 5,
+      "2019": 5,
+      "2020": 2,
+      "2021": 2,
+      "2022": 2,
+      "2023": 1,
+      "2024": 2
+    }
+  }
+}
