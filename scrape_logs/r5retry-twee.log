@@ -1,0 +1,105 @@
+[search] https://letterboxd.com/search/lists/twee/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/markcorrigan/list/twee/
+[list] https://letterboxd.com/justinbryce/list/twee/
+[list] https://letterboxd.com/kfjdagger/list/twee/
+[list] https://letterboxd.com/gabe__/list/twee-1/
+[list] https://letterboxd.com/jonney2k/list/twee/
+[list] https://letterboxd.com/violetadeline/list/twee/
+[list] https://letterboxd.com/pinkpercolator/list/twee/
+[list] https://letterboxd.com/kosmicznacebula/list/twee/
+[list] https://letterboxd.com/marihmmm/list/twee/
+[list] https://letterboxd.com/chainey/list/twee/
+    1/59 Moonrise Kingdom (2012) x7 — Romance, Drama, Comedy
+    2/59 Juno (2007) x7 — Comedy, Romance, Drama
+    3/59 Ghost World (2001) x6 — Comedy, Drama
+    4/59 Submarine (2010) x6 — Drama, Comedy, Romance
+    5/59 (500) Days of Summer (2009) x5 — Romance, Comedy, Drama
+    6/59 Rushmore (1998) x5 — Comedy, Drama
+    7/59 Little Miss Sunshine (2006) x5 — Drama, Comedy
+    8/59 The Life Aquatic with Steve Zissou (2004) x5 — Comedy, Adventure, Drama
+    9/59 Amélie (2001) x5 — Romance, Comedy
+   10/59 Napoleon Dynamite (2004) x5 — Comedy
+   11/59 The Royal Tenenbaums (2001) x4 — Drama, Comedy
+   12/59 Eternal Sunshine of the Spotless Mind (2004) x4 — Science Fiction, Romance, Drama
+   13/59 Harold and Maude (1971) x4 — Drama, Comedy, Romance
+   14/59 Fantastic Mr. Fox (2009) x3 — Comedy, Animation, Family, Adventure
+   15/59 Frances Ha (2012) x3 — Comedy, Drama
+   16/59 Me and You and Everyone We Know (2005) x3 — Drama, Comedy
+   17/59 Eagle vs Shark (2007) x3 — Comedy, Romance
+   18/59 Everything Is Illuminated (2005) x3 — Drama, Comedy
+   19/59 I ♥ Huckabees (2004) x3 — Comedy, Romance
+   20/59 My Neighbor Totoro (1988) x3 — Fantasy, Animation, Family
+   21/59 Beginners (2010) x3 — Comedy, Romance, Drama
+   22/59 God Help the Girl (2014) x3 — Comedy, Music, Drama
+   23/59 Stranger Than Fiction (2006) x3 — Drama, Fantasy, Romance, Comedy
+   24/59 Me and Earl and the Dying Girl (2015) x3 — Comedy, Drama
+   25/59 Benny & Joon (1993) x2 — Comedy, Drama
+   26/59 The Future (2011) x2 — Drama, Romance, Fantasy
+   27/59 James and the Giant Peach (1996) x2 — Adventure, Fantasy, Family, Animation
+   28/59 Being John Malkovich (1999) x2 — Comedy, Drama, Fantasy
+   29/59 Big Fish (2003) x2 — Drama, Fantasy, Adventure
+   30/59 Sunshine Cleaning (2008) x2 — Comedy, Drama
+   31/59 Running with Scissors (2006) x2 — Drama, Comedy
+   32/59 Annie Hall (1977) x2 — Drama, Romance, Comedy
+   33/59 Life Is Sweet (1990) x2 — Comedy, Drama
+   34/59 Her (2013) x2 — Science Fiction, Romance, Drama
+   35/59 The Squid and the Whale (2005) x2 — Comedy, Drama
+   36/59 Sing Street (2016) x2 — Romance, Drama, Music, Comedy
+   37/59 The Darjeeling Limited (2007) x2 — Comedy, Adventure, Drama
+   38/59 Garden State (2004) x2 — Comedy, Drama, Romance
+   39/59 Where the Wild Things Are (2009) x2 — Family, Drama, Adventure, Fantasy
+   40/59 The French Dispatch of the Liberty, Kansas Evening Sun (2021) x2 — Drama, Comedy
+   41/59 Before Sunrise (1995) x2 — Romance, Drama
+   42/59 Buffalo '66 (1998) x2 — Drama, Comedy, Romance
+   43/59 Lost in Translation (2003) x2 — Comedy, Romance, Drama
+   44/59 Marcel the Shell with Shoes On (2021) x2 — Animation, Drama, Comedy, Family
+   45/59 Empire Records (1995) x2 — Romance, Comedy, Drama
+   46/59 From Up on Poppy Hill (2011) x2 — Drama, Animation
+   47/59 Nick and Norah's Infinite Playlist (2008) x2 — Romance, Music, Comedy
+   48/59 Over the Garden Wall (2014) x2 — Animation, Mystery, Family, Comedy
+   49/59 The Perks of Being a Wallflower (2012) x2 — Drama
+   50/59 Penelope (2006) x2 — Comedy, Fantasy, Romance
+   51/59 Adventureland (2009) x2 — Romance, Comedy, Drama
+   52/59 Ruby Sparks (2012) x2 — Comedy, Drama, Fantasy, Romance
+   53/59 Lola Versus (2012) x2 — Comedy
+   54/59 Elizabethtown (2005) x2 — Drama, Romance, Comedy
+   55/59 TiMER (2009) x2 — Science Fiction, Romance, Fantasy, Drama, Comedy
+   56/59 But I'm a Cheerleader (1999) x2 — Romance, Drama, Comedy
+   57/59 Swiss Army Man (2016) x2 — Drama, Fantasy, Comedy, Adventure, Romance
+   58/59 Seeking a Friend for the End of the World (2012) x2 — Comedy, Romance, Adventure, Drama
+   59/59 Obvious Child (2014) x2 — Comedy, Romance
+
+[done] /root/letterboxd-nanogenres/data/twee.json
+{
+  "slug": "twee",
+  "lists_used": 10,
+  "canonical_films": 59,
+  "top_5": [
+    [
+      "Moonrise Kingdom",
+      "2012",
+      7
+    ],
+    [
+      "Juno",
+      "2007",
+      7
+    ],
+    [
+      "Ghost World",
+      "2001",
+      6
+    ],
+    [
+      "Submarine",
+      "2010",
+      6
+    ],
+    [
+      "(500) Days of Summer",
+      "2009",
+      5
+    ]
+  ]
+}

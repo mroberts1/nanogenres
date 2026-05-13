@@ -1,0 +1,106 @@
+[search] https://letterboxd.com/search/lists/blaxploitation/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/henrycovert/list/blaxploitation/
+[list] https://letterboxd.com/p_polastri/list/blaxploitation/
+[list] https://letterboxd.com/courteroy/list/blaxploitation/
+[list] https://letterboxd.com/ziadhammad/list/blaxploitation/
+[list] https://letterboxd.com/presto/list/blaxploitation/
+[list] https://letterboxd.com/willmsfilms/list/blaxploitation/
+[list] https://letterboxd.com/vanfo/list/blaxploitation/
+[list] https://letterboxd.com/__isi__/list/blaxploitation/
+[list] https://letterboxd.com/dawnofthedead/list/blaxploitation-1/
+[list] https://letterboxd.com/bavagiallo/list/blaxploitation/
+    1/60 Super Fly (1972) x10 — Action, Thriller, Drama, Crime
+    2/60 Across 110th Street (1972) x10 — Action, Crime, Drama, Thriller
+    3/60 Foxy Brown (1974) x10 — Crime, Action, Thriller
+    4/60 The Mack (1973) x10 — Crime, Drama
+    5/60 Coffy (1973) x10 — Crime, Action, Thriller
+    6/60 Sweet Sweetback's Baadasssss Song (1971) x10 — Thriller, Action, Crime, Drama
+    7/60 Black Belt Jones (1974) x10 — Comedy, Action, Crime
+    8/60 Cotton Comes to Harlem (1970) x10 — Crime, Action, Comedy
+    9/60 Truck Turner (1974) x9 — Thriller, Action, Drama
+   10/60 Black Caesar (1973) x9 — Thriller, Action, Drama, Crime
+   11/60 Dolemite (1975) x9 — Action, Comedy, Crime
+   12/60 Shaft (1971) x9 — Thriller, Crime, Action
+   13/60 Trouble Man (1972) x9 — Crime, Thriller, Drama, Action
+   14/60 Three the Hard Way (1974) x9 — Action, Thriller
+   15/60 Black Mama, White Mama (1973) x9 — Drama, Thriller, Crime, Action
+   16/60 Bucktown (1975) x9 — Action, Drama, Crime
+   17/60 Sheba, Baby (1975) x9 — Action, Thriller, Drama
+   18/60 Detroit 9000 (1973) x9 — Action, Crime
+   19/60 The Spook Who Sat by the Door (1973) x8 — Drama, Crime, War, Action
+   20/60 Hell Up In Harlem (1973) x8 — Thriller, Drama, Crime, Action
+   21/60 Watermelon Man (1970) x8 — Comedy
+   22/60 Blacula (1972) x8 — Fantasy, Horror
+   23/60 The Harder They Come (1972) x8 — Music, Crime, Drama
+   24/60 The Human Tornado (1976) x8 — Drama, Comedy, Action
+   25/60 Friday Foster (1975) x8 — Thriller, Action
+   26/60 Willie Dynamite (1973) x8 — Drama, Crime
+   27/60 Shaft's Big Score! (1972) x8 — Drama, Crime, Thriller, Action
+   28/60 The Black Gestapo (1975) x8 — Crime
+   29/60 Hammer (1972) x8 — Action, Drama
+   30/60 Cooley High (1975) x8 — Romance, Comedy, Drama
+   31/60 Ganja & Hess (1973) x7 — Drama, Horror
+   32/60 Sugar Hill (1974) x7 — Crime, Action, Horror
+   33/60 Black Shampoo (1976) x7 — Drama, Action, Thriller, Comedy, Crime
+   34/60 Slaughter (1972) x7 — Crime, Action, Drama
+   35/60 Abby (1974) x7 — Horror
+   36/60 Petey Wheatstraw (1977) x7 — Comedy, Fantasy, Horror, Action
+   37/60 That Man Bolt (1973) x7 — Drama, Action
+   38/60 Cleopatra Jones (1973) x7 — Crime, Action, Thriller
+   39/60 Dr. Black, Mr. Hyde (1976) x7 — Horror, Science Fiction
+   40/60 Disco Godfather (1979) x7 — Crime, Drama, Comedy, Action, Thriller
+   41/60 The Black Godfather (1974) x7 — Action, Thriller, Crime
+   42/60 Black Samson (1974) x7 — Drama, Action
+   43/60 Shaft in Africa (1973) x7 — Drama, Adventure, Crime, Action
+   44/60 Blackenstein (1973) x7 — Science Fiction, Horror, Action
+   45/60 The Final Comedown (1972) x7 — Crime, Action, Drama
+   46/60 Black Heat (1976) x7 — Action, Drama, Crime
+   47/60 Boss Nigger (1974) x7 — Comedy, Western, Action
+   48/60 Cool Breeze (1972) x7 — Action, Crime
+   49/60 TNT Jackson (1974) x7 — Thriller, Action
+   50/60 Gordon's War (1973) x7 — Action, Adventure, Crime
+   51/60 I'm Gonna Git You Sucka (1988) x7 — Action, Crime, Comedy
+   52/60 Devil's Express (1976) x7 — Crime, Horror, Action
+   53/60 Mean Johnny Barrows (1975) x7 — Crime, Action, Drama
+   54/60 Hit Man (1972) x7 — Action, Crime
+   55/60 Black Gunn (1972) x7 — Thriller, Action, Crime
+   56/60 Coonskin (1975) x6 — Drama, Crime, Animation, Comedy
+   57/60 Space Is the Place (1974) x6 — Music, Science Fiction
+   58/60 Penitentiary (1979) x6 — Crime, Action, Drama
+   59/60 Bone (1972) x6 — Comedy, Thriller, Drama
+   60/60 Slaughter's Big Rip-Off (1973) x6 — Thriller, Action
+
+[done] /root/letterboxd-nanogenres/data/blaxploitation.json
+{
+  "slug": "blaxploitation",
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Super Fly",
+      "1972",
+      10
+    ],
+    [
+      "Across 110th Street",
+      "1972",
+      10
+    ],
+    [
+      "Foxy Brown",
+      "1974",
+      10
+    ],
+    [
+      "The Mack",
+      "1973",
+      10
+    ],
+    [
+      "Coffy",
+      "1973",
+      10
+    ]
+  ]
+}

@@ -1,0 +1,1882 @@
+{
+  "query": "twee",
+  "slug": "twee",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/markcorrigan/list/twee/",
+      "user": "markcorrigan",
+      "slug": "twee",
+      "title": "Twee",
+      "desc": "Overly precious, quirky movies.",
+      "owner": "List by Sam Levson",
+      "tags": []
+    },
+    {
+      "href": "/justinbryce/list/twee/",
+      "user": "justinbryce",
+      "slug": "twee",
+      "title": "Twee",
+      "desc": "Twee as fuck",
+      "owner": "List by Justin Zuckerman",
+      "tags": []
+    },
+    {
+      "href": "/kfjdagger/list/twee/",
+      "user": "kfjdagger",
+      "slug": "twee",
+      "title": "Twee",
+      "desc": "kfjdagger is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by kfjdagger",
+      "tags": []
+    },
+    {
+      "href": "/gabe__/list/twee-1/",
+      "user": "gabe__",
+      "slug": "twee-1",
+      "title": "twee",
+      "desc": "gabe is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by gabe PRO",
+      "tags": []
+    },
+    {
+      "href": "/jonney2k/list/twee/",
+      "user": "jonney2k",
+      "slug": "twee",
+      "title": "Twee",
+      "desc": "Punk with a different attitude",
+      "owner": "List by Jonney PRO",
+      "tags": []
+    },
+    {
+      "href": "/violetadeline/list/twee/",
+      "user": "violetadeline",
+      "slug": "twee",
+      "title": "Twee",
+      "desc": "Violet is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Violet Jeffriess",
+      "tags": []
+    },
+    {
+      "href": "/pinkpercolator/list/twee/",
+      "user": "pinkpercolator",
+      "slug": "twee",
+      "title": "twee",
+      "desc": "Izzy is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Izzy",
+      "tags": []
+    },
+    {
+      "href": "/kosmicznacebula/list/twee/",
+      "user": "kosmicznacebula",
+      "slug": "twee",
+      "title": "twee",
+      "desc": "kosmicznacebula is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by kosmicznacebula",
+      "tags": []
+    },
+    {
+      "href": "/marihmmm/list/twee/",
+      "user": "marihmmm",
+      "slug": "twee",
+      "title": "Twee",
+      "desc": "Imagine you're 13",
+      "owner": "List by marihmmm",
+      "tags": []
+    },
+    {
+      "href": "/chainey/list/twee/",
+      "user": "chainey",
+      "slug": "twee",
+      "title": "Twee",
+      "desc": "All of the other twee movie lists are worse than this one",
+      "owner": "List by chaindawg",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 205,
+  "canonical_count": 59,
+  "films": [
+    {
+      "slug": "moonrise-kingdom",
+      "title": "Moonrise Kingdom",
+      "year": "2012",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Jared Gilman",
+        "Kara Hayward",
+        "Bruce Willis",
+        "Edward Norton",
+        "Bill Murray",
+        "Frances McDormand"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.03,
+      "rating_count": 1068914,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/v5/7f/mn/y8/ysTohGF7NY9Z6MYz9vLNYiyzh0r-0-230-0-345-crop.jpg?v=689b2b9ee8",
+      "url": "https://letterboxd.com/film/moonrise-kingdom/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "juno",
+      "title": "Juno",
+      "year": "2007",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Jason Reitman"
+      ],
+      "actors": [
+        "Elliot Page",
+        "Michael Cera",
+        "Jennifer Garner",
+        "Jason Bateman",
+        "J.K. Simmons",
+        "Allison Janney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 1558314,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/0/5/1/48051-juno-0-230-0-345-crop.jpg?v=19ad3fb7e5",
+      "url": "https://letterboxd.com/film/juno/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "ghost-world",
+      "title": "Ghost World",
+      "year": "2001",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Terry Zwigoff"
+      ],
+      "actors": [
+        "Thora Birch",
+        "Scarlett Johansson",
+        "Steve Buscemi",
+        "Brad Renfro",
+        "Illeana Douglas",
+        "Bob Balaban"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.58,
+      "rating_count": 231990,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/b3/fj/5k/es/t9uXmc321EzCp6uUYU3XtghjqTq-0-230-0-345-crop.jpg?v=8c0964a95e",
+      "url": "https://letterboxd.com/film/ghost-world/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "submarine",
+      "title": "Submarine",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Richard Ayoade"
+      ],
+      "actors": [
+        "Noah Taylor",
+        "Paddy Considine",
+        "Craig Roberts",
+        "Yasmin Paige",
+        "Sally Hawkins",
+        "Steffan Rhodri"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 360956,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vp/ip/de/v2/mqunaysed9wv8OJsrZAlOF3j0Sr-0-230-0-345-crop.jpg?v=7f69e9b7e5",
+      "url": "https://letterboxd.com/film/submarine/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "500-days-of-summer",
+      "title": "(500) Days of Summer",
+      "year": "2009",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Marc Webb"
+      ],
+      "actors": [
+        "Joseph Gordon-Levitt",
+        "Zooey Deschanel",
+        "Geoffrey Arend",
+        "Chloë Grace Moretz",
+        "Matthew Gray Gubler",
+        "Clark Gregg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.65,
+      "rating_count": 3037533,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/5/0/39350--500-days-of-summer-0-230-0-345-crop.jpg?v=05995ae0b3",
+      "url": "https://letterboxd.com/film/500-days-of-summer/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "rushmore",
+      "title": "Rushmore",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Jason Schwartzman",
+        "Bill Murray",
+        "Olivia Williams",
+        "Seymour Cassel",
+        "Brian Cox",
+        "Mason Gamble"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.89,
+      "rating_count": 481527,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-230-0-345-crop.jpg?v=e356b53de6",
+      "url": "https://letterboxd.com/film/rushmore/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "little-miss-sunshine",
+      "title": "Little Miss Sunshine",
+      "year": "2006",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Valerie Faris",
+        "Jonathan Dayton"
+      ],
+      "actors": [
+        "Greg Kinnear",
+        "Toni Collette",
+        "Steve Carell",
+        "Paul Dano",
+        "Abigail Breslin",
+        "Alan Arkin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.21,
+      "rating_count": 2215563,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h6/xm/om/q7/dOeM4R55TsAFBXCPNIDDMiJkePr-0-230-0-345-crop.jpg?v=09383296c6",
+      "url": "https://letterboxd.com/film/little-miss-sunshine/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-life-aquatic-with-steve-zissou",
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": "2004",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Bill Murray",
+        "Owen Wilson",
+        "Cate Blanchett",
+        "Anjelica Huston",
+        "Willem Dafoe",
+        "Jeff Goldblum"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.81,
+      "rating_count": 469465,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/lj/js/4a/zc/the-life-aquatic-with-steve-zissou-original-0-230-0-345-crop.jpg?v=c206023bc2",
+      "url": "https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "amelie",
+      "title": "Amélie",
+      "year": "2001",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ],
+      "actors": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus",
+        "Serge Merlin",
+        "Jamel Debbouze",
+        "Clotilde Mollet"
+      ],
+      "countries": [
+        "France",
+        "Germany"
+      ],
+      "rating": 4.19,
+      "rating_count": 1319596,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
+      "url": "https://letterboxd.com/film/amelie/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "napoleon-dynamite",
+      "title": "Napoleon Dynamite",
+      "year": "2004",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Jared Hess"
+      ],
+      "actors": [
+        "Jon Heder",
+        "Efren Ramirez",
+        "Tina Majorino",
+        "Aaron Ruell",
+        "Jon Gries",
+        "Haylie Duff"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 665119,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/6/7/47867-napoleon-dynamite-0-230-0-345-crop.jpg?v=dc5d6552f9",
+      "url": "https://letterboxd.com/film/napoleon-dynamite/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-royal-tenenbaums",
+      "title": "The Royal Tenenbaums",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Gene Hackman",
+        "Anjelica Huston",
+        "Ben Stiller",
+        "Gwyneth Paltrow",
+        "Luke Wilson",
+        "Owen Wilson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 999290,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sf/k0/qu/5o/5xw30y0pSaMtTcuZW5VaQPiR8qb-0-230-0-345-crop.jpg?v=b945b566a6",
+      "url": "https://letterboxd.com/film/the-royal-tenenbaums/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": "2004",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Michel Gondry"
+      ],
+      "actors": [
+        "Jim Carrey",
+        "Kate Winslet",
+        "Kirsten Dunst",
+        "Mark Ruffalo",
+        "Elijah Wood",
+        "Tom Wilkinson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.24,
+      "rating_count": 3476885,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ay/bp/kl/1y/uBfQ7IGpi0jXSP3GPCzp9Pzm10v-0-230-0-345-crop.jpg?v=116621c401",
+      "url": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "harold-and-maude",
+      "title": "Harold and Maude",
+      "year": "1971",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Hal Ashby"
+      ],
+      "actors": [
+        "Ruth Gordon",
+        "Bud Cort",
+        "Vivian Pickles",
+        "Cyril Cusack",
+        "Charles Tyner",
+        "Ellen Geer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 146785,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/1/9/51719-harold-and-maude-0-230-0-345-crop.jpg?v=6a2f175ab5",
+      "url": "https://letterboxd.com/film/harold-and-maude/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "fantastic-mr-fox",
+      "title": "Fantastic Mr. Fox",
+      "year": "2009",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Family",
+        "Adventure"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "George Clooney",
+        "Meryl Streep",
+        "Jason Schwartzman",
+        "Wallace Wolodarsky",
+        "Eric Chase Anderson",
+        "Willem Dafoe"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.3,
+      "rating_count": 2724865,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-230-0-345-crop.jpg?v=3a2a858065",
+      "url": "https://letterboxd.com/film/fantastic-mr-fox/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "frances-ha",
+      "title": "Frances Ha",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Noah Baumbach"
+      ],
+      "actors": [
+        "Greta Gerwig",
+        "Mickey Sumner",
+        "Michael Zegen",
+        "Adam Driver",
+        "Charlotte d'Amboise",
+        "Patrick Heusinger"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.03,
+      "rating_count": 641455,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/0/8/3/96083-frances-ha-0-230-0-345-crop.jpg?v=0bb538988b",
+      "url": "https://letterboxd.com/film/frances-ha/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "me-and-you-and-everyone-we-know",
+      "title": "Me and You and Everyone We Know",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Miranda July"
+      ],
+      "actors": [
+        "Miranda July",
+        "John Hawkes",
+        "Brandon Ratcliff",
+        "Miles Thompson",
+        "Carlie Westerman",
+        "Brad William Henke"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 46864,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/j4/sq/co/9w/aIAPgrDKjr2joz2KxQZO2wm0BxT-0-230-0-345-crop.jpg?v=252258e6a3",
+      "url": "https://letterboxd.com/film/me-and-you-and-everyone-we-know/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "eagle-vs-shark",
+      "title": "Eagle vs Shark",
+      "year": "2007",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Taika Waititi"
+      ],
+      "actors": [
+        "Loren Taylor",
+        "Jemaine Clement",
+        "Joel Tobeck",
+        "Brian Sergent",
+        "Craig Hall",
+        "Rachel House"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "rating": 3.42,
+      "rating_count": 44780,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pt/ai/3t/59/eagle-vs-shark-0-230-0-345-crop.jpg?v=69fa7861ad",
+      "url": "https://letterboxd.com/film/eagle-vs-shark/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "everything-is-illuminated",
+      "title": "Everything Is Illuminated",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Liev Schreiber"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Eugene Hutz",
+        "Boris Lyoskin",
+        "Jana Hrabětova",
+        "Jonathan Safran Foer",
+        "Stephen Samudovsky"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 27169,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/2/51722-everything-is-illuminated-0-230-0-345-crop.jpg?v=e04beb9865",
+      "url": "https://letterboxd.com/film/everything-is-illuminated/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "i-huckabees",
+      "title": "I ♥ Huckabees",
+      "year": "2004",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "David O. Russell"
+      ],
+      "actors": [
+        "Jason Schwartzman",
+        "Isabelle Huppert",
+        "Dustin Hoffman",
+        "Lily Tomlin",
+        "Jude Law",
+        "Mark Wahlberg"
+      ],
+      "countries": [
+        "Germany",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.38,
+      "rating_count": 42449,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/3/5/50935-i-huckabees-0-230-0-345-crop.jpg?v=19f5f56cde",
+      "url": "https://letterboxd.com/film/i-huckabees/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "my-neighbor-totoro",
+      "title": "My Neighbor Totoro",
+      "year": "1988",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "actors": [
+        "Noriko Hidaka",
+        "Chika Sakamoto",
+        "Hitoshi Takagi",
+        "Shigesato Itoi",
+        "Sumi Shimamoto",
+        "Tanie Kitabayashi"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.2,
+      "rating_count": 1940574,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/5/6/47756-my-neighbor-totoro-0-230-0-345-crop.jpg?v=749abe71ad",
+      "url": "https://letterboxd.com/film/my-neighbor-totoro/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "beginners",
+      "title": "Beginners",
+      "year": "2010",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Mike Mills"
+      ],
+      "actors": [
+        "Ewan McGregor",
+        "Christopher Plummer",
+        "Mélanie Laurent",
+        "Goran Višnjić",
+        "Kai Lennox",
+        "Mary Page Keller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 84711,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ex/94/6k/8s/qcPR5RbJJTBSQSF50zH94OGPvaB-0-230-0-345-crop.jpg?v=9afee88db5",
+      "url": "https://letterboxd.com/film/beginners/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "god-help-the-girl",
+      "title": "God Help the Girl",
+      "year": "2014",
+      "genres": [
+        "Comedy",
+        "Music",
+        "Drama"
+      ],
+      "directors": [
+        "Stuart Murdoch"
+      ],
+      "actors": [
+        "Emily Browning",
+        "Olly Alexander",
+        "Hannah Murray",
+        "Pierre Boulanger",
+        "Cora Bissett",
+        "Sarah Swire"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.32,
+      "rating_count": 16935,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sy/du/0k/h4/xOyHxtqE7REEVKr5scIJSLG9LOn-0-230-0-345-crop.jpg?v=d4de7e2ea5",
+      "url": "https://letterboxd.com/film/god-help-the-girl/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "stranger-than-fiction-2006",
+      "title": "Stranger Than Fiction",
+      "year": "2006",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Marc Forster"
+      ],
+      "actors": [
+        "Will Ferrell",
+        "Maggie Gyllenhaal",
+        "Dustin Hoffman",
+        "Emma Thompson",
+        "Queen Latifah",
+        "Tony Hale"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.65,
+      "rating_count": 179566,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/2/0/51120-stranger-than-fiction-0-230-0-345-crop.jpg?v=14ee3e1526",
+      "url": "https://letterboxd.com/film/stranger-than-fiction-2006/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "me-and-earl-and-the-dying-girl",
+      "title": "Me and Earl and the Dying Girl",
+      "year": "2015",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Alfonso Gomez-Rejon"
+      ],
+      "actors": [
+        "Olivia Cooke",
+        "Thomas Mann",
+        "RJ Cyler",
+        "Connie Britton",
+        "Nick Offerman",
+        "Molly Shannon"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.86,
+      "rating_count": 283262,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/5/4/8/0/235480-me-and-earl-and-the-dying-girl-0-230-0-345-crop.jpg?v=6b44d79a3d",
+      "url": "https://letterboxd.com/film/me-and-earl-and-the-dying-girl/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "benny-joon",
+      "title": "Benny & Joon",
+      "year": "1993",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Jeremiah S. Chechik"
+      ],
+      "actors": [
+        "Johnny Depp",
+        "Mary Stuart Masterson",
+        "Aidan Quinn",
+        "Julianne Moore",
+        "Oliver Platt",
+        "CCH Pounder"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.48,
+      "rating_count": 39925,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/5/1/4/49514-benny-joon-0-230-0-345-crop.jpg?v=28d3376a30",
+      "url": "https://letterboxd.com/film/benny-joon/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-future",
+      "title": "The Future",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "directors": [
+        "Miranda July"
+      ],
+      "actors": [
+        "Miranda July",
+        "Hamish Linklater",
+        "David Warshofsky",
+        "Isabella Acres",
+        "Angela Trimbur",
+        "Mary Passeri"
+      ],
+      "countries": [
+        "Germany",
+        "USA",
+        "France",
+        "UK"
+      ],
+      "rating": 3.35,
+      "rating_count": 12050,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/3/2/11432-the-future-0-230-0-345-crop.jpg?v=3f78d4ead0",
+      "url": "https://letterboxd.com/film/the-future/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "james-and-the-giant-peach",
+      "title": "James and the Giant Peach",
+      "year": "1996",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Family",
+        "Animation"
+      ],
+      "directors": [
+        "Henry Selick"
+      ],
+      "actors": [
+        "Paul Terry",
+        "Miriam Margolyes",
+        "Joanna Lumley",
+        "Pete Postlethwaite",
+        "Simon Callow",
+        "Richard Dreyfuss"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 200592,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/1/3/3/46133-james-and-the-giant-peach-0-230-0-345-crop.jpg?v=4d3e4d1bde",
+      "url": "https://letterboxd.com/film/james-and-the-giant-peach/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "being-john-malkovich",
+      "title": "Being John Malkovich",
+      "year": "1999",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Spike Jonze"
+      ],
+      "actors": [
+        "John Cusack",
+        "Cameron Diaz",
+        "John Malkovich",
+        "Catherine Keener",
+        "Orson Bean",
+        "Mary Kay Place"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.07,
+      "rating_count": 515955,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/8/51618-being-john-malkovich-0-230-0-345-crop.jpg?v=aecbc04013",
+      "url": "https://letterboxd.com/film/being-john-malkovich/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "big-fish",
+      "title": "Big Fish",
+      "year": "2003",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "Tim Burton"
+      ],
+      "actors": [
+        "Ewan McGregor",
+        "Albert Finney",
+        "Billy Crudup",
+        "Jessica Lange",
+        "Helena Bonham Carter",
+        "Alison Lohman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.94,
+      "rating_count": 562677,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/w2/v9/2v/lv/6DRFdlNZpAaEt7eejsbAlJGgaM7-0-230-0-345-crop.jpg?v=89bfbcf64e",
+      "url": "https://letterboxd.com/film/big-fish/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "sunshine-cleaning",
+      "title": "Sunshine Cleaning",
+      "year": "2008",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Christine Jeffs"
+      ],
+      "actors": [
+        "Amy Adams",
+        "Emily Blunt",
+        "Steve Zahn",
+        "Alan Arkin",
+        "Clifton Collins Jr.",
+        "Eric Christian Olsen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.34,
+      "rating_count": 30408,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ai/dr/i5/7h/sunshine-cleaning-0-230-0-345-crop.jpg?v=dd7024dc9a",
+      "url": "https://letterboxd.com/film/sunshine-cleaning/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "running-with-scissors",
+      "title": "Running with Scissors",
+      "year": "2006",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Ryan Murphy"
+      ],
+      "actors": [
+        "Joseph Cross",
+        "Annette Bening",
+        "Brian Cox",
+        "Gwyneth Paltrow",
+        "Joseph Fiennes",
+        "Evan Rachel Wood"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.08,
+      "rating_count": 9242,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/0/0/2/48002-running-with-scissors-0-230-0-345-crop.jpg?v=bec736dd4c",
+      "url": "https://letterboxd.com/film/running-with-scissors/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "annie-hall",
+      "title": "Annie Hall",
+      "year": "1977",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Woody Allen"
+      ],
+      "actors": [
+        "Woody Allen",
+        "Diane Keaton",
+        "Tony Roberts",
+        "Carol Kane",
+        "Paul Simon",
+        "Shelley Duvall"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 357135,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/2/3/51423-annie-hall-0-230-0-345-crop.jpg?v=1fa63140ef",
+      "url": "https://letterboxd.com/film/annie-hall/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "life-is-sweet",
+      "title": "Life Is Sweet",
+      "year": "1990",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Mike Leigh"
+      ],
+      "actors": [
+        "Alison Steadman",
+        "Jim Broadbent",
+        "Timothy Spall",
+        "Claire Skinner",
+        "Jane Horrocks",
+        "David Thewlis"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.91,
+      "rating_count": 23078,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/wz/e3/fu/jd/l7H4CZmv1h4pUWBy0OD06oWx2aQ-0-230-0-345-crop.jpg?v=a58023d6c0",
+      "url": "https://letterboxd.com/film/life-is-sweet/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "her",
+      "title": "Her",
+      "year": "2013",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Spike Jonze"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Scarlett Johansson",
+        "Lynn Adrianna",
+        "Lisa Renee Pitts",
+        "Gabe Gomez",
+        "Chris Pratt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 2172168,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/au/nb/i6/lq/fsoTLnUXEUTNuVCBxAJMY0HPPd-0-230-0-345-crop.jpg?v=16789732be",
+      "url": "https://letterboxd.com/film/her/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-squid-and-the-whale",
+      "title": "The Squid and the Whale",
+      "year": "2005",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Noah Baumbach"
+      ],
+      "actors": [
+        "Jeff Daniels",
+        "Laura Linney",
+        "Jesse Eisenberg",
+        "Owen Kline",
+        "William Baldwin",
+        "Halley Feiffer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 149108,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/9/7/1/45971-the-squid-and-the-whale-0-230-0-345-crop.jpg?v=7bfd459740",
+      "url": "https://letterboxd.com/film/the-squid-and-the-whale/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "sing-street",
+      "title": "Sing Street",
+      "year": "2016",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Music",
+        "Comedy"
+      ],
+      "directors": [
+        "John Carney"
+      ],
+      "actors": [
+        "Ferdia Walsh-Peelo",
+        "Lucy Boynton",
+        "Jack Reynor",
+        "Ben Carolan",
+        "Mark McKenna",
+        "Kelly Thornton"
+      ],
+      "countries": [
+        "Ireland",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.05,
+      "rating_count": 337536,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ks/uk/z5/up/s0C78plmx3dFcO3WMnoXCz56FiN-0-230-0-345-crop.jpg?v=af7d03d32b",
+      "url": "https://letterboxd.com/film/sing-street/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-darjeeling-limited",
+      "title": "The Darjeeling Limited",
+      "year": "2007",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Owen Wilson",
+        "Adrien Brody",
+        "Jason Schwartzman",
+        "Amara Karan",
+        "Wallace Wolodarsky",
+        "Waris Ahluwalia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.86,
+      "rating_count": 668714,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/6/8/49268-the-darjeeling-limited-0-230-0-345-crop.jpg?v=3e69deba27",
+      "url": "https://letterboxd.com/film/the-darjeeling-limited/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "garden-state",
+      "title": "Garden State",
+      "year": "2004",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Zach Braff"
+      ],
+      "actors": [
+        "Zach Braff",
+        "Natalie Portman",
+        "Ian Holm",
+        "Peter Sarsgaard",
+        "Jean Smart",
+        "Armando Riesco"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.46,
+      "rating_count": 169229,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/9/51689-garden-state-0-230-0-345-crop.jpg?v=de19ae4a38",
+      "url": "https://letterboxd.com/film/garden-state/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "where-the-wild-things-are",
+      "title": "Where the Wild Things Are",
+      "year": "2009",
+      "genres": [
+        "Family",
+        "Drama",
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Spike Jonze"
+      ],
+      "actors": [
+        "Max Records",
+        "Catherine Keener",
+        "James Gandolfini",
+        "Lauren Ambrose",
+        "Catherine O'Hara",
+        "Forest Whitaker"
+      ],
+      "countries": [
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.55,
+      "rating_count": 224834,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/5/1/9/41519-where-the-wild-things-are-0-230-0-345-crop.jpg?v=7324cb0409",
+      "url": "https://letterboxd.com/film/where-the-wild-things-are/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-french-dispatch-of-the-liberty-kansas",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Benicio del Toro",
+        "Adrien Brody",
+        "Tilda Swinton",
+        "Léa Seydoux",
+        "Frances McDormand",
+        "Timothée Chalamet"
+      ],
+      "countries": [
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.67,
+      "rating_count": 988505,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/2/0/7/471207-the-french-dispatch-of-the-liberty-kansas-0-230-0-345-crop.jpg?v=e344a82574",
+      "url": "https://letterboxd.com/film/the-french-dispatch-of-the-liberty-kansas/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "before-sunrise",
+      "title": "Before Sunrise",
+      "year": "1995",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Julie Delpy",
+        "Andrea Eckert",
+        "Hanno Pöschl",
+        "Karl Bruckschwaiger",
+        "Tex Rubinowitz"
+      ],
+      "countries": [
+        "Austria",
+        "USA"
+      ],
+      "rating": 4.3,
+      "rating_count": 1444493,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-230-0-345-crop.jpg?v=006e8fedea",
+      "url": "https://letterboxd.com/film/before-sunrise/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "buffalo-66",
+      "title": "Buffalo '66",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Vincent Gallo"
+      ],
+      "actors": [
+        "Vincent Gallo",
+        "Christina Ricci",
+        "Ben Gazzara",
+        "Anjelica Huston",
+        "Mickey Rourke",
+        "Rosanna Arquette"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 369639,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/eo/sj/w9/xl/taVFuUhUWoX9YE7bb2bWkSPjC9P-0-230-0-345-crop.jpg?v=94ae22e6f8",
+      "url": "https://letterboxd.com/film/buffalo-66/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lost-in-translation",
+      "title": "Lost in Translation",
+      "year": "2003",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Bill Murray",
+        "Scarlett Johansson",
+        "Giovanni Ribisi",
+        "Anna Faris",
+        "Akiko Takeshita",
+        "Kazuyoshi Minamimagoe"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 1483270,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/th/b5/6c/gl/5T8VvuFTdaawKLJk34i69Utaw7o-0-230-0-345-crop.jpg?v=ce6ae8e1b4",
+      "url": "https://letterboxd.com/film/lost-in-translation/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "marcel-the-shell-with-shoes-on-2021",
+      "title": "Marcel the Shell with Shoes On",
+      "year": "2021",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Comedy",
+        "Family"
+      ],
+      "directors": [
+        "Dean Fleischer Camp"
+      ],
+      "actors": [
+        "Jenny Slate",
+        "Dean Fleischer Camp",
+        "Isabella Rossellini",
+        "Joe Gabler",
+        "Shari Finkelstein",
+        "Sam Painter"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.24,
+      "rating_count": 368934,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/1/3/2/6/781326-marcel-the-shell-with-shoes-on-0-230-0-345-crop.jpg?v=bc35f07a1c",
+      "url": "https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "empire-records",
+      "title": "Empire Records",
+      "year": "1995",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Allan Moyle"
+      ],
+      "actors": [
+        "Liv Tyler",
+        "Johnny Whitworth",
+        "Renée Zellweger",
+        "Robin Tunney",
+        "Anthony LaPaglia",
+        "Rory Cochrane"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.6,
+      "rating_count": 259573,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/td/nt/09/qr/e7ve7rwxBA9Y0mNEo1VcaW44htg-0-230-0-345-crop.jpg?v=25f75c1881",
+      "url": "https://letterboxd.com/film/empire-records/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "from-up-on-poppy-hill",
+      "title": "From Up on Poppy Hill",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Animation"
+      ],
+      "directors": [
+        "Goro Miyazaki"
+      ],
+      "actors": [
+        "Masami Nagasawa",
+        "Junichi Okada",
+        "Keiko Takeshita",
+        "Yuriko Ishida",
+        "Rumi Hiiragi",
+        "Jun Fubuki"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.75,
+      "rating_count": 286712,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sk/6v/xg/po/9qsW5uXwn3QBxEmKhSoseXActVw-0-230-0-345-crop.jpg?v=89ddfb2d7d",
+      "url": "https://letterboxd.com/film/from-up-on-poppy-hill/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "nick-and-norahs-infinite-playlist",
+      "title": "Nick and Norah's Infinite Playlist",
+      "year": "2008",
+      "genres": [
+        "Romance",
+        "Music",
+        "Comedy"
+      ],
+      "directors": [
+        "Peter Sollett"
+      ],
+      "actors": [
+        "Michael Cera",
+        "Kat Dennings",
+        "Aaron Yoo",
+        "Rafi Gavron",
+        "Ari Graynor",
+        "Alexis Dziena"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.17,
+      "rating_count": 99386,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/99/qz/xp/5t/pM199sJFY0MQo5IcfUFWmAZUlt7-0-230-0-345-crop.jpg?v=bbdf78ccfe",
+      "url": "https://letterboxd.com/film/nick-and-norahs-infinite-playlist/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "over-the-garden-wall-2014",
+      "title": "Over the Garden Wall",
+      "year": "2014",
+      "genres": [
+        "Animation",
+        "Mystery",
+        "Family",
+        "Comedy"
+      ],
+      "directors": [
+        "Nate Cash"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Collin Dean"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.61,
+      "rating_count": 406322,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/3/9/1/1/343911-over-the-garden-wall-0-230-0-345-crop.jpg?v=85834d0555",
+      "url": "https://letterboxd.com/film/over-the-garden-wall-2014/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-perks-of-being-a-wallflower",
+      "title": "The Perks of Being a Wallflower",
+      "year": "2012",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Stephen Chbosky"
+      ],
+      "actors": [
+        "Logan Lerman",
+        "Emma Watson",
+        "Ezra Miller",
+        "Mae Whitman",
+        "Kate Walsh",
+        "Dylan McDermott"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 3149486,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/3/8/71338-the-perks-of-being-a-wallflower-0-230-0-345-crop.jpg?v=f2235860f7",
+      "url": "https://letterboxd.com/film/the-perks-of-being-a-wallflower/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "penelope",
+      "title": "Penelope",
+      "year": "2006",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "directors": [
+        "Mark Palansky"
+      ],
+      "actors": [
+        "Christina Ricci",
+        "James McAvoy",
+        "Catherine O'Hara",
+        "Peter Dinklage",
+        "Richard E. Grant",
+        "Reese Witherspoon"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 108222,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/3/8/47938-penelope-0-230-0-345-crop.jpg?v=477aa110f1",
+      "url": "https://letterboxd.com/film/penelope/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "adventureland",
+      "title": "Adventureland",
+      "year": "2009",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Greg Mottola"
+      ],
+      "actors": [
+        "Jesse Eisenberg",
+        "Kristen Stewart",
+        "Martin Starr",
+        "Kristen Wiig",
+        "Bill Hader",
+        "Ryan Reynolds"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.31,
+      "rating_count": 206144,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/4/7/7/41477-adventureland-0-230-0-345-crop.jpg?v=5f8f490a9b",
+      "url": "https://letterboxd.com/film/adventureland/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "ruby-sparks",
+      "title": "Ruby Sparks",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "directors": [
+        "Jonathan Dayton",
+        "Valerie Faris"
+      ],
+      "actors": [
+        "Paul Dano",
+        "Zoe Kazan",
+        "Chris Messina",
+        "Annette Bening",
+        "Antonio Banderas",
+        "Alia Shawkat"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.6,
+      "rating_count": 150293,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/8/6/0/83860-ruby-sparks-0-230-0-345-crop.jpg?v=cf5b52d14c",
+      "url": "https://letterboxd.com/film/ruby-sparks/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lola-versus",
+      "title": "Lola Versus",
+      "year": "2012",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Daryl Wein"
+      ],
+      "actors": [
+        "Greta Gerwig",
+        "Joel Kinnaman",
+        "Zoe Lister-Jones",
+        "Hamish Linklater",
+        "Bill Pullman",
+        "Debra Winger"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.96,
+      "rating_count": 5792,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7u/l2/pm/a9/Is1AdS8qamN38iRL4JamSzd5vT-0-230-0-345-crop.jpg?v=4bd3c676a2",
+      "url": "https://letterboxd.com/film/lola-versus/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "elizabethtown",
+      "title": "Elizabethtown",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Cameron Crowe"
+      ],
+      "actors": [
+        "Orlando Bloom",
+        "Kirsten Dunst",
+        "Susan Sarandon",
+        "Alec Baldwin",
+        "Bruce McGill",
+        "Judy Greer"
+      ],
+      "countries": [
+        "USA",
+        "Germany"
+      ],
+      "rating": 3,
+      "rating_count": 56184,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vd/4m/mx/i7/Asn50mIjDaeDKbaJkQ7lY6goV8p-0-230-0-345-crop.jpg?v=32d2ed4470",
+      "url": "https://letterboxd.com/film/elizabethtown/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "timer",
+      "title": "TiMER",
+      "year": "2009",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Fantasy",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Jac Schaeffer"
+      ],
+      "actors": [
+        "Emma Caulfield",
+        "Michelle Borth",
+        "John Patrick Amedori",
+        "Desmond Harrington",
+        "JoBeth Williams",
+        "Scott Holroyd"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.02,
+      "rating_count": 9933,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/1/4/9/25149-timer-0-230-0-345-crop.jpg?v=1e3d9b4687",
+      "url": "https://letterboxd.com/film/timer/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "but-im-a-cheerleader",
+      "title": "But I'm a Cheerleader",
+      "year": "1999",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Jamie Babbit"
+      ],
+      "actors": [
+        "Natasha Lyonne",
+        "Clea DuVall",
+        "Cathy Moriarty",
+        "RuPaul",
+        "Melanie Lynskey",
+        "Katharine Towne"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 852183,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/8/0/0/38800-but-i-m-a-cheerleader-0-230-0-345-crop.jpg?v=fb07442029",
+      "url": "https://letterboxd.com/film/but-im-a-cheerleader/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "swiss-army-man",
+      "title": "Swiss Army Man",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Comedy",
+        "Adventure",
+        "Romance"
+      ],
+      "directors": [
+        "Daniel Kwan",
+        "Daniel Scheinert"
+      ],
+      "actors": [
+        "Paul Dano",
+        "Daniel Radcliffe",
+        "Mary Elizabeth Winstead",
+        "Antonia Ribero",
+        "Timothy Eulich",
+        "Richard Gross"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 392006,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pp/ya/j6/9k/kH7Jwo3Pv0pbosU4rzDafTigIZx-0-230-0-345-crop.jpg?v=5acfbde8a0",
+      "url": "https://letterboxd.com/film/swiss-army-man/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "seeking-a-friend-for-the-end-of-the-world",
+      "title": "Seeking a Friend for the End of the World",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Lorene Scafaria"
+      ],
+      "actors": [
+        "Steve Carell",
+        "Keira Knightley",
+        "Connie Britton",
+        "Rob Corddry",
+        "Adam Brody",
+        "Derek Luke"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.33,
+      "rating_count": 97517,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8t/oe/ws/xp/k0GuGDV24a7NcSgnu1EywKovPcr-0-230-0-345-crop.jpg?v=f93822cb2d",
+      "url": "https://letterboxd.com/film/seeking-a-friend-for-the-end-of-the-world/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "obvious-child",
+      "title": "Obvious Child",
+      "year": "2014",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Gillian Robespierre"
+      ],
+      "actors": [
+        "Jenny Slate",
+        "Jake Lacy",
+        "Gaby Hoffmann",
+        "Paul Briganti",
+        "Stephen Singer",
+        "Richard Kind"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.51,
+      "rating_count": 56006,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cv/h2/cr/fd/uKQafQhpkAgWrZXn8H0Ugcyah5M-0-230-0-345-crop.jpg?v=0119593de3",
+      "url": "https://letterboxd.com/film/obvious-child/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Comedy": 49,
+      "Drama": 47,
+      "Romance": 30,
+      "Fantasy": 11,
+      "Adventure": 8,
+      "Animation": 6,
+      "Family": 6,
+      "Science Fiction": 3,
+      "Music": 3,
+      "Mystery": 1
+    },
+    "directors": {
+      "Wes Anderson": 7,
+      "Spike Jonze": 3,
+      "Valerie Faris": 2,
+      "Jonathan Dayton": 2,
+      "Noah Baumbach": 2,
+      "Miranda July": 2,
+      "Jason Reitman": 1,
+      "Terry Zwigoff": 1,
+      "Richard Ayoade": 1,
+      "Marc Webb": 1,
+      "Jean-Pierre Jeunet": 1,
+      "Jared Hess": 1,
+      "Michel Gondry": 1,
+      "Hal Ashby": 1,
+      "Taika Waititi": 1,
+      "Liev Schreiber": 1,
+      "David O. Russell": 1,
+      "Hayao Miyazaki": 1,
+      "Mike Mills": 1,
+      "Stuart Murdoch": 1
+    },
+    "years": {
+      "1971": 1,
+      "1977": 1,
+      "1988": 1,
+      "1990": 1,
+      "1993": 1,
+      "1995": 2,
+      "1996": 1,
+      "1998": 2,
+      "1999": 2,
+      "2001": 3,
+      "2003": 2,
+      "2004": 5,
+      "2005": 4,
+      "2006": 4,
+      "2007": 3,
+      "2008": 2,
+      "2009": 5,
+      "2010": 2,
+      "2011": 2,
+      "2012": 6,
+      "2013": 1,
+      "2014": 3,
+      "2015": 1,
+      "2016": 2,
+      "2021": 2
+    }
+  }
+}

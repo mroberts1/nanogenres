@@ -1,0 +1,1664 @@
+{
+  "query": "shoegaze",
+  "slug": "shoegaze",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/chelliah/list/shoegaze/",
+      "user": "chelliah",
+      "slug": "shoegaze",
+      "title": "Shoegaze",
+      "desc": "slow moving, dreamy films",
+      "owner": "List by chelliah PRO",
+      "tags": []
+    },
+    {
+      "href": "/feistyflamingo/list/shoegaze/",
+      "user": "feistyflamingo",
+      "slug": "shoegaze",
+      "title": "Shoegaze",
+      "desc": "Fuzzy woozy and dreamy, films lost in layers of hazy and warm distortion",
+      "owner": "List by FeistyFlamingo",
+      "tags": []
+    },
+    {
+      "href": "/saft977/list/shoegaze/",
+      "user": "saft977",
+      "slug": "shoegaze",
+      "title": "shoegaze",
+      "desc": "every movie i’ve seen that gives me shoegaze vibes",
+      "owner": "List by saft977",
+      "tags": []
+    },
+    {
+      "href": "/cupidstassie/list/shoegaze/",
+      "user": "cupidstassie",
+      "slug": "shoegaze",
+      "title": "Shoegaze",
+      "desc": "Films that feel like a Slowdive song",
+      "owner": "List by cupidstassie",
+      "tags": []
+    },
+    {
+      "href": "/ghzl37000/list/shoegaze/",
+      "user": "ghzl37000",
+      "slug": "shoegaze",
+      "title": "Shoegaze",
+      "desc": "glitch",
+      "owner": "List by Acyl Selouane",
+      "tags": []
+    },
+    {
+      "href": "/lxcapxlo/list/shoegaze/",
+      "user": "lxcapxlo",
+      "slug": "shoegaze",
+      "title": "Shoegaze",
+      "desc": "Films that embody the dreamy, grimy, melancholy and compelling essence of shoegaze artists of the 1990's such as Slowdive and My Bloody Valentine.",
+      "owner": "List by 𝕷𝖚𝖈𝖆 PRO",
+      "tags": [
+        "themed",
+        "mediumcult"
+      ]
+    },
+    {
+      "href": "/markusss/list/shoegaze/",
+      "user": "markusss",
+      "slug": "shoegaze",
+      "title": "shoegaze",
+      "desc": "películas etéreas",
+      "owner": "List by marko",
+      "tags": [
+        "shoegaze",
+        "dream-pop",
+        "ethereal",
+        "mbv",
+        "slowdive"
+      ]
+    },
+    {
+      "href": "/srahman/list/shoegaze-1/",
+      "user": "srahman",
+      "slug": "shoegaze-1",
+      "title": "shoegaze",
+      "desc": "Just like shoegaze music has quiet vocals and the guitar effects turned up, these movies have minimal plot and a focus on dreamy aesthetics.",
+      "owner": "List by knotfall",
+      "tags": []
+    },
+    {
+      "href": "/myza/list/shoegaze/",
+      "user": "myza",
+      "slug": "shoegaze",
+      "title": "shoegaze",
+      "desc": ".𖥔 ‘˖ moody, dreamy, slow moving films.",
+      "owner": "List by myza PATRON",
+      "tags": [
+        "music-core",
+        "%E0%B1%A8%E0%A7%8E",
+        "mbv",
+        "slowdive",
+        "cocteau-twins",
+        "lush"
+      ]
+    },
+    {
+      "href": "/loudab/list/shoegaze/",
+      "user": "loudab",
+      "slug": "shoegaze",
+      "title": "Shoegaze",
+      "desc": "youtu.be/xG8HEknM3zc",
+      "owner": "List by loudab PRO",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 258,
+  "canonical_count": 51,
+  "films": [
+    {
+      "slug": "chungking-express",
+      "title": "Chungking Express",
+      "year": "1994",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Wong Kar-Wai"
+      ],
+      "actors": [
+        "Brigitte Lin",
+        "Takeshi Kaneshiro",
+        "Tony Leung Chiu-wai",
+        "Faye Wong",
+        "Valerie Chow",
+        "Piggy Chan Kam-Chuen"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 4.28,
+      "rating_count": 754022,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/0/2/45602-chungking-express-0-230-0-345-crop.jpg?v=9475abb05b",
+      "url": "https://letterboxd.com/film/chungking-express/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "lost-in-translation",
+      "title": "Lost in Translation",
+      "year": "2003",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Bill Murray",
+        "Scarlett Johansson",
+        "Giovanni Ribisi",
+        "Anna Faris",
+        "Akiko Takeshita",
+        "Kazuyoshi Minamimagoe"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 1483266,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/th/b5/6c/gl/5T8VvuFTdaawKLJk34i69Utaw7o-0-230-0-345-crop.jpg?v=ce6ae8e1b4",
+      "url": "https://letterboxd.com/film/lost-in-translation/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "fallen-angels",
+      "title": "Fallen Angels",
+      "year": "1995",
+      "genres": [
+        "Crime",
+        "Romance",
+        "Action"
+      ],
+      "directors": [
+        "Wong Kar-Wai"
+      ],
+      "actors": [
+        "Leon Lai Ming",
+        "Michele Reis",
+        "Takeshi Kaneshiro",
+        "Charlie Yeung Choi-Nei",
+        "Karen Mok Man-Wai",
+        "Chan Man-Lei"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 4.16,
+      "rating_count": 688588,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/8/9/45489-fallen-angels-0-230-0-345-crop.jpg?v=26d8dd7207",
+      "url": "https://letterboxd.com/film/fallen-angels/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-virgin-suicides",
+      "title": "The Virgin Suicides",
+      "year": "1999",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Kirsten Dunst",
+        "Josh Hartnett",
+        "James Woods",
+        "Kathleen Turner",
+        "Michael Paré",
+        "A.J. Cook"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 1276930,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/2/4/51024-the-virgin-suicides-0-230-0-345-crop.jpg?v=b869f3409a",
+      "url": "https://letterboxd.com/film/the-virgin-suicides/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "mysterious-skin",
+      "title": "Mysterious Skin",
+      "year": "2004",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "Joseph Gordon-Levitt",
+        "Brady Corbet",
+        "Michelle Trachtenberg",
+        "Jeffrey Licon",
+        "Mary Lynn Rajskub",
+        "Elisabeth Shue"
+      ],
+      "countries": [
+        "USA",
+        "Netherlands"
+      ],
+      "rating": 4.21,
+      "rating_count": 601621,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/uo/r7/1v/1j/wynnf6LT4ueuCuREPRMtHGQIk5T-0-230-0-345-crop.jpg?v=b0c8031954",
+      "url": "https://letterboxd.com/film/mysterious-skin/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": "2004",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Michel Gondry"
+      ],
+      "actors": [
+        "Jim Carrey",
+        "Kate Winslet",
+        "Kirsten Dunst",
+        "Mark Ruffalo",
+        "Elijah Wood",
+        "Tom Wilkinson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.24,
+      "rating_count": 3476875,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ay/bp/kl/1y/uBfQ7IGpi0jXSP3GPCzp9Pzm10v-0-230-0-345-crop.jpg?v=116621c401",
+      "url": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "nowhere",
+      "title": "Nowhere",
+      "year": "1997",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "James Duval",
+        "Rachel True",
+        "Nathan Bexton",
+        "Chiara Mastroianni",
+        "Debi Mazar",
+        "Kathleen Robertson"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.99,
+      "rating_count": 128958,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1c/re/ju/yk/9CaVnvBRbzsM7mcJoIMncpHSBBN-0-230-0-345-crop.jpg?v=067121cd23",
+      "url": "https://letterboxd.com/film/nowhere/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "millennium-mambo",
+      "title": "Millennium Mambo",
+      "year": "2001",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Hou Hsiao-hsien"
+      ],
+      "actors": [
+        "Shu Qi",
+        "Jack Kao",
+        "Duan Chun-hao",
+        "Doze Niu Cheng-Tse",
+        "Jun Takeuchi",
+        "Yi-Hsuan Chen"
+      ],
+      "countries": [
+        "Taiwan",
+        "France"
+      ],
+      "rating": 3.82,
+      "rating_count": 78095,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/1/9/5/45195-millennium-mambo-0-230-0-345-crop.jpg?v=0ef842bc87",
+      "url": "https://letterboxd.com/film/millennium-mambo/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "all-about-lily-chou-chou",
+      "title": "All About Lily Chou-Chou",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Shunji Iwai"
+      ],
+      "actors": [
+        "Hayato Ichihara",
+        "Shugo Oshinari",
+        "Yu Aoi",
+        "Ayumi Ito",
+        "Issey Takahashi",
+        "Ryo Katsuji"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.17,
+      "rating_count": 192570,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/4/4/7/41447-all-about-lily-chou-chou-0-230-0-345-crop.jpg?v=7db4522cd0",
+      "url": "https://letterboxd.com/film/all-about-lily-chou-chou/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "in-the-mood-for-love",
+      "title": "In the Mood for Love",
+      "year": "2000",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Wong Kar-Wai"
+      ],
+      "actors": [
+        "Maggie Cheung",
+        "Tony Leung Chiu-wai",
+        "Siu Ping-Lam",
+        "Rebecca Pan",
+        "Kelly Lai Chen",
+        "Joe Cheung Tung-Cho"
+      ],
+      "countries": [
+        "Hong Kong",
+        "France"
+      ],
+      "rating": 4.38,
+      "rating_count": 981050,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g1/7l/2j/qk/tSRdvZY1waXrTeMqeLBmq9IRs08-0-230-0-345-crop.jpg?v=938633fc19",
+      "url": "https://letterboxd.com/film/in-the-mood-for-love/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-doom-generation",
+      "title": "The Doom Generation",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "Rose McGowan",
+        "James Duval",
+        "Johnathon Schaech",
+        "Cress Williams",
+        "Dustin Nguyễn",
+        "Lauren Tewes"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.79,
+      "rating_count": 112832,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/9/2/43792-the-doom-generation-0-230-0-345-crop.jpg?v=72134ca389",
+      "url": "https://letterboxd.com/film/the-doom-generation/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "august-in-the-water",
+      "title": "August in the Water",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Gakuryu Ishii"
+      ],
+      "actors": [
+        "Rena Komine",
+        "Shinsuke Aoki",
+        "Reiko Matsuo",
+        "Masaaki Takarai",
+        "Naho Toda",
+        "Hideyo Amamoto"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.08,
+      "rating_count": 17417,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/5/1/0/84510-august-in-the-water-0-230-0-345-crop.jpg?v=2cc689bcd8",
+      "url": "https://letterboxd.com/film/august-in-the-water/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "before-sunrise",
+      "title": "Before Sunrise",
+      "year": "1995",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Julie Delpy",
+        "Andrea Eckert",
+        "Hanno Pöschl",
+        "Karl Bruckschwaiger",
+        "Tex Rubinowitz"
+      ],
+      "countries": [
+        "Austria",
+        "USA"
+      ],
+      "rating": 4.3,
+      "rating_count": 1444493,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-230-0-345-crop.jpg?v=006e8fedea",
+      "url": "https://letterboxd.com/film/before-sunrise/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "tangerine",
+      "title": "Tangerine",
+      "year": "2015",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Sean Baker"
+      ],
+      "actors": [
+        "Kitana Kiki Rodriguez",
+        "Mya Taylor",
+        "Karren Karagulian",
+        "Mickey O'Hagan",
+        "Alla Tumanian",
+        "James Ransone"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 244882,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/4/8/1/4/234814-tangerine-0-230-0-345-crop.jpg?v=98d18138c1",
+      "url": "https://letterboxd.com/film/tangerine/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "rebels-of-the-neon-god",
+      "title": "Rebels of the Neon God",
+      "year": "1992",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Tsai Ming-liang"
+      ],
+      "actors": [
+        "Lee Kang-sheng",
+        "Chen Chao-jung",
+        "Wang Yu-wen",
+        "Jen Chang-bin",
+        "Miao Tian",
+        "Lu Yi-ching"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "rating": 3.98,
+      "rating_count": 38178,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/1/2/8612-rebels-of-the-neon-god-0-230-0-345-crop.jpg?v=02744f7b4f",
+      "url": "https://letterboxd.com/film/rebels-of-the-neon-god/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "burning-2018",
+      "title": "Burning",
+      "year": "2018",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Lee Chang-dong"
+      ],
+      "actors": [
+        "Yoo Ah-in",
+        "Steven Yeun",
+        "Jeon Jong-seo",
+        "Kim Soo-kyung",
+        "Choe Seung-ho",
+        "Moon Sung-keun"
+      ],
+      "countries": [
+        "South Korea",
+        "Japan"
+      ],
+      "rating": 4.04,
+      "rating_count": 319253,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/2/0/3/5/422035-burning-0-230-0-345-crop.jpg?v=34c9bc6300",
+      "url": "https://letterboxd.com/film/burning-2018/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "i-saw-the-tv-glow",
+      "title": "I Saw the TV Glow",
+      "year": "2024",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Jane Schoenbrun"
+      ],
+      "actors": [
+        "Justice Smith",
+        "Jack Haven",
+        "Ian Foreman",
+        "Helena Howard",
+        "Lindsey Jordan",
+        "Danielle Deadwyler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 807397,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/0/772230-i-saw-the-tv-glow-0-230-0-345-crop.jpg?v=73972177ff",
+      "url": "https://letterboxd.com/film/i-saw-the-tv-glow/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "love-pop",
+      "title": "Love & Pop",
+      "year": "1998",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Hideaki Anno"
+      ],
+      "actors": [
+        "Asumi Miwa",
+        "Kirari",
+        "Hirono Kudo",
+        "Yukie Nakama",
+        "Mitsuru Hirata",
+        "Mitsuru Fukikoshi"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.12,
+      "rating_count": 34599,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/6/2/1/58621-love-pop-0-230-0-345-crop.jpg?v=77eda80ca0",
+      "url": "https://letterboxd.com/film/love-pop/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "totally-fed-up",
+      "title": "Totally F***ed Up",
+      "year": "1993",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "James Duval",
+        "Roko Belic",
+        "Susan Behshid",
+        "Jenee Gill",
+        "Gilbert Luna",
+        "Lance May"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 76507,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/6/9/8/29698-totally-fucked-up-0-230-0-345-crop.jpg?v=9fa43e5bfa",
+      "url": "https://letterboxd.com/film/totally-fed-up/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "her",
+      "title": "Her",
+      "year": "2013",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Spike Jonze"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Scarlett Johansson",
+        "Lynn Adrianna",
+        "Lisa Renee Pitts",
+        "Gabe Gomez",
+        "Chris Pratt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 2172167,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/au/nb/i6/lq/fsoTLnUXEUTNuVCBxAJMY0HPPd-0-230-0-345-crop.jpg?v=16789732be",
+      "url": "https://letterboxd.com/film/her/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "marie-antoinette-2006",
+      "title": "Marie Antoinette",
+      "year": "2006",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Kirsten Dunst",
+        "Jason Schwartzman",
+        "Steve Coogan",
+        "Judy Davis",
+        "Rip Torn",
+        "Asia Argento"
+      ],
+      "countries": [
+        "Japan",
+        "USA",
+        "France"
+      ],
+      "rating": 3.73,
+      "rating_count": 783875,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/k7/u1/3i/lu/xOdzoe3tC8X1v7M2Z86sdfjpVrO-0-230-0-345-crop.jpg?v=4b6cfecbaf",
+      "url": "https://letterboxd.com/film/marie-antoinette-2006/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "somewhere",
+      "title": "Somewhere",
+      "year": "2010",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Stephen Dorff",
+        "Elle Fanning",
+        "Chris Pontius",
+        "Laura Chiatti",
+        "Lala Sloatman",
+        "Ellie Kemper"
+      ],
+      "countries": [
+        "France",
+        "Italy",
+        "Japan",
+        "USA"
+      ],
+      "rating": 3.41,
+      "rating_count": 78233,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/5/4/25454-somewhere-0-230-0-345-crop.jpg?v=78f7d29002",
+      "url": "https://letterboxd.com/film/somewhere/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "my-own-private-idaho",
+      "title": "My Own Private Idaho",
+      "year": "1991",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Gus Van Sant"
+      ],
+      "actors": [
+        "River Phoenix",
+        "Keanu Reeves",
+        "James Russo",
+        "William Richert",
+        "Rodney Harvey",
+        "Chiara Caselli"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 258094,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/3/4/51634-my-own-private-idaho-0-230-0-345-crop.jpg?v=8ac7ef6e68",
+      "url": "https://letterboxd.com/film/my-own-private-idaho/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "paris-texas",
+      "title": "Paris, Texas",
+      "year": "1984",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Wim Wenders"
+      ],
+      "actors": [
+        "Harry Dean Stanton",
+        "Nastassja Kinski",
+        "Dean Stockwell",
+        "Hunter Carson",
+        "Aurore Clément",
+        "Bernhard Wicki"
+      ],
+      "countries": [
+        "UK",
+        "Germany",
+        "France"
+      ],
+      "rating": 4.37,
+      "rating_count": 702134,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/6/9/51469-paris-texas-0-230-0-345-crop.jpg?v=c8f2743612",
+      "url": "https://letterboxd.com/film/paris-texas/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "irma-vep",
+      "title": "Irma Vep",
+      "year": "1996",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Olivier Assayas"
+      ],
+      "actors": [
+        "Maggie Cheung",
+        "Jean-Pierre Léaud",
+        "Nathalie Richard",
+        "Antoine Basler",
+        "Nathalie Boutefeu",
+        "Alex Descas"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.9,
+      "rating_count": 69919,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fo/wl/s1/2t/uFGubvhFdNS4cJdFHsCGuTpM9ZP-0-230-0-345-crop.jpg?v=af3c29d041",
+      "url": "https://letterboxd.com/film/irma-vep/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "days-of-heaven",
+      "title": "Days of Heaven",
+      "year": "1978",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Terrence Malick"
+      ],
+      "actors": [
+        "Richard Gere",
+        "Brooke Adams",
+        "Sam Shepard",
+        "Linda Manz",
+        "Robert J. Wilke",
+        "Jackie Shultis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.09,
+      "rating_count": 168125,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/x3/jx/v5/l2/rwxTYjOZmX2rGhz7avLe1qsjNqe-0-230-0-345-crop.jpg?v=5fe1a56460",
+      "url": "https://letterboxd.com/film/days-of-heaven/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mirror",
+      "title": "Mirror",
+      "year": "1975",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Margarita Terekhova",
+        "Ignat Daniltsev",
+        "Larisa Tarkovskaya",
+        "Alla Demidova",
+        "Anatoliy Solonitsyn",
+        "Mykola Hrynko"
+      ],
+      "countries": [
+        "USSR"
+      ],
+      "rating": 4.32,
+      "rating_count": 184156,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/4/51064-mirror-0-230-0-345-crop.jpg?v=88898b6c6e",
+      "url": "https://letterboxd.com/film/mirror/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "aftersun",
+      "title": "Aftersun",
+      "year": "2022",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Charlotte Wells"
+      ],
+      "actors": [
+        "Paul Mescal",
+        "Frankie Corio",
+        "Brooklyn Toulson",
+        "Celia Rowlson-Hall",
+        "Sally Messham",
+        "Ayşe Parlak"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.21,
+      "rating_count": 1562497,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
+      "url": "https://letterboxd.com/film/aftersun/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "past-lives",
+      "title": "Past Lives",
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Celine Song"
+      ],
+      "actors": [
+        "Greta Lee",
+        "Teo Yoo",
+        "John Magaro",
+        "Moon Seung-ah",
+        "Leem Seung-min",
+        "Yoon Ji-hye"
+      ],
+      "countries": [
+        "USA",
+        "South Korea"
+      ],
+      "rating": 4.16,
+      "rating_count": 1749176,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/1/0/5/3/591053-past-lives-0-230-0-345-crop.jpg?v=c600b7854e",
+      "url": "https://letterboxd.com/film/past-lives/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "were-all-going-to-the-worlds-fair",
+      "title": "We're All Going to the World's Fair",
+      "year": "2021",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Jane Schoenbrun"
+      ],
+      "actors": [
+        "Anna Cobb",
+        "Michael J Rogers",
+        "May Leitz",
+        "Theo Anthony",
+        "Evan Santiago",
+        "Turner Greaves"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 138774,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/5/5/2/2/695522-we-re-all-going-to-the-world-s-fair-0-230-0-345-crop.jpg?v=d123af3067",
+      "url": "https://letterboxd.com/film/were-all-going-to-the-worlds-fair/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "morvern-callar",
+      "title": "Morvern Callar",
+      "year": "2002",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Lynne Ramsay"
+      ],
+      "actors": [
+        "Samantha Morton",
+        "Kathleen McDermott",
+        "Raife Patrick Burchell",
+        "Dan Cadan",
+        "Carolyn Calder",
+        "Steven Cardwell"
+      ],
+      "countries": [
+        "UK",
+        "Canada"
+      ],
+      "rating": 3.9,
+      "rating_count": 42954,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/n9/t9/4t/l9/lfm7qycmbquZqNW9D9ny8N5bSJO-0-230-0-345-crop.jpg?v=7041298674",
+      "url": "https://letterboxd.com/film/morvern-callar/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "persona",
+      "title": "Persona",
+      "year": "1966",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Bibi Andersson",
+        "Liv Ullmann",
+        "Margaretha Krook",
+        "Gunnar Björnstrand",
+        "Jörgen Lindström"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.38,
+      "rating_count": 427873,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/5/51355-persona-0-230-0-345-crop.jpg?v=aca1e0fd3d",
+      "url": "https://letterboxd.com/film/persona/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "tokyosora",
+      "title": "tokyo.sora",
+      "year": "2002",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Hiroshi Ishikawa"
+      ],
+      "actors": [
+        "Yuka Itaya",
+        "Haruka Igawa",
+        "Ayano Nakamura",
+        "Ikuno Takagi",
+        "Flora Sun",
+        "Manami Honjo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.79,
+      "rating_count": 2329,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/1/9/98519-tokyo-sora-0-230-0-345-crop.jpg?v=b448e00606",
+      "url": "https://letterboxd.com/film/tokyosora/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "terrorizers",
+      "title": "Terrorizers",
+      "year": "1986",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Edward Yang"
+      ],
+      "actors": [
+        "Cora Miao",
+        "Lee Li-Chun",
+        "King Shih-chieh",
+        "Ku Pao-ming",
+        "Liu Ming",
+        "Wang An"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "rating": 4.15,
+      "rating_count": 31386,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/9/1/2/64912-the-terrorizers-0-230-0-345-crop.jpg?v=fb9b8ed62c",
+      "url": "https://letterboxd.com/film/terrorizers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "miami-vice",
+      "title": "Miami Vice",
+      "year": "2006",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Michael Mann"
+      ],
+      "actors": [
+        "Colin Farrell",
+        "Jamie Foxx",
+        "Naomie Harris",
+        "Gong Li",
+        "John Ortiz",
+        "Ciarán Hinds"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.45,
+      "rating_count": 133833,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/6/8/51968-miami-vice-0-230-0-345-crop.jpg?v=323641dcfe",
+      "url": "https://letterboxd.com/film/miami-vice/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "demonlover",
+      "title": "Demonlover",
+      "year": "2002",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Olivier Assayas"
+      ],
+      "actors": [
+        "Connie Nielsen",
+        "Charles Berling",
+        "Chloë Sevigny",
+        "Dominique Reymond",
+        "Gina Gershon",
+        "Jean-Baptiste Malartre"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.55,
+      "rating_count": 29258,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/7/3/5/36735-demonlover-0-230-0-345-crop.jpg?v=ab5637bc34",
+      "url": "https://letterboxd.com/film/demonlover/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "made-in-hong-kong",
+      "title": "Made in Hong Kong",
+      "year": "1997",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Fruit Chan"
+      ],
+      "actors": [
+        "Sam Lee",
+        "Neiky Yim Hui-Chi",
+        "Wenders Li Tung-Chuen",
+        "Carol Lam",
+        "Chan Sang",
+        "Woo Wai-Chung"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 4.12,
+      "rating_count": 21275,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/6/2/1/35621-made-in-hong-kong-0-230-0-345-crop.jpg?v=0d782628d2",
+      "url": "https://letterboxd.com/film/made-in-hong-kong/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "ghost-dog-the-way-of-the-samurai",
+      "title": "Ghost Dog: The Way of the Samurai",
+      "year": "1999",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Jim Jarmusch"
+      ],
+      "actors": [
+        "Forest Whitaker",
+        "John Tormey",
+        "Cliff Gorman",
+        "Frank Minucci",
+        "Richard Portnow",
+        "Tricia Vessey"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Japan",
+        "USA"
+      ],
+      "rating": 4.06,
+      "rating_count": 150517,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/1/2/4/49124-ghost-dog-the-way-of-the-samurai-0-230-0-345-crop.jpg?v=93eee57b59",
+      "url": "https://letterboxd.com/film/ghost-dog-the-way-of-the-samurai/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mandy-2018",
+      "title": "Mandy",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Action"
+      ],
+      "directors": [
+        "Panos Cosmatos"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Andrea Riseborough",
+        "Linus Roache",
+        "Ned Dennehy",
+        "Olwen Fouéré",
+        "Richard Brake"
+      ],
+      "countries": [
+        "Belgium",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 291185,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/2/6/5/4/392654-mandy-0-230-0-345-crop.jpg?v=cf29f00f84",
+      "url": "https://letterboxd.com/film/mandy-2018/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "blue-2002",
+      "title": "Blue",
+      "year": "2002",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Hiroshi Ando"
+      ],
+      "actors": [
+        "Mikako Ichikawa",
+        "Manami Konishi",
+        "Asami Imajuku",
+        "Sousuke Takaoka",
+        "Ayano Nakamura",
+        "Yoko Hirayama"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.8,
+      "rating_count": 34612,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/5/0/1/81501-blue-0-230-0-345-crop.jpg?v=2e71844f4d",
+      "url": "https://letterboxd.com/film/blue-2002/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lost-highway",
+      "title": "Lost Highway",
+      "year": "1997",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Patricia Arquette",
+        "Bill Pullman",
+        "Balthazar Getty",
+        "Robert Blake",
+        "Robert Loggia",
+        "Michael Massee"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 430505,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-230-0-345-crop.jpg?v=49d0ffd43f",
+      "url": "https://letterboxd.com/film/lost-highway/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dead-man",
+      "title": "Dead Man",
+      "year": "1995",
+      "genres": [
+        "Fantasy",
+        "Western",
+        "Drama"
+      ],
+      "directors": [
+        "Jim Jarmusch"
+      ],
+      "actors": [
+        "Johnny Depp",
+        "Gary Farmer",
+        "Crispin Glover",
+        "Lance Henriksen",
+        "Michael Wincott",
+        "Eugene Byrd"
+      ],
+      "countries": [
+        "USA",
+        "Germany",
+        "Japan"
+      ],
+      "rating": 3.92,
+      "rating_count": 123032,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0c/fp/b0/2s/8yHprfwQzvgNIywvD4s30vvWGBx-0-230-0-345-crop.jpg?v=1a87035daf",
+      "url": "https://letterboxd.com/film/dead-man/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "new-rose-hotel",
+      "title": "New Rose Hotel",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "directors": [
+        "Abel Ferrara"
+      ],
+      "actors": [
+        "Christopher Walken",
+        "Willem Dafoe",
+        "Asia Argento",
+        "Annabella Sciorra",
+        "John Lurie",
+        "Kimmy Suzuki"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.41,
+      "rating_count": 24532,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/wg/kv/in/ri/zRgR1UEHV7xolS2eE2W1uzH9F5I-0-230-0-345-crop.jpg?v=abe029ce6e",
+      "url": "https://letterboxd.com/film/new-rose-hotel/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "nosferatu-the-vampyre",
+      "title": "Nosferatu the Vampyre",
+      "year": "1979",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Werner Herzog"
+      ],
+      "actors": [
+        "Klaus Kinski",
+        "Isabelle Adjani",
+        "Bruno Ganz",
+        "Roland Topor",
+        "Walter Ladengast",
+        "Martje Grohmann"
+      ],
+      "countries": [
+        "Germany",
+        "France"
+      ],
+      "rating": 3.81,
+      "rating_count": 157431,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/3/2/9/48329-nosferatu-the-vampyre-0-230-0-345-crop.jpg?v=3d227a531f",
+      "url": "https://letterboxd.com/film/nosferatu-the-vampyre/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "2046",
+      "title": "2046",
+      "year": "2004",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Wong Kar-Wai"
+      ],
+      "actors": [
+        "Tony Leung Chiu-wai",
+        "Gong Li",
+        "Faye Wong",
+        "Takuya Kimura",
+        "Zhang Ziyi",
+        "Dong Jie"
+      ],
+      "countries": [
+        "Germany",
+        "Hong Kong",
+        "China",
+        "France",
+        "Italy"
+      ],
+      "rating": 4.05,
+      "rating_count": 142471,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/0/8/51308-2046-0-230-0-345-crop.jpg?v=52246d30bc",
+      "url": "https://letterboxd.com/film/2046/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Naomi Watts",
+        "Laura Harring",
+        "Justin Theroux",
+        "Ann Miller",
+        "Mark Pellegrino",
+        "Robert Forster"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.26,
+      "rating_count": 1239634,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-230-0-345-crop.jpg?v=3d69c00608",
+      "url": "https://letterboxd.com/film/mulholland-drive/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "buffalo-66",
+      "title": "Buffalo '66",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Vincent Gallo"
+      ],
+      "actors": [
+        "Vincent Gallo",
+        "Christina Ricci",
+        "Ben Gazzara",
+        "Anjelica Huston",
+        "Mickey Rourke",
+        "Rosanna Arquette"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 369639,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/eo/sj/w9/xl/taVFuUhUWoX9YE7bb2bWkSPjC9P-0-230-0-345-crop.jpg?v=94ae22e6f8",
+      "url": "https://letterboxd.com/film/buffalo-66/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-double-life-of-veronique",
+      "title": "The Double Life of Véronique",
+      "year": "1991",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Krzysztof Kieślowski"
+      ],
+      "actors": [
+        "Irène Jacob",
+        "Halina Gryglaszewska",
+        "Philippe Volter",
+        "Guillaume de Tonquédec",
+        "Kalina Jędrusik",
+        "Aleksander Bardini"
+      ],
+      "countries": [
+        "France",
+        "Norway",
+        "Poland"
+      ],
+      "rating": 4.1,
+      "rating_count": 131172,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/3/4/50934-the-double-life-of-veronique-0-230-0-345-crop.jpg?v=4728e7cc42",
+      "url": "https://letterboxd.com/film/the-double-life-of-veronique/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "twin-peaks",
+      "title": "Twin Peaks",
+      "year": "1989",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Kyle MacLachlan",
+        "Michael Ontkean",
+        "Mädchen Amick",
+        "Dana Ashbrook",
+        "Richard Beymer",
+        "Lara Flynn Boyle"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.65,
+      "rating_count": 326304,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/4/5/5/7/384557-twin-peaks-0-230-0-345-crop.jpg?v=dd1938c1f2",
+      "url": "https://letterboxd.com/film/twin-peaks/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "twin-peaks-fire-walk-with-me",
+      "title": "Twin Peaks: Fire Walk with Me",
+      "year": "1992",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Horror"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Sheryl Lee",
+        "Ray Wise",
+        "Mädchen Amick",
+        "Dana Ashbrook",
+        "Phoebe Augustine",
+        "David Bowie"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.33,
+      "rating_count": 452320,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xb/qg/78/zd/tOQekTHJmVCgfUYXTb6dLAu6l8W-0-230-0-345-crop.jpg?v=647348df81",
+      "url": "https://letterboxd.com/film/twin-peaks-fire-walk-with-me/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "fireworks-1997",
+      "title": "Fireworks",
+      "year": "1997",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Takeshi Kitano"
+      ],
+      "actors": [
+        "Takeshi Kitano",
+        "Kayoko Kishimoto",
+        "Ren Osugi",
+        "Susumu Terajima",
+        "Tetsu Watanabe",
+        "Hakuryu"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.22,
+      "rating_count": 79008,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/n0/te/h9/v7/55EBBrHskI3WzmAwGJwGXiSoHBH-0-230-0-345-crop.jpg?v=c32f2fc0dd",
+      "url": "https://letterboxd.com/film/fireworks-1997/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 48,
+      "Romance": 14,
+      "Crime": 9,
+      "Mystery": 9,
+      "Comedy": 8,
+      "Thriller": 7,
+      "Science Fiction": 6,
+      "Horror": 5,
+      "Fantasy": 4,
+      "Action": 3,
+      "History": 2,
+      "Western": 1
+    },
+    "directors": {
+      "Wong Kar-Wai": 4,
+      "Sofia Coppola": 4,
+      "Gregg Araki": 4,
+      "David Lynch": 4,
+      "Jane Schoenbrun": 2,
+      "Olivier Assayas": 2,
+      "Jim Jarmusch": 2,
+      "Michel Gondry": 1,
+      "Hou Hsiao-hsien": 1,
+      "Shunji Iwai": 1,
+      "Gakuryu Ishii": 1,
+      "Richard Linklater": 1,
+      "Sean Baker": 1,
+      "Tsai Ming-liang": 1,
+      "Lee Chang-dong": 1,
+      "Hideaki Anno": 1,
+      "Spike Jonze": 1,
+      "Gus Van Sant": 1,
+      "Wim Wenders": 1,
+      "Terrence Malick": 1
+    },
+    "years": {
+      "1966": 1,
+      "1975": 1,
+      "1978": 1,
+      "1979": 1,
+      "1984": 1,
+      "1986": 1,
+      "1989": 1,
+      "1991": 2,
+      "1992": 2,
+      "1993": 1,
+      "1994": 1,
+      "1995": 5,
+      "1996": 1,
+      "1997": 4,
+      "1998": 3,
+      "1999": 2,
+      "2000": 1,
+      "2001": 3,
+      "2002": 4,
+      "2003": 1,
+      "2004": 3,
+      "2006": 2,
+      "2010": 1,
+      "2013": 1,
+      "2015": 1,
+      "2018": 2,
+      "2021": 1,
+      "2022": 1,
+      "2023": 1,
+      "2024": 1
+    }
+  }
+}

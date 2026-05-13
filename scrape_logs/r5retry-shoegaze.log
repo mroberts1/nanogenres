@@ -32,3 +32,66 @@
    20/51 Her (2013) x3 — Science Fiction, Romance, Drama
    21/51 Marie Antoinette (2006) x3 — History, Drama
    22/51 Somewhere (2010) x2 — Drama
+   23/51 My Own Private Idaho (1991) x2 — Drama
+   24/51 Paris, Texas (1984) x2 — Drama
+   25/51 Irma Vep (1996) x2 — Drama, Comedy
+   26/51 Days of Heaven (1978) x2 — Romance, Drama
+   27/51 Mirror (1975) x2 — History, Drama
+   28/51 Aftersun (2022) x2 — Drama
+   29/51 Past Lives (2023) x2 — Drama, Romance
+   30/51 We're All Going to the World's Fair (2021) x2 — Horror, Drama
+   31/51 Morvern Callar (2002) x2 — Drama
+   32/51 Persona (1966) x2 — Drama
+   33/51 tokyo.sora (2002) x2 — Drama
+   34/51 Terrorizers (1986) x2 — Mystery, Drama, Thriller, Crime
+   35/51 Miami Vice (2006) x2 — Crime, Thriller, Action
+   36/51 Demonlover (2002) x2 — Thriller, Mystery, Drama
+   37/51 Made in Hong Kong (1997) x2 — Drama, Crime
+   38/51 Ghost Dog: The Way of the Samurai (1999) x2 — Crime, Drama
+   39/51 Mandy (2018) x2 — Horror, Fantasy, Action
+   40/51 Blue (2002) x2 — Romance, Drama
+   41/51 Lost Highway (1997) x2 — Drama, Thriller, Mystery
+   42/51 Dead Man (1995) x2 — Fantasy, Western, Drama
+   43/51 New Rose Hotel (1998) x2 — Drama, Science Fiction, Mystery
+   44/51 Nosferatu the Vampyre (1979) x2 — Drama, Horror
+   45/51 2046 (2004) x2 — Science Fiction, Drama, Romance
+   46/51 Mulholland Drive (2001) x2 — Drama, Mystery, Thriller
+   47/51 Buffalo '66 (1998) x2 — Drama, Comedy, Romance
+   48/51 The Double Life of Véronique (1991) x2 — Fantasy, Drama
+   49/51 Twin Peaks (1989) x2 — Thriller, Drama, Mystery
+   50/51 Twin Peaks: Fire Walk with Me (1992) x2 — Drama, Mystery, Horror
+   51/51 Fireworks (1997) x2 — Drama, Crime
+
+[done] /root/letterboxd-nanogenres/data/shoegaze.json
+{
+  "slug": "shoegaze",
+  "lists_used": 10,
+  "canonical_films": 51,
+  "top_5": [
+    [
+      "Chungking Express",
+      "1994",
+      9
+    ],
+    [
+      "Lost in Translation",
+      "2003",
+      8
+    ],
+    [
+      "Fallen Angels",
+      "1995",
+      8
+    ],
+    [
+      "The Virgin Suicides",
+      "1999",
+      6
+    ],
+    [
+      "Mysterious Skin",
+      "2004",
+      5
+    ]
+  ]
+}
