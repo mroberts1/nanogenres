@@ -1,0 +1,209 @@
+{
+  "query": "trans new wave",
+  "slug": "trans-new-wave",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/skellylake/list/trans-new-wave/",
+      "user": "skellylake",
+      "slug": "trans-new-wave",
+      "title": "Trans New Wave",
+      "desc": "Films that have come from a recent wave of trans directors depicting the trans existence",
+      "owner": "List by Jennie",
+      "tags": []
+    },
+    {
+      "href": "/drw_/list/trans-new-wave/",
+      "user": "drw_",
+      "slug": "trans-new-wave",
+      "title": "trans new wave",
+      "desc": "(or: I just really fucking hate disclosure)\n\ntrans directors, new formal languages (post 2015, not the wachowskis)\n\nsee my trans global cinema list for more trans movies",
+      "owner": "List by drw",
+      "tags": []
+    },
+    {
+      "href": "/callifrax/list/new-wave-of-trans-vampires-2019-onwards/",
+      "user": "callifrax",
+      "slug": "new-wave-of-trans-vampires-2019-onwards",
+      "title": "New Wave of Trans Vampires (2019 Onwards) 🏳️‍⚧️🧛",
+      "desc": "Transpires, if you will. Post-Bit age of transgender bloodsucking.",
+      "owner": "List by Robyn Adams",
+      "tags": [
+        "horror",
+        "vampires",
+        "masterlist",
+        "trans",
+        "non-binary",
+        "queer",
+        "lgbt"
+      ]
+    }
+  ],
+  "source_list_count": 3,
+  "films_considered": 29,
+  "canonical_count": 5,
+  "films": [
+    {
+      "slug": "i-saw-the-tv-glow",
+      "title": "I Saw the TV Glow",
+      "year": "2024",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Jane Schoenbrun"
+      ],
+      "actors": [
+        "Justice Smith",
+        "Jack Haven",
+        "Ian Foreman",
+        "Helena Howard",
+        "Lindsey Jordan",
+        "Danielle Deadwyler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 807746,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/0/772230-i-saw-the-tv-glow-0-230-0-345-crop.jpg?v=73972177ff",
+      "url": "https://letterboxd.com/film/i-saw-the-tv-glow/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "were-all-going-to-the-worlds-fair",
+      "title": "We're All Going to the World's Fair",
+      "year": "2021",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Jane Schoenbrun"
+      ],
+      "actors": [
+        "Anna Cobb",
+        "Michael J Rogers",
+        "May Leitz",
+        "Theo Anthony",
+        "Evan Santiago",
+        "Turner Greaves"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 138799,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/5/5/2/2/695522-we-re-all-going-to-the-world-s-fair-0-230-0-345-crop.jpg?v=d123af3067",
+      "url": "https://letterboxd.com/film/were-all-going-to-the-worlds-fair/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "t-blockers",
+      "title": "T Blockers",
+      "year": "2023",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "directors": [
+        "Alice Maio Mackay"
+      ],
+      "actors": [
+        "Adeline Ophelia Last",
+        "Lewi Dawson",
+        "Toshiro Glenn",
+        "Lisa Fanto",
+        "Stanley Browning",
+        "Thai Hoa Steven Nguyen"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "rating": 3.23,
+      "rating_count": 4184,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/3/3/1/5/9/933159-t-blockers-0-230-0-345-crop.jpg?v=a078a0da42",
+      "url": "https://letterboxd.com/film/t-blockers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "castration-movie-anthology-i-traps",
+      "title": "Castration Movie Anthology i. Traps",
+      "year": "2024",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Louise Weard"
+      ],
+      "actors": [
+        "Louise Weard",
+        "Aoife Josie Clements",
+        "Magda Baker",
+        "Cameron Petersen",
+        "Noah Baker",
+        "Jasmine Provins"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 4.05,
+      "rating_count": 5052,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/6/5/0/5/1126505-castration-movie-anthology-i-traps-0-230-0-345-crop.jpg?v=6b336b747a",
+      "url": "https://letterboxd.com/film/castration-movie-anthology-i-traps/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-peoples-joker",
+      "title": "The People's Joker",
+      "year": "2022",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Vera Drew"
+      ],
+      "actors": [
+        "Vera Drew",
+        "Lynn Downey",
+        "Kane Distler",
+        "Nathan Faustyn",
+        "David Liebe Hart",
+        "Phil Braun"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 32735,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/5/3/3/7/725337-the-people-s-joker-0-230-0-345-crop.jpg?v=28f0a75d7a",
+      "url": "https://letterboxd.com/film/the-peoples-joker/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 4,
+      "Horror": 3,
+      "Comedy": 2,
+      "Science Fiction": 1,
+      "Fantasy": 1
+    },
+    "directors": {
+      "Jane Schoenbrun": 2,
+      "Alice Maio Mackay": 1,
+      "Louise Weard": 1,
+      "Vera Drew": 1
+    },
+    "years": {
+      "2021": 1,
+      "2022": 1,
+      "2023": 1,
+      "2024": 2
+    }
+  }
+}

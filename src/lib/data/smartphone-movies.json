@@ -1,0 +1,378 @@
+{
+  "query": "smartphone movies",
+  "slug": "smartphone-movies",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/tanyeahx/list/weird-smartphone-movies/",
+      "user": "tanyeahx",
+      "slug": "weird-smartphone-movies",
+      "title": "Weird Smartphone Movies",
+      "desc": "tanyes is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by tanyes",
+      "tags": []
+    },
+    {
+      "href": "/porcelanaphant/list/movies-at-hand-smartphones-playin-mobile/",
+      "user": "porcelanaphant",
+      "slug": "movies-at-hand-smartphones-playin-mobile",
+      "title": "MOViES At hAND: SMARtPhONES PLAYiN’ MOBilE",
+      "desc": "List of movies shot with smartphones\n\n[Reales Date Order]",
+      "owner": "List by lOUiS tHE COUCh SURfER",
+      "tags": []
+    },
+    {
+      "href": "/tallryansheehan/list/movies-shot-on-smartphones/",
+      "user": "tallryansheehan",
+      "slug": "movies-shot-on-smartphones",
+      "title": "movies shot on smartphones",
+      "desc": "Ryan is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Ryan Sheehan PRO",
+      "tags": [
+        "smartphones",
+        "medium-specificity",
+        "technology",
+        "cinematography",
+        "filmmaking"
+      ]
+    },
+    {
+      "href": "/idmontalvo/list/10-movies-that-would-be-completely-ruined/",
+      "user": "idmontalvo",
+      "slug": "10-movies-that-would-be-completely-ruined",
+      "title": "10 Movies That Would be Completely Ruined if Smartphones Existed",
+      "desc": "Ian is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Ian Montalvo",
+      "tags": []
+    }
+  ],
+  "source_list_count": 4,
+  "films_considered": 49,
+  "canonical_count": 11,
+  "films": [
+    {
+      "slug": "night-fishing",
+      "title": "Night Fishing",
+      "year": "2011",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Park Chan-wook",
+        "Park Chan-kyong"
+      ],
+      "actors": [
+        "Oh Kwang-rok",
+        "Lee Jung-hyun",
+        "Lee Yong-nyeo",
+        "Kim Hwan-hee"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 3.36,
+      "rating_count": 3214,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/5/7/4/3/65743-night-fishing-0-230-0-345-crop.jpg?v=5132e99458",
+      "url": "https://letterboxd.com/film/night-fishing/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "searching-for-sugar-man",
+      "title": "Searching for Sugar Man",
+      "year": "2012",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "directors": [
+        "Malik Bendjelloul"
+      ],
+      "actors": [
+        "Stephen Segerman",
+        "Rodriguez",
+        "Regan Rodriguez",
+        "Eva Rodriguez",
+        "Mike Theodore",
+        "Dennis Coffey"
+      ],
+      "countries": [
+        "Sweden",
+        "UK"
+      ],
+      "rating": 4.15,
+      "rating_count": 72034,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ap/pd/6u/gp/sugar-man-0-230-0-345-crop.jpg?v=5e0e7d89a2",
+      "url": "https://letterboxd.com/film/searching-for-sugar-man/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "i-play-with-the-phrase-each-other",
+      "title": "I Play with the Phrase Each Other",
+      "year": "2014",
+      "genres": [],
+      "directors": [
+        "Jay Alvarez"
+      ],
+      "actors": [
+        "Jay Alvarez",
+        "Megan Kopp",
+        "Will Hand",
+        "Alexander Fraser",
+        "Robert Thrush",
+        "Big Dogg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/4/8/3/9/174839-i-play-with-the-phrase-each-other-0-230-0-345-crop.jpg?v=cd4641ebd4",
+      "url": "https://letterboxd.com/film/i-play-with-the-phrase-each-other/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "uneasy-lies-the-mind",
+      "title": "Uneasy Lies the Mind",
+      "year": "2014",
+      "genres": [],
+      "directors": [
+        "Ricky Fosheim"
+      ],
+      "actors": [
+        "Jonas Fisch",
+        "Dillon Tucker",
+        "Michelle Nunes",
+        "Isaac Nippert"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/8/8/8/180888-uneasy-lies-the-mind-0-230-0-345-crop.jpg?v=ce86d641ef",
+      "url": "https://letterboxd.com/film/uneasy-lies-the-mind/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "tangerine",
+      "title": "Tangerine",
+      "year": "2015",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Sean Baker"
+      ],
+      "actors": [
+        "Kitana Kiki Rodriguez",
+        "Mya Taylor",
+        "Karren Karagulian",
+        "Mickey O'Hagan",
+        "Alla Tumanian",
+        "James Ransone"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 244921,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/4/8/1/4/234814-tangerine-0-230-0-345-crop.jpg?v=98d18138c1",
+      "url": "https://letterboxd.com/film/tangerine/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "romance-in-nyc",
+      "title": "Romance in NYC",
+      "year": "2015",
+      "genres": [
+        "Romance"
+      ],
+      "directors": [
+        "Tristan Pope"
+      ],
+      "actors": [
+        "Rachael McOwen",
+        "Tristan Pope"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/3/0/5/449305-romance-in-nyc-0-230-0-345-crop.jpg?v=84fd97f210",
+      "url": "https://letterboxd.com/film/romance-in-nyc/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "9-rides",
+      "title": "9 Rides",
+      "year": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Matthew A. Cherry"
+      ],
+      "actors": [
+        "Dorian Missick",
+        "Omar J. Dorsey",
+        "Robinne Lee",
+        "Xosha Roquemore",
+        "Amin Joseph",
+        "Thomas Q. Jones"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/0/1/5/316015-9-rides-0-230-0-345-crop.jpg?v=15e2b654ed",
+      "url": "https://letterboxd.com/film/9-rides/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "detour-2017",
+      "title": "Détour",
+      "year": "2017",
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "directors": [
+        "Michel Gondry"
+      ],
+      "actors": [
+        "Alain Azerot",
+        "Jeanne Maréchal",
+        "Delphine Depardieu",
+        "Benjamin Bourgois",
+        "Victoria Notté",
+        "Ethan Poaty"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.43,
+      "rating_count": 818,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/5/7/4/3/395743-detour-0-230-0-345-crop.jpg?v=dcd08c59af",
+      "url": "https://letterboxd.com/film/detour-2017/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "snow-steam-iron",
+      "title": "Snow Steam Iron",
+      "year": "2017",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Zack Snyder"
+      ],
+      "actors": [
+        "Samantha Win",
+        "Victoria Jacobsen",
+        "Jen Sung",
+        "Kristin VanOvan",
+        "Wayne Dalglish",
+        "Ross Kohnstam"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.32,
+      "rating_count": 4284,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/7/7/6/0/407760-snow-steam-iron-0-230-0-345-crop.jpg?v=ce2ef9baf5",
+      "url": "https://letterboxd.com/film/snow-steam-iron/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "unsane",
+      "title": "Unsane",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Steven Soderbergh"
+      ],
+      "actors": [
+        "Claire Foy",
+        "Joshua Leonard",
+        "Jay Pharoah",
+        "Juno Temple",
+        "Aimee Mullins",
+        "Amy Irving"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.27,
+      "rating_count": 91793,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/9/1/8/0/399180-unsane-0-230-0-345-crop.jpg?v=f2e6618886",
+      "url": "https://letterboxd.com/film/unsane/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "high-flying-bird",
+      "title": "High Flying Bird",
+      "year": "2019",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Steven Soderbergh"
+      ],
+      "actors": [
+        "André Holland",
+        "Zazie Beetz",
+        "Melvin Gregg",
+        "Sonja Sohn",
+        "Zachary Quinto",
+        "Glenn Fleshler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.23,
+      "rating_count": 28953,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/0/2/6/3/440263-high-flying-bird-0-230-0-345-crop.jpg?v=d6bdc6cbc4",
+      "url": "https://letterboxd.com/film/high-flying-bird/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 5,
+      "Comedy": 2,
+      "Music": 1,
+      "Documentary": 1,
+      "Romance": 1,
+      "Fantasy": 1,
+      "Crime": 1,
+      "Horror": 1,
+      "Thriller": 1
+    },
+    "directors": {
+      "Steven Soderbergh": 2,
+      "Park Chan-wook": 1,
+      "Park Chan-kyong": 1,
+      "Malik Bendjelloul": 1,
+      "Jay Alvarez": 1,
+      "Ricky Fosheim": 1,
+      "Sean Baker": 1,
+      "Tristan Pope": 1,
+      "Matthew A. Cherry": 1,
+      "Michel Gondry": 1,
+      "Zack Snyder": 1
+    },
+    "years": {
+      "2011": 1,
+      "2012": 1,
+      "2014": 2,
+      "2015": 2,
+      "2016": 1,
+      "2017": 2,
+      "2018": 1,
+      "2019": 1
+    }
+  }
+}

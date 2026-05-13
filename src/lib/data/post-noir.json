@@ -1,0 +1,1949 @@
+{
+  "query": "post noir",
+  "slug": "post-noir",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/dsuter8/list/post-noir/",
+      "user": "dsuter8",
+      "slug": "post-noir",
+      "title": "Post-Noir",
+      "desc": "Neo-noir is a revival of film noir, a genre that had originally flourished during the post-World War II era in the United States—roughly from 1940 to 1960. The French term, film noir, translates literally to English as \"black film\", indicating sinister stories often presented in a shadowy cinematographic style. Neo-noir has a similar style but with updated themes, content, style, and visual elements.",
+      "owner": "List by David PATRON",
+      "tags": []
+    },
+    {
+      "href": "/mic3206/list/post-noir/",
+      "user": "mic3206",
+      "slug": "post-noir",
+      "title": "Post-Noir",
+      "desc": "Me and Daniel have somewhat identified this genre, but have trouble naming it or what it actually means. I’m gonna make this list as an attempt to define this wondrous genre. Current name is “Post-Noir”.",
+      "owner": "List by Michael PATRON",
+      "tags": []
+    },
+    {
+      "href": "/headhunter666/list/post-noir-1959-1966/",
+      "user": "headhunter666",
+      "slug": "post-noir-1959-1966",
+      "title": "Post NOIR 1959-1966",
+      "desc": "Headhunter666 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Headhunter666 PATRON",
+      "tags": []
+    },
+    {
+      "href": "/kostasv95/list/neo-noir-post-noir/",
+      "user": "kostasv95",
+      "slug": "neo-noir-post-noir",
+      "title": "Neo-noir / Post-noir",
+      "desc": "kostasv95 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by kostasv95",
+      "tags": []
+    },
+    {
+      "href": "/plainview1981/list/best-post-noir-films/",
+      "user": "plainview1981",
+      "slug": "best-post-noir-films",
+      "title": "Best Post-Noir films",
+      "desc": "Brian is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Brian",
+      "tags": []
+    },
+    {
+      "href": "/ericmackattacks/list/subgenre-post-noir-modern-noir/",
+      "user": "ericmackattacks",
+      "slug": "subgenre-post-noir-modern-noir",
+      "title": "SUBGENRE: Post-Noir (Modern Noir)",
+      "desc": "To qualify, a film must be tagged with the \"Post-Noir (Modern Noir)\" subgenre on AllMovie: www.allmovie.com/subgenre/post-noir-modern-noir-d560",
+      "owner": "List by Eric Mack",
+      "tags": [
+        "subgenre"
+      ]
+    },
+    {
+      "href": "/illvillskill/list/post-noir-crimey-thrills-60-00/",
+      "user": "illvillskill",
+      "slug": "post-noir-crimey-thrills-60-00",
+      "title": "Post-Noir Crimey Thrills ‘60 - ‘00",
+      "desc": "Just a slew of my favorite crime/thriller films after the height of the film noir era and up to the end of the century. I’ll keep adding and welcome any suggestions, especially in the ‘70s to ‘80s era.",
+      "owner": "List by illvillskill",
+      "tags": [
+        "crime",
+        "drama",
+        "thriller",
+        "guilty-pleasure",
+        "noir",
+        "neo-noir",
+        "1960s",
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000",
+        "hood",
+        "western",
+        "sci-fi",
+        "60s",
+        "70s",
+        "80s",
+        "90s",
+        "00s"
+      ]
+    },
+    {
+      "href": "/tarar/list/post-noir-urban-crime/",
+      "user": "tarar",
+      "slug": "post-noir-urban-crime",
+      "title": "Post-Noir Urban Crime",
+      "desc": "the side of Hollywood that matters",
+      "owner": "List by tarar PATRON",
+      "tags": []
+    },
+    {
+      "href": "/chupov/list/noir-and-pre-noir-and-post-noir-gems/",
+      "user": "chupov",
+      "slug": "noir-and-pre-noir-and-post-noir-gems",
+      "title": "Noir and Pre-Noir and Post-noir Gems",
+      "desc": "Alexey is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Alexey PRO",
+      "tags": []
+    },
+    {
+      "href": "/ilarina/list/noir-pulp-noir-neo-noir-tech-noir-post-noir/",
+      "user": "ilarina",
+      "slug": "noir-pulp-noir-neo-noir-tech-noir-post-noir",
+      "title": "Noir, pulp noir, neo-noir, tech-noir, post-noir 🖤",
+      "desc": "Noir, a subgenre of crime fiction, denotes a marked darkness in theme and subject matter, generally featuring a disturbing mixture of sex and violence.",
+      "owner": "List by Ilaria",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 631,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "blue-velvet",
+      "title": "Blue Velvet",
+      "year": "1986",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Isabella Rossellini",
+        "Kyle MacLachlan",
+        "Dennis Hopper",
+        "Laura Dern",
+        "Hope Lange",
+        "Dean Stockwell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.06,
+      "rating_count": 926041,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/9/51359-blue-velvet-0-230-0-345-crop.jpg?v=b0ee3c20f6",
+      "url": "https://letterboxd.com/film/blue-velvet/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "la-confidential",
+      "title": "L.A. Confidential",
+      "year": "1997",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Curtis Hanson"
+      ],
+      "actors": [
+        "Kevin Spacey",
+        "Russell Crowe",
+        "Guy Pearce",
+        "James Cromwell",
+        "Kim Basinger",
+        "Danny DeVito"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.09,
+      "rating_count": 411193,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3n/0w/ax/pt/rIXzJCAvyd3Ci8ipylDQ5wUKqwh-0-230-0-345-crop.jpg?v=40685f4e4e",
+      "url": "https://letterboxd.com/film/la-confidential/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "thief",
+      "title": "Thief",
+      "year": "1981",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Michael Mann"
+      ],
+      "actors": [
+        "James Caan",
+        "Tuesday Weld",
+        "Robert Prosky",
+        "Willie Nelson",
+        "Jim Belushi",
+        "Tom Signorelli"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.07,
+      "rating_count": 207914,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/2/4/45224-thief-0-230-0-345-crop.jpg?v=775424c4c3",
+      "url": "https://letterboxd.com/film/thief/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-usual-suspects",
+      "title": "The Usual Suspects",
+      "year": "1995",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Bryan Singer"
+      ],
+      "actors": [
+        "Stephen Baldwin",
+        "Gabriel Byrne",
+        "Benicio del Toro",
+        "Kevin Pollak",
+        "Kevin Spacey",
+        "Chazz Palminteri"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.08,
+      "rating_count": 974477,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/5/51495-the-usual-suspects-0-230-0-345-crop.jpg?v=c02dce5b81",
+      "url": "https://letterboxd.com/film/the-usual-suspects/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "chinatown",
+      "title": "Chinatown",
+      "year": "1974",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ],
+      "actors": [
+        "Jack Nicholson",
+        "Faye Dunaway",
+        "John Huston",
+        "Perry Lopez",
+        "John Hillerman",
+        "Darrell Zwerling"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.3,
+      "rating_count": 483469,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/2/3/51323-chinatown-0-230-0-345-crop.jpg?v=b8e65cb89f",
+      "url": "https://letterboxd.com/film/chinatown/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "blood-simple",
+      "title": "Blood Simple",
+      "year": "1984",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Joel Coen"
+      ],
+      "actors": [
+        "John Getz",
+        "Frances McDormand",
+        "Dan Hedaya",
+        "Samm-Art Williams",
+        "M. Emmet Walsh",
+        "Deborah Neumann"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.89,
+      "rating_count": 195784,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/b7/yw/x0/25/blood%20simple-0-230-0-345-crop.jpg?v=5be2a698f3",
+      "url": "https://letterboxd.com/film/blood-simple/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "cape-fear",
+      "title": "Cape Fear",
+      "year": "1962",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "J. Lee Thompson"
+      ],
+      "actors": [
+        "Gregory Peck",
+        "Robert Mitchum",
+        "Polly Bergen",
+        "Martin Balsam",
+        "Lori Martin",
+        "Jack Kruschen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.93,
+      "rating_count": 35021,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/3/8/5/45385-cape-fear-0-230-0-345-crop.jpg?v=c3cf111da6",
+      "url": "https://letterboxd.com/film/cape-fear/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "hard-eight",
+      "title": "Hard Eight",
+      "year": "1996",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "actors": [
+        "Philip Baker Hall",
+        "John C. Reilly",
+        "Gwyneth Paltrow",
+        "Samuel L. Jackson",
+        "F. William Parker",
+        "Philip Seymour Hoffman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.62,
+      "rating_count": 136937,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/1/3/47913-hard-eight-0-230-0-345-crop.jpg?v=d5198f6351",
+      "url": "https://letterboxd.com/film/hard-eight/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "lost-highway",
+      "title": "Lost Highway",
+      "year": "1997",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Patricia Arquette",
+        "Bill Pullman",
+        "Balthazar Getty",
+        "Robert Blake",
+        "Robert Loggia",
+        "Michael Massee"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 430535,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-230-0-345-crop.jpg?v=49d0ffd43f",
+      "url": "https://letterboxd.com/film/lost-highway/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-naked-kiss",
+      "title": "The Naked Kiss",
+      "year": "1964",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Samuel Fuller"
+      ],
+      "actors": [
+        "Constance Towers",
+        "Michael Dante",
+        "Anthony Eisley",
+        "Virginia Grey",
+        "Patsy Kelly",
+        "Marie Devereux"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 18284,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/6/0/0/35600-the-naked-kiss-0-230-0-345-crop.jpg?v=f49643b659",
+      "url": "https://letterboxd.com/film/the-naked-kiss/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "following",
+      "title": "Following",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Jeremy Theobald",
+        "Alex Haw",
+        "Lucy Russell",
+        "John Nolan",
+        "Dick Bradsell",
+        "Gillian El-Kadi"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 153173,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/9/3/45093-following-0-230-0-345-crop.jpg?v=27b572a020",
+      "url": "https://letterboxd.com/film/following/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "one-false-move",
+      "title": "One False Move",
+      "year": "1991",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Carl Franklin"
+      ],
+      "actors": [
+        "Bill Paxton",
+        "Cynda Williams",
+        "Billy Bob Thornton",
+        "Michael Beach",
+        "Jim Metzler",
+        "Earl Billings"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.72,
+      "rating_count": 22704,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/11/02/1s/2g/gCihkDeMf5LA9WCf2gAh6Hvn4m9-0-230-0-345-crop.jpg?v=eff4978827",
+      "url": "https://letterboxd.com/film/one-false-move/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "red-rock-west",
+      "title": "Red Rock West",
+      "year": "1993",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "John Dahl"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Dennis Hopper",
+        "Lara Flynn Boyle",
+        "J.T. Walsh",
+        "Timothy Carhart",
+        "Dan Shor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.62,
+      "rating_count": 24368,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/2/4/0/46240-red-rock-west-0-230-0-345-crop.jpg?v=de37b4bf85",
+      "url": "https://letterboxd.com/film/red-rock-west/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "miami-blues",
+      "title": "Miami Blues",
+      "year": "1990",
+      "genres": [
+        "Drama",
+        "Action",
+        "Thriller",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "George Armitage"
+      ],
+      "actors": [
+        "Fred Ward",
+        "Alec Baldwin",
+        "Jennifer Jason Leigh",
+        "Nora Dunn",
+        "Charles Napier",
+        "Shirley Stoler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.48,
+      "rating_count": 20838,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ua/ek/cu/j6/ej7SWEPYm8mWtP70LrUAkiHJNeh-0-230-0-345-crop.jpg?v=2dbe3c6856",
+      "url": "https://letterboxd.com/film/miami-blues/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "high-and-low",
+      "title": "High and Low",
+      "year": "1963",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Tatsuya Nakadai",
+        "Kyōko Kagawa",
+        "Tatsuya Mihashi",
+        "Isao Kimura",
+        "Kenjirō Ishiyama"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.6,
+      "rating_count": 207559,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/do/zm/ur/ug/dgnyE40yWdI7gbaHmmB5yCCIVpI-0-230-0-345-crop.jpg?v=b0fd9f50fd",
+      "url": "https://letterboxd.com/film/high-and-low/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "taxi-driver",
+      "title": "Taxi Driver",
+      "year": "1976",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd",
+        "Harvey Keitel",
+        "Peter Boyle",
+        "Leonard Harris"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 2328505,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-230-0-345-crop.jpg?v=3ae07cca2d",
+      "url": "https://letterboxd.com/film/taxi-driver/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "memento",
+      "title": "Memento",
+      "year": "2000",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Guy Pearce",
+        "Carrie-Anne Moss",
+        "Joe Pantoliano",
+        "Mark Boone Junior",
+        "Russ Fega",
+        "Jorja Fox"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.18,
+      "rating_count": 1899292,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-230-0-345-crop.jpg?v=80f0732247",
+      "url": "https://letterboxd.com/film/memento/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-long-goodbye",
+      "title": "The Long Goodbye",
+      "year": "1973",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "directors": [
+        "Robert Altman"
+      ],
+      "actors": [
+        "Elliott Gould",
+        "Nina van Pallandt",
+        "Sterling Hayden",
+        "Mark Rydell",
+        "Henry Gibson",
+        "David Arkin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.19,
+      "rating_count": 170875,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/5/2/50752-the-long-goodbye-0-230-0-345-crop.jpg?v=09d57c0d87",
+      "url": "https://letterboxd.com/film/the-long-goodbye/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "oldboy",
+      "title": "Oldboy",
+      "year": "2003",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ],
+      "actors": [
+        "Choi Min-sik",
+        "Yoo Ji-tae",
+        "Kang Hye-jung",
+        "Kim Byeong-ok",
+        "Ji Dae-han",
+        "Oh Dal-su"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 4.36,
+      "rating_count": 1531255,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/4/51454-oldboy-0-230-0-345-crop.jpg?v=294dbcadef",
+      "url": "https://letterboxd.com/film/oldboy/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "elevator-to-the-gallows",
+      "title": "Elevator to the Gallows",
+      "year": "1958",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Louis Malle"
+      ],
+      "actors": [
+        "Jeanne Moreau",
+        "Maurice Ronet",
+        "Georges Poujouly",
+        "Yori Bertin",
+        "Jean Wall",
+        "Elga Andersen"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.1,
+      "rating_count": 74232,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/j3/vo/o5/mu/gHoiRDEEOyoWhlYDAIZ0xYxlhVV-0-230-0-345-crop.jpg?v=38770c3997",
+      "url": "https://letterboxd.com/film/elevator-to-the-gallows/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "sin-city",
+      "title": "Sin City",
+      "year": "2005",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "directors": [
+        "Robert Rodriguez",
+        "Frank Miller"
+      ],
+      "actors": [
+        "Bruce Willis",
+        "Jessica Alba",
+        "Clive Owen",
+        "Mickey Rourke",
+        "Rutger Hauer",
+        "Benicio del Toro"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 389662,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/5/51865-sin-city-0-230-0-345-crop.jpg?v=33647bfb14",
+      "url": "https://letterboxd.com/film/sin-city/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "brick",
+      "title": "Brick",
+      "year": "2005",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Rian Johnson"
+      ],
+      "actors": [
+        "Joseph Gordon-Levitt",
+        "Nora Zehetner",
+        "Matt O'Leary",
+        "Noah Fleiss",
+        "Lukas Haas",
+        "Meagan Good"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 144090,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/2/2/47322-brick-0-230-0-345-crop.jpg?v=de1c77ff6b",
+      "url": "https://letterboxd.com/film/brick/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "kiss-kiss-bang-bang-2005",
+      "title": "Kiss Kiss Bang Bang",
+      "year": "2005",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Mystery",
+        "Comedy"
+      ],
+      "directors": [
+        "Shane Black"
+      ],
+      "actors": [
+        "Robert Downey Jr.",
+        "Val Kilmer",
+        "Michelle Monaghan",
+        "Corbin Bernsen",
+        "Dash Mihok",
+        "Larry Miller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 191295,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ek/qa/d5/cb/18GHWx66uADdY7GM9NL8WRY5GSw-0-230-0-345-crop.jpg?v=cc723e4c2b",
+      "url": "https://letterboxd.com/film/kiss-kiss-bang-bang-2005/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "point-blank",
+      "title": "Point Blank",
+      "year": "1967",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "John Boorman"
+      ],
+      "actors": [
+        "Lee Marvin",
+        "Angie Dickinson",
+        "John Vernon",
+        "Keenan Wynn",
+        "Carroll O'Connor",
+        "Lloyd Bochner"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.92,
+      "rating_count": 42283,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/5/9/2/35592-point-blank-0-230-0-345-crop.jpg?v=b94df58f3d",
+      "url": "https://letterboxd.com/film/point-blank/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "house-of-games",
+      "title": "House of Games",
+      "year": "1987",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "David Mamet"
+      ],
+      "actors": [
+        "Lindsay Crouse",
+        "Joe Mantegna",
+        "Mike Nussbaum",
+        "Lilia Skala",
+        "J.T. Walsh",
+        "Steven Goldstein"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.71,
+      "rating_count": 25434,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qc/1d/pf/nz/6JfcymnGizEerV0X3wfdOwO0gmA-0-230-0-345-crop.jpg?v=05aea89392",
+      "url": "https://letterboxd.com/film/house-of-games/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "body-heat",
+      "title": "Body Heat",
+      "year": "1981",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Lawrence Kasdan"
+      ],
+      "actors": [
+        "William Hurt",
+        "Kathleen Turner",
+        "Richard Crenna",
+        "Ted Danson",
+        "J.A. Preston",
+        "Mickey Rourke"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 52110,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/1/1/4/43114-body-heat-0-230-0-345-crop.jpg?v=5724935efb",
+      "url": "https://letterboxd.com/film/body-heat/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "to-live-and-die-in-la",
+      "title": "To Live and Die in L.A.",
+      "year": "1985",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "William Friedkin"
+      ],
+      "actors": [
+        "William L. Petersen",
+        "Willem Dafoe",
+        "John Pankow",
+        "Debra Feuer",
+        "John Turturro",
+        "Dean Stockwell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4,
+      "rating_count": 115006,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/7/6/9/46769-to-live-and-die-in-l-a--0-230-0-345-crop.jpg?v=4a55db27ed",
+      "url": "https://letterboxd.com/film/to-live-and-die-in-la/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "rounders",
+      "title": "Rounders",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "John Dahl"
+      ],
+      "actors": [
+        "Matt Damon",
+        "Edward Norton",
+        "John Turturro",
+        "Gretchen Mol",
+        "John Malkovich",
+        "Famke Janssen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.6,
+      "rating_count": 126438,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0g/7j/qh/rv/j5IzmdWdO5CqgeoyJLZ1dO7w375-0-230-0-345-crop.jpg?v=0e6c4dca2d",
+      "url": "https://letterboxd.com/film/rounders/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "night-moves",
+      "title": "Night Moves",
+      "year": "1975",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Arthur Penn"
+      ],
+      "actors": [
+        "Gene Hackman",
+        "Jennifer Warren",
+        "John Crawford",
+        "Susan Clark",
+        "Melanie Griffith",
+        "Edward Binns"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 50504,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/0/1/30701-night-moves-0-230-0-345-crop.jpg?v=b65152bdf2",
+      "url": "https://letterboxd.com/film/night-moves/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "angel-heart",
+      "title": "Angel Heart",
+      "year": "1987",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Alan Parker"
+      ],
+      "actors": [
+        "Mickey Rourke",
+        "Robert De Niro",
+        "Lisa Bonet",
+        "Charlotte Rampling",
+        "Stocker Fontelieu",
+        "Brownie McGhee"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 86978,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jt/4t/3m/tp/xFtrVJWygDiK2iZluUxNwuQZ6Sm-0-230-0-345-crop.jpg?v=5d628d4444",
+      "url": "https://letterboxd.com/film/angel-heart/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "winters-bone",
+      "title": "Winter's Bone",
+      "year": "2010",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Debra Granik"
+      ],
+      "actors": [
+        "Jennifer Lawrence",
+        "John Hawkes",
+        "Kevin Breznahan",
+        "Dale Dickey",
+        "Garret Dillahunt",
+        "Sheryl Lee"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.5,
+      "rating_count": 109743,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/6/2/9/25629-winter-s-bone-0-230-0-345-crop.jpg?v=afab4d2680",
+      "url": "https://letterboxd.com/film/winters-bone/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-grifters",
+      "title": "The Grifters",
+      "year": "1990",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Stephen Frears"
+      ],
+      "actors": [
+        "Anjelica Huston",
+        "John Cusack",
+        "Annette Bening",
+        "Jan Munroe",
+        "Robert Weems",
+        "Stephen Tobolowsky"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.42,
+      "rating_count": 27081,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sl/ez/03/wf/uyaZkvfe907W8zH6QonaFjPxJ63-0-230-0-345-crop.jpg?v=61ffc039db",
+      "url": "https://letterboxd.com/film/the-grifters/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "insomnia-2002",
+      "title": "Insomnia",
+      "year": "2002",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Al Pacino",
+        "Robin Williams",
+        "Hilary Swank",
+        "Martin Donovan",
+        "Nicky Katt",
+        "Maura Tierney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.55,
+      "rating_count": 367183,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/3/9/51739-insomnia-0-230-0-345-crop.jpg?v=d843de8189",
+      "url": "https://letterboxd.com/film/insomnia-2002/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "devil-in-a-blue-dress",
+      "title": "Devil in a Blue Dress",
+      "year": "1995",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime"
+      ],
+      "directors": [
+        "Carl Franklin"
+      ],
+      "actors": [
+        "Denzel Washington",
+        "Tom Sizemore",
+        "Jennifer Beals",
+        "Don Cheadle",
+        "Maury Chaykin",
+        "Terry Kinney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 45801,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/9/4/47694-devil-in-a-blue-dress-0-230-0-345-crop.jpg?v=75ad6eca42",
+      "url": "https://letterboxd.com/film/devil-in-a-blue-dress/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-postman-always-rings-twice-1981",
+      "title": "The Postman Always Rings Twice",
+      "year": "1981",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Romance"
+      ],
+      "directors": [
+        "Bob Rafelson"
+      ],
+      "actors": [
+        "Jack Nicholson",
+        "Jessica Lange",
+        "John Colicos",
+        "Michael Lerner",
+        "John P. Ryan",
+        "Anjelica Huston"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.23,
+      "rating_count": 14052,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/7/6/45676-the-postman-always-rings-twice-0-230-0-345-crop.jpg?v=bb3ba4d41f",
+      "url": "https://letterboxd.com/film/the-postman-always-rings-twice-1981/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "croupier",
+      "title": "Croupier",
+      "year": "1998",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Mike Hodges"
+      ],
+      "actors": [
+        "Clive Owen",
+        "Kate Hardie",
+        "Alex Kingston",
+        "Gina McKee",
+        "Nicholas Ball",
+        "Alexander Morton"
+      ],
+      "countries": [
+        "UK",
+        "Ireland",
+        "France",
+        "Germany"
+      ],
+      "rating": 3.52,
+      "rating_count": 21035,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/3/5/0/44350-croupier-0-230-0-345-crop.jpg?v=64898bc65c",
+      "url": "https://letterboxd.com/film/croupier/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "cutters-way",
+      "title": "Cutter's Way",
+      "year": "1981",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Ivan Passer"
+      ],
+      "actors": [
+        "Jeff Bridges",
+        "John Heard",
+        "Lisa Eichhorn",
+        "Stephen Elliott",
+        "Arthur Rosenberg",
+        "Nina van Pallandt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 17289,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/0/4/3/31043-cutter-s-way-0-230-0-345-crop.jpg?v=f8f478a733",
+      "url": "https://letterboxd.com/film/cutters-way/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "after-dark-my-sweet",
+      "title": "After Dark, My Sweet",
+      "year": "1990",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "James Foley"
+      ],
+      "actors": [
+        "Jason Patric",
+        "Rachel Ward",
+        "Bruce Dern",
+        "Rocky Giordani",
+        "Tom Wagner",
+        "James E. Bowen Jr."
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.46,
+      "rating_count": 4791,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/0/1/7/36017-after-dark-my-sweet-0-230-0-345-crop.jpg?v=ccc199d5c4",
+      "url": "https://letterboxd.com/film/after-dark-my-sweet/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-hot-spot",
+      "title": "The Hot Spot",
+      "year": "1990",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Romance"
+      ],
+      "directors": [
+        "Dennis Hopper"
+      ],
+      "actors": [
+        "Don Johnson",
+        "Virginia Madsen",
+        "Jennifer Connelly",
+        "Charles Martin Smith",
+        "William Sadler",
+        "Jerry Hardin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.3,
+      "rating_count": 12925,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/5/6/42756-the-hot-spot-0-230-0-345-crop.jpg?v=1d217f8778",
+      "url": "https://letterboxd.com/film/the-hot-spot/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "eyewitness",
+      "title": "Eyewitness",
+      "year": "1981",
+      "genres": [
+        "Thriller"
+      ],
+      "directors": [
+        "Peter Yates"
+      ],
+      "actors": [
+        "William Hurt",
+        "Sigourney Weaver",
+        "Christopher Plummer",
+        "James Woods",
+        "Irene Worth",
+        "Kenneth McMillan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.87,
+      "rating_count": 4775,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/9/6/5/30965-eyewitness-0-230-0-345-crop.jpg?v=e04505e8dd",
+      "url": "https://letterboxd.com/film/eyewitness/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "kill-me-again",
+      "title": "Kill Me Again",
+      "year": "1989",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "directors": [
+        "John Dahl"
+      ],
+      "actors": [
+        "Val Kilmer",
+        "Joanne Whalley",
+        "Michael Madsen",
+        "Jon Gries",
+        "Michael Greene",
+        "Bibi Besch"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 5273,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/0/5/2/31052-kill-me-again-0-230-0-345-crop.jpg?v=bc228c180a",
+      "url": "https://letterboxd.com/film/kill-me-again/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "se7en",
+      "title": "Se7en",
+      "year": "1995",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Gwyneth Paltrow",
+        "Kevin Spacey",
+        "John Cassini",
+        "R. Lee Ermey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.37,
+      "rating_count": 3525600,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/4/5/51345-se7en-0-230-0-345-crop.jpg?v=76a14ef6b4",
+      "url": "https://letterboxd.com/film/se7en/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "nightcrawler",
+      "title": "Nightcrawler",
+      "year": "2014",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Dan Gilroy"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Riz Ahmed",
+        "Rene Russo",
+        "Bill Paxton",
+        "Kevin Rahm",
+        "Michael Hyatt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.04,
+      "rating_count": 1751948,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g7/2e/vi/vy/A9ANrAWlmIovxzjAIiOgseSLNc9-0-230-0-345-crop.jpg?v=6bcb14c88c",
+      "url": "https://letterboxd.com/film/nightcrawler/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bullitt",
+      "title": "Bullitt",
+      "year": "1968",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "Peter Yates"
+      ],
+      "actors": [
+        "Steve McQueen",
+        "Robert Vaughn",
+        "Jacqueline Bisset",
+        "Don Gordon",
+        "Robert Duvall",
+        "Simon Oakland"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 80054,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/3/7/51237-bullitt-0-230-0-345-crop.jpg?v=01ff62cff2",
+      "url": "https://letterboxd.com/film/bullitt/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "jackie-brown",
+      "title": "Jackie Brown",
+      "year": "1997",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "actors": [
+        "Pam Grier",
+        "Samuel L. Jackson",
+        "Robert De Niro",
+        "Bridget Fonda",
+        "Michael Keaton",
+        "Robert Forster"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 607617,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/08/3j/am/rx/4XVPYOdMAizdNMSwS0SK3fPJcvR-0-230-0-345-crop.jpg?v=ddcf6a79e0",
+      "url": "https://letterboxd.com/film/jackie-brown/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-batman",
+      "title": "The Batman",
+      "year": "2022",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Matt Reeves"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Jeffrey Wright",
+        "Colin Farrell",
+        "Paul Dano",
+        "John Turturro"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 3902125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/8/9/1/4/348914-the-batman-0-230-0-345-crop.jpg?v=ec12a8b7ce",
+      "url": "https://letterboxd.com/film/the-batman/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-nice-guys",
+      "title": "The Nice Guys",
+      "year": "2016",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Shane Black"
+      ],
+      "actors": [
+        "Russell Crowe",
+        "Ryan Gosling",
+        "Angourie Rice",
+        "Matt Bomer",
+        "Margaret Qualley",
+        "Yaya DaCosta"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 1210095,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/6/3/0/1/216301-the-nice-guys-0-230-0-345-crop.jpg?v=40616daa2c",
+      "url": "https://letterboxd.com/film/the-nice-guys/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Naomi Watts",
+        "Laura Harring",
+        "Justin Theroux",
+        "Ann Miller",
+        "Mark Pellegrino",
+        "Robert Forster"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.26,
+      "rating_count": 1239684,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-230-0-345-crop.jpg?v=3d69c00608",
+      "url": "https://letterboxd.com/film/mulholland-drive/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "zodiac",
+      "title": "Zodiac",
+      "year": "2007",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Mark Ruffalo",
+        "Anthony Edwards",
+        "Robert Downey Jr.",
+        "Chloë Sevigny",
+        "Elias Koteas"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 1905549,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/58/tf/z6/gw/qKQIjErYaN149hZRP5Vgf8RoC7S-0-230-0-345-crop.jpg?v=72ee5db942",
+      "url": "https://letterboxd.com/film/zodiac/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-friends-of-eddie-coyle",
+      "title": "The Friends of Eddie Coyle",
+      "year": "1973",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Peter Yates"
+      ],
+      "actors": [
+        "Robert Mitchum",
+        "Peter Boyle",
+        "Richard Jordan",
+        "Steven Keats",
+        "Alex Rocco",
+        "Joe Santos"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 27176,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/8/7/5/35875-the-friends-of-eddie-coyle-0-230-0-345-crop.jpg?v=a999e59b6c",
+      "url": "https://letterboxd.com/film/the-friends-of-eddie-coyle/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "klute",
+      "title": "Klute",
+      "year": "1971",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Alan J. Pakula"
+      ],
+      "actors": [
+        "Jane Fonda",
+        "Donald Sutherland",
+        "Charles Cioffi",
+        "Roy Scheider",
+        "Dorothy Tristan",
+        "Rita Gam"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.86,
+      "rating_count": 76885,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/3/6/51636-klute-0-230-0-345-crop.jpg?v=2be0335211",
+      "url": "https://letterboxd.com/film/klute/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-driver",
+      "title": "The Driver",
+      "year": "1978",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Walter Hill"
+      ],
+      "actors": [
+        "Ryan O'Neal",
+        "Bruce Dern",
+        "Isabelle Adjani",
+        "Ronee Blakley",
+        "Matt Clark",
+        "Felice Orlandi"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.84,
+      "rating_count": 40167,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/4/8/0/50480-the-driver-0-230-0-345-crop.jpg?v=8c1b07e157",
+      "url": "https://letterboxd.com/film/the-driver/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bound",
+      "title": "Bound",
+      "year": "1996",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "actors": [
+        "Gina Gershon",
+        "Jennifer Tilly",
+        "Joe Pantoliano",
+        "John P. Ryan",
+        "Christopher Meloni",
+        "Richard C. Sarafian"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.03,
+      "rating_count": 201442,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/8/9/47289-bound-0-230-0-345-crop.jpg?v=54e3ef63ae",
+      "url": "https://letterboxd.com/film/bound/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "good-time",
+      "title": "Good Time",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Benny Safdie",
+        "Josh Safdie"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Benny Safdie",
+        "Buddy Duress",
+        "Taliah Webster",
+        "Jennifer Jason Leigh",
+        "Barkhad Abdi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.98,
+      "rating_count": 772838,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/2/3/6/2/362362-good-time-0-230-0-345-crop.jpg?v=f7b17715d2",
+      "url": "https://letterboxd.com/film/good-time/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-spanish-prisoner",
+      "title": "The Spanish Prisoner",
+      "year": "1997",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "David Mamet"
+      ],
+      "actors": [
+        "Steve Martin",
+        "Campbell Scott",
+        "Ben Gazzara",
+        "Rebecca Pidgeon",
+        "Ricky Jay",
+        "Felicity Huffman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.58,
+      "rating_count": 12457,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xo/2f/ch/o3/vHsNDq4FaNt4XGIjNxcB8fWtCSw-0-230-0-345-crop.jpg?v=095328fe00",
+      "url": "https://letterboxd.com/film/the-spanish-prisoner/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-man-who-wasnt-there-2001",
+      "title": "The Man Who Wasn't There",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Joel Coen"
+      ],
+      "actors": [
+        "Billy Bob Thornton",
+        "Frances McDormand",
+        "Michael Badalucco",
+        "James Gandolfini",
+        "Katherine Borowitz",
+        "Jon Polito"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.93,
+      "rating_count": 94800,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/9/0/6/45906-the-man-who-wasn-t-there-0-230-0-345-crop.jpg?v=06e12e3954",
+      "url": "https://letterboxd.com/film/the-man-who-wasnt-there-2001/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-last-seduction",
+      "title": "The Last Seduction",
+      "year": "1994",
+      "genres": [
+        "Romance",
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "John Dahl"
+      ],
+      "actors": [
+        "Linda Fiorentino",
+        "Peter Berg",
+        "Bill Pullman",
+        "Bill Nunn",
+        "J.T. Walsh",
+        "Dean Norris"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.56,
+      "rating_count": 27934,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/1/6/0/36160-the-last-seduction-0-230-0-345-crop.jpg?v=b36681754c",
+      "url": "https://letterboxd.com/film/the-last-seduction/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "nocturnal-animals",
+      "title": "Nocturnal Animals",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "directors": [
+        "Tom Ford"
+      ],
+      "actors": [
+        "Amy Adams",
+        "Jake Gyllenhaal",
+        "Michael Shannon",
+        "Aaron Taylor-Johnson",
+        "Isla Fisher",
+        "Ellie Bamber"
+      ],
+      "countries": [
+        "USA",
+        "China",
+        "UK"
+      ],
+      "rating": 3.71,
+      "rating_count": 648584,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nu/i0/7z/nd/oHL437Dz1TGQMlKfpE6rSQJgMxb-0-230-0-345-crop.jpg?v=16ef03c9c1",
+      "url": "https://letterboxd.com/film/nocturnal-animals/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "inherent-vice",
+      "title": "Inherent Vice",
+      "year": "2014",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Josh Brolin",
+        "Owen Wilson",
+        "Katherine Waterston",
+        "Reese Witherspoon",
+        "Benicio del Toro"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 254598,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/8/3/0/125830-inherent-vice-0-230-0-345-crop.jpg?v=342795552c",
+      "url": "https://letterboxd.com/film/inherent-vice/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dead-again",
+      "title": "Dead Again",
+      "year": "1991",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Mystery"
+      ],
+      "directors": [
+        "Kenneth Branagh"
+      ],
+      "actors": [
+        "Kenneth Branagh",
+        "Emma Thompson",
+        "Derek Jacobi",
+        "Andy Garcia",
+        "Wayne Knight",
+        "Robin Williams"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.35,
+      "rating_count": 17214,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/4/9/45249-dead-again-0-230-0-345-crop.jpg?v=9d4db2ba6d",
+      "url": "https://letterboxd.com/film/dead-again/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Crime": 47,
+      "Thriller": 47,
+      "Drama": 42,
+      "Mystery": 24,
+      "Action": 7,
+      "Comedy": 4,
+      "Romance": 4,
+      "Horror": 1
+    },
+    "directors": {
+      "John Dahl": 4,
+      "David Lynch": 3,
+      "Christopher Nolan": 3,
+      "Peter Yates": 3,
+      "Joel Coen": 2,
+      "Paul Thomas Anderson": 2,
+      "Carl Franklin": 2,
+      "Shane Black": 2,
+      "David Mamet": 2,
+      "David Fincher": 2,
+      "Curtis Hanson": 1,
+      "Michael Mann": 1,
+      "Bryan Singer": 1,
+      "Roman Polanski": 1,
+      "J. Lee Thompson": 1,
+      "Samuel Fuller": 1,
+      "George Armitage": 1,
+      "Akira Kurosawa": 1,
+      "Martin Scorsese": 1,
+      "Robert Altman": 1
+    },
+    "years": {
+      "1958": 1,
+      "1962": 1,
+      "1963": 1,
+      "1964": 1,
+      "1967": 1,
+      "1968": 1,
+      "1971": 1,
+      "1973": 2,
+      "1974": 1,
+      "1975": 1,
+      "1976": 1,
+      "1978": 1,
+      "1981": 5,
+      "1984": 1,
+      "1985": 1,
+      "1986": 1,
+      "1987": 2,
+      "1989": 1,
+      "1990": 4,
+      "1991": 2,
+      "1993": 1,
+      "1994": 1,
+      "1995": 3,
+      "1996": 2,
+      "1997": 4,
+      "1998": 3,
+      "2000": 1,
+      "2001": 2,
+      "2002": 1,
+      "2003": 1,
+      "2005": 3,
+      "2007": 1,
+      "2010": 1,
+      "2014": 2,
+      "2016": 2,
+      "2017": 1,
+      "2022": 1
+    }
+  }
+}

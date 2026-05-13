@@ -1,0 +1,1911 @@
+{
+  "query": "sapphic",
+  "slug": "sapphic",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/fuchsiadyke/list/sapphic/",
+      "user": "fuchsiadyke",
+      "slug": "sapphic",
+      "title": "Sapphic",
+      "desc": "Women loving women. Lesbians, bisexual, queer, or pansexual women, or films where women love women romantically or sexually.",
+      "owner": "List by Sally Jane Black PATRON",
+      "tags": [
+        "lgbtqia",
+        "character",
+        "genre"
+      ]
+    },
+    {
+      "href": "/scoutshonour/list/sapphic/",
+      "user": "scoutshonour",
+      "slug": "sapphic",
+      "title": "sapphic",
+      "desc": "an ongoing list of movies & shorts i've watched where either the main character or one of the supporting characters is sapphic :)",
+      "owner": "List by kyliegh 🧸",
+      "tags": []
+    },
+    {
+      "href": "/meicheng/list/sapphic/",
+      "user": "meicheng",
+      "slug": "sapphic",
+      "title": "Sapphic",
+      "desc": "Live Laugh Lesbian",
+      "owner": "List by me1chen9s",
+      "tags": [
+        "lesbian"
+      ]
+    },
+    {
+      "href": "/sharphorn/list/sapphic/",
+      "user": "sharphorn",
+      "slug": "sapphic",
+      "title": "Sapphic",
+      "desc": "Sapphic, lesbian, bi, queer, pan, or films/shorts/limited series with wlw/nblw elements/subtext that I have watched. Female characters exploring their sexualities, queerbaiting included.",
+      "owner": "List by sharphorn PRO",
+      "tags": [
+        "lgbtqian-",
+        "profile",
+        "allstats"
+      ]
+    },
+    {
+      "href": "/hoaipham/list/sapphic/",
+      "user": "hoaipham",
+      "slug": "sapphic",
+      "title": "Sapphic",
+      "desc": "WLW ❤️💚💙",
+      "owner": "List by Sapphic Cinematic",
+      "tags": [
+        "sapphic",
+        "lesbian",
+        "wlw",
+        "girl-love",
+        "woman-love-woman",
+        "gl",
+        "lesbian-movie",
+        "sapphic-movie",
+        "sapphic-series",
+        "lesbian-series",
+        "sapphic-films",
+        "lesbian-films"
+      ]
+    },
+    {
+      "href": "/gyllenhaall/list/sapphic/",
+      "user": "gyllenhaall",
+      "slug": "sapphic",
+      "title": "Sapphic",
+      "desc": "Women loving women",
+      "owner": "List by chloe PATRON",
+      "tags": []
+    },
+    {
+      "href": "/leathermouth/list/sapphic/",
+      "user": "leathermouth",
+      "slug": "sapphic",
+      "title": "sapphic",
+      "desc": "sapphic films 2 watch! <3\ni haven’t seen all of these so if they aren’t very good… i’m sorry",
+      "owner": "List by mads",
+      "tags": []
+    },
+    {
+      "href": "/dpmr/list/sapphic-1/",
+      "user": "dpmr",
+      "slug": "sapphic-1",
+      "title": "Sapphic",
+      "desc": "This needs an update",
+      "owner": "List by Diana",
+      "tags": []
+    },
+    {
+      "href": "/malleablebeings/list/sapphic/",
+      "user": "malleablebeings",
+      "slug": "sapphic",
+      "title": "sapphic",
+      "desc": "sapphic/wlw/lesbian movies and tv shows across genres\n\nnot on letterboxd:\nshe loves to cook, and she loves to eat (2022)\nthe other love story (2016)\nharley quinn (2019)\nwe are lady parts (2021)\na league of their own (2022)",
+      "owner": "List by b",
+      "tags": []
+    }
+  ],
+  "source_list_count": 9,
+  "films_considered": 975,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "but-im-a-cheerleader",
+      "title": "But I'm a Cheerleader",
+      "year": "1999",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Jamie Babbit"
+      ],
+      "actors": [
+        "Natasha Lyonne",
+        "Clea DuVall",
+        "Cathy Moriarty",
+        "RuPaul",
+        "Melanie Lynskey",
+        "Katharine Towne"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 852204,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/8/0/0/38800-but-i-m-a-cheerleader-0-230-0-345-crop.jpg?v=fb07442029",
+      "url": "https://letterboxd.com/film/but-im-a-cheerleader/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "saving-face",
+      "title": "Saving Face",
+      "year": "2004",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Alice Wu"
+      ],
+      "actors": [
+        "Joan Chen",
+        "Michelle Krusiec",
+        "Lynn Chen",
+        "Jin Wang",
+        "Guang Lan Koh",
+        "Ato Essandoh"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.04,
+      "rating_count": 94050,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/7/1/1/39711-saving-face-0-230-0-345-crop.jpg?v=cc366a685a",
+      "url": "https://letterboxd.com/film/saving-face/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "portrait-of-a-lady-on-fire",
+      "title": "Portrait of a Lady on Fire",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Céline Sciamma"
+      ],
+      "actors": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami",
+        "Valeria Golino",
+        "Christel Baras",
+        "Armande Boulanger"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.42,
+      "rating_count": 1087906,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/8/3/0/460830-portrait-of-a-lady-on-fire-0-230-0-345-crop.jpg?v=79b0f67aa9",
+      "url": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "bound",
+      "title": "Bound",
+      "year": "1996",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "actors": [
+        "Gina Gershon",
+        "Jennifer Tilly",
+        "Joe Pantoliano",
+        "John P. Ryan",
+        "Christopher Meloni",
+        "Richard C. Sarafian"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.03,
+      "rating_count": 201442,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/8/9/47289-bound-0-230-0-345-crop.jpg?v=54e3ef63ae",
+      "url": "https://letterboxd.com/film/bound/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-half-of-it",
+      "title": "The Half of It",
+      "year": "2020",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Alice Wu"
+      ],
+      "actors": [
+        "Leah Lewis",
+        "Daniel Diemer",
+        "Alexxis Lemire",
+        "Enrique Murciano",
+        "Wolfgang Novogratz",
+        "Catherine Curtin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.25,
+      "rating_count": 288264,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/4/6/6/3/524663-the-half-of-it-0-230-0-345-crop.jpg?v=c3fb22f042",
+      "url": "https://letterboxd.com/film/the-half-of-it/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "ammonite",
+      "title": "Ammonite",
+      "year": "2020",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Francis Lee"
+      ],
+      "actors": [
+        "Kate Winslet",
+        "Saoirse Ronan",
+        "Gemma Jones",
+        "James McArdle",
+        "Alec Secăreanu",
+        "Fiona Shaw"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.1,
+      "rating_count": 111121,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/6/8/0/5/496805-ammonite-0-230-0-345-crop.jpg?v=cb9c2ebf69",
+      "url": "https://letterboxd.com/film/ammonite/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "debs",
+      "title": "D.E.B.S.",
+      "year": "2004",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Angela Robinson"
+      ],
+      "actors": [
+        "Sara Foster",
+        "Jordana Brewster",
+        "Meagan Good",
+        "Devon Aoki",
+        "Jill Ritchie",
+        "Geoff Stults"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.74,
+      "rating_count": 175134,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/7/51577-d-e-b-s--0-230-0-345-crop.jpg?v=f3585ff569",
+      "url": "https://letterboxd.com/film/debs/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "summerland-2020",
+      "title": "Summerland",
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Jessica Swale"
+      ],
+      "actors": [
+        "Gemma Arterton",
+        "Gugu Mbatha-Raw",
+        "Penelope Wilton",
+        "Tom Courtenay",
+        "Lucas Bond",
+        "Dixie Egerickx"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.91,
+      "rating_count": 34989,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/3/5/4/3/453543-summerland-0-230-0-345-crop.jpg?v=7704805382",
+      "url": "https://letterboxd.com/film/summerland-2020/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "carol-2015",
+      "title": "Carol",
+      "year": "2015",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Todd Haynes"
+      ],
+      "actors": [
+        "Cate Blanchett",
+        "Rooney Mara",
+        "Kyle Chandler",
+        "Jake Lacy",
+        "Sarah Paulson",
+        "John Magaro"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 649603,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/2/1/4/2/182142-carol-0-230-0-345-crop.jpg?v=41ac88b68e",
+      "url": "https://letterboxd.com/film/carol-2015/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-favourite",
+      "title": "The Favourite",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "History"
+      ],
+      "directors": [
+        "Yorgos Lanthimos"
+      ],
+      "actors": [
+        "Emma Stone",
+        "Olivia Colman",
+        "Rachel Weisz",
+        "Nicholas Hoult",
+        "Joe Alwyn",
+        "Mark Gatiss"
+      ],
+      "countries": [
+        "Ireland",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 922881,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/0/7/0/5/310705-the-favourite-0-230-0-345-crop.jpg?v=c5488e37ef",
+      "url": "https://letterboxd.com/film/the-favourite/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-watermelon-woman",
+      "title": "The Watermelon Woman",
+      "year": "1996",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Cheryl Dunye"
+      ],
+      "actors": [
+        "Cheryl Dunye",
+        "Guinevere Turner",
+        "Valarie Walker",
+        "Lisa Marie Bronson",
+        "Cheryl Clarke",
+        "Irene Dunye"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.06,
+      "rating_count": 101744,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/0/3/20703-the-watermelon-woman-0-230-0-345-crop.jpg?v=11ffcd731b",
+      "url": "https://letterboxd.com/film/the-watermelon-woman/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "desert-hearts",
+      "title": "Desert Hearts",
+      "year": "1985",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Donna Deitch"
+      ],
+      "actors": [
+        "Helen Shaver",
+        "Patricia Charbonneau",
+        "Audra Lindley",
+        "Andra Akers",
+        "Gwen Welles",
+        "Dean Butler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.81,
+      "rating_count": 53995,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/6/5/51765-desert-hearts-0-230-0-345-crop.jpg?v=55ece3f233",
+      "url": "https://letterboxd.com/film/desert-hearts/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "show-me-love",
+      "title": "Show Me Love",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Lukas Moodysson"
+      ],
+      "actors": [
+        "Alexandra Dahlström",
+        "Rebecka Liljeberg",
+        "Erica Carlson",
+        "Mathias Rust",
+        "Stefan Hörberg",
+        "Josefine Nyberg"
+      ],
+      "countries": [
+        "Denmark",
+        "Sweden"
+      ],
+      "rating": 3.78,
+      "rating_count": 69780,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/1/1/7/45117-show-me-love-0-230-0-345-crop.jpg?v=155d32d8b1",
+      "url": "https://letterboxd.com/film/show-me-love/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "jennifers-body",
+      "title": "Jennifer's Body",
+      "year": "2009",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Karyn Kusama"
+      ],
+      "actors": [
+        "Megan Fox",
+        "Amanda Seyfried",
+        "Johnny Simmons",
+        "Adam Brody",
+        "Sal Cortez",
+        "Ryan Levine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.46,
+      "rating_count": 1466017,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/0/5/39305-jennifer-s-body-0-230-0-345-crop.jpg?v=af7fb6bd86",
+      "url": "https://letterboxd.com/film/jennifers-body/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "happiest-season",
+      "title": "Happiest Season",
+      "year": "2020",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Clea DuVall"
+      ],
+      "actors": [
+        "Kristen Stewart",
+        "Mackenzie Davis",
+        "Mary Steenburgen",
+        "Victor Garber",
+        "Alison Brie",
+        "Mary Holland"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.11,
+      "rating_count": 262799,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/7/7/1/449771-happiest-season-0-230-0-345-crop.jpg?v=0d726c3471",
+      "url": "https://letterboxd.com/film/happiest-season/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "booksmart",
+      "title": "Booksmart",
+      "year": "2019",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Olivia Wilde"
+      ],
+      "actors": [
+        "Kaitlyn Dever",
+        "Beanie Feldstein",
+        "Jessica Williams",
+        "Jason Sudeikis",
+        "Lisa Kudrow",
+        "Will Forte"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 899276,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/5/4/5/0/435450-booksmart-0-230-0-345-crop.jpg?v=5930d440be",
+      "url": "https://letterboxd.com/film/booksmart/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "thelma-2017",
+      "title": "Thelma",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "Joachim Trier"
+      ],
+      "actors": [
+        "Eili Harboe",
+        "Kaya Wilkins",
+        "Henrik Rafaelsen",
+        "Ellen Dorrit Petersen",
+        "Grethe Eltervåg",
+        "Marte Magnusdotter Solem"
+      ],
+      "countries": [
+        "Denmark",
+        "France",
+        "Norway",
+        "Sweden"
+      ],
+      "rating": 3.68,
+      "rating_count": 95336,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/6/5/8/7/336587-thelma-0-230-0-345-crop.jpg?v=ca9ae31f71",
+      "url": "https://letterboxd.com/film/thelma-2017/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-handmaiden",
+      "title": "The Handmaiden",
+      "year": "2016",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ],
+      "actors": [
+        "Kim Min-hee",
+        "Kim Tae-ri",
+        "Ha Jung-woo",
+        "Cho Jin-woong",
+        "Kim Hae-sook",
+        "Moon So-ri"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 4.39,
+      "rating_count": 791099,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pc/n6/pz/mi/wvzfK5QR6dGLwND8MCzWjsQWG4Q-0-230-0-345-crop.jpg?v=bcfcc8f8f6",
+      "url": "https://letterboxd.com/film/the-handmaiden/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "disobedience-2017",
+      "title": "Disobedience",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Sebastián Lelio"
+      ],
+      "actors": [
+        "Rachel Weisz",
+        "Rachel McAdams",
+        "Alessandro Nivola",
+        "Allan Corduner",
+        "Anton Lesser",
+        "Nicholas Woodeson"
+      ],
+      "countries": [
+        "Ireland",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.48,
+      "rating_count": 132582,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/5/2/2/353522-disobedience-0-230-0-345-crop.jpg?v=960376bc81",
+      "url": "https://letterboxd.com/film/disobedience-2017/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "imagine-me-you",
+      "title": "Imagine Me & You",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Ol Parker"
+      ],
+      "actors": [
+        "Piper Perabo",
+        "Lena Headey",
+        "Matthew Goode",
+        "Celia Imrie",
+        "Anthony Stewart Head",
+        "Darren Boyd"
+      ],
+      "countries": [
+        "Germany",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.84,
+      "rating_count": 204092,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/8/9/50989-imagine-me-you-0-230-0-345-crop.jpg?v=dd59ac719b",
+      "url": "https://letterboxd.com/film/imagine-me-you/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "summertime-2015",
+      "title": "Summertime",
+      "year": "2015",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Catherine Corsini"
+      ],
+      "actors": [
+        "Izïa Higelin",
+        "Cécile de France",
+        "Noémie Lvovsky",
+        "Laetitia Dosch",
+        "Kévin Azaïs",
+        "Loulou Hanssen"
+      ],
+      "countries": [
+        "France",
+        "Belgium"
+      ],
+      "rating": 3.57,
+      "rating_count": 18057,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/7/3/7/9/197379-summertime-0-230-0-345-crop.jpg?v=35cef63d48",
+      "url": "https://letterboxd.com/film/summertime-2015/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "with-every-heartbeat",
+      "title": "With Every Heartbeat",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Alexandra-Therese Keining"
+      ],
+      "actors": [
+        "Ruth Vega Fernandez",
+        "Liv Mjönes",
+        "Krister Henriksson",
+        "Lena Endre",
+        "Joakim Nätterqvist",
+        "Josefine Tengblad"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 3.35,
+      "rating_count": 10352,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/9/1/8/59918-with-every-heartbeat-0-230-0-345-crop.jpg?v=b4447c22d2",
+      "url": "https://letterboxd.com/film/with-every-heartbeat/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-world-unseen",
+      "title": "The World Unseen",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Shamim Sarif"
+      ],
+      "actors": [
+        "Lisa Ray",
+        "Sheetal Sheth",
+        "Parvin Dabas",
+        "Nandana Sen",
+        "David Dennis",
+        "Grethe Fox"
+      ],
+      "countries": [
+        "South Africa",
+        "UK"
+      ],
+      "rating": 3.2,
+      "rating_count": 4386,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/5/2/9/31529-the-world-unseen-0-230-0-345-crop.jpg?v=8bc54ce906",
+      "url": "https://letterboxd.com/film/the-world-unseen/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-childrens-hour",
+      "title": "The Children's Hour",
+      "year": "1961",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "William Wyler"
+      ],
+      "actors": [
+        "Shirley MacLaine",
+        "Audrey Hepburn",
+        "James Garner",
+        "Miriam Hopkins",
+        "Fay Bainter",
+        "Karen Balkin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.18,
+      "rating_count": 73503,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/2/0/7/39207-the-children-s-hour-0-230-0-345-crop.jpg?v=a54d339e21",
+      "url": "https://letterboxd.com/film/the-childrens-hour/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-miseducation-of-cameron-post",
+      "title": "The Miseducation of Cameron Post",
+      "year": "2018",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Desiree Akhavan"
+      ],
+      "actors": [
+        "Chloë Grace Moretz",
+        "Sasha Lane",
+        "Forrest Goodluck",
+        "John Gallagher Jr.",
+        "Jennifer Ehle",
+        "Marin Ireland"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.48,
+      "rating_count": 127209,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/0/0/2/8/360028-the-miseducation-of-cameron-post-0-230-0-345-crop.jpg?v=61b0daab4c",
+      "url": "https://letterboxd.com/film/the-miseducation-of-cameron-post/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "heavenly-creatures",
+      "title": "Heavenly Creatures",
+      "year": "1994",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Melanie Lynskey",
+        "Kate Winslet",
+        "Sarah Peirse",
+        "Diana Kent",
+        "Clive Merrison",
+        "Simon O'Connor"
+      ],
+      "countries": [
+        "New Zealand",
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.77,
+      "rating_count": 76937,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/6/9/51169-heavenly-creatures-0-230-0-345-crop.jpg?v=9f6a5f4e5c",
+      "url": "https://letterboxd.com/film/heavenly-creatures/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "benedetta",
+      "title": "Benedetta",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Romance",
+        "History"
+      ],
+      "directors": [
+        "Paul Verhoeven"
+      ],
+      "actors": [
+        "Virginie Efira",
+        "Charlotte Rampling",
+        "Daphné Patakia",
+        "Lambert Wilson",
+        "Olivier Rabourdin",
+        "Louise Chevillotte"
+      ],
+      "countries": [
+        "Belgium",
+        "France",
+        "Netherlands"
+      ],
+      "rating": 3.4,
+      "rating_count": 115640,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/6/6/3/1/386631-benedetta-0-230-0-345-crop.jpg?v=9d52b3ab59",
+      "url": "https://letterboxd.com/film/benedetta/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "professor-marston-and-the-wonder-women",
+      "title": "Professor Marston and the Wonder Women",
+      "year": "2017",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Angela Robinson"
+      ],
+      "actors": [
+        "Luke Evans",
+        "Rebecca Hall",
+        "Bella Heathcote",
+        "Connie Britton",
+        "JJ Feild",
+        "Oliver Platt"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.66,
+      "rating_count": 37503,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/3/5/4/354354-professor-marston-the-wonder-women-0-230-0-345-crop.jpg?v=fba7573863",
+      "url": "https://letterboxd.com/film/professor-marston-and-the-wonder-women/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "tell-it-to-the-bees",
+      "title": "Tell It to the Bees",
+      "year": "2018",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Annabel Jankel"
+      ],
+      "actors": [
+        "Anna Paquin",
+        "Holliday Grainger",
+        "Emun Elliott",
+        "Steven Robertson",
+        "Lauren Lyle",
+        "Gregor Selkirk"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.21,
+      "rating_count": 31481,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/7/0/8/1/407081-tell-it-to-the-bees-0-230-0-345-crop.jpg?v=8254a8be55",
+      "url": "https://letterboxd.com/film/tell-it-to-the-bees/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "my-first-summer",
+      "title": "My First Summer",
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Katie Found"
+      ],
+      "actors": [
+        "Markella Kavenagh",
+        "Maiah Stewardson",
+        "Edwina Wren",
+        "Harvey Zielinski",
+        "Steve Mouzakis",
+        "Arthur Angel"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "rating": 3.81,
+      "rating_count": 80999,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/2/8/2/5/662825-my-first-summer-0-230-0-345-crop.jpg?v=03e2665500",
+      "url": "https://letterboxd.com/film/my-first-summer/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "shiva-baby-2020",
+      "title": "Shiva Baby",
+      "year": "2020",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Emma Seligman"
+      ],
+      "actors": [
+        "Rachel Sennott",
+        "Molly Gordon",
+        "Polly Draper",
+        "Danny Deferrari",
+        "Fred Melamed",
+        "Dianna Agron"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 669218,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/9/0/9/3/589093-shiva-baby-0-230-0-345-crop.jpg?v=a258215f88",
+      "url": "https://letterboxd.com/film/shiva-baby-2020/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "dating-amber",
+      "title": "Dating Amber",
+      "year": "2020",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "David Freyne"
+      ],
+      "actors": [
+        "Fionn O'Shea",
+        "Lola Petticrew",
+        "Sharon Horgan",
+        "Barry Ward",
+        "Simone Kirby",
+        "Evan O'Connor"
+      ],
+      "countries": [
+        "Belgium",
+        "Ireland"
+      ],
+      "rating": 3.6,
+      "rating_count": 47408,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/2/1/5/1/562151-dating-amber-0-230-0-345-crop.jpg?v=82b9813daa",
+      "url": "https://letterboxd.com/film/dating-amber/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "princess-cyd",
+      "title": "Princess Cyd",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Stephen Cone"
+      ],
+      "actors": [
+        "Jessie Pinnick",
+        "Rebecca Spence",
+        "Ro White",
+        "James Vincent Meredith",
+        "Matthew Quattrocki",
+        "Tyler Ross"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.34,
+      "rating_count": 22187,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6q/oq/t8/gc/unvyl4dK21DrC1qJQt3ytN8yxFz-0-230-0-345-crop.jpg?v=873f8de180",
+      "url": "https://letterboxd.com/film/princess-cyd/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "kajillionaire",
+      "title": "Kajillionaire",
+      "year": "2020",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Miranda July"
+      ],
+      "actors": [
+        "Evan Rachel Wood",
+        "Debra Winger",
+        "Gina Rodriguez",
+        "Richard Jenkins",
+        "Patricia Belcher",
+        "Kim Estes"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 111267,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/3/6/9/470369-kajillionaire-0-230-0-345-crop.jpg?v=25d122300c",
+      "url": "https://letterboxd.com/film/kajillionaire/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "i-care-a-lot",
+      "title": "I Care a Lot",
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Comedy"
+      ],
+      "directors": [
+        "J Blakeson"
+      ],
+      "actors": [
+        "Rosamund Pike",
+        "Peter Dinklage",
+        "Eiza González",
+        "Dianne Wiest",
+        "Chris Messina",
+        "Isiah Whitlock Jr."
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.14,
+      "rating_count": 410418,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/9/2/0/3/529203-i-care-a-lot-0-230-0-345-crop.jpg?v=56598113a5",
+      "url": "https://letterboxd.com/film/i-care-a-lot/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "am-i-ok",
+      "title": "Am I OK?",
+      "year": "2022",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Tig Notaro",
+        "Stephanie Allynne"
+      ],
+      "actors": [
+        "Dakota Johnson",
+        "Sonoya Mizuno",
+        "Jermaine Fowler",
+        "Kiersey Clemons",
+        "Molly Gordon",
+        "Whitmer Thomas"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.96,
+      "rating_count": 228012,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/7/9/2/6/567926-am-i-ok--0-230-0-345-crop.jpg?v=463589be15",
+      "url": "https://letterboxd.com/film/am-i-ok/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "you-can-live-forever",
+      "title": "You Can Live Forever",
+      "year": "2022",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Sarah Watts",
+        "Mark Slutsky"
+      ],
+      "actors": [
+        "Anwen O'Driscoll",
+        "June Laporte",
+        "Liane Balaban",
+        "Antoine Yared",
+        "Hasani Freeman",
+        "Deragh Campbell"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.6,
+      "rating_count": 47516,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/8/5/3/1/798531-you-can-live-forever-0-230-0-345-crop.jpg?v=c6b70832e5",
+      "url": "https://letterboxd.com/film/you-can-live-forever/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "gia",
+      "title": "Gia",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Michael Cristofer"
+      ],
+      "actors": [
+        "Angelina Jolie",
+        "Elizabeth Mitchell",
+        "Eric Michael Cole",
+        "Kylie Travis",
+        "Louis Giambalvo",
+        "John Considine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.84,
+      "rating_count": 195602,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/0/1/8/43018-gia-0-230-0-345-crop.jpg?v=edd11ef917",
+      "url": "https://letterboxd.com/film/gia/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "vita-virginia",
+      "title": "Vita & Virginia",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Chanya Button"
+      ],
+      "actors": [
+        "Elizabeth Debicki",
+        "Gemma Arterton",
+        "Isabella Rossellini",
+        "Rupert Penry-Jones",
+        "Peter Ferdinando",
+        "Emerald Fennell"
+      ],
+      "countries": [
+        "Ireland",
+        "UK"
+      ],
+      "rating": 3.25,
+      "rating_count": 25113,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/9/2/9/7/379297-vita-virginia-0-230-0-345-crop.jpg?v=cebc62a0f3",
+      "url": "https://letterboxd.com/film/vita-virginia/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "water-lilies",
+      "title": "Water Lilies",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Céline Sciamma"
+      ],
+      "actors": [
+        "Pauline Acquart",
+        "Louise Blachère",
+        "Adèle Haenel",
+        "Warren Jacquin",
+        "Christel Baras",
+        "Marie Gili-Pierre"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.5,
+      "rating_count": 96239,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/8/6/6/45866-water-lilies-0-230-0-345-crop.jpg?v=9e76b9beac",
+      "url": "https://letterboxd.com/film/water-lilies/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-hours",
+      "title": "The Hours",
+      "year": "2002",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Stephen Daldry"
+      ],
+      "actors": [
+        "Julianne Moore",
+        "Nicole Kidman",
+        "Meryl Streep",
+        "Stephen Dillane",
+        "Miranda Richardson",
+        "Linda Bassett"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.86,
+      "rating_count": 132169,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/3/1/51531-the-hours-0-230-0-345-crop.jpg?v=7517ea94ce",
+      "url": "https://letterboxd.com/film/the-hours/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Naomi Watts",
+        "Laura Harring",
+        "Justin Theroux",
+        "Ann Miller",
+        "Mark Pellegrino",
+        "Robert Forster"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 4.26,
+      "rating_count": 1239687,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-230-0-345-crop.jpg?v=3d69c00608",
+      "url": "https://letterboxd.com/film/mulholland-drive/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "fingersmith",
+      "title": "Fingersmith",
+      "year": "2005",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Aisling Walsh"
+      ],
+      "actors": [
+        "Sally Hawkins",
+        "Elaine Cassidy",
+        "Rupert Evans",
+        "Charles Dance",
+        "Imelda Staunton",
+        "Polly Hemingway"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.74,
+      "rating_count": 6908,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/1/5/5/7/311557-fingersmith-0-230-0-345-crop.jpg?v=3dc9e77166",
+      "url": "https://letterboxd.com/film/fingersmith/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "atomic-blonde",
+      "title": "Atomic Blonde",
+      "year": "2017",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "David Leitch"
+      ],
+      "actors": [
+        "Charlize Theron",
+        "James McAvoy",
+        "Eddie Marsan",
+        "John Goodman",
+        "Toby Jones",
+        "James Faulkner"
+      ],
+      "countries": [
+        "Germany",
+        "Hungary",
+        "Sweden",
+        "USA"
+      ],
+      "rating": 3.29,
+      "rating_count": 274446,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/0/4/7/7/270477-atomic-blonde-0-230-0-345-crop.jpg?v=97fb76a7d4",
+      "url": "https://letterboxd.com/film/atomic-blonde/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "madchen-in-uniform",
+      "title": "Mädchen in Uniform",
+      "year": "1931",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Leontine Sagan",
+        "Carl Froelich"
+      ],
+      "actors": [
+        "Emilia Unda",
+        "Dorothea Wieck",
+        "Hedwig Schlichter",
+        "Hertha Thiele",
+        "Ellen Schwanneke",
+        "Annemarie von Rochhausen"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 3.89,
+      "rating_count": 19229,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/9/4/8/46948-madchen-in-uniform-0-230-0-345-crop.jpg?v=7c33be9432",
+      "url": "https://letterboxd.com/film/madchen-in-uniform/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "pariah",
+      "title": "Pariah",
+      "year": "2011",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Dee Rees"
+      ],
+      "actors": [
+        "Adepero Oduye",
+        "Pernell Walker",
+        "Aasha Davis",
+        "Charles Parnell",
+        "Sahra Mellesse",
+        "Kim Wayans"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.04,
+      "rating_count": 39003,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/3/2/8/60328-pariah-0-230-0-345-crop.jpg?v=d667d3dbe9",
+      "url": "https://letterboxd.com/film/pariah/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "all-over-me",
+      "title": "All Over Me",
+      "year": "1997",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Alex Sichel"
+      ],
+      "actors": [
+        "Alison Folland",
+        "Tara Subkoff",
+        "Cole Hauser",
+        "Wilson Cruz",
+        "Leisha Hailey",
+        "Shawn Hatosy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.43,
+      "rating_count": 5380,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/2/9/1/44291-all-over-me-0-230-0-345-crop.jpg?v=31ca6b01dc",
+      "url": "https://letterboxd.com/film/all-over-me/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-bitter-tears-of-petra-von-kant",
+      "title": "The Bitter Tears of Petra von Kant",
+      "year": "1972",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Rainer Werner Fassbinder"
+      ],
+      "actors": [
+        "Margit Carstensen",
+        "Hanna Schygulla",
+        "Katrin Schaake",
+        "Eva Mattes",
+        "Gisela Fackeldey",
+        "Irm Hermann"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 4.13,
+      "rating_count": 40007,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/9/46349-the-bitter-tears-of-petra-von-kant-0-230-0-345-crop.jpg?v=d9fc8d6de4",
+      "url": "https://letterboxd.com/film/the-bitter-tears-of-petra-von-kant/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "go-fish",
+      "title": "Go Fish",
+      "year": "1994",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Rose Troche"
+      ],
+      "actors": [
+        "Guinevere Turner",
+        "V.S. Brodie",
+        "T. Wendy McMillan",
+        "Migdalia Melendez",
+        "Anastasia Sharp",
+        "Brooke Webster"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 11195,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/2/1/0/40210-go-fish-0-230-0-345-crop.jpg?v=cfb3e1844a",
+      "url": "https://letterboxd.com/film/go-fish/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "better-than-chocolate",
+      "title": "Better Than Chocolate",
+      "year": "1999",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Anne Wheeler"
+      ],
+      "actors": [
+        "Karyn Dwyer",
+        "Christina Cox",
+        "Wendy Crewson",
+        "Ann-Marie MacDonald",
+        "Peter Outerbridge",
+        "Marya Delver"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.14,
+      "rating_count": 4838,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/5/0/2/40502-better-than-chocolate-0-230-0-345-crop.jpg?v=665d56b425",
+      "url": "https://letterboxd.com/film/better-than-chocolate/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "persona",
+      "title": "Persona",
+      "year": "1966",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "actors": [
+        "Bibi Andersson",
+        "Liv Ullmann",
+        "Margaretha Krook",
+        "Gunnar Björnstrand",
+        "Jörgen Lindström"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.38,
+      "rating_count": 427892,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/5/51355-persona-0-230-0-345-crop.jpg?v=aca1e0fd3d",
+      "url": "https://letterboxd.com/film/persona/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "lovesong-2016",
+      "title": "Lovesong",
+      "year": "2016",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "So Yong Kim"
+      ],
+      "actors": [
+        "Riley Keough",
+        "Jena Malone",
+        "Jessie Ok Gray",
+        "Sky Ok Gray",
+        "Brooklyn Decker",
+        "Amy Seimetz"
+      ],
+      "countries": [
+        "USA",
+        "Canada"
+      ],
+      "rating": 3.37,
+      "rating_count": 25783,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1q/xr/51/75/43yEeZbFeFOah9mZWIIJe57STKS-0-230-0-345-crop.jpg?v=854c7ef34b",
+      "url": "https://letterboxd.com/film/lovesong-2016/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-incredibly-true-adventure-of-two-girls-in-love",
+      "title": "The Incredibly True Adventure of Two Girls in Love",
+      "year": "1995",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Maria Maggenti"
+      ],
+      "actors": [
+        "Laurel Holloman",
+        "Nicole Ari Parker",
+        "Maggie Moore",
+        "Kate Stafford",
+        "Sabrina Artel",
+        "Toby Poser"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 40178,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/9/1/7/32917-the-incredibly-true-adventure-of-two-girls-in-love-0-230-0-345-crop.jpg?v=e5e0aa717b",
+      "url": "https://letterboxd.com/film/the-incredibly-true-adventure-of-two-girls-in-love/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "novitiate",
+      "title": "Novitiate",
+      "year": "2017",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Margaret Betts"
+      ],
+      "actors": [
+        "Margaret Qualley",
+        "Melissa Leo",
+        "Julianne Nicholson",
+        "Dianna Agron",
+        "Lisa Stewart",
+        "Morgan Saylor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.63,
+      "rating_count": 41150,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/6/1/1/6/346116-novitiate-0-230-0-345-crop.jpg?v=77f8630e28",
+      "url": "https://letterboxd.com/film/novitiate/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-fallout",
+      "title": "The Fallout",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Megan Park"
+      ],
+      "actors": [
+        "Jenna Ortega",
+        "Maddie Ziegler",
+        "Niles Fitch",
+        "Will Ropp",
+        "Lumi Pollack",
+        "John Ortiz"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.48,
+      "rating_count": 315869,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/1/7/8/713178-the-fallout-0-230-0-345-crop.jpg?v=07975833d7",
+      "url": "https://letterboxd.com/film/the-fallout/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "love-classified",
+      "title": "Love, Classified",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "TV Movie",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Stacey N. Harding"
+      ],
+      "actors": [
+        "Melora Hardin",
+        "Katherine McNamara",
+        "Max Lloyd-Jones",
+        "Arienne Mandi",
+        "Matthew Kevin Anderson",
+        "Baraka Rahmani"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.88,
+      "rating_count": 4941,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/4/5/1/2/844512-love-classified-0-230-0-345-crop.jpg?v=e6ee36cf01",
+      "url": "https://letterboxd.com/film/love-classified/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "crush-2022",
+      "title": "Crush",
+      "year": "2022",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Sammi Cohen"
+      ],
+      "actors": [
+        "Rowan Blanchard",
+        "Auliʻi Cravalho",
+        "Isabella Ferreira",
+        "Tyler Alvarez",
+        "Teala Dunn",
+        "Rico Paris"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.05,
+      "rating_count": 137214,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/4/4/5/4/774454-crush-0-230-0-345-crop.jpg?v=fc5422620b",
+      "url": "https://letterboxd.com/film/crush-2022/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "sweetheart-2021",
+      "title": "Sweetheart",
+      "year": "2021",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Marley Morrison"
+      ],
+      "actors": [
+        "Nell Barlow",
+        "Ella-Rae Smith",
+        "Jo Hartley",
+        "Sophia Di Martino",
+        "Samuel Anderson",
+        "Tabitha Byron"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.27,
+      "rating_count": 4831,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/4/3/8/0/704380-sweetheart-0-230-0-345-crop.jpg?v=b878ec3131",
+      "url": "https://letterboxd.com/film/sweetheart-2021/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "bottoms",
+      "title": "Bottoms",
+      "year": "2023",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Emma Seligman"
+      ],
+      "actors": [
+        "Rachel Sennott",
+        "Ayo Edebiri",
+        "Ruby Cruz",
+        "Havana Rose Liu",
+        "Kaia Gerber",
+        "Nicholas Galitzine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.8,
+      "rating_count": 1448111,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/1/2/2/2/731222-bottoms-0-230-0-345-crop.jpg?v=11b87368c8",
+      "url": "https://letterboxd.com/film/bottoms/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-feels",
+      "title": "The Feels",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Jenée LaMarque"
+      ],
+      "actors": [
+        "Constance Wu",
+        "Angela Trimbur",
+        "Josh Fadem",
+        "Ever Mainard",
+        "Káryyn",
+        "Lauren Parks"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.56,
+      "rating_count": 8037,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/9/4/4/390944-the-feels-0-230-0-345-crop.jpg?v=5fed4d28c6",
+      "url": "https://letterboxd.com/film/the-feels/",
+      "appears_in_n_lists": 4
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 53,
+      "Romance": 40,
+      "Comedy": 24,
+      "Thriller": 6,
+      "Crime": 4,
+      "Mystery": 3,
+      "Action": 2,
+      "History": 2,
+      "Horror": 1,
+      "Fantasy": 1,
+      "TV Movie": 1
+    },
+    "directors": {
+      "Alice Wu": 2,
+      "Céline Sciamma": 2,
+      "Angela Robinson": 2,
+      "Emma Seligman": 2,
+      "Jamie Babbit": 1,
+      "Lana Wachowski": 1,
+      "Lilly Wachowski": 1,
+      "Francis Lee": 1,
+      "Jessica Swale": 1,
+      "Todd Haynes": 1,
+      "Yorgos Lanthimos": 1,
+      "Cheryl Dunye": 1,
+      "Donna Deitch": 1,
+      "Lukas Moodysson": 1,
+      "Karyn Kusama": 1,
+      "Clea DuVall": 1,
+      "Olivia Wilde": 1,
+      "Joachim Trier": 1,
+      "Park Chan-wook": 1,
+      "Sebastián Lelio": 1
+    },
+    "years": {
+      "1931": 1,
+      "1961": 1,
+      "1966": 1,
+      "1972": 1,
+      "1985": 1,
+      "1994": 2,
+      "1995": 1,
+      "1996": 2,
+      "1997": 1,
+      "1998": 2,
+      "1999": 2,
+      "2001": 1,
+      "2002": 1,
+      "2004": 2,
+      "2005": 2,
+      "2007": 2,
+      "2009": 1,
+      "2011": 2,
+      "2015": 2,
+      "2016": 2,
+      "2017": 7,
+      "2018": 4,
+      "2019": 2,
+      "2020": 9,
+      "2021": 3,
+      "2022": 4,
+      "2023": 1
+    }
+  }
+}

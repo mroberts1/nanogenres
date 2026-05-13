@@ -1,0 +1,1904 @@
+{
+  "query": "chanbara",
+  "slug": "chanbara",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/mdhughes/list/chanbara/",
+      "user": "mdhughes",
+      "slug": "chanbara",
+      "title": "Chanbara",
+      "desc": "Asian sword fighting movies, including samurai movies and kung fu.",
+      "owner": "List by Mark Dagon Hughes",
+      "tags": [
+        "samurai",
+        "kung-fu"
+      ]
+    },
+    {
+      "href": "/foxnthearthouse/list/chanbara/",
+      "user": "foxnthearthouse",
+      "slug": "chanbara",
+      "title": "Chanbara",
+      "desc": "For those who dig katanas and firehoses for veins",
+      "owner": "List by Cam PATRON",
+      "tags": []
+    },
+    {
+      "href": "/lukishow/list/chanbara/",
+      "user": "lukishow",
+      "slug": "chanbara",
+      "title": "Chanbara",
+      "desc": "Lukishow is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Lukishow",
+      "tags": []
+    },
+    {
+      "href": "/granz/list/chanbara/",
+      "user": "granz",
+      "slug": "chanbara",
+      "title": "chanbara",
+      "desc": "filme de samurai japao feudal",
+      "owner": "List by nihil",
+      "tags": []
+    },
+    {
+      "href": "/paullc/list/chanbara/",
+      "user": "paullc",
+      "slug": "chanbara",
+      "title": "Chanbara",
+      "desc": "Le Chanbara est un sous-genre du cinéma japonais qui désigne les films de samouraïs. Ce genre est aussi appelé ken geki ( film de sabre) et est assimilé à un sous-ensemble du jidai-geki. Le jidai-geki désigne le film d'époque. Dans ces films, les acteurs sont très expressifs comme au théâtre voir même plus pour que leur sentiment soit absolument perspective. Le chanbara comme l'ensemble du cinéma japonais dérive du théâtre kabuki\nEn 1923, commence la guerre sino-japonaise. Le cinéma est mobilisé pour transmettre des valeurs nationalistes. Beaucoup de films dont le jidai-geki sont des films de propagandes. Les samouraï, figure d'un passé glorieux, permettent de montrer la puissance japonaise. Le chanbara naît donc en cette période au cinéma, même si… more",
+      "owner": "List by Paul Le Couedic",
+      "tags": []
+    },
+    {
+      "href": "/unknown_rebel/list/chanbara/",
+      "user": "unknown_rebel",
+      "slug": "chanbara",
+      "title": "CHANBARA!!",
+      "desc": "Some of my favorite Samurai films. Chan-chan bara-bara!",
+      "owner": "List by Berto PRO",
+      "tags": [
+        "profile",
+        "allstats",
+        "yir2024"
+      ]
+    },
+    {
+      "href": "/adammusprime/list/chanbara/",
+      "user": "adammusprime",
+      "slug": "chanbara",
+      "title": "Chanbara",
+      "desc": "AED is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by AED",
+      "tags": []
+    },
+    {
+      "href": "/tsuchigumo1369/list/chanbara/",
+      "user": "tsuchigumo1369",
+      "slug": "chanbara",
+      "title": "chanbara",
+      "desc": "tsuchigumo1369 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by tsuchigumo1369",
+      "tags": []
+    },
+    {
+      "href": "/josephmiller1/list/chanbara/",
+      "user": "josephmiller1",
+      "slug": "chanbara",
+      "title": "Chanbara",
+      "desc": "Joseph is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Joseph Miller PRO",
+      "tags": []
+    },
+    {
+      "href": "/cksarvis/list/chanbara/",
+      "user": "cksarvis",
+      "slug": "chanbara",
+      "title": "Chanbara",
+      "desc": "From Paste",
+      "owner": "List by cksarvis",
+      "tags": [
+        "primer"
+      ]
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 148,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "seven-samurai",
+      "title": "Seven Samurai",
+      "year": "1954",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Takashi Shimura",
+        "Yoshio Inaba",
+        "Seiji Miyaguchi",
+        "Minoru Chiaki",
+        "Daisuke Katō"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.6,
+      "rating_count": 431709,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-230-0-345-crop.jpg?v=973d70bb0c",
+      "url": "https://letterboxd.com/film/seven-samurai/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "yojimbo",
+      "title": "Yojimbo",
+      "year": "1961",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Tatsuya Nakadai",
+        "Yōko Tsukasa",
+        "Isuzu Yamada",
+        "Daisuke Katō",
+        "Seizaburō Kawazu"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.3,
+      "rating_count": 182214,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nw/l2/zw/wy/tN7kYPjRhDolpui9sc9Eq9n5b2O-0-230-0-345-crop.jpg?v=5cea1d49c1",
+      "url": "https://letterboxd.com/film/yojimbo/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "sanjuro",
+      "title": "Sanjuro",
+      "year": "1962",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Tatsuya Nakadai",
+        "Keiju Kobayashi",
+        "Yūzō Kayama",
+        "Reiko Dan",
+        "Takashi Shimura"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.15,
+      "rating_count": 67682,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/51/v9/nm/f3/zW47oIH3bc3ggmmmzTvKqM4Fqjk-0-230-0-345-crop.jpg?v=09ff6e7489",
+      "url": "https://letterboxd.com/film/sanjuro/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "the-sword-of-doom",
+      "title": "The Sword of Doom",
+      "year": "1966",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Kihachi Okamoto"
+      ],
+      "actors": [
+        "Tatsuya Nakadai",
+        "Yūzō Kayama",
+        "Michiyo Aratama",
+        "Yōko Naitō",
+        "Toshirō Mifune",
+        "Tadao Nakamaru"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.15,
+      "rating_count": 26974,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/6/3/39363-the-sword-of-doom-0-230-0-345-crop.jpg?v=97b875d3c7",
+      "url": "https://letterboxd.com/film/the-sword-of-doom/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "kagemusha",
+      "title": "Kagemusha",
+      "year": "1980",
+      "genres": [
+        "Action",
+        "Drama",
+        "War",
+        "History"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Tatsuya Nakadai",
+        "Tsutomu Yamazaki",
+        "Kenichi Hagiwara",
+        "Jinpachi Nezu",
+        "Hideji Ōtaki",
+        "Daisuke Ryū"
+      ],
+      "countries": [
+        "Japan",
+        "USA"
+      ],
+      "rating": 4.23,
+      "rating_count": 48325,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/8/5/5/44855-kagemusha-0-230-0-345-crop.jpg?v=b2e8131ad7",
+      "url": "https://letterboxd.com/film/kagemusha/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "ran",
+      "title": "Ran",
+      "year": "1985",
+      "genres": [
+        "Drama",
+        "History",
+        "Action"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Tatsuya Nakadai",
+        "Akira Terao",
+        "Jinpachi Nezu",
+        "Daisuke Ryū",
+        "Mieko Harada",
+        "Yoshiko Miyazaki"
+      ],
+      "countries": [
+        "Japan",
+        "France"
+      ],
+      "rating": 4.51,
+      "rating_count": 254109,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h6/yo/p7/1t/ran-0-230-0-345-crop.jpg?v=3cabb176dc",
+      "url": "https://letterboxd.com/film/ran/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "samurai-i-musashi-miyamoto",
+      "title": "Samurai I: Musashi Miyamoto",
+      "year": "1954",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Hiroshi Inagaki"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Rentaro Mikuni",
+        "Mariko Okada",
+        "Kurôemon Onoe",
+        "Kaoru Yachigusa",
+        "Mitsuko Mito"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.66,
+      "rating_count": 16563,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ku/19/en/hr/nTiMuUBqBLSddcr4h2OIqNHZD0v-0-230-0-345-crop.jpg?v=f60f88a15c",
+      "url": "https://letterboxd.com/film/samurai-i-musashi-miyamoto/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "harakiri",
+      "title": "Harakiri",
+      "year": "1962",
+      "genres": [
+        "History",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Masaki Kobayashi"
+      ],
+      "actors": [
+        "Tatsuya Nakadai",
+        "Akira Ishihama",
+        "Shima Iwashita",
+        "Tetsuro Tamba",
+        "Masao Mishima",
+        "Ichirō Nakatani"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.68,
+      "rating_count": 228741,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/0/1/5/43015-harakiri-0-230-0-345-crop.jpg?v=007080a0fb",
+      "url": "https://letterboxd.com/film/harakiri/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "lady-snowblood",
+      "title": "Lady Snowblood",
+      "year": "1973",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Toshiya Fujita"
+      ],
+      "actors": [
+        "Meiko Kaji",
+        "Toshio Kurosawa",
+        "Masaaki Daimon",
+        "Miyoko Akaza",
+        "Shinichi Uchida",
+        "Takeo Chii"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.12,
+      "rating_count": 81985,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/00/ge/nk/ra/8Xotz4QPphcfPOA2v4n9CemDAYB-0-230-0-345-crop.jpg?v=745235378a",
+      "url": "https://letterboxd.com/film/lady-snowblood/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "13-assassins",
+      "title": "13 Assassins",
+      "year": "2010",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Takashi Miike"
+      ],
+      "actors": [
+        "Koji Yakusho",
+        "Takayuki Yamada",
+        "Yūsuke Iseya",
+        "Goro Inagaki",
+        "Kazue Fukiishi",
+        "Hiroki Matsukata"
+      ],
+      "countries": [
+        "Japan",
+        "UK"
+      ],
+      "rating": 3.9,
+      "rating_count": 59192,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ba/x2/f6/w9/7Vr1c98X9JaKW6K95Xm6KBqiqDg-0-230-0-345-crop.jpg?v=4ce094c573",
+      "url": "https://letterboxd.com/film/13-assassins/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "throne-of-blood",
+      "title": "Throne of Blood",
+      "year": "1957",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Isuzu Yamada",
+        "Takashi Shimura",
+        "Akira Kubo",
+        "Hiroshi Tachikawa",
+        "Minoru Chiaki"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.27,
+      "rating_count": 117812,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/9z/yq/4e/n4/g6y36s0ZFFjnpEtLG9yHAHBhEbW-0-230-0-345-crop.jpg?v=4fb0cdc4cb",
+      "url": "https://letterboxd.com/film/throne-of-blood/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "samurai-ii-duel-at-ichijoji-temple",
+      "title": "Samurai II: Duel at Ichijoji Temple",
+      "year": "1955",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Hiroshi Inagaki"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Koji Tsuruta",
+        "Kaoru Yachigusa",
+        "Mariko Okada",
+        "Michiyo Kogure",
+        "Akihiko Hirata"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.68,
+      "rating_count": 11054,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/w4/vl/ao/f1/mc0QbCoU6RDiLgW34aJmbUxISbG-0-230-0-345-crop.jpg?v=800a127443",
+      "url": "https://letterboxd.com/film/samurai-ii-duel-at-ichijoji-temple/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "samurai-iii-duel-at-ganryu-island",
+      "title": "Samurai III: Duel at Ganryu Island",
+      "year": "1956",
+      "genres": [
+        "Romance",
+        "Action",
+        "History",
+        "Drama",
+        "Adventure"
+      ],
+      "directors": [
+        "Hiroshi Inagaki"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Koji Tsuruta",
+        "Kaoru Yachigusa",
+        "Mariko Okada",
+        "Kurôemon Onoe",
+        "Michiko Saga"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.77,
+      "rating_count": 9747,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7c/ws/cs/c1/gRDpQaelCAOAH2vDPxmXih1SHeB-0-230-0-345-crop.jpg?v=cb6161cbad",
+      "url": "https://letterboxd.com/film/samurai-iii-duel-at-ganryu-island/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "lone-wolf-and-cub-sword-of-vengeance",
+      "title": "Lone Wolf and Cub: Sword of Vengeance",
+      "year": "1972",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Tomisaburō Wakayama",
+        "Fumio Watanabe",
+        "Tomoko Mayama",
+        "Shigeru Tsuyuguchi",
+        "Asao Uchida",
+        "Taketoshi Naitō"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.8,
+      "rating_count": 20879,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/5/6/1/23561-lone-wolf-and-cub-sword-of-vengeance-0-230-0-345-crop.jpg?v=97e7d8f281",
+      "url": "https://letterboxd.com/film/lone-wolf-and-cub-sword-of-vengeance/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "lone-wolf-and-cub-baby-cart-at-the-river-styx",
+      "title": "Lone Wolf and Cub: Baby Cart at the River Styx",
+      "year": "1972",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Tomisaburō Wakayama",
+        "Kayo Matsuo",
+        "Minoru Ōki",
+        "Akiji Kobayashi",
+        "Shin Kishida",
+        "Shogen Nitta"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.01,
+      "rating_count": 14600,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/7/6/4/40764-lone-wolf-and-cub-baby-cart-at-the-river-styx-0-230-0-345-crop.jpg?v=10fc57f3ef",
+      "url": "https://letterboxd.com/film/lone-wolf-and-cub-baby-cart-at-the-river-styx/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "lone-wolf-and-cub-baby-cart-to-hades",
+      "title": "Lone Wolf and Cub: Baby Cart to Hades",
+      "year": "1972",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Tomisaburō Wakayama",
+        "Gō Katō",
+        "Yūko Hamada",
+        "Isao Yamagata",
+        "Michitarō Mizushima",
+        "Ichirō Nakatani"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.75,
+      "rating_count": 10630,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/5/5/9/23559-lone-wolf-and-cub-baby-cart-to-hades-0-230-0-345-crop.jpg?v=ffa7592b77",
+      "url": "https://letterboxd.com/film/lone-wolf-and-cub-baby-cart-to-hades/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-hidden-fortress",
+      "title": "The Hidden Fortress",
+      "year": "1958",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Minoru Chiaki",
+        "Kamatari Fujiwara",
+        "Misa Uehara",
+        "Susumu Fujita",
+        "Takashi Shimura"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.15,
+      "rating_count": 68617,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/6/1/51161-the-hidden-fortress-0-230-0-345-crop.jpg?v=5a612cfff9",
+      "url": "https://letterboxd.com/film/the-hidden-fortress/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "samurai-rebellion",
+      "title": "Samurai Rebellion",
+      "year": "1967",
+      "genres": [
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Masaki Kobayashi"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Yōko Tsukasa",
+        "Gō Katō",
+        "Tatsuyoshi Ehara",
+        "Etsuko Ichihara",
+        "Isao Yamagata"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.3,
+      "rating_count": 23250,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/8/8/55888-samurai-rebellion-0-230-0-345-crop.jpg?v=ca73526643",
+      "url": "https://letterboxd.com/film/samurai-rebellion/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "goyokin",
+      "title": "Goyokin",
+      "year": "1969",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Hideo Gosha"
+      ],
+      "actors": [
+        "Tatsuya Nakadai",
+        "Tetsuro Tamba",
+        "Yōko Tsukasa",
+        "Kinnosuke Nakamura",
+        "Ruriko Asaoka",
+        "Kunie Tanaka"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.97,
+      "rating_count": 3757,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/4/3/16243-goyokin-0-230-0-345-crop.jpg?v=ee27135c95",
+      "url": "https://letterboxd.com/film/goyokin/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "three-outlaw-samurai",
+      "title": "Three Outlaw Samurai",
+      "year": "1964",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Hideo Gosha"
+      ],
+      "actors": [
+        "Tetsuro Tamba",
+        "Isamu Nagato",
+        "Mikijiro Hira",
+        "Miyuki Kuwano",
+        "Yoshiko Kayama",
+        "Yōko Mihara"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.92,
+      "rating_count": 8678,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/4/8/7448-three-outlaw-samurai-0-230-0-345-crop.jpg?v=a249949737",
+      "url": "https://letterboxd.com/film/three-outlaw-samurai/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "rashomon",
+      "title": "Rashomon",
+      "year": "1950",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Machiko Kyō",
+        "Takashi Shimura",
+        "Masayuki Mori",
+        "Minoru Chiaki",
+        "Kichijirō Ueda"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.2,
+      "rating_count": 289450,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/0/51570-rashomon-0-230-0-345-crop.jpg?v=f8eb7c45da",
+      "url": "https://letterboxd.com/film/rashomon/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-tale-of-zatoichi",
+      "title": "The Tale of Zatoichi",
+      "year": "1962",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Masayo Banri",
+        "Ryūzō Shimada",
+        "Hajime Mitamura",
+        "Shigeru Amachi",
+        "Michirō Minami"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.87,
+      "rating_count": 11952,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zg/zo/xu/hm/9KG8BHXfj0hyQm005vSMr5Co1iW-0-230-0-345-crop.jpg?v=ab192355a5",
+      "url": "https://letterboxd.com/film/the-tale-of-zatoichi/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-twilight-samurai",
+      "title": "The Twilight Samurai",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Yoji Yamada"
+      ],
+      "actors": [
+        "Hiroyuki Sanada",
+        "Rie Miyazawa",
+        "Nenji Kobayashi",
+        "Mitsuru Fukikoshi",
+        "Min Tanaka",
+        "Ren Osugi"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.12,
+      "rating_count": 12947,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/5/3/9/44539-the-twilight-samurai-0-230-0-345-crop.jpg?v=67150f8498",
+      "url": "https://letterboxd.com/film/the-twilight-samurai/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "sword-of-the-beast",
+      "title": "Sword of the Beast",
+      "year": "1965",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Hideo Gosha"
+      ],
+      "actors": [
+        "Mikijiro Hira",
+        "Gō Katō",
+        "Shima Iwashita",
+        "Kunie Tanaka",
+        "Eijirō Tōno",
+        "Toshie Kimura"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.77,
+      "rating_count": 3709,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/4/4/9/18449-sword-of-the-beast-0-230-0-345-crop.jpg?v=9fd1d04a1b",
+      "url": "https://letterboxd.com/film/sword-of-the-beast/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "lady-snowblood-2-love-song-of-vengeance",
+      "title": "Lady Snowblood 2: Love Song of Vengeance",
+      "year": "1974",
+      "genres": [
+        "Action",
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Toshiya Fujita"
+      ],
+      "actors": [
+        "Meiko Kaji",
+        "Yoshio Harada",
+        "Kazuko Yoshiyuki",
+        "Shin Kishida",
+        "Kōji Nanbara",
+        "Rinichi Yamamoto"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.32,
+      "rating_count": 13337,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/0/7/9/40079-lady-snowblood-2-love-song-of-vengeance-0-230-0-345-crop.jpg?v=c261119179",
+      "url": "https://letterboxd.com/film/lady-snowblood-2-love-song-of-vengeance/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "lone-wolf-and-cub-baby-cart-in-the-land-of-demons",
+      "title": "Lone Wolf and Cub: Baby Cart in the Land of Demons",
+      "year": "1973",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Adventure"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Tomisaburō Wakayama",
+        "Michiyo Yasuda",
+        "Akihiro Tomikawa",
+        "Shingo Yamashiro",
+        "Tomomi Satō",
+        "Akira Yamanouchi"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.73,
+      "rating_count": 8276,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/5/5/2/23552-lone-wolf-and-cub-baby-cart-in-the-land-of-demons-0-230-0-345-crop.jpg?v=220cfcde1f",
+      "url": "https://letterboxd.com/film/lone-wolf-and-cub-baby-cart-in-the-land-of-demons/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "kwaidan",
+      "title": "Kwaidan",
+      "year": "1964",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Masaki Kobayashi"
+      ],
+      "actors": [
+        "Michiyo Aratama",
+        "Rentaro Mikuni",
+        "Misako Watanabe",
+        "Kenjirō Ishiyama",
+        "Ranko Akagi",
+        "Fumie Kitahara"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.24,
+      "rating_count": 60825,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hx/mh/nt/mz/kwaidan-0-230-0-345-crop.jpg?v=02c4c5b569",
+      "url": "https://letterboxd.com/film/kwaidan/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "sansho-the-bailiff",
+      "title": "Sansho the Bailiff",
+      "year": "1954",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Kenji Mizoguchi"
+      ],
+      "actors": [
+        "Kinuyo Tanaka",
+        "Yoshiaki Hanayagi",
+        "Kyōko Kagawa",
+        "Eitarō Shindō",
+        "Ichirō Sugai",
+        "Bontarō Miake"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.43,
+      "rating_count": 39188,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h6/kr/f7/cc/deBjt3LT3UQHRXiNX1fu28lAtK6-0-230-0-345-crop.jpg?v=c63170bd46",
+      "url": "https://letterboxd.com/film/sansho-the-bailiff/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "hanzo-the-razor-sword-of-justice",
+      "title": "Hanzo the Razor: Sword of Justice",
+      "year": "1972",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Yukiji Asaoka",
+        "Mari Atsumi",
+        "Kō Nishimura",
+        "Akira Yamanouchi",
+        "Kamatari Fujiwara"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.1,
+      "rating_count": 2965,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/2/1/3/41213-hanzo-the-razor-sword-of-justice-0-230-0-345-crop.jpg?v=e402db1f4d",
+      "url": "https://letterboxd.com/film/hanzo-the-razor-sword-of-justice/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "samurai-wolf",
+      "title": "Samurai Wolf",
+      "year": "1966",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Hideo Gosha"
+      ],
+      "actors": [
+        "Isao Natsuyagi",
+        "Ryōhei Uchida",
+        "Toyoko Takechi",
+        "Junko Miyazono",
+        "Tatsuo Endō",
+        "Yoshirō Aoki"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.66,
+      "rating_count": 2016,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/4/8484-samurai-wolf-0-230-0-345-crop.jpg?v=c9ac41d685",
+      "url": "https://letterboxd.com/film/samurai-wolf/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "samaritan-zatoichi",
+      "title": "Samaritan Zatoichi",
+      "year": "1968",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Yoshiko Mita",
+        "Makoto Satō",
+        "Kō Nishimura",
+        "Takuya Fujioka",
+        "Chōchō Miyako"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.54,
+      "rating_count": 1742,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/9/1/11791-samaritan-zatoichi-0-230-0-345-crop.jpg?v=d97671557b",
+      "url": "https://letterboxd.com/film/samaritan-zatoichi/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "zatoichi",
+      "title": "Zatoichi",
+      "year": "2003",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Takeshi Kitano"
+      ],
+      "actors": [
+        "Takeshi Kitano",
+        "Tadanobu Asano",
+        "Michiyo Yasuda",
+        "Yui Natsukawa",
+        "Guadalcanal Taka",
+        "Daigorô Tachibana"
+      ],
+      "countries": [
+        "Japan",
+        "France"
+      ],
+      "rating": 3.68,
+      "rating_count": 27819,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/0/51810-zatoichi-the-blind-swordsman-0-230-0-345-crop.jpg?v=26addef30f",
+      "url": "https://letterboxd.com/film/zatoichi/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "zatoichi-and-the-chest-of-gold",
+      "title": "Zatoichi and the Chest of Gold",
+      "year": "1964",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Kazuo Ikehiro"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Shōgo Shimada",
+        "Mikiko Tsubouchi",
+        "Machiko Hasegawa",
+        "Tomisaburō Wakayama",
+        "Tatsuya Ishiguro"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.77,
+      "rating_count": 3380,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/0/9/4/24094-zatoichi-and-the-chest-of-gold-0-230-0-345-crop.jpg?v=b1daf1045f",
+      "url": "https://letterboxd.com/film/zatoichi-and-the-chest-of-gold/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "red-beard",
+      "title": "Red Beard",
+      "year": "1965",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Yūzō Kayama",
+        "Tsutomu Yamazaki",
+        "Reiko Dan",
+        "Miyuki Kuwano",
+        "Kyōko Kagawa"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.41,
+      "rating_count": 34654,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/5/9/6/49596-red-beard-0-230-0-345-crop.jpg?v=7af28735a1",
+      "url": "https://letterboxd.com/film/red-beard/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "kill-1968",
+      "title": "Kill!",
+      "year": "1968",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "directors": [
+        "Kihachi Okamoto"
+      ],
+      "actors": [
+        "Tatsuya Nakadai",
+        "Etsushi Takahashi",
+        "Yuriko Hoshi",
+        "Tadao Nakamaru",
+        "Akira Kubo",
+        "Shigeru Kōyama"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.78,
+      "rating_count": 4283,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/6/1/3/25613-kill--0-230-0-345-crop.jpg?v=5048ab0400",
+      "url": "https://letterboxd.com/film/kill-1968/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "lone-wolf-and-cub-baby-cart-in-peril",
+      "title": "Lone Wolf and Cub: Baby Cart in Peril",
+      "year": "1972",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+      ],
+      "directors": [
+        "Buichi Saitō"
+      ],
+      "actors": [
+        "Tomisaburō Wakayama",
+        "Yoichi Hayashi",
+        "Michi Azuma",
+        "Akihiro Tomikawa",
+        "Asao Koike",
+        "Hiroshi Tanaka"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.76,
+      "rating_count": 9104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/5/5/7/23557-lone-wolf-and-cub-baby-cart-in-peril-0-230-0-345-crop.jpg?v=8aa68d5876",
+      "url": "https://letterboxd.com/film/lone-wolf-and-cub-baby-cart-in-peril/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "zatoichi-goes-to-the-fire-festival",
+      "title": "Zatoichi Goes to the Fire Festival",
+      "year": "1970",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Tatsuya Nakadai",
+        "Reiko Ōhara",
+        "Masayuki Mori",
+        "Shinnosuke Ikehata",
+        "Kazuko Yoshiyuki"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.76,
+      "rating_count": 2175,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/9/0/11790-zatoichi-goes-to-the-fire-festival-0-230-0-345-crop.jpg?v=61648dbcf7",
+      "url": "https://letterboxd.com/film/zatoichi-goes-to-the-fire-festival/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "shogun-assassin",
+      "title": "Shogun Assassin",
+      "year": "1980",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Robert Houston",
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Tomisaburō Wakayama",
+        "Akihiro Tomikawa",
+        "Kayo Matsuo",
+        "Minoru Ōki",
+        "Shin Kishida",
+        "Shogen Nitta"
+      ],
+      "countries": [
+        "Japan",
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 15561,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/5/8/2/42582-shogun-assassin-0-230-0-345-crop.jpg?v=d85e7db5bf",
+      "url": "https://letterboxd.com/film/shogun-assassin/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "hanzo-the-razor-the-snare",
+      "title": "Hanzo the Razor: The Snare",
+      "year": "1973",
+      "genres": [
+        "Drama",
+        "Action",
+        "History"
+      ],
+      "directors": [
+        "Yasuzō Masumura"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Toshio Kurosawa",
+        "Kō Nishimura",
+        "Kei Satō",
+        "Kazuko Inano",
+        "Keizo Kanie"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.33,
+      "rating_count": 1444,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/1/9/4/41194-hanzo-the-razor-the-snare-0-230-0-345-crop.jpg?v=cead6a0a83",
+      "url": "https://letterboxd.com/film/hanzo-the-razor-the-snare/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hanzo-the-razor-whos-got-the-gold",
+      "title": "Hanzo the Razor: Who's Got the Gold?",
+      "year": "1974",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Yoshio Inoue"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Kō Nishimura",
+        "Mako Midori",
+        "Mikio Narita",
+        "Etsushi Takahashi",
+        "Daigo Kusano"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.21,
+      "rating_count": 995,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/1/9/3/41193-hanzo-the-razor-who-s-got-the-gold--0-230-0-345-crop.jpg?v=2331975b44",
+      "url": "https://letterboxd.com/film/hanzo-the-razor-whos-got-the-gold/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "tenchu",
+      "title": "Tenchu!",
+      "year": "1969",
+      "genres": [
+        "History",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Hideo Gosha"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Tatsuya Nakadai",
+        "Yukio Mishima",
+        "Yūjirō Ishihara",
+        "Mitsuko Baisho",
+        "Takumi Shinjo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.85,
+      "rating_count": 1222,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/3/6/2/27362-tenchu--0-230-0-345-crop.jpg?v=f8c0852939",
+      "url": "https://letterboxd.com/film/tenchu/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-47-ronin",
+      "title": "The 47 Ronin",
+      "year": "1941",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Kenji Mizoguchi"
+      ],
+      "actors": [
+        "Chōjūrō Kawarasaki",
+        "Kan'emon Nakamura",
+        "Kunitarō Kawarasaki",
+        "Chōemon Bandō",
+        "Kikunojo Segawa",
+        "Utaemon Ichikawa"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.83,
+      "rating_count": 5017,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/3/1/6/19316-the-47-ronin-0-230-0-345-crop.jpg?v=342cdf0425",
+      "url": "https://letterboxd.com/film/the-47-ronin/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "onibaba",
+      "title": "Onibaba",
+      "year": "1964",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Kaneto Shindō"
+      ],
+      "actors": [
+        "Nobuko Otowa",
+        "Jitsuko Yoshimura",
+        "Kei Satō",
+        "Jūkichi Uno",
+        "Taiji Tonoyama",
+        "Someshō Matsumoto"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.07,
+      "rating_count": 93125,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3x/qu/ti/2g/nITg6iRWo3CVWJEnhV4AiD3ukfx-0-230-0-345-crop.jpg?v=d394e337a5",
+      "url": "https://letterboxd.com/film/onibaba/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "destinys-son",
+      "title": "Destiny's Son",
+      "year": "1962",
+      "genres": [
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Raizō Ichikawa",
+        "Mayumi Nagisa",
+        "Masayo Banri",
+        "Shigeru Amachi",
+        "Jun'ichirō Narita",
+        "Eijirō Yanagi"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.62,
+      "rating_count": 2756,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/0/6/1/59061-destinys-son-0-230-0-345-crop.jpg?v=8aaaf4ffa2",
+      "url": "https://letterboxd.com/film/destinys-son/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "sword-devil",
+      "title": "Sword Devil",
+      "year": "1965",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Raizō Ichikawa",
+        "Michiko Sugata",
+        "Kei Satō",
+        "Ryūtarō Gomi",
+        "Gorō Mutsumi",
+        "Kentaro Kudo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.69,
+      "rating_count": 1383,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/9/2/1/79921-sword-devil-0-230-0-345-crop.jpg?v=461777dcf9",
+      "url": "https://letterboxd.com/film/sword-devil/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "ken",
+      "title": "Ken",
+      "year": "1964",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Raizō Ichikawa",
+        "Yukiko Fuji",
+        "Yūsuke Kawazu",
+        "Akio Hasegawa",
+        "Akitake Kōno",
+        "Yuka Konno"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.73,
+      "rating_count": 1560,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/9/2/4/64924-ken-0-230-0-345-crop.jpg?v=59a0af9587",
+      "url": "https://letterboxd.com/film/ken/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "after-the-rain",
+      "title": "After the Rain",
+      "year": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Takashi Koizumi"
+      ],
+      "actors": [
+        "Akira Terao",
+        "Yoshiko Miyazaki",
+        "Shirō Mifune",
+        "Hisashi Igawa",
+        "Hidetaka Yoshioka",
+        "Tatsuya Nakadai"
+      ],
+      "countries": [
+        "France",
+        "Japan"
+      ],
+      "rating": 3.8,
+      "rating_count": 2374,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/4/5/8/42458-after-the-rain-0-230-0-345-crop.jpg?v=8086f079d0",
+      "url": "https://letterboxd.com/film/after-the-rain/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "love-and-honor",
+      "title": "Love and Honor",
+      "year": "2006",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Yoji Yamada"
+      ],
+      "actors": [
+        "Takuya Kimura",
+        "Rei Dan",
+        "Takashi Sasano",
+        "Kaori Momoi",
+        "Nenji Kobayashi",
+        "Ken Ogata"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.88,
+      "rating_count": 2056,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/5/6/38956-love-and-honor-0-230-0-345-crop.jpg?v=2ef644af1b",
+      "url": "https://letterboxd.com/film/love-and-honor/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bohachi-bushido-code-of-the-forgotten-eight",
+      "title": "Bohachi Bushido: Code of the Forgotten Eight",
+      "year": "1973",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "Teruo Ishii"
+      ],
+      "actors": [
+        "Tetsuro Tamba",
+        "Tatsuo Endō",
+        "Ryōhei Uchida",
+        "Kyōichi Satō",
+        "Yuriko Hishimi",
+        "Rena Ichinose"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.62,
+      "rating_count": 1399,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/2/8/7/75287-bohachi-bushido-code-of-the-forgotten-eight-0-230-0-345-crop.jpg?v=226c3a6c4d",
+      "url": "https://letterboxd.com/film/bohachi-bushido-code-of-the-forgotten-eight/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-tale-of-zatoichi-continues",
+      "title": "The Tale of Zatoichi Continues",
+      "year": "1962",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Kazuo Mori"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Yoshie Mizutani",
+        "Masayo Banri",
+        "Tomisaburō Wakayama",
+        "Yutaka Nakamura",
+        "Sonosuke Sawamura"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.59,
+      "rating_count": 5795,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/4/3/0/41430-the-tale-of-zatoichi-continues-0-230-0-345-crop.jpg?v=a6cf22e351",
+      "url": "https://letterboxd.com/film/the-tale-of-zatoichi-continues/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "new-tale-of-zatoichi",
+      "title": "New Tale of Zatoichi",
+      "year": "1963",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Tokuzō Tanaka"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Mikiko Tsubouchi",
+        "Seizaburō Kawazu",
+        "Fujio Suga",
+        "Mieko Kondō",
+        "Tatsuo Endō"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.64,
+      "rating_count": 4589,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/2/9/3/40293-new-tale-of-zatoichi-0-230-0-345-crop.jpg?v=2c75f85178",
+      "url": "https://letterboxd.com/film/new-tale-of-zatoichi/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "zatoichi-the-fugitive",
+      "title": "Zatoichi the Fugitive",
+      "year": "1963",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Tokuzō Tanaka"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Miwa Takada",
+        "Masayo Banri",
+        "Katsuhiko Kobayashi",
+        "Jun'ichirō Narita",
+        "Tōru Abe"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.59,
+      "rating_count": 3842,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/2/9/2/40292-zatoichi-the-fugitive-0-230-0-345-crop.jpg?v=fd934599c6",
+      "url": "https://letterboxd.com/film/zatoichi-the-fugitive/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "zatoichi-on-the-road",
+      "title": "Zatoichi on the Road",
+      "year": "1963",
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Adventure"
+      ],
+      "directors": [
+        "Kimiyoshi Yasuda"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Shiho Fujimura",
+        "Ryūzō Shimada",
+        "Reiko Fujiwara",
+        "Matasaburô Niwa",
+        "Yoshio Yoshida"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.5,
+      "rating_count": 3346,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/2/0/8/40208-zatoichi-on-the-road-0-230-0-345-crop.jpg?v=ff38e5c060",
+      "url": "https://letterboxd.com/film/zatoichi-on-the-road/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "zatoichi-and-the-chess-expert",
+      "title": "Zatoichi and the Chess Expert",
+      "year": "1965",
+      "genres": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Mikio Narita",
+        "Kaneko Iwasaki",
+        "Gaku Yamamoto",
+        "Saburo Date",
+        "Tatsuo Endō"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.58,
+      "rating_count": 2212,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/9/7/11797-zatoichi-and-the-chess-expert-0-230-0-345-crop.jpg?v=d94a74e0ee",
+      "url": "https://letterboxd.com/film/zatoichi-and-the-chess-expert/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "zatoichi-challenged",
+      "title": "Zatoichi Challenged",
+      "year": "1967",
+      "genres": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ],
+      "directors": [
+        "Kenji Misumi"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Jūshirō Konoe",
+        "Miwa Takada",
+        "Yukiji Asaoka",
+        "Mikiko Tsubouchi",
+        "Mie Nakao"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.62,
+      "rating_count": 1979,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/9/3/11793-zatoichi-challenged-0-230-0-345-crop.jpg?v=c6ef793820",
+      "url": "https://letterboxd.com/film/zatoichi-challenged/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "zatoichis-cane-sword",
+      "title": "Zatoichi's Cane Sword",
+      "year": "1967",
+      "genres": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ],
+      "directors": [
+        "Kimiyoshi Yasuda"
+      ],
+      "actors": [
+        "Shintarō Katsu",
+        "Shiho Fujimura",
+        "Yoshihiko Aoyama",
+        "Makoto Fujita",
+        "Kiyoko Suizenji",
+        "Eijirō Tōno"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.6,
+      "rating_count": 1873,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/9/5/11795-zatoichi-s-cane-sword-0-230-0-345-crop.jpg?v=8f6c468259",
+      "url": "https://letterboxd.com/film/zatoichis-cane-sword/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bloody-spear-at-mount-fuji",
+      "title": "Bloody Spear at Mount Fuji",
+      "year": "1955",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Tomu Uchida"
+      ],
+      "actors": [
+        "Chiezo Kataoka",
+        "Daisuke Katō",
+        "Eijirō Kataoka",
+        "Motoharu Ueki",
+        "Chie Ueki",
+        "Ryūnosuke Tsukigata"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.78,
+      "rating_count": 2135,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/7/6/4/77764-bloody-spear-at-mount-fuji-0-230-0-345-crop.jpg?v=ecaee2fcc1",
+      "url": "https://letterboxd.com/film/bloody-spear-at-mount-fuji/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "samurai-saga",
+      "title": "Samurai Saga",
+      "year": "1959",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Hiroshi Inagaki"
+      ],
+      "actors": [
+        "Toshirō Mifune",
+        "Yōko Tsukasa",
+        "Akira Takarada",
+        "Keiko Awaji",
+        "Seizaburō Kawazu",
+        "Kamatari Fujiwara"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.56,
+      "rating_count": 542,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/8/4/7/134847-samurai-saga-0-230-0-345-crop.jpg?v=c0bfcb7f3b",
+      "url": "https://letterboxd.com/film/samurai-saga/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "chushingura-1962",
+      "title": "Chûshingura",
+      "year": "1962",
+      "genres": [
+        "History",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Hiroshi Inagaki"
+      ],
+      "actors": [
+        "Matsumoto Hakuō I",
+        "Toshirō Mifune",
+        "Takashi Shimura",
+        "Tatsuya Mihashi",
+        "Yūzō Kayama",
+        "Akira Takarada"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.65,
+      "rating_count": 1004,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/5/2/8/20528-47-ronin-0-230-0-345-crop.jpg?v=8f1680448e",
+      "url": "https://letterboxd.com/film/chushingura-1962/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "assassination-1964",
+      "title": "Assassination",
+      "year": "1964",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Masahiro Shinoda"
+      ],
+      "actors": [
+        "Tetsuro Tamba",
+        "Eiji Okada",
+        "Eitarō Ozawa",
+        "Isao Kimura",
+        "Shima Iwashita",
+        "Keiji Sada"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.69,
+      "rating_count": 1619,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/7/2/9/74729-assassination-0-230-0-345-crop.jpg?v=39a9bf4304",
+      "url": "https://letterboxd.com/film/assassination-1964/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 54,
+      "Action": 46,
+      "Adventure": 25,
+      "History": 12,
+      "Thriller": 7,
+      "Crime": 4,
+      "Romance": 3,
+      "Comedy": 2,
+      "Horror": 2,
+      "War": 1,
+      "Mystery": 1,
+      "Fantasy": 1
+    },
+    "directors": {
+      "Kenji Misumi": 14,
+      "Akira Kurosawa": 9,
+      "Hiroshi Inagaki": 5,
+      "Hideo Gosha": 5,
+      "Masaki Kobayashi": 3,
+      "Kihachi Okamoto": 2,
+      "Toshiya Fujita": 2,
+      "Yoji Yamada": 2,
+      "Kenji Mizoguchi": 2,
+      "Tokuzō Tanaka": 2,
+      "Kimiyoshi Yasuda": 2,
+      "Takashi Miike": 1,
+      "Takeshi Kitano": 1,
+      "Kazuo Ikehiro": 1,
+      "Buichi Saitō": 1,
+      "Robert Houston": 1,
+      "Yasuzō Masumura": 1,
+      "Yoshio Inoue": 1,
+      "Kaneto Shindō": 1,
+      "Takashi Koizumi": 1
+    },
+    "years": {
+      "1941": 1,
+      "1950": 1,
+      "1954": 3,
+      "1955": 2,
+      "1956": 1,
+      "1957": 1,
+      "1958": 1,
+      "1959": 1,
+      "1961": 1,
+      "1962": 6,
+      "1963": 3,
+      "1964": 6,
+      "1965": 4,
+      "1966": 2,
+      "1967": 3,
+      "1968": 2,
+      "1969": 2,
+      "1970": 1,
+      "1972": 5,
+      "1973": 4,
+      "1974": 2,
+      "1980": 2,
+      "1985": 1,
+      "1999": 1,
+      "2002": 1,
+      "2003": 1,
+      "2006": 1,
+      "2010": 1
+    }
+  }
+}
