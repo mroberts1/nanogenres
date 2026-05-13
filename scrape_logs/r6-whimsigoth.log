@@ -1,0 +1,91 @@
+[search] https://letterboxd.com/search/lists/whimsigoth/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/masonkuta/list/whimsigoth/
+[list] https://letterboxd.com/vacantteeth/list/whimsigoth/
+[list] https://letterboxd.com/bobbieslade/list/whimsigoth/
+[list] https://letterboxd.com/moldingnymph/list/whimsigoth/
+[list] https://letterboxd.com/datgurl44/list/whimsigoth/
+[list] https://letterboxd.com/moonboo/list/whimsigoth/
+[list] https://letterboxd.com/ohfudgystuff/list/whimsigoth/
+[list] https://letterboxd.com/vamist/list/whimsigoth/
+[list] https://letterboxd.com/hopecook/list/whimsigoth/
+[list] https://letterboxd.com/meganssocoo1/list/whimsigoth/
+    1/45 Practical Magic (1998) x9 — Fantasy, Comedy, Romance
+    2/45 The Addams Family (1991) x5 — Comedy, Fantasy
+    3/45 The Craft (1996) x5 — Horror, Fantasy, Drama
+    4/45 Beetlejuice (1988) x5 — Fantasy, Comedy
+    5/45 The Witches of Eastwick (1987) x5 — Fantasy, Horror, Comedy
+    6/45 Sleepy Hollow (1999) x5 — Horror, Mystery, Fantasy, Thriller
+    7/45 Coraline (2009) x5 — Animation, Horror, Fantasy, Family
+    8/45 Elvira: Mistress of the Dark (1988) x4 — Fantasy, Comedy, Horror
+    9/45 Addams Family Values (1993) x4 — Comedy, Family, Fantasy
+   10/45 The Dark Crystal (1982) x4 — Fantasy, Adventure, Family
+   11/45 Corpse Bride (2005) x4 — Fantasy, Animation, Romance
+   12/45 Ginger Snaps (2000) x4 — Drama, Horror, Thriller, Fantasy
+   13/45 Labyrinth (1986) x4 — Adventure, Family, Fantasy
+   14/45 The Love Witch (2016) x4 — Romance, Horror, Comedy, Fantasy
+   15/45 Death Becomes Her (1992) x4 — Comedy, Fantasy, Horror
+   16/45 Hocus Pocus (1993) x3 — Comedy, Family, Fantasy
+   17/45 Halloweentown (1998) x3 — Comedy, TV Movie, Fantasy
+   18/45 The Last Unicorn (1982) x3 — Family, Adventure, Fantasy, Animation
+   19/45 Pan's Labyrinth (2006) x3 — War, Drama, Fantasy
+   20/45 The Princess Bride (1987) x3 — Adventure, Fantasy, Comedy, Family, Romance
+   21/45 Sabrina the Teenage Witch (1996) x3 — Comedy, TV Movie, Family, Fantasy
+   22/45 The Nightmare Before Christmas (1993) x3 — Family, Animation, Fantasy
+   23/45 Edward Scissorhands (1990) x2 — Fantasy, Drama, Romance
+   24/45 Hook (1991) x2 — Comedy, Adventure, Fantasy, Family
+   25/45 May (2002) x2 — Comedy, Drama, Horror
+   26/45 Amélie (2001) x2 — Romance, Comedy
+   27/45 Wish Upon a Star (1996) x2 — Comedy, TV Movie, Family, Fantasy
+   28/45 The Secret of NIMH (1982) x2 — Animation, Mystery, Fantasy, Adventure, Family, Drama, Science Fiction
+   29/45 Legend (1985) x2 — Adventure, Fantasy
+   30/45 The NeverEnding Story (1984) x2 — Fantasy, Drama, Family, Adventure
+   31/45 Peter Pan (2003) x2 — Fantasy, Family, Adventure
+   32/45 Sweeney Todd: The Demon Barber of Fleet Street (2007) x2 — Drama, Horror
+   33/45 Crimson Peak (2015) x2 — Drama, Horror, Mystery, Romance
+   34/45 Alice in Wonderland (2010) x2 — Fantasy, Family, Adventure
+   35/45 Miss Peregrine's Home for Peculiar Children (2016) x2 — Family, Drama, Thriller, Fantasy, Adventure
+   36/45 Lisa Frankenstein (2024) x2 — Comedy, Romance, Horror
+   37/45 Dark Shadows (2012) x2 — Comedy, Fantasy
+   38/45 Bram Stoker's Dracula (1992) x2 — Horror, Romance
+   39/45 Twitches (2005) x2 — Family, TV Movie, Comedy, Drama, Fantasy
+   40/45 The Secret of Moonacre (2008) x2 — Fantasy, Romance, Adventure
+   41/45 Penelope (2006) x2 — Comedy, Fantasy, Romance
+   42/45 Interview with the Vampire (1994) x2 — Horror, Drama, Fantasy
+   43/45 Casper (1995) x2 — Family, Fantasy, Comedy
+   44/45 Stardust (2007) x2 — Romance, Family, Adventure, Fantasy
+   45/45 Bell, Book and Candle (1958) x2 — Romance, Fantasy, Comedy
+
+[done] /root/letterboxd-nanogenres/data/whimsigoth.json
+{
+  "slug": "whimsigoth",
+  "lists_used": 10,
+  "canonical_films": 45,
+  "top_5": [
+    [
+      "Practical Magic",
+      "1998",
+      9
+    ],
+    [
+      "The Addams Family",
+      "1991",
+      5
+    ],
+    [
+      "The Craft",
+      "1996",
+      5
+    ],
+    [
+      "Beetlejuice",
+      "1988",
+      5
+    ],
+    [
+      "The Witches of Eastwick",
+      "1987",
+      5
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+[search] https://letterboxd.com/search/lists/gorpcore/
+[search] 6 candidates -> 5 relevant (rejected low-quality=0, off-topic=1)
+[list] https://letterboxd.com/sarakaybeardall/list/gorpcore/
+[list] https://letterboxd.com/hwatch/list/gorpcore-horror/
+[list] https://letterboxd.com/dumptruckswag/list/gorpcore-movies/
+[list] https://letterboxd.com/mariusgallou/list/gorpcore-outdoor-movie/
+  drop (only 1 films) /mariusgallou/list/gorpcore-outdoor-movie/
+[list] https://letterboxd.com/alysonr/list/gorpcore-cinema/
+    1/2 Wild (2014) x2 — Drama
+    2/2 The Blair Witch Project (1999) x2 — Mystery, Horror
+
+[done] /root/letterboxd-nanogenres/data/gorpcore.json
+{
+  "slug": "gorpcore",
+  "lists_used": 4,
+  "canonical_films": 2,
+  "top_5": [
+    [
+      "Wild",
+      "2014",
+      2
+    ],
+    [
+      "The Blair Witch Project",
+      "1999",
+      2
+    ]
+  ]
+}

@@ -1,0 +1,1647 @@
+{
+  "query": "princesscore",
+  "slug": "princesscore",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/annakate01/list/princesscore/",
+      "user": "annakate01",
+      "slug": "princesscore",
+      "title": "princesscore",
+      "desc": "Katie is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Katie PRO",
+      "tags": []
+    },
+    {
+      "href": "/izsitay/list/princesscore/",
+      "user": "izsitay",
+      "slug": "princesscore",
+      "title": "Princesscore",
+      "desc": "History meets fantasy, Y2K medieval meets pre-raphaelite/art nouveau. Extravagant, excessive and indulgent. Romanticism at its finest.",
+      "owner": "List by izsitay",
+      "tags": []
+    },
+    {
+      "href": "/silvanafreedamn/list/princesscore/",
+      "user": "silvanafreedamn",
+      "slug": "princesscore",
+      "title": "Princesscore",
+      "desc": "Silva is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Silva Freeman",
+      "tags": []
+    },
+    {
+      "href": "/sapphicfairy333/list/princesscore/",
+      "user": "sapphicfairy333",
+      "slug": "princesscore",
+      "title": "Princesscore",
+      "desc": "fairytales and whimsical adventures - the princess films 🩰👑🪽",
+      "owner": "List by Pia",
+      "tags": []
+    },
+    {
+      "href": "/magical_girl_/list/princesscore/",
+      "user": "magical_girl_",
+      "slug": "princesscore",
+      "title": "Princesscore",
+      "desc": "Magical_Girl_ is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Magical_Girl_",
+      "tags": []
+    },
+    {
+      "href": "/nickschmitt123/list/princesscore/",
+      "user": "nickschmitt123",
+      "slug": "princesscore",
+      "title": "Princesscore",
+      "desc": "Nick is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Nick",
+      "tags": [
+        "aurora"
+      ]
+    },
+    {
+      "href": "/mimatcha/list/princesscore/",
+      "user": "mimatcha",
+      "slug": "princesscore",
+      "title": "Princesscore",
+      "desc": "mimatcha is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by mimatcha",
+      "tags": []
+    },
+    {
+      "href": "/onepercent/list/princesscore-vibe/",
+      "user": "onepercent",
+      "slug": "princesscore-vibe",
+      "title": "Princesscore vibe 🌛",
+      "desc": "☆Depressed but well dressed\n☆Fashionable people\n☆Queen energy\n☆Pink sky\n💗",
+      "owner": "List by OnePercent",
+      "tags": []
+    },
+    {
+      "href": "/vabusm/list/royalcore-princesscore/",
+      "user": "vabusm",
+      "slug": "royalcore-princesscore",
+      "title": "👑🏰Royalcore & Princesscore🫅👸💎",
+      "desc": "🌷everydayisvalentine🩰 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by 🌷everydayisvalentine🩰",
+      "tags": []
+    }
+  ],
+  "source_list_count": 9,
+  "films_considered": 444,
+  "canonical_count": 49,
+  "films": [
+    {
+      "slug": "sleeping-beauty",
+      "title": "Sleeping Beauty",
+      "year": "1959",
+      "genres": [
+        "Romance",
+        "Family",
+        "Fantasy",
+        "Animation"
+      ],
+      "directors": [
+        "Clyde Geronimi"
+      ],
+      "actors": [
+        "Mary Costa",
+        "Bill Shirley",
+        "Eleanor Audley",
+        "Verna Felton",
+        "Barbara Luddy",
+        "Barbara Jo Allen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.57,
+      "rating_count": 431433,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/8/0/3/45803-sleeping-beauty-0-230-0-345-crop.jpg?v=91898e4602",
+      "url": "https://letterboxd.com/film/sleeping-beauty/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "enchanted",
+      "title": "Enchanted",
+      "year": "2007",
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Kevin Lima"
+      ],
+      "actors": [
+        "Amy Adams",
+        "Patrick Dempsey",
+        "James Marsden",
+        "Timothy Spall",
+        "Idina Menzel",
+        "Rachel Covey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.56,
+      "rating_count": 648910,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/8/0/49280-enchanted-0-230-0-345-crop.jpg?v=cfce205bab",
+      "url": "https://letterboxd.com/film/enchanted/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "tangled-2010",
+      "title": "Tangled",
+      "year": "2010",
+      "genres": [
+        "Family",
+        "Adventure",
+        "Animation"
+      ],
+      "directors": [
+        "Byron Howard",
+        "Nathan Greno"
+      ],
+      "actors": [
+        "Mandy Moore",
+        "Zachary Levi",
+        "Donna Murphy",
+        "Ron Perlman",
+        "M.C. Gainey",
+        "Jeffrey Tambor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.05,
+      "rating_count": 2326480,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/5/9/25859-tangled-2010-0-230-0-345-crop.jpg?v=1c22f51536",
+      "url": "https://letterboxd.com/film/tangled-2010/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "aladdin",
+      "title": "Aladdin",
+      "year": "1992",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Romance",
+        "Family",
+        "Animation"
+      ],
+      "directors": [
+        "John Musker",
+        "Ron Clements"
+      ],
+      "actors": [
+        "Scott Weinger",
+        "Robin Williams",
+        "Linda Larkin",
+        "Jonathan Freeman",
+        "Gilbert Gottfried",
+        "Douglas Seale"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.9,
+      "rating_count": 1063987,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/n3/26/lb/e2/trm94WPjW5ApKulhFvuRm5cT8KQ-0-230-0-345-crop.jpg?v=7aa7423779",
+      "url": "https://letterboxd.com/film/aladdin/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "barbie-as-the-princess-and-the-pauper",
+      "title": "Barbie as The Princess & the Pauper",
+      "year": "2004",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Family"
+      ],
+      "directors": [
+        "William Lau"
+      ],
+      "actors": [
+        "Kelly Sheridan",
+        "Melissa Lyons",
+        "Julie Stevens",
+        "Mark Hildreth",
+        "Mark Luna",
+        "Alessandro Juliani"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.99,
+      "rating_count": 207771,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/5/5/0/42550-barbie-as-the-princess-the-pauper-0-230-0-345-crop.jpg?v=7416734ffa",
+      "url": "https://letterboxd.com/film/barbie-as-the-princess-and-the-pauper/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "beauty-and-the-beast-1991",
+      "title": "Beauty and the Beast",
+      "year": "1991",
+      "genres": [
+        "Romance",
+        "Animation",
+        "Fantasy",
+        "Family"
+      ],
+      "directors": [
+        "Gary Trousdale",
+        "Kirk Wise"
+      ],
+      "actors": [
+        "Paige O'Hara",
+        "Robby Benson",
+        "Richard White",
+        "Jerry Orbach",
+        "David Ogden Stiers",
+        "Angela Lansbury"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 926981,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qw/zu/zk/ky/iLe8yMOF5we6lvYbKLHzho7ATQk-0-230-0-345-crop.jpg?v=c4c6ebbfa3",
+      "url": "https://letterboxd.com/film/beauty-and-the-beast-1991/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "brave-2012",
+      "title": "Brave",
+      "year": "2012",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "Mark Andrews",
+        "Brenda Chapman"
+      ],
+      "actors": [
+        "Kelly Macdonald",
+        "Emma Thompson",
+        "Billy Connolly",
+        "Julie Walters",
+        "Robbie Coltrane",
+        "Kevin McKidd"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.48,
+      "rating_count": 1248387,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ct/de/cg/m1/tZhun7eLdyGv9nMJS9YTyOXeOCb-0-230-0-345-crop.jpg?v=31b29a5693",
+      "url": "https://letterboxd.com/film/brave-2012/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "cinderella",
+      "title": "Cinderella",
+      "year": "1950",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Animation",
+        "Family"
+      ],
+      "directors": [
+        "Hamilton Luske",
+        "Clyde Geronimi",
+        "Wilfred Jackson"
+      ],
+      "actors": [
+        "Ilene Woods",
+        "Eleanor Audley",
+        "Verna Felton",
+        "Claire Du Brey",
+        "Rhoda Williams",
+        "James MacDonald"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.56,
+      "rating_count": 481665,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/v2/rx/es/za/2wlK3RvdWK3zcyDYd5lUB5r4XMe-0-230-0-345-crop.jpg?v=5e0bf1e2f8",
+      "url": "https://letterboxd.com/film/cinderella/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "cinderella-2015",
+      "title": "Cinderella",
+      "year": "2015",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Family",
+        "Drama"
+      ],
+      "directors": [
+        "Kenneth Branagh"
+      ],
+      "actors": [
+        "Lily James",
+        "Cate Blanchett",
+        "Richard Madden",
+        "Stellan Skarsgård",
+        "Holliday Grainger",
+        "Sophie McShera"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.32,
+      "rating_count": 487524,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/3/8/0/113380-cinderella-0-230-0-345-crop.jpg?v=744473316c",
+      "url": "https://letterboxd.com/film/cinderella-2015/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "ever-after-1998",
+      "title": "Ever After",
+      "year": "1998",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Andy Tennant"
+      ],
+      "actors": [
+        "Drew Barrymore",
+        "Anjelica Huston",
+        "Dougray Scott",
+        "Patrick Godfrey",
+        "Megan Dodds",
+        "Melanie Lynskey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 94729,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ly/ta/ly/lu/1ELrosU04wEbfmxK9wLBjdEECqm-0-230-0-345-crop.jpg?v=32a3267f9d",
+      "url": "https://letterboxd.com/film/ever-after-1998/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "frozen-2013",
+      "title": "Frozen",
+      "year": "2013",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "directors": [
+        "Chris Buck",
+        "Jennifer Lee"
+      ],
+      "actors": [
+        "Idina Menzel",
+        "Kristen Bell",
+        "Jonathan Groff",
+        "Josh Gad",
+        "Livvy Stubenrauch",
+        "Santino Fontana"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.5,
+      "rating_count": 1756242,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6w/m8/pw/94/eFnGmj63QPUpK7QUWSOUhypIQOT-0-230-0-345-crop.jpg?v=aae3ef24d7",
+      "url": "https://letterboxd.com/film/frozen-2013/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "snow-white-and-the-seven-dwarfs",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": "1937",
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Animation"
+      ],
+      "directors": [
+        "David Hand",
+        "Ben Sharpsteen",
+        "William Cottrell",
+        "Larry Morey",
+        "Perce Pearce",
+        "Wilfred Jackson"
+      ],
+      "actors": [
+        "Adriana Caselotti",
+        "Lucille La Verne",
+        "Harry Stockwell",
+        "Roy Atwell",
+        "Pinto Colvig",
+        "Otis Harlan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.42,
+      "rating_count": 588878,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/2/51682-snow-white-and-the-seven-dwarfs-0-230-0-345-crop.jpg?v=93d2681131",
+      "url": "https://letterboxd.com/film/snow-white-and-the-seven-dwarfs/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-princess-and-the-frog",
+      "title": "The Princess and the Frog",
+      "year": "2009",
+      "genres": [
+        "Romance",
+        "Family",
+        "Animation",
+        "Fantasy"
+      ],
+      "directors": [
+        "Ron Clements",
+        "John Musker"
+      ],
+      "actors": [
+        "Anika Noni Rose",
+        "Bruno Campos",
+        "Jim Cummings",
+        "Michael-Leon Wooley",
+        "Keith David",
+        "Jennifer Cody"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 1032129,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hl/8a/0u/3l/bVRHirC6uIZL9VtRqYRxdedYnOG-0-230-0-345-crop.jpg?v=4a94cf20d3",
+      "url": "https://letterboxd.com/film/the-princess-and-the-frog/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-princess-bride",
+      "title": "The Princess Bride",
+      "year": "1987",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Family",
+        "Romance"
+      ],
+      "directors": [
+        "Rob Reiner"
+      ],
+      "actors": [
+        "Cary Elwes",
+        "Robin Wright",
+        "Mandy Patinkin",
+        "Chris Sarandon",
+        "Christopher Guest",
+        "Wallace Shawn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 1094498,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/hk/2u/bd/9p/gpxjoE0yvRwIhFEJgNArtKtaN7S-0-230-0-345-crop.jpg?v=544eada136",
+      "url": "https://letterboxd.com/film/the-princess-bride/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "ella-enchanted",
+      "title": "Ella Enchanted",
+      "year": "2004",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Family"
+      ],
+      "directors": [
+        "Tommy O'Haver"
+      ],
+      "actors": [
+        "Anne Hathaway",
+        "Hugh Dancy",
+        "Cary Elwes",
+        "Aidan McArdle",
+        "Joanna Lumley",
+        "Lucy Punch"
+      ],
+      "countries": [
+        "Ireland",
+        "UK"
+      ],
+      "rating": 3.48,
+      "rating_count": 329082,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zg/y7/fj/0s/5xURlqmsrbMZJiTQmu3TOEIfHFT-0-230-0-345-crop.jpg?v=d49f54aa09",
+      "url": "https://letterboxd.com/film/ella-enchanted/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "marie-antoinette-2006",
+      "title": "Marie Antoinette",
+      "year": "2006",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Kirsten Dunst",
+        "Jason Schwartzman",
+        "Steve Coogan",
+        "Judy Davis",
+        "Rip Torn",
+        "Asia Argento"
+      ],
+      "countries": [
+        "Japan",
+        "USA",
+        "France"
+      ],
+      "rating": 3.73,
+      "rating_count": 783901,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/k7/u1/3i/lu/xOdzoe3tC8X1v7M2Z86sdfjpVrO-0-230-0-345-crop.jpg?v=4b6cfecbaf",
+      "url": "https://letterboxd.com/film/marie-antoinette-2006/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "anastasia-1997",
+      "title": "Anastasia",
+      "year": "1997",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Family"
+      ],
+      "directors": [
+        "Gary Goldman",
+        "Don Bluth"
+      ],
+      "actors": [
+        "Meg Ryan",
+        "John Cusack",
+        "Kelsey Grammer",
+        "Christopher Lloyd",
+        "Hank Azaria",
+        "Bernadette Peters"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.89,
+      "rating_count": 407709,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/5/3/47153-anastasia-1997-0-230-0-345-crop.jpg?v=d35cf27026",
+      "url": "https://letterboxd.com/film/anastasia-1997/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "barbie-in-the-12-dancing-princesses",
+      "title": "Barbie in the 12 Dancing Princesses",
+      "year": "2006",
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "directors": [
+        "Greg Richardson"
+      ],
+      "actors": [
+        "Kelly Sheridan",
+        "Catherine O'Hara",
+        "Christopher Gaze",
+        "Nicole Oliver",
+        "Jennifer Copping",
+        "Lalainia Lindbjerg"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 180382,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/2/2/5/44225-barbie-in-the-12-dancing-princesses-0-230-0-345-crop.jpg?v=50d2e7feaf",
+      "url": "https://letterboxd.com/film/barbie-in-the-12-dancing-princesses/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "princess-protection-program",
+      "title": "Princess Protection Program",
+      "year": "2009",
+      "genres": [
+        "Drama",
+        "TV Movie",
+        "Comedy",
+        "Family"
+      ],
+      "directors": [
+        "Allison Liddi-Brown"
+      ],
+      "actors": [
+        "Demi Lovato",
+        "Selena Gomez",
+        "Nicholas Braun",
+        "Tom Verica",
+        "Molly Hagan",
+        "Samantha Droke"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.07,
+      "rating_count": 170510,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/6/2/7/39627-princess-protection-program-0-230-0-345-crop.jpg?v=a5f38f7c40",
+      "url": "https://letterboxd.com/film/princess-protection-program/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-little-mermaid",
+      "title": "The Little Mermaid",
+      "year": "1989",
+      "genres": [
+        "Family",
+        "Animation",
+        "Fantasy"
+      ],
+      "directors": [
+        "John Musker",
+        "Ron Clements"
+      ],
+      "actors": [
+        "Jodi Benson",
+        "Samuel E. Wright",
+        "Pat Carroll",
+        "Christopher Daniel Barnes",
+        "Kenneth Mars",
+        "Buddy Hackett"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.71,
+      "rating_count": 775472,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/tp/jv/zf/fi/Amwq3yJP4VblXUptDAV7S13smCd-0-230-0-345-crop.jpg?v=0557a0e3dd",
+      "url": "https://letterboxd.com/film/the-little-mermaid/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "barbie-as-rapunzel",
+      "title": "Barbie as Rapunzel",
+      "year": "2002",
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "directors": [
+        "Owen Hurley"
+      ],
+      "actors": [
+        "Kelly Sheridan",
+        "Anjelica Huston",
+        "Cree Summer",
+        "Ian James Corlett",
+        "Mark Hildreth",
+        "David Kaye"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.54,
+      "rating_count": 116211,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/6/8/42668-barbie-as-rapunzel-0-230-0-345-crop.jpg?v=48cb340d73",
+      "url": "https://letterboxd.com/film/barbie-as-rapunzel/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "barbie-and-the-magic-of-pegasus",
+      "title": "Barbie and the Magic of Pegasus",
+      "year": "2005",
+      "genres": [
+        "Animation",
+        "Romance",
+        "Family"
+      ],
+      "directors": [
+        "Greg Richardson"
+      ],
+      "actors": [
+        "Kelly Sheridan",
+        "Kathleen Barr",
+        "Lalainia Lindbjerg",
+        "Colin Murdock",
+        "Mark Hildreth",
+        "Brian Drummond"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 103597,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/0/0/0/42000-barbie-and-the-magic-of-pegasus-3-d-0-230-0-345-crop.jpg?v=b378ed0ec8",
+      "url": "https://letterboxd.com/film/barbie-and-the-magic-of-pegasus/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "roman-holiday",
+      "title": "Roman Holiday",
+      "year": "1953",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "William Wyler"
+      ],
+      "actors": [
+        "Audrey Hepburn",
+        "Gregory Peck",
+        "Eddie Albert",
+        "Hartley Power",
+        "Harcourt Williams",
+        "Margaret Rawlings"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.19,
+      "rating_count": 314167,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/4/8/51348-roman-holiday-0-230-0-345-crop.jpg?v=7329a156b1",
+      "url": "https://letterboxd.com/film/roman-holiday/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-princess-diaries",
+      "title": "The Princess Diaries",
+      "year": "2001",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Family"
+      ],
+      "directors": [
+        "Garry Marshall"
+      ],
+      "actors": [
+        "Anne Hathaway",
+        "Julie Andrews",
+        "Heather Matarazzo",
+        "Caroline Goodall",
+        "Héctor Elizondo",
+        "Robert Schwartzman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.71,
+      "rating_count": 1261321,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5w/kf/y1/r9/89CTU3plfKw6mGpzkLmdQkHHLeS-0-230-0-345-crop.jpg?v=66ee5d3a6c",
+      "url": "https://letterboxd.com/film/the-princess-diaries/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "howls-moving-castle",
+      "title": "Howl's Moving Castle",
+      "year": "2004",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "actors": [
+        "Chieko Baisho",
+        "Takuya Kimura",
+        "Akihiro Miwa",
+        "Tatsuya Gashûin",
+        "Ryunosuke Kamiki",
+        "Mitsunori Isaki"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.36,
+      "rating_count": 2458051,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/6/2/49062-howl-s-moving-castle-0-230-0-345-crop.jpg?v=fde81bda52",
+      "url": "https://letterboxd.com/film/howls-moving-castle/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "2001",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Ian Holm",
+        "Liv Tyler"
+      ],
+      "countries": [
+        "New Zealand",
+        "USA"
+      ],
+      "rating": 4.39,
+      "rating_count": 2902527,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-230-0-345-crop.jpg?v=30bbb824e1",
+      "url": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "shrek-2",
+      "title": "Shrek 2",
+      "year": "2004",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Romance",
+        "Animation",
+        "Fantasy"
+      ],
+      "directors": [
+        "Andrew Adamson",
+        "Kelly Asbury",
+        "Conrad Vernon"
+      ],
+      "actors": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz",
+        "Julie Andrews",
+        "Antonio Banderas",
+        "John Cleese"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.12,
+      "rating_count": 1979222,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g4/4m/0c/6s/rD8SvOTCCJ2VIpIV7GUwUKD1Kzc-0-230-0-345-crop.jpg?v=e780d1b7d3",
+      "url": "https://letterboxd.com/film/shrek-2/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "barbie-princess-charm-school",
+      "title": "Barbie: Princess Charm School",
+      "year": "2011",
+      "genres": [
+        "Fantasy",
+        "Family",
+        "Animation"
+      ],
+      "directors": [
+        "Ezekiel Norton"
+      ],
+      "actors": [
+        "Diana Kaarina",
+        "Morwenna Banks",
+        "Nicole Oliver",
+        "Brittney Wilson",
+        "Ali Liebert",
+        "Shannon Chan-Kent"
+      ],
+      "countries": [
+        "USA",
+        "Canada"
+      ],
+      "rating": 4.03,
+      "rating_count": 172262,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/8/7/8/59878-barbie-princess-charm-school-0-230-0-345-crop.jpg?v=caa873b2fc",
+      "url": "https://letterboxd.com/film/barbie-princess-charm-school/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "moana-2016",
+      "title": "Moana",
+      "year": "2016",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Comedy"
+      ],
+      "directors": [
+        "Ron Clements",
+        "John Musker"
+      ],
+      "actors": [
+        "Auliʻi Cravalho",
+        "Dwayne Johnson",
+        "Rachel House",
+        "Temuera Morrison",
+        "Jemaine Clement",
+        "Nicole Scherzinger"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.72,
+      "rating_count": 1708782,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/1/9/0/9/201909-moana-0-230-0-345-crop.jpg?v=cfeffc2eaa",
+      "url": "https://letterboxd.com/film/moana-2016/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mulan",
+      "title": "Mulan",
+      "year": "1998",
+      "genres": [
+        "Family",
+        "Animation",
+        "Adventure"
+      ],
+      "directors": [
+        "Tony Bancroft",
+        "Barry Cook"
+      ],
+      "actors": [
+        "Ming-Na Wen",
+        "Eddie Murphy",
+        "BD Wong",
+        "Miguel Ferrer",
+        "Harvey Fierstein",
+        "Freda Foh Shen"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.16,
+      "rating_count": 1251603,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yz/dm/zk/5z/5vG3XyQNxOkl2Qd7D8MzMoY6sm2-0-230-0-345-crop.jpg?v=660de4097f",
+      "url": "https://letterboxd.com/film/mulan/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "spencer-2021",
+      "title": "Spencer",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Pablo Larraín"
+      ],
+      "actors": [
+        "Kristen Stewart",
+        "Timothy Spall",
+        "Jack Nielen",
+        "Freddie Spry",
+        "Jack Farthing",
+        "Sean Harris"
+      ],
+      "countries": [
+        "Chile",
+        "Germany",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.64,
+      "rating_count": 414299,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/9/5/5/9/639559-spencer-0-230-0-345-crop.jpg?v=33938ea371",
+      "url": "https://letterboxd.com/film/spencer-2021/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-princess-diaries-2-royal-engagement",
+      "title": "The Princess Diaries 2: Royal Engagement",
+      "year": "2004",
+      "genres": [
+        "Romance",
+        "Family",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Garry Marshall"
+      ],
+      "actors": [
+        "Anne Hathaway",
+        "Julie Andrews",
+        "Héctor Elizondo",
+        "John Rhys-Davies",
+        "Heather Matarazzo",
+        "Chris Pine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 473690,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/r6/9y/js/f0/w9Z7A0GHEhIp7etpj0vyKOeU1Wx-0-230-0-345-crop.jpg?v=8bcd8320c6",
+      "url": "https://letterboxd.com/film/the-princess-diaries-2-royal-engagement/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "orlando",
+      "title": "Orlando",
+      "year": "1992",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Sally Potter"
+      ],
+      "actors": [
+        "Tilda Swinton",
+        "Billy Zane",
+        "Lothaire Bluteau",
+        "John Wood",
+        "Charlotte Valandrey",
+        "Heathcote Williams"
+      ],
+      "countries": [
+        "France",
+        "Italy",
+        "Netherlands",
+        "Russia",
+        "UK"
+      ],
+      "rating": 3.91,
+      "rating_count": 65458,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/9/2/47292-orlando-0-230-0-345-crop.jpg?v=f27f26b77a",
+      "url": "https://letterboxd.com/film/orlando/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "emma-2020",
+      "title": "Emma.",
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Autumn de Wilde"
+      ],
+      "actors": [
+        "Anya Taylor-Joy",
+        "Johnny Flynn",
+        "Josh O'Connor",
+        "Callum Turner",
+        "Mia Goth",
+        "Miranda Hart"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.72,
+      "rating_count": 486495,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/2/1/2/485212-emma-2020-0-230-0-345-crop.jpg?v=cdefc40f32",
+      "url": "https://letterboxd.com/film/emma-2020/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "anna-karenina-2012",
+      "title": "Anna Karenina",
+      "year": "2012",
+      "genres": [
+        "Romance",
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Joe Wright"
+      ],
+      "actors": [
+        "Keira Knightley",
+        "Jude Law",
+        "Aaron Taylor-Johnson",
+        "Matthew Macfadyen",
+        "Eric MacLennan",
+        "Kelly Macdonald"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.57,
+      "rating_count": 215548,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/7/8/5/79785-anna-karenina-0-230-0-345-crop.jpg?v=e401d1472d",
+      "url": "https://letterboxd.com/film/anna-karenina-2012/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "stardust-2007",
+      "title": "Stardust",
+      "year": "2007",
+      "genres": [
+        "Romance",
+        "Family",
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Matthew Vaughn"
+      ],
+      "actors": [
+        "Charlie Cox",
+        "Claire Danes",
+        "Michelle Pfeiffer",
+        "Mark Strong",
+        "Jason Flemyng",
+        "Robert De Niro"
+      ],
+      "countries": [
+        "Iceland",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.68,
+      "rating_count": 260251,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/3/7/2/50372-stardust-0-230-0-345-crop.jpg?v=cce48bbef6",
+      "url": "https://letterboxd.com/film/stardust-2007/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "eragon",
+      "title": "Eragon",
+      "year": "2006",
+      "genres": [
+        "Family",
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "directors": [
+        "Stefen Fangmeier"
+      ],
+      "actors": [
+        "Ed Speleers",
+        "Jeremy Irons",
+        "Sienna Guillory",
+        "Robert Carlyle",
+        "John Malkovich",
+        "Garrett Hedlund"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Hungary"
+      ],
+      "rating": 1.88,
+      "rating_count": 104935,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yu/4l/1w/3e/k0AEqMS1HY4m36hbdpdTyRcpZur-0-230-0-345-crop.jpg?v=ae4486c615",
+      "url": "https://letterboxd.com/film/eragon/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-lord-of-the-rings-the-two-towers",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "2002",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Andy Serkis",
+        "John Rhys-Davies"
+      ],
+      "countries": [
+        "New Zealand",
+        "USA"
+      ],
+      "rating": 4.43,
+      "rating_count": 2165210,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-230-0-345-crop.jpg?v=9ef6c09783",
+      "url": "https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-lord-of-the-rings-the-return-of-the-king",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Andy Serkis",
+        "Dominic Monaghan"
+      ],
+      "countries": [
+        "New Zealand",
+        "USA"
+      ],
+      "rating": 4.55,
+      "rating_count": 2213155,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-230-0-345-crop.jpg?v=4c89d05285",
+      "url": "https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "shrek",
+      "title": "Shrek",
+      "year": "2001",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Family",
+        "Animation",
+        "Comedy"
+      ],
+      "directors": [
+        "Andrew Adamson",
+        "Vicky Jenson"
+      ],
+      "actors": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz",
+        "John Lithgow",
+        "Vincent Cassel",
+        "Peter Dennis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.12,
+      "rating_count": 2673379,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/4/4/51344-shrek-0-230-0-345-crop.jpg?v=cd09df2c75",
+      "url": "https://letterboxd.com/film/shrek/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "3-2003-1",
+      "title": "Barbie of Swan Lake",
+      "year": "2003",
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "directors": [
+        "Owen Hurley"
+      ],
+      "actors": [
+        "Kelly Sheridan",
+        "Mark Hildreth",
+        "Kelsey Grammer",
+        "Maggie Wheeler",
+        "Venus Terzo",
+        "Kathleen Barr"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.62,
+      "rating_count": 132264,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/6/7/42667-barbie-of-swan-lake-0-230-0-345-crop.jpg?v=644841e57c",
+      "url": "https://letterboxd.com/film/3-2003-1/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "barbie-in-the-nutcracker",
+      "title": "Barbie in the Nutcracker",
+      "year": "2001",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "directors": [
+        "Owen Hurley"
+      ],
+      "actors": [
+        "Kelly Sheridan",
+        "Kirby Morrow",
+        "Tim Curry",
+        "Peter Kelamis",
+        "Christopher Gaze",
+        "Ian James Corlett"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.5,
+      "rating_count": 124039,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dc/n1/57/zq/BarbieNutcracker-0-230-0-345-crop.jpg?v=30e0810d01",
+      "url": "https://letterboxd.com/film/barbie-in-the-nutcracker/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "barbie-and-the-diamond-castle",
+      "title": "Barbie and the Diamond Castle",
+      "year": "2008",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "directors": [
+        "Gino Nichele"
+      ],
+      "actors": [
+        "Kelly Sheridan",
+        "Melissa Lyons",
+        "Maryke Hendrikse",
+        "Cassidy Ladden",
+        "Nicole Oliver",
+        "Chantal Strand"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.9,
+      "rating_count": 139289,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/2/2/3/44223-barbie-and-the-diamond-castle-0-230-0-345-crop.jpg?v=6a14e72a24",
+      "url": "https://letterboxd.com/film/barbie-and-the-diamond-castle/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-curse-of-sleeping-beauty",
+      "title": "The Curse of Sleeping Beauty",
+      "year": "2016",
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
+      "directors": [
+        "Pearry Reginald Teo"
+      ],
+      "actors": [
+        "Ethan Peck",
+        "India Eisley",
+        "Natalie Hall",
+        "Bruce Davison",
+        "James Adam Lim",
+        "Scott Alan Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2,
+      "rating_count": 2036,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/3/1/2/0/323120-the-curse-of-sleeping-beauty-0-230-0-345-crop.jpg?v=db71ecdcca",
+      "url": "https://letterboxd.com/film/the-curse-of-sleeping-beauty/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "alice-in-wonderland-1951",
+      "title": "Alice in Wonderland",
+      "year": "1951",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Family",
+        "Adventure"
+      ],
+      "directors": [
+        "Clyde Geronimi",
+        "Wilfred Jackson",
+        "Hamilton Luske"
+      ],
+      "actors": [
+        "Kathryn Beaumont",
+        "Ed Wynn",
+        "Richard Haydn",
+        "Sterling Holloway",
+        "Jerry Colonna",
+        "Verna Felton"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.81,
+      "rating_count": 586957,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/p5/63/wj/c3/AdwfqyNiH8UqeYKFYoiKhwTtjAb-0-230-0-345-crop.jpg?v=f9c56785d4",
+      "url": "https://letterboxd.com/film/alice-in-wonderland-1951/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "labyrinth",
+      "title": "Labyrinth",
+      "year": "1986",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "directors": [
+        "Jim Henson"
+      ],
+      "actors": [
+        "David Bowie",
+        "Jennifer Connelly",
+        "Toby Froud",
+        "Shelley Thompson",
+        "Christopher Malcolm",
+        "Brian Henson"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 470779,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/5/1/43751-labyrinth-0-230-0-345-crop.jpg?v=608378d65b",
+      "url": "https://letterboxd.com/film/labyrinth/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "barbie-as-the-island-princess",
+      "title": "Barbie as the Island Princess",
+      "year": "2007",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "directors": [
+        "Greg Richardson"
+      ],
+      "actors": [
+        "Kelly Sheridan",
+        "Melissa Lyons",
+        "Alessandro Juliani",
+        "Christopher Gaze",
+        "Steve Marvel",
+        "Susan Roman"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 103310,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/0/1/1/44011-barbie-as-the-island-princess-0-230-0-345-crop.jpg?v=2862709ca4",
+      "url": "https://letterboxd.com/film/barbie-as-the-island-princess/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "beauty-and-the-beast-2017",
+      "title": "Beauty and the Beast",
+      "year": "2017",
+      "genres": [
+        "Fantasy",
+        "Family",
+        "Romance"
+      ],
+      "directors": [
+        "Bill Condon"
+      ],
+      "actors": [
+        "Emma Watson",
+        "Dan Stevens",
+        "Luke Evans",
+        "Kevin Kline",
+        "Emma Thompson",
+        "Ewan McGregor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.22,
+      "rating_count": 812977,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/7/0/8/248708-beauty-and-the-beast-0-230-0-345-crop.jpg?v=998630b3dc",
+      "url": "https://letterboxd.com/film/beauty-and-the-beast-2017/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "russian-ark",
+      "title": "Russian Ark",
+      "year": "2002",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Aleksandr Sokurov"
+      ],
+      "actors": [
+        "Sergey Dreyden",
+        "Mariya Kuznetsova",
+        "Leonid Mozgovoy",
+        "Mikhail Piotrovsky",
+        "Edisher (Davit) Giorgobiani",
+        "Aleksandr Chaban"
+      ],
+      "countries": [
+        "Germany",
+        "Russia"
+      ],
+      "rating": 3.84,
+      "rating_count": 38572,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/4/5/8/41458-russian-ark-0-230-0-345-crop.jpg?v=7260dc0e17",
+      "url": "https://letterboxd.com/film/russian-ark/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Family": 36,
+      "Fantasy": 29,
+      "Animation": 26,
+      "Romance": 18,
+      "Adventure": 17,
+      "Comedy": 13,
+      "Drama": 11,
+      "Action": 4,
+      "History": 3,
+      "TV Movie": 1,
+      "Horror": 1
+    },
+    "directors": {
+      "John Musker": 4,
+      "Ron Clements": 4,
+      "Clyde Geronimi": 3,
+      "Wilfred Jackson": 3,
+      "Greg Richardson": 3,
+      "Owen Hurley": 3,
+      "Peter Jackson": 3,
+      "Hamilton Luske": 2,
+      "Garry Marshall": 2,
+      "Andrew Adamson": 2,
+      "Kevin Lima": 1,
+      "Byron Howard": 1,
+      "Nathan Greno": 1,
+      "William Lau": 1,
+      "Gary Trousdale": 1,
+      "Kirk Wise": 1,
+      "Mark Andrews": 1,
+      "Brenda Chapman": 1,
+      "Kenneth Branagh": 1,
+      "Andy Tennant": 1
+    },
+    "years": {
+      "1937": 1,
+      "1950": 1,
+      "1951": 1,
+      "1953": 1,
+      "1959": 1,
+      "1986": 1,
+      "1987": 1,
+      "1989": 1,
+      "1991": 1,
+      "1992": 2,
+      "1997": 1,
+      "1998": 2,
+      "2001": 4,
+      "2002": 3,
+      "2003": 2,
+      "2004": 5,
+      "2005": 1,
+      "2006": 3,
+      "2007": 3,
+      "2008": 1,
+      "2009": 2,
+      "2010": 1,
+      "2011": 1,
+      "2012": 2,
+      "2013": 1,
+      "2015": 1,
+      "2016": 2,
+      "2017": 1,
+      "2020": 1,
+      "2021": 1
+    }
+  }
+}

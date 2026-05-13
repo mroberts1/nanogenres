@@ -1,0 +1,106 @@
+[search] https://letterboxd.com/search/lists/old+money/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/patriciogarcia/list/old-money/
+[list] https://letterboxd.com/millieblack/list/old-money/
+[list] https://letterboxd.com/curlz_/list/old-money/
+[list] https://letterboxd.com/iulia_tnr/list/old-money/
+[list] https://letterboxd.com/scoutsie/list/old-money/
+[list] https://letterboxd.com/lexielle/list/old-money/
+[list] https://letterboxd.com/suntemple/list/old-money/
+[list] https://letterboxd.com/marlenedamikha/list/old-money/
+[list] https://letterboxd.com/leopc/list/old-money/
+[list] https://letterboxd.com/romanebrblpz/list/old-money/
+    1/60 The Talented Mr. Ripley (1999) x8 — Crime, Thriller, Drama
+    2/60 Titanic (1997) x6 — Drama, Romance
+    3/60 Cruel Intentions (1999) x6 — Romance, Drama
+    4/60 High Society (1956) x6 — Romance, Music, Comedy
+    5/60 Brideshead Revisited (1981) x5 — Drama
+    6/60 Gosford Park (2001) x5 — Mystery, Drama, Thriller
+    7/60 The Royal Tenenbaums (2001) x5 — Drama, Comedy
+    8/60 The Great Gatsby (2013) x5 — Drama, Romance
+    9/60 Metropolitan (1990) x5 — Romance, Comedy, Drama
+   10/60 Maurice (1987) x4 — Drama, Romance
+   11/60 Atonement (2007) x4 — Romance, Drama
+   12/60 Clueless (1995) x4 — Comedy, Romance
+   13/60 The Parent Trap (1998) x4 — Family, Romance, Comedy
+   14/60 Roman Holiday (1953) x4 — Romance, Comedy, Drama
+   15/60 The Princess Diaries 2: Royal Engagement (2004) x4 — Romance, Family, Drama, Comedy
+   16/60 The Philadelphia Story (1940) x4 — Romance, Comedy
+   17/60 Gone with the Wind (1939) x4 — War, Romance, Drama
+   18/60 The Princess Diaries (2001) x4 — Comedy, Romance, Family
+   19/60 Café Society (2016) x4 — Drama, Romance, Comedy
+   20/60 Breakfast at Tiffany's (1961) x4 — Romance, Drama, Comedy
+   21/60 To Catch a Thief (1955) x4 — Romance, Thriller, Mystery
+   22/60 Blue Jasmine (2013) x4 — Drama
+   23/60 I Am Love (2009) x4 — Drama, Romance
+   24/60 The Godfather (1972) x4 — Crime, Drama
+   25/60 Jackie (2016) x4 — Drama
+   26/60 Emma. (2020) x3 — Drama, Romance, Comedy
+   27/60 Pride & Prejudice (2005) x3 — Drama, Romance
+   28/60 A Rainy Day in New York (2019) x3 — Comedy, Romance
+   29/60 The Age of Innocence (1993) x3 — Romance, Drama
+   30/60 The Sound of Music (1965) x3 — Drama, Music, Romance, Family
+   31/60 Marie Antoinette (2006) x3 — History, Drama
+   32/60 Romeo + Juliet (1996) x3 — Romance, Drama
+   33/60 Midnight in Paris (2011) x3 — Comedy, Fantasy, Romance
+   34/60 Sabrina (1954) x3 — Comedy, Romance, Drama
+   35/60 Mona Lisa Smile (2003) x3 — Romance, History, Drama
+   36/60 Casino (1995) x3 — Crime, Drama
+   37/60 The Wolf of Wall Street (2013) x3 — Comedy, Drama, Crime
+   38/60 Purple Noon (1960) x3 — Crime, Drama, Thriller
+   39/60 Ocean's Eleven (2001) x3 — Thriller, Crime
+   40/60 Renoir (2012) x2 — Drama, Romance
+   41/60 The Secret Garden (1993) x2 — Drama, Fantasy, Family
+   42/60 A Midsummer Night's Dream (1999) x2 — Comedy, Fantasy, Romance
+   43/60 Another Country (1984) x2 — Drama, Romance
+   44/60 Portrait of a Lady on Fire (2019) x2 — Drama, Romance
+   45/60 Orlando (1992) x2 — Drama, Fantasy
+   46/60 A Room with a View (1986) x2 — Romance, Drama
+   47/60 Melancholia (2011) x2 — Drama, Science Fiction
+   48/60 House of Tolerance (2011) x2 — Drama
+   49/60 Stealing Beauty (1996) x2 — Romance, Drama
+   50/60 The Bostonians (1984) x2 — Romance, Drama
+   51/60 Death in Venice (1971) x2 — Drama
+   52/60 The Leopard (1963) x2 — Drama
+   53/60 Claire's Knee (1970) x2 — Romance, Drama
+   54/60 Magic in the Moonlight (2014) x2 — Comedy, Drama, Romance
+   55/60 Coco Before Chanel (2009) x2 — History, Drama
+   56/60 The Rules of the Game (1939) x2 — Drama, Comedy, Romance
+   57/60 The Innocent (1976) x2 — Drama, Romance
+   58/60 Dear Brother (1991) x2 — Animation, Drama
+   59/60 Picnic at Hanging Rock (1975) x2 — Mystery, Drama
+   60/60 Colette (2018) x2 — History, Drama
+
+[done] /root/letterboxd-nanogenres/data/old-money.json
+{
+  "slug": "old-money",
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "The Talented Mr. Ripley",
+      "1999",
+      8
+    ],
+    [
+      "Titanic",
+      "1997",
+      6
+    ],
+    [
+      "Cruel Intentions",
+      "1999",
+      6
+    ],
+    [
+      "High Society",
+      "1956",
+      6
+    ],
+    [
+      "Brideshead Revisited",
+      "1981",
+      5
+    ]
+  ]
+}

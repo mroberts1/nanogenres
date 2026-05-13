@@ -1,0 +1,25 @@
+[search] https://letterboxd.com/search/lists/regencycore/
+[search] 2 candidates -> 2 relevant (rejected low-quality=0, off-topic=2)
+[list] https://letterboxd.com/zenaadh/list/regency-core/
+[list] https://letterboxd.com/nkstanley/list/baroque-regency-core/
+    1/2 Pride & Prejudice (2005) x2 — Drama, Romance
+    2/2 Sense and Sensibility (1995) x2 — Drama, Romance
+
+[done] /root/letterboxd-nanogenres/data/regencycore.json
+{
+  "slug": "regencycore",
+  "lists_used": 2,
+  "canonical_films": 2,
+  "top_5": [
+    [
+      "Pride & Prejudice",
+      "2005",
+      2
+    ],
+    [
+      "Sense and Sensibility",
+      "1995",
+      2
+    ]
+  ]
+}

@@ -1,0 +1,1299 @@
+{
+  "query": "light academia",
+  "slug": "light-academia",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/eklinge/list/light-academia/",
+      "user": "eklinge",
+      "slug": "light-academia",
+      "title": "Light academia",
+      "desc": "ok so keira knightley ..",
+      "owner": "List by tintinesque",
+      "tags": []
+    },
+    {
+      "href": "/martinslisbon/list/light-academia/",
+      "user": "martinslisbon",
+      "slug": "light-academia",
+      "title": "light academia",
+      "desc": "martins 🎧 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by martins 🎧 PATRON",
+      "tags": []
+    },
+    {
+      "href": "/saintizabel/list/light-academia/",
+      "user": "saintizabel",
+      "slug": "light-academia",
+      "title": "Light Academia",
+      "desc": "Molly is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Molly Allen",
+      "tags": []
+    },
+    {
+      "href": "/iamareejinal/list/light-academia/",
+      "user": "iamareejinal",
+      "slug": "light-academia",
+      "title": "light academia?",
+      "desc": "comedies or coming of age films that talk about school or films where the main characters are super smart and nerdy, my favorite genre",
+      "owner": "List by areej.",
+      "tags": []
+    },
+    {
+      "href": "/lavaagrl/list/light-academia/",
+      "user": "lavaagrl",
+      "slug": "light-academia",
+      "title": "Light academia",
+      "desc": "lavaagrl is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by lavaagrl",
+      "tags": []
+    },
+    {
+      "href": "/bellak/list/light-academia/",
+      "user": "bellak",
+      "slug": "light-academia",
+      "title": "light academia",
+      "desc": "bella :) is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by bella :) PRO",
+      "tags": []
+    },
+    {
+      "href": "/curlz_/list/light-academia/",
+      "user": "curlz_",
+      "slug": "light-academia",
+      "title": "light academia",
+      "desc": "curlz_ is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by curlz_",
+      "tags": []
+    },
+    {
+      "href": "/theundecidedcat/list/light-academia/",
+      "user": "theundecidedcat",
+      "slug": "light-academia",
+      "title": "Light Academia",
+      "desc": "For all those light academia vibes 🍂🗞🥨🧋🧥🕯🎻☀️📖✨🥐🕰",
+      "owner": "List by Cat Bergman",
+      "tags": [
+        "light-academia",
+        "academia",
+        "aesthetic"
+      ]
+    },
+    {
+      "href": "/romanebrblpz/list/light-academia/",
+      "user": "romanebrblpz",
+      "slug": "light-academia",
+      "title": "Light academia",
+      "desc": "Enamor ⋆ is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Enamor ⋆",
+      "tags": [
+        "academia",
+        "aesthetic"
+      ]
+    }
+  ],
+  "source_list_count": 9,
+  "films_considered": 169,
+  "canonical_count": 39,
+  "films": [
+    {
+      "slug": "pride-prejudice",
+      "title": "Pride & Prejudice",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Joe Wright"
+      ],
+      "actors": [
+        "Keira Knightley",
+        "Matthew Macfadyen",
+        "Brenda Blethyn",
+        "Rosamund Pike",
+        "Carey Mulligan",
+        "Jena Malone"
+      ],
+      "countries": [
+        "France",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 2092648,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nq/jo/26/tn/dAC0hkYmz5ZOCHURZCyj9isPMPd-0-230-0-345-crop.jpg?v=b3dac3ffd7",
+      "url": "https://letterboxd.com/film/pride-prejudice/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "sense-and-sensibility",
+      "title": "Sense and Sensibility",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Ang Lee"
+      ],
+      "actors": [
+        "Emma Thompson",
+        "Kate Winslet",
+        "Alan Rickman",
+        "Hugh Grant",
+        "Gemma Jones",
+        "Greg Wise"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.86,
+      "rating_count": 219474,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/3/2/49232-sense-and-sensibility-0-230-0-345-crop.jpg?v=15cebc0b43",
+      "url": "https://letterboxd.com/film/sense-and-sensibility/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "emma-2020",
+      "title": "Emma.",
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Autumn de Wilde"
+      ],
+      "actors": [
+        "Anya Taylor-Joy",
+        "Johnny Flynn",
+        "Josh O'Connor",
+        "Callum Turner",
+        "Mia Goth",
+        "Miranda Hart"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.72,
+      "rating_count": 486494,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/2/1/2/485212-emma-2020-0-230-0-345-crop.jpg?v=cdefc40f32",
+      "url": "https://letterboxd.com/film/emma-2020/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "little-women-2019",
+      "title": "Little Women",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Greta Gerwig"
+      ],
+      "actors": [
+        "Saoirse Ronan",
+        "Emma Watson",
+        "Florence Pugh",
+        "Eliza Scanlen",
+        "Laura Dern",
+        "Timothée Chalamet"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.18,
+      "rating_count": 2797340,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/r4/np/q5/te/mSmiB8XjUnR1GSIljuCPGsk0cwX-0-230-0-345-crop.jpg?v=b3f603929c",
+      "url": "https://letterboxd.com/film/little-women-2019/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "picnic-at-hanging-rock",
+      "title": "Picnic at Hanging Rock",
+      "year": "1975",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Weir"
+      ],
+      "actors": [
+        "Rachel Roberts",
+        "Vivean Gray",
+        "Helen Morse",
+        "Kirsty Child",
+        "Tony Llewellyn-Jones",
+        "Jacki Weaver"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "rating": 3.82,
+      "rating_count": 125454,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3k/2b/j9/o8/R1C3mLnyC7LbWoH3mhT3ZZZobv-0-230-0-345-crop.jpg?v=facefec0d5",
+      "url": "https://letterboxd.com/film/picnic-at-hanging-rock/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "call-me-by-your-name",
+      "title": "Call Me by Your Name",
+      "year": "2017",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Luca Guadagnino"
+      ],
+      "actors": [
+        "Armie Hammer",
+        "Timothée Chalamet",
+        "Michael Stuhlbarg",
+        "Amira Casar",
+        "Esther Garrel",
+        "Victoire du Bois"
+      ],
+      "countries": [
+        "Brazil",
+        "France",
+        "Italy",
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 2974442,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g9/9t/cc/7u/tcNniniS4rfqrLH0oORikJfnIwY-0-230-0-345-crop.jpg?v=f0c073f2b4",
+      "url": "https://letterboxd.com/film/call-me-by-your-name/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "atonement",
+      "title": "Atonement",
+      "year": "2007",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Joe Wright"
+      ],
+      "actors": [
+        "James McAvoy",
+        "Keira Knightley",
+        "Saoirse Ronan",
+        "Romola Garai",
+        "Vanessa Redgrave",
+        "Brenda Blethyn"
+      ],
+      "countries": [
+        "France",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 742005,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/44/vx/ah/pc/quaWuwYZd8IbZMCOhW3CZEvyCWJ-0-230-0-345-crop.jpg?v=690eaa9389",
+      "url": "https://letterboxd.com/film/atonement/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "marie-antoinette-2006",
+      "title": "Marie Antoinette",
+      "year": "2006",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Kirsten Dunst",
+        "Jason Schwartzman",
+        "Steve Coogan",
+        "Judy Davis",
+        "Rip Torn",
+        "Asia Argento"
+      ],
+      "countries": [
+        "Japan",
+        "USA",
+        "France"
+      ],
+      "rating": 3.73,
+      "rating_count": 783900,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/k7/u1/3i/lu/xOdzoe3tC8X1v7M2Z86sdfjpVrO-0-230-0-345-crop.jpg?v=4b6cfecbaf",
+      "url": "https://letterboxd.com/film/marie-antoinette-2006/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "mona-lisa-smile",
+      "title": "Mona Lisa Smile",
+      "year": "2003",
+      "genres": [
+        "Romance",
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Mike Newell"
+      ],
+      "actors": [
+        "Julia Roberts",
+        "Kirsten Dunst",
+        "Julia Stiles",
+        "Maggie Gyllenhaal",
+        "Ginnifer Goodwin",
+        "Dominic West"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 224467,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/8/0/44980-mona-lisa-smile-0-230-0-345-crop.jpg?v=7fc9077d12",
+      "url": "https://letterboxd.com/film/mona-lisa-smile/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-favourite",
+      "title": "The Favourite",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "History"
+      ],
+      "directors": [
+        "Yorgos Lanthimos"
+      ],
+      "actors": [
+        "Emma Stone",
+        "Olivia Colman",
+        "Rachel Weisz",
+        "Nicholas Hoult",
+        "Joe Alwyn",
+        "Mark Gatiss"
+      ],
+      "countries": [
+        "Ireland",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 922874,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/0/7/0/5/310705-the-favourite-0-230-0-345-crop.jpg?v=c5488e37ef",
+      "url": "https://letterboxd.com/film/the-favourite/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "anna-karenina-2012",
+      "title": "Anna Karenina",
+      "year": "2012",
+      "genres": [
+        "Romance",
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Joe Wright"
+      ],
+      "actors": [
+        "Keira Knightley",
+        "Jude Law",
+        "Aaron Taylor-Johnson",
+        "Matthew Macfadyen",
+        "Eric MacLennan",
+        "Kelly Macdonald"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.57,
+      "rating_count": 215548,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/7/8/5/79785-anna-karenina-0-230-0-345-crop.jpg?v=e401d1472d",
+      "url": "https://letterboxd.com/film/anna-karenina-2012/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "anne-of-green-gables-1985-1",
+      "title": "Anne of Green Gables",
+      "year": "1985",
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "directors": [
+        "Kevin Sullivan"
+      ],
+      "actors": [
+        "Megan Follows",
+        "Colleen Dewhurst",
+        "Richard Farnsworth",
+        "Jonathan Crombie",
+        "Charmion King",
+        "Schuyler Grant"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 4.24,
+      "rating_count": 25197,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/5/8/8/4/1065884-anne-of-green-gables-0-230-0-345-crop.jpg?v=e650e75c5b",
+      "url": "https://letterboxd.com/film/anne-of-green-gables-1985-1/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-beguiled-2017",
+      "title": "The Beguiled",
+      "year": "2017",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Colin Farrell",
+        "Nicole Kidman",
+        "Kirsten Dunst",
+        "Elle Fanning",
+        "Oona Laurence",
+        "Angourie Rice"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.34,
+      "rating_count": 182296,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rq/93/gp/2u/uQxfqFAqAvNK5b1wD11b2ycDAVg-0-230-0-345-crop.jpg?v=c259bde0ff",
+      "url": "https://letterboxd.com/film/the-beguiled-2017/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "maurice",
+      "title": "Maurice",
+      "year": "1987",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "James Ivory"
+      ],
+      "actors": [
+        "James Wilby",
+        "Hugh Grant",
+        "Rupert Graves",
+        "Denholm Elliott",
+        "Simon Callow",
+        "Billie Whitelaw"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 137651,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/6/2/35362-maurice-0-230-0-345-crop.jpg?v=dc2857734d",
+      "url": "https://letterboxd.com/film/maurice/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "dead-poets-society",
+      "title": "Dead Poets Society",
+      "year": "1989",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Peter Weir"
+      ],
+      "actors": [
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke",
+        "Josh Charles",
+        "Gale Hansen",
+        "Dylan Kussman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.35,
+      "rating_count": 3566043,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/6/51846-dead-poets-society-0-230-0-345-crop.jpg?v=9273e8acf7",
+      "url": "https://letterboxd.com/film/dead-poets-society/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-theory-of-everything-2014",
+      "title": "The Theory of Everything",
+      "year": "2014",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "James Marsh"
+      ],
+      "actors": [
+        "Eddie Redmayne",
+        "Felicity Jones",
+        "Charlie Cox",
+        "Emily Watson",
+        "Simon McBurney",
+        "David Thewlis"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.63,
+      "rating_count": 652525,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/0/0/7/7/190077-the-theory-of-everything-0-230-0-345-crop.jpg?v=d1c034cf99",
+      "url": "https://letterboxd.com/film/the-theory-of-everything-2014/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "becoming-jane",
+      "title": "Becoming Jane",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Julian Jarrold"
+      ],
+      "actors": [
+        "Anne Hathaway",
+        "James McAvoy",
+        "Julie Walters",
+        "James Cromwell",
+        "Maggie Smith",
+        "Joe Anderson"
+      ],
+      "countries": [
+        "UK",
+        "Ireland"
+      ],
+      "rating": 3.43,
+      "rating_count": 72953,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/9/8/2/49982-becoming-jane-0-230-0-345-crop.jpg?v=47c3276353",
+      "url": "https://letterboxd.com/film/becoming-jane/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-dig-2021",
+      "title": "The Dig",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Simon Stone"
+      ],
+      "actors": [
+        "Carey Mulligan",
+        "Ralph Fiennes",
+        "Lily James",
+        "Johnny Flynn",
+        "Ben Chaplin",
+        "Ken Stott"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.37,
+      "rating_count": 96235,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/2/0/6/3/462063-the-dig-0-230-0-345-crop.jpg?v=69f157877e",
+      "url": "https://letterboxd.com/film/the-dig-2021/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-danish-girl",
+      "title": "The Danish Girl",
+      "year": "2015",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Tom Hooper"
+      ],
+      "actors": [
+        "Eddie Redmayne",
+        "Alicia Vikander",
+        "Matthias Schoenaerts",
+        "Ben Whishaw",
+        "Sebastian Koch",
+        "Pip Torrens"
+      ],
+      "countries": [
+        "Belgium",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.42,
+      "rating_count": 250551,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/3/8/2/4/233824-the-danish-girl-0-230-0-345-crop.jpg?v=4a7f08aa40",
+      "url": "https://letterboxd.com/film/the-danish-girl/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-duchess",
+      "title": "The Duchess",
+      "year": "2008",
+      "genres": [
+        "History",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Saul Dibb"
+      ],
+      "actors": [
+        "Keira Knightley",
+        "Ralph Fiennes",
+        "Charlotte Rampling",
+        "Dominic Cooper",
+        "Hayley Atwell",
+        "Simon McBurney"
+      ],
+      "countries": [
+        "Italy",
+        "UK",
+        "France"
+      ],
+      "rating": 3.36,
+      "rating_count": 61488,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/2/9/8/44298-the-duchess-0-230-0-345-crop.jpg?v=e9499a0677",
+      "url": "https://letterboxd.com/film/the-duchess/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "howards-end",
+      "title": "Howards End",
+      "year": "1992",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "James Ivory"
+      ],
+      "actors": [
+        "Emma Thompson",
+        "Helena Bonham Carter",
+        "Anthony Hopkins",
+        "Samuel West",
+        "Vanessa Redgrave",
+        "Adrian Ross Magenty"
+      ],
+      "countries": [
+        "UK",
+        "Japan"
+      ],
+      "rating": 3.72,
+      "rating_count": 30443,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/1/4/47814-howards-end-0-230-0-345-crop.jpg?v=753cabeec1",
+      "url": "https://letterboxd.com/film/howards-end/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-secret-garden-1993",
+      "title": "The Secret Garden",
+      "year": "1993",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Family"
+      ],
+      "directors": [
+        "Agnieszka Holland"
+      ],
+      "actors": [
+        "Kate Maberly",
+        "Heydon Prowse",
+        "Andrew Knott",
+        "Maggie Smith",
+        "Irène Jacob",
+        "Laura Crossley"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 96090,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/7/3/45473-the-secret-garden-0-230-0-345-crop.jpg?v=975f9d337c",
+      "url": "https://letterboxd.com/film/the-secret-garden-1993/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "tuck-everlasting",
+      "title": "Tuck Everlasting",
+      "year": "2002",
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Jay Russell"
+      ],
+      "actors": [
+        "Alexis Bledel",
+        "William Hurt",
+        "Sissy Spacek",
+        "Jonathan Jackson",
+        "Scott Bairstow",
+        "Ben Kingsley"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.14,
+      "rating_count": 41180,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/6/1/3/43613-tuck-everlasting-0-230-0-345-crop.jpg?v=04566adda8",
+      "url": "https://letterboxd.com/film/tuck-everlasting/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "persuasion-2022",
+      "title": "Persuasion",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Carrie Cracknell"
+      ],
+      "actors": [
+        "Dakota Johnson",
+        "Cosmo Jarvis",
+        "Henry Golding",
+        "Richard E. Grant",
+        "Nikki Amuka-Bird",
+        "Ben Bailey Smith"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 2.42,
+      "rating_count": 133256,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/7/1/5/5/737155-persuasion-0-230-0-345-crop.jpg?v=bc9dd15d47",
+      "url": "https://letterboxd.com/film/persuasion-2022/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "colette-2018",
+      "title": "Colette",
+      "year": "2018",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Wash Westmoreland"
+      ],
+      "actors": [
+        "Keira Knightley",
+        "Dominic West",
+        "Denise Gough",
+        "Fiona Shaw",
+        "Robert Pugh",
+        "Eleanor Tomlinson"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 50625,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/6/6/2/0/386620-colette-0-230-0-345-crop.jpg?v=74bf0315bb",
+      "url": "https://letterboxd.com/film/colette-2018/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mansfield-park",
+      "title": "Mansfield Park",
+      "year": "1999",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Patricia Rozema"
+      ],
+      "actors": [
+        "Frances O'Connor",
+        "Jonny Lee Miller",
+        "Alessandro Nivola",
+        "Hannah Taylor-Gordon",
+        "Lindsay Duncan",
+        "James Purefoy"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.12,
+      "rating_count": 18715,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/2/6/7/46267-mansfield-park-0-230-0-345-crop.jpg?v=9cc675301d",
+      "url": "https://letterboxd.com/film/mansfield-park/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-age-of-innocence",
+      "title": "The Age of Innocence",
+      "year": "1993",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Daniel Day-Lewis",
+        "Michelle Pfeiffer",
+        "Winona Ryder",
+        "Alexis Smith",
+        "Geraldine Chaplin",
+        "Jonathan Pryce"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.81,
+      "rating_count": 149544,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ya/m4/xj/mi/36euuWA31TtH5E8TRZJRvdZ9pP-0-230-0-345-crop.jpg?v=fad43e88d7",
+      "url": "https://letterboxd.com/film/the-age-of-innocence/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "northanger-abbey-2007",
+      "title": "Northanger Abbey",
+      "year": "2007",
+      "genres": [
+        "TV Movie",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Jon Jones"
+      ],
+      "actors": [
+        "Felicity Jones",
+        "Carey Mulligan",
+        "JJ Feild",
+        "Geraldine James",
+        "Sylvestra Le Touzel",
+        "Desmond Barrit"
+      ],
+      "countries": [
+        "Ireland",
+        "UK"
+      ],
+      "rating": 3.47,
+      "rating_count": 15862,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/5/8/5/40585-northanger-abbey-0-230-0-345-crop.jpg?v=bc2804d9ac",
+      "url": "https://letterboxd.com/film/northanger-abbey-2007/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "little-women-1994",
+      "title": "Little Women",
+      "year": "1994",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Gillian Armstrong"
+      ],
+      "actors": [
+        "Winona Ryder",
+        "Trini Alvarado",
+        "Samantha Mathis",
+        "Kirsten Dunst",
+        "Claire Danes",
+        "Christian Bale"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.89,
+      "rating_count": 202640,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/1/4/47014-little-women-0-230-0-345-crop.jpg?v=ca29177bf5",
+      "url": "https://letterboxd.com/film/little-women-1994/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-perks-of-being-a-wallflower",
+      "title": "The Perks of Being a Wallflower",
+      "year": "2012",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Stephen Chbosky"
+      ],
+      "actors": [
+        "Logan Lerman",
+        "Emma Watson",
+        "Ezra Miller",
+        "Mae Whitman",
+        "Kate Walsh",
+        "Dylan McDermott"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 3149572,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/3/8/71338-the-perks-of-being-a-wallflower-0-230-0-345-crop.jpg?v=f2235860f7",
+      "url": "https://letterboxd.com/film/the-perks-of-being-a-wallflower/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "kill-your-darlings-2013",
+      "title": "Kill Your Darlings",
+      "year": "2013",
+      "genres": [
+        "Romance",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "John Krokidas"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Dane DeHaan",
+        "Michael C. Hall",
+        "Jack Huston",
+        "Ben Foster",
+        "David Cross"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 120838,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dj/4z/u4/3d/j9437B8S3UzDG80WFJRpzIvhPo9-0-230-0-345-crop.jpg?v=0eb09943e3",
+      "url": "https://letterboxd.com/film/kill-your-darlings-2013/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "a-room-with-a-view",
+      "title": "A Room with a View",
+      "year": "1986",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "James Ivory"
+      ],
+      "actors": [
+        "Helena Bonham Carter",
+        "Julian Sands",
+        "Maggie Smith",
+        "Denholm Elliott",
+        "Daniel Day-Lewis",
+        "Simon Callow"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.71,
+      "rating_count": 78474,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/5/6/45456-a-room-with-a-view-0-230-0-345-crop.jpg?v=3c64c6d8f1",
+      "url": "https://letterboxd.com/film/a-room-with-a-view/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-guernsey-literary-potato-peel-pie-society",
+      "title": "The Guernsey Literary & Potato Peel Pie Society",
+      "year": "2018",
+      "genres": [
+        "History",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Mike Newell"
+      ],
+      "actors": [
+        "Lily James",
+        "Jessica Brown Findlay",
+        "Matthew Goode",
+        "Michiel Huisman",
+        "Katherine Parkinson",
+        "Glen Powell"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "France"
+      ],
+      "rating": 3.46,
+      "rating_count": 79965,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/6/8/4/383684-the-guernsey-literary-and-potato-peel-pie-society-0-230-0-345-crop.jpg?v=4b7d0bc93c",
+      "url": "https://letterboxd.com/film/the-guernsey-literary-potato-peel-pie-society/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "enola-holmes",
+      "title": "Enola Holmes",
+      "year": "2020",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Adventure"
+      ],
+      "directors": [
+        "Harry Bradbeer"
+      ],
+      "actors": [
+        "Millie Bobby Brown",
+        "Henry Cavill",
+        "Sam Claflin",
+        "Helena Bonham Carter",
+        "Louis Partridge",
+        "Adeel Akhtar"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.15,
+      "rating_count": 960011,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/8/5/2/427852-enola-holmes-0-230-0-345-crop.jpg?v=319e1769a5",
+      "url": "https://letterboxd.com/film/enola-holmes/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hidden-figures",
+      "title": "Hidden Figures",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "directors": [
+        "Theodore Melfi"
+      ],
+      "actors": [
+        "Taraji P. Henson",
+        "Octavia Spencer",
+        "Janelle Monáe",
+        "Kevin Costner",
+        "Kirsten Dunst",
+        "Jim Parsons"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.9,
+      "rating_count": 676797,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/1/2/316312-hidden-figures-0-230-0-345-crop.jpg?v=d40f6cc31a",
+      "url": "https://letterboxd.com/film/hidden-figures/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hugo",
+      "title": "Hugo",
+      "year": "2011",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Asa Butterfield",
+        "Ben Kingsley",
+        "Chloë Grace Moretz",
+        "Sacha Baron Cohen",
+        "Ray Winstone",
+        "Emily Mortimer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.51,
+      "rating_count": 459754,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kp/9v/8u/7j/rSmmVKeW3nsP86V2S6R7ePs4CFw-0-230-0-345-crop.jpg?v=2e7a1b811a",
+      "url": "https://letterboxd.com/film/hugo/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "whiplash-2014",
+      "title": "Whiplash",
+      "year": "2014",
+      "genres": [
+        "Drama",
+        "Music",
+        "Thriller"
+      ],
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "actors": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Paul Reiser",
+        "Melissa Benoist",
+        "Austin Stowell",
+        "Nate Lang"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.42,
+      "rating_count": 4339812,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cl/dn/kr/f1/4C9LHDxMsoYI0S3iMPZdm3Oevwo-0-230-0-345-crop.jpg?v=d13ea36528",
+      "url": "https://letterboxd.com/film/whiplash-2014/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "wonder-2017",
+      "title": "Wonder",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "directors": [
+        "Stephen Chbosky"
+      ],
+      "actors": [
+        "Jacob Tremblay",
+        "Julia Roberts",
+        "Owen Wilson",
+        "Izabela Vidovic",
+        "Noah Jupe",
+        "Millie Davis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.59,
+      "rating_count": 646402,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/1/4/4/0/341440-wonder-0-230-0-345-crop.jpg?v=a73db5a6e9",
+      "url": "https://letterboxd.com/film/wonder-2017/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "persuasion",
+      "title": "Persuasion",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Roger Michell"
+      ],
+      "actors": [
+        "Amanda Root",
+        "Ciarán Hinds",
+        "Susan Fleetwood",
+        "Corin Redgrave",
+        "Fiona Shaw",
+        "John Woodvine"
+      ],
+      "countries": [
+        "France",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.68,
+      "rating_count": 12711,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/2/5/8/41258-persuasion-0-230-0-345-crop.jpg?v=b73ba96652",
+      "url": "https://letterboxd.com/film/persuasion/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 38,
+      "Romance": 23,
+      "History": 9,
+      "Family": 5,
+      "Comedy": 3,
+      "Mystery": 2,
+      "Fantasy": 2,
+      "Thriller": 2,
+      "Adventure": 2,
+      "TV Movie": 1,
+      "Crime": 1,
+      "Music": 1
+    },
+    "directors": {
+      "Joe Wright": 3,
+      "James Ivory": 3,
+      "Peter Weir": 2,
+      "Sofia Coppola": 2,
+      "Mike Newell": 2,
+      "Martin Scorsese": 2,
+      "Stephen Chbosky": 2,
+      "Ang Lee": 1,
+      "Autumn de Wilde": 1,
+      "Greta Gerwig": 1,
+      "Luca Guadagnino": 1,
+      "Yorgos Lanthimos": 1,
+      "Kevin Sullivan": 1,
+      "James Marsh": 1,
+      "Julian Jarrold": 1,
+      "Simon Stone": 1,
+      "Tom Hooper": 1,
+      "Saul Dibb": 1,
+      "Agnieszka Holland": 1,
+      "Jay Russell": 1
+    },
+    "years": {
+      "1975": 1,
+      "1985": 1,
+      "1986": 1,
+      "1987": 1,
+      "1989": 1,
+      "1992": 1,
+      "1993": 2,
+      "1994": 1,
+      "1995": 2,
+      "1999": 1,
+      "2002": 1,
+      "2003": 1,
+      "2005": 1,
+      "2006": 1,
+      "2007": 3,
+      "2008": 1,
+      "2011": 1,
+      "2012": 2,
+      "2013": 1,
+      "2014": 2,
+      "2015": 1,
+      "2016": 1,
+      "2017": 3,
+      "2018": 3,
+      "2019": 1,
+      "2020": 2,
+      "2021": 1,
+      "2022": 1
+    }
+  }
+}

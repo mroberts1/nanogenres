@@ -1,0 +1,11 @@
+[search] https://letterboxd.com/search/lists/vacationcore/
+[search] 3 candidates -> 1 relevant (rejected low-quality=0, off-topic=2)
+[list] https://letterboxd.com/dempsey/list/vacationcore/
+
+[done] /root/letterboxd-nanogenres/data/vacationcore.json
+{
+  "slug": "vacationcore",
+  "lists_used": 1,
+  "canonical_films": 0,
+  "top_5": []
+}

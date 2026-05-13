@@ -1,0 +1,42 @@
+#!/bin/bash
+# Round 6 — light-academia + 7 TikTok-era aesthetic tags.
+# All run with --no-strict from the start, 60s sleeps.
+set -u
+cd "$(dirname "$0")/.."
+mkdir -p scrape_logs
+
+PHRASES=(
+  "light academia"
+  "balletcore"
+  "whimsigoth"
+  "regencycore"
+  "old money"
+  "gorpcore"
+  "princesscore"
+  "vacationcore"
+)
+
+for phrase in "${PHRASES[@]}"; do
+  slug=$(echo "$phrase" | tr '[:upper:] ' '[:lower:]-')
+  log="scrape_logs/r6-${slug}.log"
+  rm -f "/root/letterboxd-nanogenres/data/${slug}.json"
+  echo "=== $(date -u +%H:%M:%S) --no-strict $phrase ==="
+  .venv/bin/python scrapers/scrape_nanogenre.py "$phrase" \
+    --max-lists 10 --min-films 5 --no-strict > "$log" 2>&1
+  tail -5 "$log"
+  echo "--- sleeping 60s ---"
+  sleep 60
+done
+
+echo "=== r6 complete ==="
+echo "--- summary ---"
+for phrase in "${PHRASES[@]}"; do
+  slug=$(echo "$phrase" | tr '[:upper:] ' '[:lower:]-')
+  f="/root/letterboxd-nanogenres/data/${slug}.json"
+  if [ -f "$f" ]; then
+    cnt=$(python3 -c "import json; print(len(json.load(open('$f'))['films']))" 2>/dev/null)
+    echo "  ${slug}: ${cnt} films"
+  else
+    echo "  ${slug}: NO FILE"
+  fi
+done

@@ -1,0 +1,96 @@
+[search] https://letterboxd.com/search/lists/princesscore/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=7)
+[list] https://letterboxd.com/annakate01/list/princesscore/
+[list] https://letterboxd.com/izsitay/list/princesscore/
+[list] https://letterboxd.com/silvanafreedamn/list/princesscore/
+[list] https://letterboxd.com/sapphicfairy333/list/princesscore/
+[list] https://letterboxd.com/magical_girl_/list/princesscore/
+[list] https://letterboxd.com/nickschmitt123/list/princesscore/
+[list] https://letterboxd.com/mimatcha/list/princesscore/
+[list] https://letterboxd.com/onepercent/list/princesscore-vibe/
+[list] https://letterboxd.com/vabusm/list/royalcore-princesscore/
+[list] https://letterboxd.com/shemisseswhite/list/im-just-a-girl-princesscore/
+  drop (only 2 films) /shemisseswhite/list/im-just-a-girl-princesscore/
+    1/49 Sleeping Beauty (1959) x7 — Romance, Family, Fantasy, Animation
+    2/49 Enchanted (2007) x6 — Family, Fantasy, Comedy, Romance
+    3/49 Tangled (2010) x6 — Family, Adventure, Animation
+    4/49 Aladdin (1992) x5 — Fantasy, Adventure, Romance, Family, Animation
+    5/49 Barbie as The Princess & the Pauper (2004) x5 — Comedy, Animation, Family
+    6/49 Beauty and the Beast (1991) x5 — Romance, Animation, Fantasy, Family
+    7/49 Brave (2012) x5 — Animation, Family, Fantasy, Adventure
+    8/49 Cinderella (1950) x5 — Fantasy, Romance, Animation, Family
+    9/49 Cinderella (2015) x5 — Fantasy, Romance, Family, Drama
+   10/49 Ever After (1998) x5 — Romance, Comedy, Drama
+   11/49 Frozen (2013) x5 — Fantasy, Animation, Adventure, Family
+   12/49 Snow White and the Seven Dwarfs (1937) x5 — Family, Fantasy, Animation
+   13/49 The Princess and the Frog (2009) x5 — Romance, Family, Animation, Fantasy
+   14/49 The Princess Bride (1987) x5 — Adventure, Fantasy, Comedy, Family, Romance
+   15/49 Ella Enchanted (2004) x5 — Comedy, Fantasy, Family
+   16/49 Marie Antoinette (2006) x5 — History, Drama
+   17/49 Anastasia (1997) x4 — Adventure, Animation, Fantasy, Family
+   18/49 Barbie in the 12 Dancing Princesses (2006) x4 — Family, Animation
+   19/49 Princess Protection Program (2009) x4 — Drama, TV Movie, Comedy, Family
+   20/49 The Little Mermaid (1989) x4 — Family, Animation, Fantasy
+   21/49 Barbie as Rapunzel (2002) x4 — Family, Animation
+   22/49 Barbie and the Magic of Pegasus (2005) x3 — Animation, Romance, Family
+   23/49 Roman Holiday (1953) x3 — Romance, Comedy, Drama
+   24/49 The Princess Diaries (2001) x3 — Comedy, Romance, Family
+   25/49 Howl's Moving Castle (2004) x3 — Animation, Fantasy, Adventure
+   26/49 The Lord of the Rings: The Fellowship of the Ring (2001) x3 — Adventure, Action, Fantasy
+   27/49 Shrek 2 (2004) x3 — Family, Comedy, Romance, Animation, Fantasy
+   28/49 Barbie: Princess Charm School (2011) x3 — Fantasy, Family, Animation
+   29/49 Moana (2016) x2 — Animation, Adventure, Family, Comedy
+   30/49 Mulan (1998) x2 — Family, Animation, Adventure
+   31/49 Spencer (2021) x2 — Drama
+   32/49 The Princess Diaries 2: Royal Engagement (2004) x2 — Romance, Family, Drama, Comedy
+   33/49 Orlando (1992) x2 — Drama, Fantasy
+   34/49 Emma. (2020) x2 — Drama, Romance, Comedy
+   35/49 Anna Karenina (2012) x2 — Romance, History, Drama
+   36/49 Stardust (2007) x2 — Romance, Family, Adventure, Fantasy
+   37/49 Eragon (2006) x2 — Family, Adventure, Fantasy, Action
+   38/49 The Lord of the Rings: The Two Towers (2002) x2 — Action, Fantasy, Adventure
+   39/49 The Lord of the Rings: The Return of the King (2003) x2 — Action, Fantasy, Adventure
+   40/49 Shrek (2001) x2 — Adventure, Fantasy, Family, Animation, Comedy
+   41/49 Barbie of Swan Lake (2003) x2 — Family, Animation
+   42/49 Barbie in the Nutcracker (2001) x2 — Animation, Family
+   43/49 Barbie and the Diamond Castle (2008) x2 — Animation, Family
+   44/49 The Curse of Sleeping Beauty (2016) x2 — Horror, Fantasy
+   45/49 Alice in Wonderland (1951) x2 — Fantasy, Animation, Family, Adventure
+   46/49 Labyrinth (1986) x2 — Adventure, Family, Fantasy
+   47/49 Barbie as the Island Princess (2007) x2 — Animation, Family
+   48/49 Beauty and the Beast (2017) x2 — Fantasy, Family, Romance
+   49/49 Russian Ark (2002) x2 — Fantasy, Drama, History
+
+[done] /root/letterboxd-nanogenres/data/princesscore.json
+{
+  "slug": "princesscore",
+  "lists_used": 9,
+  "canonical_films": 49,
+  "top_5": [
+    [
+      "Sleeping Beauty",
+      "1959",
+      7
+    ],
+    [
+      "Enchanted",
+      "2007",
+      6
+    ],
+    [
+      "Tangled",
+      "2010",
+      6
+    ],
+    [
+      "Aladdin",
+      "1992",
+      5
+    ],
+    [
+      "Barbie as The Princess & the Pauper",
+      "2004",
+      5
+    ]
+  ]
+}

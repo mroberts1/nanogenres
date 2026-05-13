@@ -1,0 +1,86 @@
+[search] https://letterboxd.com/search/lists/light+academia/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/eklinge/list/light-academia/
+[list] https://letterboxd.com/martinslisbon/list/light-academia/
+[list] https://letterboxd.com/saintizabel/list/light-academia/
+[list] https://letterboxd.com/iamareejinal/list/light-academia/
+[list] https://letterboxd.com/lavaagrl/list/light-academia/
+[list] https://letterboxd.com/bellak/list/light-academia/
+[list] https://letterboxd.com/curlz_/list/light-academia/
+[list] https://letterboxd.com/theundecidedcat/list/light-academia/
+[list] https://letterboxd.com/romanebrblpz/list/light-academia/
+[list] https://letterboxd.com/letmesayyesss/list/light-academia/
+  drop (only 1 films) /letmesayyesss/list/light-academia/
+    1/39 Pride & Prejudice (2005) x7 — Drama, Romance
+    2/39 Sense and Sensibility (1995) x6 — Drama, Romance
+    3/39 Emma. (2020) x6 — Drama, Romance, Comedy
+    4/39 Little Women (2019) x6 — Drama, Romance
+    5/39 Picnic at Hanging Rock (1975) x4 — Mystery, Drama
+    6/39 Call Me by Your Name (2017) x4 — Romance, Drama
+    7/39 Atonement (2007) x4 — Romance, Drama
+    8/39 Marie Antoinette (2006) x4 — History, Drama
+    9/39 Mona Lisa Smile (2003) x4 — Romance, History, Drama
+   10/39 The Favourite (2018) x3 — Drama, Comedy, History
+   11/39 Anna Karenina (2012) x3 — Romance, History, Drama
+   12/39 Anne of Green Gables (1985) x3 — Family, Drama
+   13/39 The Beguiled (2017) x3 — Drama
+   14/39 Maurice (1987) x3 — Drama, Romance
+   15/39 Dead Poets Society (1989) x3 — Drama
+   16/39 The Theory of Everything (2014) x3 — Romance, Drama
+   17/39 Becoming Jane (2007) x3 — Drama, Romance
+   18/39 The Dig (2021) x2 — Drama, History
+   19/39 The Danish Girl (2015) x2 — Drama
+   20/39 The Duchess (2008) x2 — History, Romance, Drama
+   21/39 Howards End (1992) x2 — Drama, Romance
+   22/39 The Secret Garden (1993) x2 — Drama, Fantasy, Family
+   23/39 Tuck Everlasting (2002) x2 — Family, Fantasy, Drama, Romance
+   24/39 Persuasion (2022) x2 — Drama, Comedy, Romance
+   25/39 Colette (2018) x2 — History, Drama
+   26/39 Mansfield Park (1999) x2 — Drama, Romance
+   27/39 The Age of Innocence (1993) x2 — Romance, Drama
+   28/39 Northanger Abbey (2007) x2 — TV Movie, Romance, Drama
+   29/39 Little Women (1994) x2 — Romance, Drama
+   30/39 The Perks of Being a Wallflower (2012) x2 — Drama
+   31/39 Kill Your Darlings (2013) x2 — Romance, Thriller, Drama
+   32/39 A Room with a View (1986) x2 — Romance, Drama
+   33/39 The Guernsey Literary & Potato Peel Pie Society (2018) x2 — History, Drama, Romance
+   34/39 Enola Holmes (2020) x2 — Mystery, Crime, Adventure
+   35/39 Hidden Figures (2016) x2 — Drama, History
+   36/39 Hugo (2011) x2 — Adventure, Family, Drama
+   37/39 Whiplash (2014) x2 — Drama, Music, Thriller
+   38/39 Wonder (2017) x2 — Drama, Family
+   39/39 Persuasion (1995) x2 — Drama, Romance
+
+[done] /root/letterboxd-nanogenres/data/light-academia.json
+{
+  "slug": "light-academia",
+  "lists_used": 9,
+  "canonical_films": 39,
+  "top_5": [
+    [
+      "Pride & Prejudice",
+      "2005",
+      7
+    ],
+    [
+      "Sense and Sensibility",
+      "1995",
+      6
+    ],
+    [
+      "Emma.",
+      "2020",
+      6
+    ],
+    [
+      "Little Women",
+      "2019",
+      6
+    ],
+    [
+      "Picnic at Hanging Rock",
+      "1975",
+      4
+    ]
+  ]
+}

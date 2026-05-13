@@ -1,0 +1,94 @@
+[search] https://letterboxd.com/search/lists/balletcore/
+[search] 19 candidates -> 10 relevant (rejected low-quality=0, off-topic=8)
+[list] https://letterboxd.com/pero_lyke/list/balletcore/
+[list] https://letterboxd.com/earth2brie/list/balletcore/
+  drop (only 2 films) /earth2brie/list/balletcore/
+[list] https://letterboxd.com/marsy_thestar/list/balletcore/
+[list] https://letterboxd.com/dianaaaa_/list/balletcore/
+  drop (only 2 films) /dianaaaa_/list/balletcore/
+[list] https://letterboxd.com/romanebrblpz/list/balletcore/
+[list] https://letterboxd.com/heavymetalheart/list/lana-del-lolita-dolly-femcel-morute-coquette/
+  drop (1607 films > max) /heavymetalheart/list/lana-del-lolita-dolly-femcel-morute-coquette/
+[list] https://letterboxd.com/virtualangelina/list/yes-babe-ur-so-esoteric-gods-favorite-virtual/
+[list] https://letterboxd.com/dumplinqs/list/coquette-masterlist-3-balletcore/
+[list] https://letterboxd.com/beforethecats/list/balletcore/
+[list] https://letterboxd.com/_misshelenn/list/balletcore/
+    1/45 Black Swan (2010) x6 — Drama, Thriller, Horror
+    2/45 The Red Shoes (1948) x6 — Drama, Romance
+    3/45 Center Stage (2000) x4 — Drama, Music
+    4/45 Polina (2016) x3 — Drama
+    5/45 A Ballerina's Tale (2015) x3 — Documentary
+    6/45 Ballets Russes (2005) x3 — Documentary
+    7/45 Ballet Shoes (2007) x3 — Family, Drama
+    8/45 Flesh and Bone (2015) x3 — Drama
+    9/45 The Company (2003) x3 — Music, Romance, Drama
+   10/45 Suspiria (2018) x3 — Horror, Mystery, Drama
+   11/45 Girl (2018) x3 — Drama
+   12/45 Ballerina (2023) x3 — Action, Thriller
+   13/45 Barbie of Swan Lake (2003) x3 — Family, Animation
+   14/45 Barbie in the Nutcracker (2001) x3 — Animation, Family
+   15/45 Barbie in the 12 Dancing Princesses (2006) x3 — Family, Animation
+   16/45 Restless Creature: Wendy Whelan (2017) x2 — Documentary
+   17/45 Secundaria (2014) x2 — Documentary
+   18/45 Princess Tutu (2002) x2 — Drama, Animation, Mystery
+   19/45 Flight of the Swan (1992) x2 — Drama
+   20/45 Ballerina (2016) x2 — Adventure, Animation, Comedy, Family
+   21/45 Darling (2017) x2 — Drama
+   22/45 Billy Elliot (2000) x2 — Drama, Music, Comedy
+   23/45 Nijinsky (1980) x2 — Drama, Romance, Music
+   24/45 The Turning Point (1977) x2 — Drama, Romance
+   25/45 First Position (2011) x2 — Documentary
+   26/45 Ballet 422 (2014) x2 — Music, Documentary
+   27/45 Pina (2011) x2 — Documentary
+   28/45 Limelight (1952) x2 — Drama, Music, Comedy, Romance
+   29/45 Dancers (1987) x2 — Comedy, Drama
+   30/45 Mao’s Last Dancer (2009) x2 — Romance, Drama
+   31/45 Silk Stockings (1957) x2 — Music, Comedy, Romance
+   32/45 Getting to the Nutcracker (2014) x2 — Documentary, Family
+   33/45 Afternoon of a Faun: Tanaquil Le Clercq (2014) x2 — Documentary
+   34/45 The Dancer (2016) x2 — History, Drama
+   35/45 The White Crow (2018) x2 — Drama
+   36/45 White Nights (1985) x2 — Drama, Thriller
+   37/45 Save the Last Dance (2001) x2 — Family, Music, Romance, Drama
+   38/45 I Am a Dancer (1972) x2 — Documentary
+   39/45 The Children of Theatre Street (1977) x2 — Documentary
+   40/45 The Dying Swan (1925) x2 — 
+   41/45 Suspiria (1977) x2 — Horror
+   42/45 Birds of Paradise (2021) x2 — Drama
+   43/45 Barbie in the Pink Shoes (2013) x2 — Family, Animation
+   44/45 Red Sparrow (2018) x2 — Mystery, Thriller
+   45/45 Barbie in The Pink Shoes: The Land of Sweets (2013) x2 — Animation
+
+[done] /root/letterboxd-nanogenres/data/balletcore.json
+{
+  "slug": "balletcore",
+  "lists_used": 7,
+  "canonical_films": 45,
+  "top_5": [
+    [
+      "Black Swan",
+      "2010",
+      6
+    ],
+    [
+      "The Red Shoes",
+      "1948",
+      6
+    ],
+    [
+      "Center Stage",
+      "2000",
+      4
+    ],
+    [
+      "Polina",
+      "2016",
+      3
+    ],
+    [
+      "A Ballerina's Tale",
+      "2015",
+      3
+    ]
+  ]
+}
