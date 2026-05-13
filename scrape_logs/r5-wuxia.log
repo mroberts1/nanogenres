@@ -1,0 +1,106 @@
+[search] https://letterboxd.com/search/lists/wuxia/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/kudos/list/wuxia/
+[list] https://letterboxd.com/swyers/list/wuxia/
+[list] https://letterboxd.com/chiniana/list/wuxia/
+[list] https://letterboxd.com/igorcristiano/list/wuxia/
+[list] https://letterboxd.com/genasai/list/wuxia/
+[list] https://letterboxd.com/weirdermovies/list/wuxia/
+[list] https://letterboxd.com/ivarius/list/wuxia/
+[list] https://letterboxd.com/julibrise/list/wuxia/
+[list] https://letterboxd.com/andrewjohnbundy/list/wuxia/
+[list] https://letterboxd.com/vicwatchesmovie/list/wuxia/
+    1/60 Dragon Inn (1967) x8 — Adventure, Action
+    2/60 Crouching Tiger, Hidden Dragon (2000) x8 — Drama, Romance, Action, Adventure
+    3/60 Come Drink with Me (1966) x7 — Action, Adventure
+    4/60 The One-Armed Swordsman (1967) x7 — Action, Drama
+    5/60 A Touch of Zen (1970) x7 — Fantasy, Adventure, Action
+    6/60 A Chinese Ghost Story (1987) x7 — Fantasy, Action, Horror
+    7/60 The Legend of the Swordsman (1992) x7 — Fantasy, Action, Adventure
+    8/60 Ashes of Time (1994) x7 — Action, Drama
+    9/60 The Blade (1995) x7 — Action
+   10/60 Hero (2002) x7 — Adventure, Drama, Action, History
+   11/60 House of Flying Daggers (2004) x7 — Drama, Action, Adventure
+   12/60 The Assassin (2015) x7 — Action, Drama
+   13/60 Killer Clans (1976) x6 — Drama, Action
+   14/60 Legend of the Mountain (1979) x6 — Mystery, Horror, Fantasy
+   15/60 The Butterfly Murders (1979) x6 — Fantasy, Action, Mystery, Horror, Thriller
+   16/60 Zu: Warriors from the Magic Mountain (1983) x6 — Fantasy, Action, Adventure, Comedy
+   17/60 Golden Swallow (1968) x5 — Action, Adventure, Romance
+   18/60 The Heroic Ones (1970) x5 — Action, History, Drama
+   19/60 Raining in the Mountain (1979) x5 — Action, Adventure, Drama
+   20/60 Detective Dee and the Mystery of the Phantom Flame (2010) x5 — Drama, Adventure, Action, Mystery
+   21/60 Journey to the West: Conquering the Demons (2013) x5 — Adventure, Comedy, Action, Fantasy
+   22/60 The Sentimental Swordsman (1977) x4 — Drama, Adventure, Action
+   23/60 Last Hurrah for Chivalry (1979) x4 — Drama, Action
+   24/60 The Sword (1980) x4 — Action
+   25/60 The Miracle Fighters (1982) x4 — Comedy, Action, Fantasy
+   26/60 A Chinese Odyssey Part One: Pandora's Box (1995) x4 — Fantasy, Action, Romance, Comedy, Adventure
+   27/60 Dragon (2011) x4 — Thriller, Drama, Action
+   28/60 Duel to the Death (1983) x4 — Action, Drama, Romance, Fantasy
+   29/60 Reign of Assassins (2010) x4 — Action, Adventure
+   30/60 The Bride with White Hair (1993) x4 — Fantasy, Action, Drama
+   31/60 Butterfly and Sword (1993) x4 — Action, Adventure, Fantasy
+   32/60 Shadow (2018) x4 — Action, War
+   33/60 The Fastest Sword (1968) x4 — Action, Adventure
+   34/60 Swordsman (1990) x4 — Adventure, Action
+   35/60 New Dragon Gate Inn (1992) x4 — Thriller, Action
+   36/60 Swordsman III: The East Is Red (1993) x4 — Romance, Action
+   37/60 Flying Swords of Dragon Gate (2011) x4 — Drama, Action, Adventure
+   38/60 A Chinese Ghost Story II (1990) x4 — Fantasy, Action, Comedy, Horror
+   39/60 Intimate Confessions of a Chinese Courtesan (1972) x3 — Drama, Action
+   40/60 Crippled Avengers (1978) x3 — Action, Drama
+   41/60 Red Cliff (2008) x3 — Drama, History, Action, War, Adventure
+   42/60 Deadful Melody (1994) x3 — Fantasy, Science Fiction, Action
+   43/60 The Twin Swords (1965) x3 — History, Action
+   44/60 The Silent Swordsman (1967) x3 — Action
+   45/60 The Silver Fox (1968) x3 — Adventure, Action
+   46/60 Return of the One-Armed Swordsman (1969) x3 — Adventure, Action
+   47/60 Have Sword, Will Travel (1969) x3 — Adventure, Action, Romance
+   48/60 The Golden Knight (1970) x3 — Action
+   49/60 King Eagle (1971) x3 — Action
+   50/60 The New One-Armed Swordsman (1971) x3 — History, Action, Drama, War
+   51/60 Duel for Gold (1971) x3 — Action
+   52/60 The 14 Amazons (1972) x3 — Action, Adventure, War
+   53/60 Clan of Amazons (1978) x3 — Action
+   54/60 Heaven Sword and Dragon Sabre (1978) x3 — Action, Fantasy, Drama
+   55/60 The Legend (1993) x3 — Action, Adventure, Comedy
+   56/60 The Legend II (1993) x3 — Action, Adventure, Comedy
+   57/60 The White Dragon (2004) x3 — Romance, Fantasy, Action, Drama, Comedy, Adventure
+   58/60 Seven Swords (2005) x3 — Action, Drama
+   59/60 Curse of the Golden Flower (2006) x3 — Fantasy, Drama, Action
+   60/60 The Forbidden Kingdom (2008) x3 — Fantasy, Action, Adventure
+
+[done] /root/letterboxd-nanogenres/data/wuxia.json
+{
+  "slug": "wuxia",
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Dragon Inn",
+      "1967",
+      8
+    ],
+    [
+      "Crouching Tiger, Hidden Dragon",
+      "2000",
+      8
+    ],
+    [
+      "Come Drink with Me",
+      "1966",
+      7
+    ],
+    [
+      "The One-Armed Swordsman",
+      "1967",
+      7
+    ],
+    [
+      "A Touch of Zen",
+      "1970",
+      7
+    ]
+  ]
+}

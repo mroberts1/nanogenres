@@ -1,0 +1,106 @@
+[search] https://letterboxd.com/search/lists/coquette/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/claraoakt/list/coquette/
+[list] https://letterboxd.com/perkoeater33/list/coquette/
+[list] https://letterboxd.com/aaonaz/list/coquette/
+[list] https://letterboxd.com/lauralana/list/coquette/
+[list] https://letterboxd.com/cultclass1c/list/coquette/
+[list] https://letterboxd.com/cris00/list/coquette/
+[list] https://letterboxd.com/theundecidedcat/list/coquette/
+[list] https://letterboxd.com/cityofgods/list/coquette/
+[list] https://letterboxd.com/sugarvanilla/list/coquette/
+[list] https://letterboxd.com/vaistia/list/coquette/
+    1/60 Black Swan (2010) x9 — Drama, Thriller, Horror
+    2/60 Marie Antoinette (2006) x9 — History, Drama
+    3/60 The Virgin Suicides (1999) x8 — Romance, Drama
+    4/60 Buffalo '66 (1998) x7 — Drama, Comedy, Romance
+    5/60 The Crush (1993) x7 — Thriller, Drama
+    6/60 Lolita (1997) x6 — Romance, Drama
+    7/60 Clueless (1995) x5 — Comedy, Romance
+    8/60 Heathers (1989) x5 — Comedy, Crime
+    9/60 Little Women (2019) x5 — Drama, Romance
+   10/60 Jawbreaker (1999) x5 — Comedy, Thriller, Crime
+   11/60 Valley of the Dolls (1967) x5 — Romance, Drama
+   12/60 The Love Witch (2016) x5 — Romance, Horror, Comedy, Fantasy
+   13/60 Lolita (1962) x5 — Comedy, Drama
+   14/60 Pearl (2022) x5 — Horror
+   15/60 Priscilla (2023) x5 — Drama, Romance
+   16/60 Picnic at Hanging Rock (1975) x5 — Mystery, Drama
+   17/60 American Beauty (1999) x5 — Drama
+   18/60 Valerie and Her Week of Wonders (1970) x5 — Drama, Horror, Fantasy, Adventure
+   19/60 Girl, Interrupted (1999) x5 — Drama
+   20/60 Sixteen Candles (1984) x4 — Romance, Comedy
+   21/60 Jennifer's Body (2009) x4 — Horror, Comedy
+   22/60 Emma. (2020) x4 — Drama, Romance, Comedy
+   23/60 The Craft (1996) x4 — Horror, Fantasy, Drama
+   24/60 Lady Bird (2017) x4 — Comedy, Drama
+   25/60 The Beguiled (2017) x4 — Drama
+   26/60 An Education (2009) x4 — Drama, Romance
+   27/60 White Oleander (2002) x4 — Drama
+   28/60 Palo Alto (2013) x4 — Drama
+   29/60 Marie, the Doll (1976) x4 — Drama
+   30/60 Sugar & Spice (2001) x4 — Crime, Drama, Comedy
+   31/60 But I'm a Cheerleader (1999) x3 — Romance, Drama, Comedy
+   32/60 Mean Girls (2004) x3 — Comedy, Drama
+   33/60 K-12 (2019) x3 — Fantasy
+   34/60 Romeo + Juliet (1996) x3 — Romance, Drama
+   35/60 Candy (1968) x3 — Fantasy, Adventure, Comedy
+   36/60 American Honey (2016) x3 — Drama
+   37/60 Léon: The Professional (1994) x3 — Crime, Action, Drama
+   38/60 The Dreamers (2003) x3 — Drama, Romance
+   39/60 Poison Ivy (1992) x3 — Thriller, Drama
+   40/60 The Amy Fisher Story (1993) x3 — Thriller, TV Movie, Crime, Drama
+   41/60 Baby Doll (1956) x3 — Drama
+   42/60 Hick (2011) x3 — Drama, Comedy
+   43/60 I Believe in Unicorns (2014) x3 — Drama
+   44/60 Frances Ha (2012) x3 — Comedy, Drama
+   45/60 Last Night in Soho (2021) x3 — Horror, Mystery
+   46/60 Daisies (1966) x3 — Comedy, Drama
+   47/60 The Queen's Gambit (2020) x2 — Drama
+   48/60 The Princess Diaries 2: Royal Engagement (2004) x2 — Romance, Family, Drama, Comedy
+   49/60 Pretty in Pink (1986) x2 — Romance, Drama
+   50/60 Roman Holiday (1953) x2 — Romance, Comedy, Drama
+   51/60 Jackie (2016) x2 — Drama
+   52/60 Darling (1965) x2 — Drama, Romance
+   53/60 Mermaids (1990) x2 — Drama, Romance, Comedy
+   54/60 Tropico (2013) x2 — Music, Drama, Fantasy
+   55/60 Cruel Intentions (1999) x2 — Romance, Drama
+   56/60 X (2022) x2 — Horror
+   57/60 Demonlover (2002) x2 — Thriller, Mystery, Drama
+   58/60 Smooth Talk (1985) x2 — Drama, Thriller
+   59/60 Never Been Kissed (1999) x2 — Drama, Comedy, Romance
+   60/60 The Lover (1992) x2 — Drama, Romance
+
+[done] /root/letterboxd-nanogenres/data/coquette.json
+{
+  "slug": "coquette",
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Black Swan",
+      "2010",
+      9
+    ],
+    [
+      "Marie Antoinette",
+      "2006",
+      9
+    ],
+    [
+      "The Virgin Suicides",
+      "1999",
+      8
+    ],
+    [
+      "Buffalo '66",
+      "1998",
+      7
+    ],
+    [
+      "The Crush",
+      "1993",
+      7
+    ]
+  ]
+}

@@ -1,0 +1,80 @@
+[search] https://letterboxd.com/search/lists/coastal+grandmother/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/cberlin98/list/coastal-grandmother/
+[list] https://letterboxd.com/joanspaulding/list/coastal-grandmother/
+[list] https://letterboxd.com/gaberod26/list/coastal-grandmother/
+[list] https://letterboxd.com/laurennorris/list/coastal-grandmother/
+[list] https://letterboxd.com/latenightbus/list/coastal-grandmother/
+[list] https://letterboxd.com/sarahsalloum/list/coastal-grandmother/
+[list] https://letterboxd.com/amleighmil/list/coastal-grandmother/
+[list] https://letterboxd.com/gabriellindsay/list/coastal-grandmother/
+[list] https://letterboxd.com/sillyklorpy/list/coastal-grandmother/
+[list] https://letterboxd.com/hancreighton9/list/coastal-grandmother/
+    1/34 Something's Gotta Give (2003) x10 — Romance, Comedy, Drama
+    2/34 It's Complicated (2009) x9 — Romance, Comedy
+    3/34 Mamma Mia! (2008) x7 — Comedy, Romance
+    4/34 Because I Said So (2007) x7 — Comedy, Romance
+    5/34 Under the Tuscan Sun (2003) x6 — Romance, Comedy
+    6/34 Book Club (2018) x5 — Drama, Comedy, Romance
+    7/34 The First Wives Club (1996) x5 — Comedy
+    8/34 Father of the Bride (1991) x5 — Drama, Romance, Comedy
+    9/34 The Other Woman (2014) x5 — Comedy, Romance
+   10/34 The Parent Trap (1998) x5 — Family, Romance, Comedy
+   11/34 Julie & Julia (2009) x5 — Romance, Drama
+   12/34 Letters to Juliet (2010) x5 — Comedy, Romance, Drama
+   13/34 The Women (2008) x4 — Drama, Comedy
+   14/34 Nights in Rodanthe (2008) x4 — Drama, Romance
+   15/34 The Family Stone (2005) x3 — Romance, Comedy, Drama
+   16/34 Monster-in-Law (2005) x3 — Comedy, Romance
+   17/34 The Big Wedding (2013) x3 — Comedy
+   18/34 Rumor Has It... (2005) x3 — Comedy, Romance
+   19/34 Spanglish (2004) x3 — Drama, Comedy
+   20/34 How Stella Got Her Groove Back (1998) x3 — Drama, Comedy, Romance
+   21/34 Home Again (2017) x3 — Comedy, Romance, Drama
+   22/34 Book Club: The Next Chapter (2023) x3 — Comedy, Romance
+   23/34 Maybe I Do (2023) x3 — Comedy, Romance, Drama
+   24/34 The Sisterhood of the Traveling Pants (2005) x3 — Drama, Comedy, Romance
+   25/34 Jumping the Broom (2011) x2 — Comedy
+   26/34 Mack & Rita (2022) x2 — Comedy, Fantasy, Drama
+   27/34 You've Got Mail (1998) x2 — Romance, Comedy
+   28/34 When Harry Met Sally... (1989) x2 — Drama, Romance, Comedy
+   29/34 Notting Hill (1999) x2 — Comedy, Romance
+   30/34 How to Lose a Guy in 10 Days (2003) x2 — Comedy, Romance
+   31/34 Message in a Bottle (1999) x2 — Romance, Drama
+   32/34 The Last Song (2010) x2 — Drama, Romance, Family
+   33/34 The Holiday (2006) x2 — Comedy, Romance
+   34/34 The Notebook (2004) x2 — Romance, Drama
+
+[done] /root/letterboxd-nanogenres/data/coastal-grandmother.json
+{
+  "slug": "coastal-grandmother",
+  "lists_used": 10,
+  "canonical_films": 34,
+  "top_5": [
+    [
+      "Something's Gotta Give",
+      "2003",
+      10
+    ],
+    [
+      "It's Complicated",
+      "2009",
+      9
+    ],
+    [
+      "Mamma Mia!",
+      "2008",
+      7
+    ],
+    [
+      "Because I Said So",
+      "2007",
+      7
+    ],
+    [
+      "Under the Tuscan Sun",
+      "2003",
+      6
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+[search] https://letterboxd.com/search/lists/chaos+cinema/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=2)
+[list] https://letterboxd.com/reesee17/list/chaos-cinema/
+[list] https://letterboxd.com/lise/list/chaos-cinema-shaky-cam-staccato-editing/
+[list] https://letterboxd.com/admire_film/list/a-new-category-of-film-id-personally-like/
+[list] https://letterboxd.com/nourbatman/list/capes-chaos-cinema/
+[list] https://letterboxd.com/pixelplanets/list/brad-pitt-films-where-the-last-15-minutes/
+  drop (only 4 films) /pixelplanets/list/brad-pitt-films-where-the-last-15-minutes/
+[list] https://letterboxd.com/nopenotthat/list/chaos-cinema/
+[list] https://letterboxd.com/shittyknight/list/chaos-cinematic-universe/
+[list] https://letterboxd.com/ifavis/list/sam-neill-hallucinatory-descent-into-chaos/
+  drop (only 3 films) /ifavis/list/sam-neill-hallucinatory-descent-into-chaos/
+[list] https://letterboxd.com/cremated/list/chaos-in-the-cinema/
+[list] https://letterboxd.com/julispagg/list/cozy-chaos-cinema/
+    1/9 Good Time (2017) x2 — Drama, Crime, Thriller
+    2/9 Sorry to Bother You (2018) x2 — Fantasy, Science Fiction, Comedy
+    3/9 Whiplash (2014) x2 — Drama, Music, Thriller
+    4/9 Black Swan (2010) x2 — Drama, Thriller, Horror
+    5/9 Uncut Gems (2019) x2 — Crime, Thriller, Drama
+    6/9 Mandy (2018) x2 — Horror, Fantasy, Action
+    7/9 mother! (2017) x2 — Drama, Horror
+    8/9 House (1977) x2 — Horror, Comedy, Fantasy
+    9/9 Scream 2 (1997) x2 — Horror, Mystery
+
+[done] /root/letterboxd-nanogenres/data/chaos-cinema.json
+{
+  "slug": "chaos-cinema",
+  "lists_used": 8,
+  "canonical_films": 9,
+  "top_5": [
+    [
+      "Good Time",
+      "2017",
+      2
+    ],
+    [
+      "Sorry to Bother You",
+      "2018",
+      2
+    ],
+    [
+      "Whiplash",
+      "2014",
+      2
+    ],
+    [
+      "Black Swan",
+      "2010",
+      2
+    ],
+    [
+      "Uncut Gems",
+      "2019",
+      2
+    ]
+  ]
+}

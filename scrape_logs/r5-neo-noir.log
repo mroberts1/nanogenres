@@ -1,0 +1,108 @@
+[search] https://letterboxd.com/search/lists/neo+noir/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/fight_professor/list/neo-noir/
+  drop (1051 films > max) /fight_professor/list/neo-noir/
+[list] https://letterboxd.com/screeningnotes/list/neo-noir/
+[list] https://letterboxd.com/jbutts15/list/neo-noir/
+  drop (840 films > max) /jbutts15/list/neo-noir/
+[list] https://letterboxd.com/margauxmac/list/neo-noir/
+[list] https://letterboxd.com/screenedchannel/list/neo-noir/
+[list] https://letterboxd.com/jameshowlett3/list/neo-noir/
+[list] https://letterboxd.com/youseekyoda/list/neo-noir/
+[list] https://letterboxd.com/saithkar/list/neo-noir/
+[list] https://letterboxd.com/alienf3tus/list/neo-noir/
+[list] https://letterboxd.com/angelnwingz/list/neo-noir/
+    1/60 Memento (2000) x8 — Thriller, Mystery
+    2/60 Chinatown (1974) x8 — Thriller, Mystery, Crime, Drama
+    3/60 Se7en (1995) x8 — Mystery, Crime, Thriller
+    4/60 L.A. Confidential (1997) x8 — Mystery, Crime, Thriller
+    5/60 Mulholland Drive (2001) x7 — Drama, Mystery, Thriller
+    6/60 Blade Runner (1982) x7 — Thriller, Drama, Science Fiction
+    7/60 Lost Highway (1997) x7 — Drama, Thriller, Mystery
+    8/60 The Long Goodbye (1973) x7 — Drama, Crime, Mystery
+    9/60 Taxi Driver (1976) x7 — Crime, Drama
+   10/60 Drive (2011) x7 — Thriller, Drama, Crime
+   11/60 Kiss Kiss Bang Bang (2005) x7 — Crime, Thriller, Mystery, Comedy
+   12/60 Basic Instinct (1992) x7 — Thriller, Mystery
+   13/60 Fargo (1996) x6 — Crime, Comedy, Drama, Thriller
+   14/60 Le Samouraï (1967) x6 — Drama, Thriller, Crime
+   15/60 Blue Velvet (1986) x6 — Crime, Mystery, Thriller
+   16/60 Memories of Murder (2003) x6 — Thriller, Crime, Drama
+   17/60 Oldboy (2003) x6 — Thriller, Mystery, Drama, Action
+   18/60 The Silence of the Lambs (1991) x6 — Crime, Thriller, Horror, Drama
+   19/60 Collateral (2004) x6 — Crime, Drama, Thriller
+   20/60 Jackie Brown (1997) x6 — Crime, Thriller, Drama
+   21/60 Zodiac (2007) x6 — Crime, Mystery, Thriller
+   22/60 Bound (1996) x6 — Crime, Thriller, Drama
+   23/60 Blood Simple (1984) x6 — Thriller, Crime, Drama
+   24/60 A History of Violence (2005) x6 — Thriller, Drama, Crime
+   25/60 Klute (1971) x6 — Thriller, Mystery, Crime, Drama
+   26/60 Heat (1995) x6 — Crime, Action, Drama
+   27/60 The Driver (1978) x6 — Action, Crime, Thriller
+   28/60 Insomnia (2002) x6 — Crime, Thriller, Drama
+   29/60 No Country for Old Men (2007) x5 — Crime, Thriller, Western
+   30/60 Under the Silver Lake (2018) x5 — Mystery, Crime, Drama
+   31/60 Fallen Angels (1995) x5 — Crime, Romance, Action
+   32/60 Fight Club (1999) x5 — Drama, Thriller
+   33/60 City of God (2002) x5 — Drama, Crime
+   34/60 Body Double (1984) x5 — Crime, Thriller, Mystery
+   35/60 Pulp Fiction (1994) x5 — Comedy, Thriller, Crime
+   36/60 Dressed to Kill (1980) x5 — Horror, Mystery, Thriller
+   37/60 Le Doulos (1962) x5 — Drama, Thriller, Crime
+   38/60 The Nice Guys (2016) x5 — Action, Comedy, Crime
+   39/60 Bonnie and Clyde (1967) x5 — Crime, Drama
+   40/60 Femme Fatale (2002) x5 — Thriller, Mystery, Crime
+   41/60 Manhunter (1986) x5 — Horror, Thriller, Crime
+   42/60 To Live and Die in L.A. (1985) x5 — Action, Crime, Thriller
+   43/60 Brick (2005) x5 — Mystery, Crime, Drama
+   44/60 The Dark Knight (2008) x5 — Thriller, Action, Crime
+   45/60 The Last Seduction (1994) x5 — Romance, Thriller, Crime, Drama
+   46/60 The Usual Suspects (1995) x5 — Thriller, Drama, Crime
+   47/60 Mystic River (2003) x5 — Mystery, Crime, Drama, Thriller
+   48/60 Gone Baby Gone (2007) x5 — Mystery, Crime, Drama
+   49/60 Shutter Island (2010) x5 — Mystery, Drama, Thriller
+   50/60 Body Heat (1981) x5 — Crime, Thriller
+   51/60 Nightcrawler (2014) x5 — Crime, Drama, Thriller
+   52/60 The Conversation (1974) x4 — Drama, Crime, Mystery
+   53/60 High and Low (1963) x4 — Thriller, Crime, Drama, Mystery
+   54/60 Inherent Vice (2014) x4 — Comedy, Drama, Mystery
+   55/60 The Bourne Identity (2002) x4 — Drama, Action, Thriller, Mystery
+   56/60 Blade Runner 2049 (2017) x4 — Science Fiction, Drama
+   57/60 American Psycho (2000) x4 — Crime, Drama, Thriller, Horror
+   58/60 Thief (1981) x4 — Thriller, Crime, Drama
+   59/60 Breathless (1960) x4 — Crime, Drama
+   60/60 The French Connection (1971) x4 — Crime, Action, Thriller
+
+[done] /root/letterboxd-nanogenres/data/neo-noir.json
+{
+  "slug": "neo-noir",
+  "lists_used": 8,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Memento",
+      "2000",
+      8
+    ],
+    [
+      "Chinatown",
+      "1974",
+      8
+    ],
+    [
+      "Se7en",
+      "1995",
+      8
+    ],
+    [
+      "L.A. Confidential",
+      "1997",
+      8
+    ],
+    [
+      "Mulholland Drive",
+      "2001",
+      7
+    ]
+  ]
+}

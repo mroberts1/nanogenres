@@ -1,0 +1,106 @@
+[search] https://letterboxd.com/search/lists/erotic+thriller/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/skyfalls/list/erotic-thriller/
+[list] https://letterboxd.com/dsuter8/list/erotic-thriller/
+[list] https://letterboxd.com/bobstroup/list/erotic-thriller/
+[list] https://letterboxd.com/pauliek/list/erotic-thriller/
+[list] https://letterboxd.com/billamuna/list/erotic-thriller/
+[list] https://letterboxd.com/easquith/list/erotic-thriller/
+[list] https://letterboxd.com/calebtee/list/erotic-thriller/
+[list] https://letterboxd.com/manudanino/list/erotic-thriller/
+[list] https://letterboxd.com/extra_meat/list/erotic-thriller/
+[list] https://letterboxd.com/naiaraaprecio/list/erotic-thriller/
+    1/60 Fatal Attraction (1987) x9 — Romance, Thriller, Drama
+    2/60 Basic Instinct (1992) x9 — Thriller, Mystery
+    3/60 Wild Things (1998) x8 — Thriller, Mystery, Drama
+    4/60 Eyes Wide Shut (1999) x8 — Thriller, Drama, Mystery
+    5/60 Sliver (1993) x7 — Drama, Thriller
+    6/60 The Last Seduction (1994) x7 — Romance, Thriller, Crime, Drama
+    7/60 Dressed to Kill (1980) x6 — Horror, Mystery, Thriller
+    8/60 Body Heat (1981) x6 — Crime, Thriller
+    9/60 Body Double (1984) x6 — Crime, Thriller, Mystery
+   10/60 The Handmaiden (2016) x6 — Thriller, Romance, Drama
+   11/60 Body of Evidence (1993) x5 — Drama, Thriller, Romance
+   12/60 Color of Night (1994) x5 — Mystery, Thriller, Romance
+   13/60 Disclosure (1994) x5 — Crime, Drama, Thriller
+   14/60 Jade (1995) x5 — Thriller, Mystery
+   15/60 Bound (1996) x5 — Crime, Thriller, Drama
+   16/60 Crash (1996) x5 — Thriller, Drama
+   17/60 A Perfect Murder (1998) x5 — Crime, Thriller, Drama
+   18/60 Femme Fatale (2002) x5 — Thriller, Mystery, Crime
+   19/60 Unfaithful (2002) x5 — Drama, Thriller, Romance
+   20/60 Fear (1996) x5 — Thriller
+   21/60 Mulholland Drive (2001) x5 — Drama, Mystery, Thriller
+   22/60 Crimes of Passion (1984) x4 — Thriller, Crime, Drama
+   23/60 Jagged Edge (1985) x4 — Thriller
+   24/60 Blue Velvet (1986) x4 — Crime, Mystery, Thriller
+   25/60 Sea of Love (1989) x4 — Crime, Drama, Romance
+   26/60 The Crush (1993) x4 — Thriller, Drama
+   27/60 Exotica (1994) x4 — Drama
+   28/60 Cruel Intentions (1999) x4 — Romance, Drama
+   29/60 Killing Me Softly (2002) x4 — Crime, Thriller
+   30/60 In the Cut (2003) x4 — Romance, Mystery, Thriller, Drama
+   31/60 Swimming Pool (2003) x4 — Crime, Thriller
+   32/60 Passion (2012) x4 — Mystery, Thriller, Drama, Crime
+   33/60 The Voyeurs (2021) x4 — Thriller
+   34/60 Poison Ivy (1992) x4 — Thriller, Drama
+   35/60 Gone Girl (2014) x4 — Drama, Mystery, Thriller
+   36/60 Single White Female (1992) x4 — Horror, Thriller
+   37/60 American Gigolo (1980) x3 — Mystery, Crime, Drama
+   38/60 9½ Weeks (1986) x3 — Romance, Drama
+   39/60 The Hot Spot (1990) x3 — Thriller, Crime, Romance
+   40/60 Romeo Is Bleeding (1993) x3 — Drama, Romance, Crime
+   41/60 Dream Lover (1994) x3 — Drama, Thriller, Mystery
+   42/60 Chloe (2009) x3 — Mystery, Thriller, Drama
+   43/60 The Canyons (2013) x3 — Thriller, Drama
+   44/60 Knife+Heart (2018) x3 — Horror, Mystery, Romance
+   45/60 Never Talk to Strangers (1995) x3 — Romance, Thriller
+   46/60 The Boy Next Door (2015) x3 — Thriller
+   47/60 The Swimming Pool (1969) x2 — Drama, Thriller
+   48/60 In the Realm of the Senses (1976) x2 — Romance, Drama
+   49/60 Cruising (1980) x2 — Thriller, Crime, Mystery
+   50/60 Bad Timing (1980) x2 — Thriller, Mystery, Drama
+   51/60 The 4th Man (1983) x2 — Thriller, Mystery
+   52/60 Law of Desire (1987) x2 — Comedy, Thriller, Romance, Drama
+   53/60 Dead Ringers (1988) x2 — Thriller, Horror
+   54/60 Bad Influence (1990) x2 — Thriller
+   55/60 Showgirls (1995) x2 — Drama
+   56/60 Lost Highway (1997) x2 — Drama, Thriller, Mystery
+   57/60 Secretary (2002) x2 — Comedy, Drama, Romance
+   58/60 Where the Truth Lies (2005) x2 — Thriller, Mystery, Drama
+   59/60 Lust, Caution (2007) x2 — Thriller, Drama, Romance, Action
+   60/60 The Housemaid (2010) x2 — Thriller, Drama
+
+[done] /root/letterboxd-nanogenres/data/erotic-thriller.json
+{
+  "slug": "erotic-thriller",
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Fatal Attraction",
+      "1987",
+      9
+    ],
+    [
+      "Basic Instinct",
+      "1992",
+      9
+    ],
+    [
+      "Wild Things",
+      "1998",
+      8
+    ],
+    [
+      "Eyes Wide Shut",
+      "1999",
+      8
+    ],
+    [
+      "Sliver",
+      "1993",
+      7
+    ]
+  ]
+}

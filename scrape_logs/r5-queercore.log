@@ -1,0 +1,108 @@
+[search] https://letterboxd.com/search/lists/queercore/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=2)
+[list] https://letterboxd.com/vanityrex/list/queercore/
+[list] https://letterboxd.com/shirley_subway/list/queercore/
+[list] https://letterboxd.com/godoffucc/list/queercore/
+[list] https://letterboxd.com/coast2coast/list/queercore/
+[list] https://letterboxd.com/limxjohn/list/queercore/
+[list] https://letterboxd.com/ajournalofsorts/list/queercore/
+  drop (only 4 films) /ajournalofsorts/list/queercore/
+[list] https://letterboxd.com/biipolaro4kaa/list/queercore/
+[list] https://letterboxd.com/mondo_boring/list/queercore/
+[list] https://letterboxd.com/tdiaz/list/queercore/
+[list] https://letterboxd.com/naivepierrot/list/queercore/
+  drop (only 1 films) /naivepierrot/list/queercore/
+    1/60 Flaming Creatures (1963) x6 — Comedy, Fantasy, Horror
+    2/60 Pink Flamingos (1972) x6 — Comedy, Crime
+    3/60 Female Trouble (1974) x6 — Comedy, Crime
+    4/60 No Skin Off My Ass (1991) x6 — Drama, Romance
+    5/60 Hustler White (1996) x6 — Romance, Comedy
+    6/60 The Raspberry Reich (2004) x6 — Comedy, Thriller, Drama, Action
+    7/60 Multiple Maniacs (1970) x5 — Crime, Comedy, Horror
+    8/60 Desperate Living (1977) x5 — Comedy, Crime
+    9/60 The Troublemakers (1990) x5 — 
+   10/60 The Yo-Yo Gang (1992) x5 — Comedy
+   11/60 The Living End (1992) x5 — Romance, Drama, Crime
+   12/60 Totally F***ed Up (1993) x5 — Romance, Drama, Comedy
+   13/60 Super 8½ (1994) x5 — 
+   14/60 QUEERCORE (a punk-u-mentary) (1997) x5 — Music, Documentary
+   15/60 She's Real (Worse than Queer) (1997) x5 — Documentary, Music
+   16/60 The Lollipop Generation (2008) x5 — Comedy
+   17/60 Blow Job (1964) x4 — Documentary
+   18/60 Mondo Trasho (1969) x4 — Comedy, Crime
+   19/60 Trash (1970) x4 — Drama
+   20/60 Women in Revolt (1971) x4 — Drama, Comedy
+   21/60 Can I Be Your Bratwurst, Please? (1999) x4 — Comedy, Horror
+   22/60 Luster (2002) x4 — Drama, Comedy
+   23/60 Rise Above: The Tribe 8 Documentary (2003) x4 — Music, Documentary
+   24/60 Pansy Division: Life in a Gay Rock Band (2008) x4 — Documentary, Music
+   25/60 The Advocate for Fagdom (2011) x4 — Documentary
+   26/60 She Said Boom: The Story of Fifth Column (2012) x4 — Documentary, Music
+   27/60 Codependent Lesbian Space Alien Seeks Same (2011) x4 — Science Fiction, Comedy, Romance
+   28/60 The Punk Singer (2013) x4 — Music, Documentary
+   29/60 Like Cattle Towards Glow (2015) x4 — Science Fiction, Drama
+   30/60 Spidarlings (2016) x4 — Comedy, Thriller, Music, Horror
+   31/60 Queercore: How to Punk a Revolution (2017) x4 — Documentary, Music
+   32/60 Fags in the Fast Lane (2017) x4 — Comedy, Action, Adventure
+   33/60 Little Stabs at Happiness (1963) x3 — 
+   34/60 Sleep (1964) x3 — Documentary
+   35/60 Haircut (1964) x3 — 
+   36/60 Kiss (1963) x3 — Documentary
+   37/60 Eat (1964) x3 — Documentary
+   38/60 Blonde Cobra (1963) x3 — 
+   39/60 Mario Banana I (1964) x3 — Documentary
+   40/60 Couch (1964) x3 — 
+   41/60 Tarzan and Jane Regained... Sort of (1964) x3 — Comedy
+   42/60 Chumlum (1963) x3 — 
+   43/60 Hedy (1966) x3 — Drama, Fantasy, Comedy
+   44/60 The Diane Linkletter Story (1970) x3 — Comedy
+   45/60 She Had Her Gun All Ready (1978) x3 — Drama, Crime, Romance
+   46/60 Guerillere Talks (1978) x3 — Documentary
+   47/60 Staten Island (1978) x3 — 
+   48/60 Beauty Becomes the Beast (1979) x3 — Drama
+   49/60 Visibility: Moderate (1981) x3 — 
+   50/60 Like Dawn to Dust (1983) x3 — 
+   51/60 New York Conversations (1990) x3 — 
+   52/60 A Skinny Little Man Attacked Daddy (1994) x3 — 
+   53/60 Beyond the Screams (1999) x3 — Documentary, Music
+   54/60 Saccade (2004) x3 — 
+   55/60 Sugar (2004) x3 — Romance, Drama
+   56/60 Jack Smith and the Destruction of Atlantis (2006) x3 — Documentary
+   57/60 Otto; or, Up with Dead People (2008) x3 — Horror, Drama, Comedy
+   58/60 Taqwacore: The Birth of Punk Islam (2009) x3 — Documentary, Music
+   59/60 Fiend (1992) x3 — 
+   60/60 Scorpio Rising (1963) x3 — Music
+
+[done] /root/letterboxd-nanogenres/data/queercore.json
+{
+  "slug": "queercore",
+  "lists_used": 8,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Flaming Creatures",
+      "1963",
+      6
+    ],
+    [
+      "Pink Flamingos",
+      "1972",
+      6
+    ],
+    [
+      "Female Trouble",
+      "1974",
+      6
+    ],
+    [
+      "No Skin Off My Ass",
+      "1991",
+      6
+    ],
+    [
+      "Hustler White",
+      "1996",
+      6
+    ]
+  ]
+}

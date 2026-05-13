@@ -1,0 +1,393 @@
+{
+  "query": "chaos cinema",
+  "slug": "chaos-cinema",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/reesee17/list/chaos-cinema/",
+      "user": "reesee17",
+      "slug": "chaos-cinema",
+      "title": "Chaos Cinema",
+      "desc": "reesee is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by reesee",
+      "tags": []
+    },
+    {
+      "href": "/lise/list/chaos-cinema-shaky-cam-staccato-editing/",
+      "user": "lise",
+      "slug": "chaos-cinema-shaky-cam-staccato-editing",
+      "title": "Chaos Cinema: Shaky Cam & Staccato Editing",
+      "desc": "I have to take a long break from shaky cam films and films that use staccato editing. Unfortunately I'm at the point where it is ruining all films for me, even those where the methods are used effectively (as in The Hurt Locker). If I take a break from those films I may be able to watch one once in a while in the future without walking out.\n\nI need your help. Please list films that use either or both of these techniques so that I may avoid them during my break. I've listed the ones I know about.\n\nYou can see a video essay on these techniques called Chaos Cinema by Matthias Stork: Part 1: vimeo.com/28016047 and Part 2: vimeo.com/28016704",
+      "owner": "List by Lise PATRON",
+      "tags": []
+    },
+    {
+      "href": "/admire_film/list/a-new-category-of-film-id-personally-like/",
+      "user": "admire_film",
+      "slug": "a-new-category-of-film-id-personally-like",
+      "title": "A new category of film I’d personally like to coin as “Chaos Cinema”",
+      "desc": "Cam is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Cam Soutter PRO",
+      "tags": [
+        "crazy",
+        "cinema",
+        "editing",
+        "intensity",
+        "film",
+        "uncut-gems",
+        "chaos"
+      ]
+    },
+    {
+      "href": "/nourbatman/list/capes-chaos-cinema/",
+      "user": "nourbatman",
+      "slug": "capes-chaos-cinema",
+      "title": "“Capes, Chaos & Cinema 🦸”",
+      "desc": "\"My Superhero Hall of Fame 🛡️\"",
+      "owner": "List by Nour 🤵🏻",
+      "tags": [
+        "-super",
+        "-superhero",
+        "-superpower",
+        "-hero"
+      ]
+    },
+    {
+      "href": "/nopenotthat/list/chaos-cinema/",
+      "user": "nopenotthat",
+      "slug": "chaos-cinema",
+      "title": "Chaos Cinema",
+      "desc": "nopenotthat is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by nopenotthat",
+      "tags": []
+    },
+    {
+      "href": "/shittyknight/list/chaos-cinematic-universe/",
+      "user": "shittyknight",
+      "slug": "chaos-cinematic-universe",
+      "title": "chaos cinematic universe",
+      "desc": "anxiety attack central",
+      "owner": "List by shitty knight PRO",
+      "tags": []
+    },
+    {
+      "href": "/cremated/list/chaos-in-the-cinema/",
+      "user": "cremated",
+      "slug": "chaos-in-the-cinema",
+      "title": "chaos in the cinema",
+      "desc": "cremated is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by cremated",
+      "tags": []
+    },
+    {
+      "href": "/julispagg/list/cozy-chaos-cinema/",
+      "user": "julispagg",
+      "slug": "cozy-chaos-cinema",
+      "title": "cozy chaos cinema",
+      "desc": "Juli is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Juli",
+      "tags": []
+    }
+  ],
+  "source_list_count": 8,
+  "films_considered": 258,
+  "canonical_count": 9,
+  "films": [
+    {
+      "slug": "good-time",
+      "title": "Good Time",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Benny Safdie",
+        "Josh Safdie"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Benny Safdie",
+        "Buddy Duress",
+        "Taliah Webster",
+        "Jennifer Jason Leigh",
+        "Barkhad Abdi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.98,
+      "rating_count": 772817,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/2/3/6/2/362362-good-time-0-230-0-345-crop.jpg?v=f7b17715d2",
+      "url": "https://letterboxd.com/film/good-time/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "sorry-to-bother-you",
+      "title": "Sorry to Bother You",
+      "year": "2018",
+      "genres": [
+        "Fantasy",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "directors": [
+        "Boots Riley"
+      ],
+      "actors": [
+        "LaKeith Stanfield",
+        "Tessa Thompson",
+        "Jermaine Fowler",
+        "Omari Hardwick",
+        "Terry Crews",
+        "Kate Berlant"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 515383,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pi/8d/sk/jg/wdiJKxlyg3bzqZgRsNcIfoaQs1O-0-230-0-345-crop.jpg?v=f85a9cc2f4",
+      "url": "https://letterboxd.com/film/sorry-to-bother-you/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "whiplash-2014",
+      "title": "Whiplash",
+      "year": "2014",
+      "genres": [
+        "Drama",
+        "Music",
+        "Thriller"
+      ],
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "actors": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Paul Reiser",
+        "Melissa Benoist",
+        "Austin Stowell",
+        "Nate Lang"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.42,
+      "rating_count": 4339690,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cl/dn/kr/f1/4C9LHDxMsoYI0S3iMPZdm3Oevwo-0-230-0-345-crop.jpg?v=d13ea36528",
+      "url": "https://letterboxd.com/film/whiplash-2014/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "black-swan",
+      "title": "Black Swan",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Natalie Portman",
+        "Mila Kunis",
+        "Vincent Cassel",
+        "Barbara Hershey",
+        "Winona Ryder",
+        "Benjamin Millepied"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.17,
+      "rating_count": 3069369,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yt/ae/iz/kj/bIjkE9Og0nulRycj144sCcQcsZ6-0-230-0-345-crop.jpg?v=a571e4c644",
+      "url": "https://letterboxd.com/film/black-swan/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "uncut-gems",
+      "title": "Uncut Gems",
+      "year": "2019",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Josh Safdie",
+        "Benny Safdie"
+      ],
+      "actors": [
+        "Adam Sandler",
+        "LaKeith Stanfield",
+        "Julia Fox",
+        "Kevin Garnett",
+        "Idina Menzel",
+        "Eric Bogosian"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.95,
+      "rating_count": 1698625,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/2/6/6/404266-uncut-gems-0-230-0-345-crop.jpg?v=670cb7034d",
+      "url": "https://letterboxd.com/film/uncut-gems/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mandy-2018",
+      "title": "Mandy",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Action"
+      ],
+      "directors": [
+        "Panos Cosmatos"
+      ],
+      "actors": [
+        "Nicolas Cage",
+        "Andrea Riseborough",
+        "Linus Roache",
+        "Ned Dennehy",
+        "Olwen Fouéré",
+        "Richard Brake"
+      ],
+      "countries": [
+        "Belgium",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 291183,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/2/6/5/4/392654-mandy-0-230-0-345-crop.jpg?v=cf29f00f84",
+      "url": "https://letterboxd.com/film/mandy-2018/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mother-2017",
+      "title": "mother!",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris",
+        "Michelle Pfeiffer",
+        "Brian Gleeson",
+        "Domhnall Gleeson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 856261,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/1/1/316311-mother--0-230-0-345-crop.jpg?v=399e8950fd",
+      "url": "https://letterboxd.com/film/mother-2017/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "house",
+      "title": "House",
+      "year": "1977",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Nobuhiko Obayashi"
+      ],
+      "actors": [
+        "Kimiko Ikegami",
+        "Kumiko Ohba",
+        "Ai Matsubara",
+        "Miki Jinbo",
+        "Eriko Tanaka",
+        "Masayo Miyako"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.99,
+      "rating_count": 352116,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7f/z3/ho/6j/6vblWscFAbIm9V5CwHC7IImgAq9-0-230-0-345-crop.jpg?v=b505ff45b0",
+      "url": "https://letterboxd.com/film/house/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "scream-2",
+      "title": "Scream 2",
+      "year": "1997",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Wes Craven"
+      ],
+      "actors": [
+        "Neve Campbell",
+        "Courteney Cox",
+        "David Arquette",
+        "Jerry O'Connell",
+        "Timothy Olyphant",
+        "Jamie Kennedy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 814565,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ju/sr/4r/t3/c5AyWNWooMGkJXlqLwmPQCjUwHt-0-230-0-345-crop.jpg?v=b19f368866",
+      "url": "https://letterboxd.com/film/scream-2/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 5,
+      "Horror": 5,
+      "Thriller": 4,
+      "Fantasy": 3,
+      "Crime": 2,
+      "Comedy": 2,
+      "Science Fiction": 1,
+      "Music": 1,
+      "Action": 1,
+      "Mystery": 1
+    },
+    "directors": {
+      "Benny Safdie": 2,
+      "Josh Safdie": 2,
+      "Darren Aronofsky": 2,
+      "Boots Riley": 1,
+      "Damien Chazelle": 1,
+      "Panos Cosmatos": 1,
+      "Nobuhiko Obayashi": 1,
+      "Wes Craven": 1
+    },
+    "years": {
+      "1977": 1,
+      "1997": 1,
+      "2010": 1,
+      "2014": 1,
+      "2017": 2,
+      "2018": 2,
+      "2019": 1
+    }
+  }
+}

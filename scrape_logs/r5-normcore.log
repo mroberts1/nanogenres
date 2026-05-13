@@ -1,0 +1,108 @@
+[search] https://letterboxd.com/search/lists/normcore/
+[search] 18 candidates -> 10 relevant (rejected low-quality=0, off-topic=1)
+[list] https://letterboxd.com/gretakordt/list/normcore/
+[list] https://letterboxd.com/laserviettedu/list/normcore/
+[list] https://letterboxd.com/avidenvy/list/normcore/
+  drop (only 3 films) /avidenvy/list/normcore/
+[list] https://letterboxd.com/tuffjake/list/normcore/
+[list] https://letterboxd.com/jillbere/list/normcore/
+  drop (only 1 films) /jillbere/list/normcore/
+[list] https://letterboxd.com/saishimi/list/normcore/
+[list] https://letterboxd.com/nebbesh/list/normcore/
+[list] https://letterboxd.com/bellaswan/list/normcore-sci-fi/
+[list] https://letterboxd.com/zuzuberfu/list/normcore-women/
+[list] https://letterboxd.com/danielrolnik/list/normcore-movies-about-nothing-that-happen/
+    1/60 Basic Instinct (1992) x3 — Thriller, Mystery
+    2/60 Bound (1996) x3 — Crime, Thriller, Drama
+    3/60 Moonstruck (1987) x3 — Romance, Comedy, Drama
+    4/60 The War of the Roses (1989) x3 — Drama, Comedy
+    5/60 Melancholia (2011) x2 — Drama, Science Fiction
+    6/60 The Pink Panther (1963) x2 — Crime, Comedy
+    7/60 Goldfinger (1964) x2 — Action, Adventure, Thriller
+    8/60 Planet of the Apes (1968) x2 — Adventure, Action, Drama, Science Fiction
+    9/60 Willy Wonka & the Chocolate Factory (1971) x2 — Comedy, Family, Fantasy
+   10/60 Dirty Harry (1971) x2 — Thriller, Action, Crime
+   11/60 Blazing Saddles (1974) x2 — Western, Comedy
+   12/60 Jaws (1975) x2 — Adventure, Thriller, Horror
+   13/60 Rocky (1976) x2 — Drama
+   14/60 Star Wars (1977) x2 — Adventure, Science Fiction, Action
+   15/60 Saturday Night Fever (1977) x2 — Drama
+   16/60 Grease (1978) x2 — Romance, Comedy
+   17/60 Animal House (1978) x2 — Comedy
+   18/60 Norma Rae (1979) x2 — Drama
+   19/60 Kramer vs. Kramer (1979) x2 — Drama
+   20/60 The Jerk (1979) x2 — Comedy
+   21/60 Fame (1980) x2 — Drama, Music
+   22/60 The Empire Strikes Back (1980) x2 — Science Fiction, Adventure, Action
+   23/60 The Blues Brothers (1980) x2 — Action, Music, Comedy, Crime
+   24/60 Airplane! (1980) x2 — Comedy
+   25/60 Caddyshack (1980) x2 — Comedy
+   26/60 Nine to Five (1980) x2 — Comedy
+   27/60 Escape from New York (1981) x2 — Action, Science Fiction, Thriller
+   28/60 Raiders of the Lost Ark (1981) x2 — Adventure, Action
+   29/60 Porky's (1981) x2 — Comedy
+   30/60 E.T. the Extra-Terrestrial (1982) x2 — Science Fiction, Family, Fantasy, Adventure
+   31/60 An Officer and a Gentleman (1982) x2 — Drama, Romance
+   32/60 First Blood (1982) x2 — Adventure, War, Action, Thriller
+   33/60 48 Hrs. (1982) x2 — Action, Crime, Comedy
+   34/60 Tootsie (1982) x2 — Comedy, Romance
+   35/60 The Outsiders (1983) x2 — Drama, Crime
+   36/60 Flashdance (1983) x2 — Romance, Drama
+   37/60 Return of the Jedi (1983) x2 — Science Fiction, Adventure, Action
+   38/60 Trading Places (1983) x2 — Comedy
+   39/60 National Lampoon's Vacation (1983) x2 — Comedy, Adventure
+   40/60 A Christmas Story (1983) x2 — Family, Comedy
+   41/60 Footloose (1984) x2 — Drama, Romance
+   42/60 Sixteen Candles (1984) x2 — Romance, Comedy
+   43/60 Ghostbusters (1984) x2 — Comedy, Fantasy
+   44/60 The Karate Kid (1984) x2 — Action, Drama, Family
+   45/60 The Terminator (1984) x2 — Action, Thriller, Science Fiction
+   46/60 Beverly Hills Cop (1984) x2 — Crime, Action, Comedy
+   47/60 The Breakfast Club (1985) x2 — Drama, Comedy
+   48/60 The Sure Thing (1985) x2 — Romance, Drama, Comedy
+   49/60 Back to the Future (1985) x2 — Adventure, Comedy, Science Fiction
+   50/60 Pretty in Pink (1986) x2 — Romance, Drama
+   51/60 Top Gun (1986) x2 — Action, Romance, Drama
+   52/60 Ferris Bueller's Day Off (1986) x2 — Comedy
+   53/60 Ruthless People (1986) x2 — Comedy
+   54/60 Aliens (1986) x2 — Thriller, Science Fiction, Horror, Action
+   55/60 Stand by Me (1986) x2 — Drama, Crime
+   56/60 ¡Three Amigos! (1986) x2 — Western, Comedy, Action
+   57/60 Dirty Dancing (1987) x2 — Music, Drama, Romance
+   58/60 Predator (1987) x2 — Thriller, Adventure, Science Fiction, Action
+   59/60 RoboCop (1987) x2 — Action, Thriller, Science Fiction
+   60/60 Fatal Attraction (1987) x2 — Romance, Thriller, Drama
+
+[done] /root/letterboxd-nanogenres/data/normcore.json
+{
+  "slug": "normcore",
+  "lists_used": 8,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Basic Instinct",
+      "1992",
+      3
+    ],
+    [
+      "Bound",
+      "1996",
+      3
+    ],
+    [
+      "Moonstruck",
+      "1987",
+      3
+    ],
+    [
+      "The War of the Roses",
+      "1989",
+      3
+    ],
+    [
+      "Melancholia",
+      "2011",
+      2
+    ]
+  ]
+}

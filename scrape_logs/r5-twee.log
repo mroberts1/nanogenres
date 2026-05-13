@@ -1,0 +1,12 @@
+[search] https://letterboxd.com/search/lists/twee/
+[search] https://letterboxd.com/search/lists/twee/
+[search] https://letterboxd.com/tag/twee/lists/
+[search] 0 candidates -> 0 relevant (rejected low-quality=0, off-topic=0)
+
+[done] /root/letterboxd-nanogenres/data/twee.json
+{
+  "slug": "twee",
+  "lists_used": 0,
+  "canonical_films": 0,
+  "top_5": []
+}

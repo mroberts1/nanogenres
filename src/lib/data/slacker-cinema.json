@@ -1,0 +1,1905 @@
+{
+  "query": "slacker cinema",
+  "slug": "slacker-cinema",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/3dwn/list/slacker-cinema/",
+      "user": "3dwn",
+      "slug": "slacker-cinema",
+      "title": "slacker cinema",
+      "desc": "ed is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by ed",
+      "tags": []
+    },
+    {
+      "href": "/stateofhailey/list/slacker-cinema/",
+      "user": "stateofhailey",
+      "slug": "slacker-cinema",
+      "title": "slacker cinema",
+      "desc": "weed. anarchy. weaponized incompetence. lack of ambition. coming of age.",
+      "owner": "List by hailey PATRON",
+      "tags": []
+    },
+    {
+      "href": "/emilymac/list/slacker-cinema/",
+      "user": "emilymac",
+      "slug": "slacker-cinema",
+      "title": "slacker cinema",
+      "desc": "emily is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by emily PRO",
+      "tags": []
+    },
+    {
+      "href": "/strzalka19/list/slacker-cinema/",
+      "user": "strzalka19",
+      "slug": "slacker-cinema",
+      "title": "Slacker Cinema",
+      "desc": "Max is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Max",
+      "tags": []
+    },
+    {
+      "href": "/catonfilm/list/slacker-cinema/",
+      "user": "catonfilm",
+      "slug": "slacker-cinema",
+      "title": "slacker cinema",
+      "desc": "cat is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by cat",
+      "tags": []
+    },
+    {
+      "href": "/quackmire/list/quackmire-on-slacker-cinema/",
+      "user": "quackmire",
+      "slug": "quackmire-on-slacker-cinema",
+      "title": "QUACKMIRE on Slacker Cinema. ☮️✌🏻",
+      "desc": "Dudeist values, man.",
+      "owner": "List by Quackmire PRO",
+      "tags": [
+        "allstats"
+      ]
+    },
+    {
+      "href": "/harry_wallace_/list/slacker-cinema/",
+      "user": "harry_wallace_",
+      "slug": "slacker-cinema",
+      "title": "Slacker cinema",
+      "desc": "You remind me of your father when he went here, he was a slacker too!",
+      "owner": "List by Harry_Wallace_ PATRON",
+      "tags": [
+        "slacker-cinema"
+      ]
+    },
+    {
+      "href": "/infiniteflicker/list/spike-mike-slackers-dykes-chapter-3-parting/",
+      "user": "infiniteflicker",
+      "slug": "spike-mike-slackers-dykes-chapter-3-parting",
+      "title": "Spike, Mike, Slackers & Dykes: Chapter 3 -> Parting Glances and the New Queer Cinema",
+      "desc": "This is a list of movies mentioned on Chapter 3 of John Pierson's book \"Spike, Mike, Slackers & Dykes\".\n\nI will only list movies the first time they are mentioned and won't repeat them in lists for other chapters.\n\nI decided to go on a chapter by chapter basis so the lists are more manageable.\n\nAnother good reference list is this one from user David Pearce",
+      "owner": "List by InfiniteFlicker",
+      "tags": [
+        "john-pierson",
+        "independent-cinema",
+        "indie-cinema"
+      ]
+    },
+    {
+      "href": "/de_cinema/list/de-cinema-slackers-drifters/",
+      "user": "de_cinema",
+      "slug": "de-cinema-slackers-drifters",
+      "title": "DE CINEMA | SLACKERS & DRIFTERS",
+      "desc": "Slow down. Log off.\n\nIn a world of constant stimulation, focusing on a single screen is an act of self-care. You slow down, you get lost, and you even allow yourself to be bored. In short: the survival skills we’ve gradually lost.\n\nFull programme & tickets\n\nShort clips, quick swipes, and endless notifications. Thanks to our small screens, attention has become a scarce commodity. We’ve forgotten how to truly look at something without being distracted. Silence feels awkward. We avoid boredom at all costs. And the moment a void opens up, we fill it with an endless stream of online imagery that vanishes as quickly as it appeared.\n\nWith the film program Slackers & Drifters, we are reclaiming our attention. No small-screen… more",
+      "owner": "List by De Cinema HQ",
+      "tags": [
+        "focus",
+        "2026",
+        "topprofile"
+      ]
+    },
+    {
+      "href": "/bigmitto/list/centrelink-cinema-the-australian-slacker/",
+      "user": "bigmitto",
+      "slug": "centrelink-cinema-the-australian-slacker",
+      "title": "Centrelink Cinema - The Australian Slacker",
+      "desc": "A curated collection of guerilla-shot, low-budget, low-stakes, occasionally first time creatives and definitely independent films from Australia.",
+      "owner": "List by Mitch Ison-Fuller PATRON",
+      "tags": [
+        "slacker",
+        "90s",
+        "aussie"
+      ]
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 286,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "clerks",
+      "title": "Clerks",
+      "year": "1994",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Kevin Smith"
+      ],
+      "actors": [
+        "Brian O'Halloran",
+        "Jeff Anderson",
+        "Marilyn Ghigliotti",
+        "Lisa Spoonauer",
+        "Jason Mewes",
+        "Kevin Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 231052,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/03/4k/8o/ul/clerks-0-230-0-345-crop.jpg?v=35be012b59",
+      "url": "https://letterboxd.com/film/clerks/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "dazed-and-confused",
+      "title": "Dazed and Confused",
+      "year": "1993",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Jason London",
+        "Matthew McConaughey",
+        "Joey Lauren Adams",
+        "Rory Cochrane",
+        "Wiley Wiggins",
+        "Adam Goldberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 585446,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/2/9/47029-dazed-and-confused-0-230-0-345-crop.jpg?v=a3b615703a",
+      "url": "https://letterboxd.com/film/dazed-and-confused/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "mallrats",
+      "title": "Mallrats",
+      "year": "1995",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Kevin Smith"
+      ],
+      "actors": [
+        "Jason Lee",
+        "Jeremy London",
+        "Shannen Doherty",
+        "Claire Forlani",
+        "Ben Affleck",
+        "Joey Lauren Adams"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 106490,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/aj/70/qm/3a/dwWAr8T0q0KHv5rTu0eVaqpCJ2C-0-230-0-345-crop.jpg?v=2068cb36e1",
+      "url": "https://letterboxd.com/film/mallrats/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "slacker",
+      "title": "Slacker",
+      "year": "1990",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Richard Linklater",
+        "Rudy Basquez",
+        "Jean Caffeine",
+        "Jan Hockey",
+        "Stephan Hockey",
+        "Mark James"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 61052,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/9l/jt/qh/fh/ANctor3CiN3ptMogfrRvyiaV2j-0-230-0-345-crop.jpg?v=4b926d96cc",
+      "url": "https://letterboxd.com/film/slacker/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "empire-records",
+      "title": "Empire Records",
+      "year": "1995",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Allan Moyle"
+      ],
+      "actors": [
+        "Liv Tyler",
+        "Johnny Whitworth",
+        "Renée Zellweger",
+        "Robin Tunney",
+        "Anthony LaPaglia",
+        "Rory Cochrane"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.6,
+      "rating_count": 259571,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/td/nt/09/qr/e7ve7rwxBA9Y0mNEo1VcaW44htg-0-230-0-345-crop.jpg?v=25f75c1881",
+      "url": "https://letterboxd.com/film/empire-records/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "ghost-world",
+      "title": "Ghost World",
+      "year": "2001",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Terry Zwigoff"
+      ],
+      "actors": [
+        "Thora Birch",
+        "Scarlett Johansson",
+        "Steve Buscemi",
+        "Brad Renfro",
+        "Illeana Douglas",
+        "Bob Balaban"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.58,
+      "rating_count": 231990,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/b3/fj/5k/es/t9uXmc321EzCp6uUYU3XtghjqTq-0-230-0-345-crop.jpg?v=8c0964a95e",
+      "url": "https://letterboxd.com/film/ghost-world/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "slc-punk",
+      "title": "SLC Punk",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Music",
+        "Comedy"
+      ],
+      "directors": [
+        "James Merendino"
+      ],
+      "actors": [
+        "Matthew Lillard",
+        "Michael A. Goorjian",
+        "Annabeth Gish",
+        "Jennifer Lien",
+        "Christopher McDonald",
+        "Devon Sawa"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 154668,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/3/3/5/48335-slc-punk-0-230-0-345-crop.jpg?v=d107067c95",
+      "url": "https://letterboxd.com/film/slc-punk/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "reality-bites",
+      "title": "Reality Bites",
+      "year": "1994",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Ben Stiller"
+      ],
+      "actors": [
+        "Winona Ryder",
+        "Ethan Hawke",
+        "Janeane Garofalo",
+        "Steve Zahn",
+        "Ben Stiller",
+        "Swoosie Kurtz"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.45,
+      "rating_count": 106000,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/0/8/8/50088-reality-bites-0-230-0-345-crop.jpg?v=21c60fefd4",
+      "url": "https://letterboxd.com/film/reality-bites/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "fast-times-at-ridgemont-high",
+      "title": "Fast Times at Ridgemont High",
+      "year": "1982",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Amy Heckerling"
+      ],
+      "actors": [
+        "Sean Penn",
+        "Jennifer Jason Leigh",
+        "Judge Reinhold",
+        "Phoebe Cates",
+        "Brian Backer",
+        "Robert Romanus"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 178400,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ou/6a/j4/uh/lvEenO2CikD4Zo3rFK1flAU99Pr-0-230-0-345-crop.jpg?v=1a3d11da89",
+      "url": "https://letterboxd.com/film/fast-times-at-ridgemont-high/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "ferris-buellers-day-off",
+      "title": "Ferris Bueller's Day Off",
+      "year": "1986",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "John Hughes"
+      ],
+      "actors": [
+        "Matthew Broderick",
+        "Alan Ruck",
+        "Mia Sara",
+        "Jeffrey Jones",
+        "Jennifer Grey",
+        "Cindy Pickett"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.96,
+      "rating_count": 1367344,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/1/9/47219-ferris-bueller-s-day-off-0-230-0-345-crop.jpg?v=5c27745153",
+      "url": "https://letterboxd.com/film/ferris-buellers-day-off/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "bill-teds-excellent-adventure",
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": "1989",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Stephen Herek"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Alex Winter",
+        "George Carlin",
+        "Terry Camilleri",
+        "Dan Shor",
+        "Tony Steedman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.68,
+      "rating_count": 242189,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/9/4/50894-bill-ted-s-excellent-adventure-0-230-0-345-crop.jpg?v=7515d21045",
+      "url": "https://letterboxd.com/film/bill-teds-excellent-adventure/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "office-space",
+      "title": "Office Space",
+      "year": "1999",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Mike Judge"
+      ],
+      "actors": [
+        "Ron Livingston",
+        "Jennifer Aniston",
+        "David Herman",
+        "Ajay Naidu",
+        "Diedrich Bader",
+        "Stephen Root"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 370939,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/9/1/50991-office-space-0-230-0-345-crop.jpg?v=ecc49b2fbf",
+      "url": "https://letterboxd.com/film/office-space/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "napoleon-dynamite",
+      "title": "Napoleon Dynamite",
+      "year": "2004",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Jared Hess"
+      ],
+      "actors": [
+        "Jon Heder",
+        "Efren Ramirez",
+        "Tina Majorino",
+        "Aaron Ruell",
+        "Jon Gries",
+        "Haylie Duff"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.73,
+      "rating_count": 665118,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/6/7/47867-napoleon-dynamite-0-230-0-345-crop.jpg?v=dc5d6552f9",
+      "url": "https://letterboxd.com/film/napoleon-dynamite/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "fear-and-loathing-in-las-vegas",
+      "title": "Fear and Loathing in Las Vegas",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "actors": [
+        "Johnny Depp",
+        "Benicio del Toro",
+        "Tobey Maguire",
+        "Michael Lee Gogin",
+        "Larry Cedar",
+        "Brian Le Baron"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 427047,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/2/5/50725-fear-and-loathing-in-las-vegas-0-230-0-345-crop.jpg?v=ff824b403c",
+      "url": "https://letterboxd.com/film/fear-and-loathing-in-las-vegas/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-living-end",
+      "title": "The Living End",
+      "year": "1992",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "Mike Dytri",
+        "Craig Gilmore",
+        "Mark Finch",
+        "Mary Woronov",
+        "Johanna Went",
+        "Darcy Marta"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 42866,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/9/3/1/29931-the-living-end-0-230-0-345-crop.jpg?v=ae8041cb8b",
+      "url": "https://letterboxd.com/film/the-living-end/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "trainspotting",
+      "title": "Trainspotting",
+      "year": "1996",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Danny Boyle"
+      ],
+      "actors": [
+        "Ewan McGregor",
+        "Ewen Bremner",
+        "Jonny Lee Miller",
+        "Kevin McKidd",
+        "Robert Carlyle",
+        "Kelly Macdonald"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 4.23,
+      "rating_count": 1198216,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/7/51497-trainspotting-0-230-0-345-crop.jpg?v=c8597f6cb5",
+      "url": "https://letterboxd.com/film/trainspotting/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "smiley-face",
+      "title": "Smiley Face",
+      "year": "2007",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "Anna Faris",
+        "John Krasinski",
+        "Adam Brody",
+        "Jane Lynch",
+        "Roscoe Lee Browne",
+        "Danny Masterson"
+      ],
+      "countries": [
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.56,
+      "rating_count": 95154,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/0/8/2/44082-smiley-face-0-230-0-345-crop.jpg?v=6a26889931",
+      "url": "https://letterboxd.com/film/smiley-face/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "idle-hands",
+      "title": "Idle Hands",
+      "year": "1999",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Horror",
+        "Fantasy"
+      ],
+      "directors": [
+        "Rodman Flender"
+      ],
+      "actors": [
+        "Devon Sawa",
+        "Seth Green",
+        "Elden Henson",
+        "Jessica Alba",
+        "Vivica A. Fox",
+        "Jack Noseworthy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.24,
+      "rating_count": 55060,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/2/5/9/48259-idle-hands-0-230-0-345-crop.jpg?v=e28a1c630d",
+      "url": "https://letterboxd.com/film/idle-hands/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "party-girl-1995",
+      "title": "Party Girl",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Daisy von Scherler Mayer"
+      ],
+      "actors": [
+        "Parker Posey",
+        "Anthony DeSando",
+        "Guillermo Díaz",
+        "Donna Mitchell",
+        "Liev Schreiber",
+        "Omar Townsend"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 97310,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/1/0/6/28106-party-girl-0-230-0-345-crop.jpg?v=ddceb6cdad",
+      "url": "https://letterboxd.com/film/party-girl-1995/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "juno",
+      "title": "Juno",
+      "year": "2007",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Jason Reitman"
+      ],
+      "actors": [
+        "Elliot Page",
+        "Michael Cera",
+        "Jennifer Garner",
+        "Jason Bateman",
+        "J.K. Simmons",
+        "Allison Janney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 1558314,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/0/5/1/48051-juno-0-230-0-345-crop.jpg?v=19ad3fb7e5",
+      "url": "https://letterboxd.com/film/juno/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "drugstore-cowboy",
+      "title": "Drugstore Cowboy",
+      "year": "1989",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Gus Van Sant"
+      ],
+      "actors": [
+        "Matt Dillon",
+        "Kelly Lynch",
+        "James Remar",
+        "James Le Gros",
+        "Heather Graham",
+        "Beah Richards"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 76352,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/8/51628-drugstore-cowboy-0-230-0-345-crop.jpg?v=3614000bb8",
+      "url": "https://letterboxd.com/film/drugstore-cowboy/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "singles",
+      "title": "Singles",
+      "year": "1992",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Cameron Crowe"
+      ],
+      "actors": [
+        "Bridget Fonda",
+        "Campbell Scott",
+        "Kyra Sedgwick",
+        "Matt Dillon",
+        "Sheila Kelley",
+        "Jim True-Frost"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.35,
+      "rating_count": 50362,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ul/xp/cu/pm/mtcstn5HVfbuvYJWyJaKIe2oMj3-0-230-0-345-crop.jpg?v=4bcaf05177",
+      "url": "https://letterboxd.com/film/singles/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "true-romance",
+      "title": "True Romance",
+      "year": "1993",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Action"
+      ],
+      "directors": [
+        "Tony Scott"
+      ],
+      "actors": [
+        "Christian Slater",
+        "Patricia Arquette",
+        "Dennis Hopper",
+        "Val Kilmer",
+        "Gary Oldman",
+        "Brad Pitt"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.95,
+      "rating_count": 286388,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/0/51740-true-romance-0-230-0-345-crop.jpg?v=1ca7826d01",
+      "url": "https://letterboxd.com/film/true-romance/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "friday",
+      "title": "Friday",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "F. Gary Gray"
+      ],
+      "actors": [
+        "Ice Cube",
+        "Chris Tucker",
+        "Nia Long",
+        "Tommy Lister Jr.",
+        "John Witherspoon",
+        "Anna Maria Horsford"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.6,
+      "rating_count": 236636,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/4/0/46040-friday-0-230-0-345-crop.jpg?v=c18c808736",
+      "url": "https://letterboxd.com/film/friday/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "kicking-and-screaming",
+      "title": "Kicking and Screaming",
+      "year": "1995",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Noah Baumbach"
+      ],
+      "actors": [
+        "Josh Hamilton",
+        "Olivia D'Abo",
+        "Chris Eigeman",
+        "Parker Posey",
+        "Jason Wiles",
+        "Cara Buono"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.36,
+      "rating_count": 53779,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/7/1/4/33714-kicking-and-screaming-0-230-0-345-crop.jpg?v=b5521793ce",
+      "url": "https://letterboxd.com/film/kicking-and-screaming/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-big-lebowski",
+      "title": "The Big Lebowski",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Joel Coen"
+      ],
+      "actors": [
+        "Jeff Bridges",
+        "John Goodman",
+        "Julianne Moore",
+        "Steve Buscemi",
+        "David Huddleston",
+        "Philip Seymour Hoffman"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 1269132,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/5/51935-the-big-lebowski-0-230-0-345-crop.jpg?v=5cd64defcf",
+      "url": "https://letterboxd.com/film/the-big-lebowski/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "go",
+      "title": "Go",
+      "year": "1999",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Doug Liman"
+      ],
+      "actors": [
+        "Sarah Polley",
+        "Timothy Olyphant",
+        "Katie Holmes",
+        "Desmond Askew",
+        "Jay Mohr",
+        "Scott Wolf"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.71,
+      "rating_count": 71655,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/6/7/47167-go-0-230-0-345-crop.jpg?v=62d5db8e65",
+      "url": "https://letterboxd.com/film/go/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "adventureland",
+      "title": "Adventureland",
+      "year": "2009",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Greg Mottola"
+      ],
+      "actors": [
+        "Jesse Eisenberg",
+        "Kristen Stewart",
+        "Martin Starr",
+        "Kristen Wiig",
+        "Bill Hader",
+        "Ryan Reynolds"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.31,
+      "rating_count": 206144,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/4/7/7/41477-adventureland-0-230-0-345-crop.jpg?v=5f8f490a9b",
+      "url": "https://letterboxd.com/film/adventureland/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "nowhere",
+      "title": "Nowhere",
+      "year": "1997",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "James Duval",
+        "Rachel True",
+        "Nathan Bexton",
+        "Chiara Mastroianni",
+        "Debi Mazar",
+        "Kathleen Robertson"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.99,
+      "rating_count": 128958,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1c/re/ju/yk/9CaVnvBRbzsM7mcJoIMncpHSBBN-0-230-0-345-crop.jpg?v=067121cd23",
+      "url": "https://letterboxd.com/film/nowhere/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-doom-generation",
+      "title": "The Doom Generation",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "Rose McGowan",
+        "James Duval",
+        "Johnathon Schaech",
+        "Cress Williams",
+        "Dustin Nguyễn",
+        "Lauren Tewes"
+      ],
+      "countries": [
+        "USA",
+        "France"
+      ],
+      "rating": 3.79,
+      "rating_count": 112832,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/9/2/43792-the-doom-generation-0-230-0-345-crop.jpg?v=72134ca389",
+      "url": "https://letterboxd.com/film/the-doom-generation/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mid90s",
+      "title": "mid90s",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Jonah Hill"
+      ],
+      "actors": [
+        "Sunny Suljic",
+        "Katherine Waterston",
+        "Lucas Hedges",
+        "Na-kel Smith",
+        "Olan Prenatt",
+        "Gio Galicia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 829019,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/4/5/1/370451-mid90s-0-230-0-345-crop.jpg?v=75ec66cf80",
+      "url": "https://letterboxd.com/film/mid90s/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "scott-pilgrim-vs-the-world",
+      "title": "Scott Pilgrim vs. the World",
+      "year": "2010",
+      "genres": [
+        "Romance",
+        "Action",
+        "Comedy"
+      ],
+      "directors": [
+        "Edgar Wright"
+      ],
+      "actors": [
+        "Michael Cera",
+        "Mary Elizabeth Winstead",
+        "Ellen Wong",
+        "Kieran Culkin",
+        "Alison Pill",
+        "Mark Webber"
+      ],
+      "countries": [
+        "Japan",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 2512308,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vs/75/02/fx/2B5zjs5E3xerqAyowpw3QcOCyLq-0-230-0-345-crop.jpg?v=3aef2095df",
+      "url": "https://letterboxd.com/film/scott-pilgrim-vs-the-world/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "totally-fed-up",
+      "title": "Totally F***ed Up",
+      "year": "1993",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "James Duval",
+        "Roko Belic",
+        "Susan Behshid",
+        "Jenee Gill",
+        "Gilbert Luna",
+        "Lance May"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 76507,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/6/9/8/29698-totally-fucked-up-0-230-0-345-crop.jpg?v=9fa43e5bfa",
+      "url": "https://letterboxd.com/film/totally-fed-up/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "almost-famous",
+      "title": "Almost Famous",
+      "year": "2000",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "directors": [
+        "Cameron Crowe"
+      ],
+      "actors": [
+        "Billy Crudup",
+        "Frances McDormand",
+        "Kate Hudson",
+        "Jason Lee",
+        "Patrick Fugit",
+        "Zooey Deschanel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.08,
+      "rating_count": 768398,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8r/4k/tl/rx/mlOGVofLSyFAoVYcjVS2WRVvQjr-0-230-0-345-crop.jpg?v=ffceabaa03",
+      "url": "https://letterboxd.com/film/almost-famous/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "licorice-pizza",
+      "title": "Licorice Pizza",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "actors": [
+        "Alana Haim",
+        "Cooper Hoffman",
+        "Sean Penn",
+        "Tom Waits",
+        "Bradley Cooper",
+        "Benny Safdie"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 3.53,
+      "rating_count": 802134,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/1/0/8/6/641086-licorice-pizza-0-230-0-345-crop.jpg?v=6f08c3828c",
+      "url": "https://letterboxd.com/film/licorice-pizza/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "disturbing-behavior",
+      "title": "Disturbing Behavior",
+      "year": "1998",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "David Nutter"
+      ],
+      "actors": [
+        "James Marsden",
+        "Katie Holmes",
+        "Nick Stahl",
+        "Bruce Greenwood",
+        "William Sadler",
+        "Chad Donella"
+      ],
+      "countries": [
+        "Australia",
+        "USA",
+        "Canada"
+      ],
+      "rating": 2.82,
+      "rating_count": 33907,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/1/7/3/47173-disturbing-behavior-0-230-0-345-crop.jpg?v=2c3086be56",
+      "url": "https://letterboxd.com/film/disturbing-behavior/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "buffalo-66",
+      "title": "Buffalo '66",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Vincent Gallo"
+      ],
+      "actors": [
+        "Vincent Gallo",
+        "Christina Ricci",
+        "Ben Gazzara",
+        "Anjelica Huston",
+        "Mickey Rourke",
+        "Rosanna Arquette"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 369638,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/eo/sj/w9/xl/taVFuUhUWoX9YE7bb2bWkSPjC9P-0-230-0-345-crop.jpg?v=94ae22e6f8",
+      "url": "https://letterboxd.com/film/buffalo-66/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hackers",
+      "title": "Hackers",
+      "year": "1995",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "Iain Softley"
+      ],
+      "actors": [
+        "Jonny Lee Miller",
+        "Angelina Jolie",
+        "Matthew Lillard",
+        "Jesse Bradford",
+        "Renoly Santiago",
+        "Laurence Mason"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.31,
+      "rating_count": 97449,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dp/sq/oj/cg/hNjxJbejPHSmKVidHQ9ZHaC0Z7r-0-230-0-345-crop.jpg?v=f0ff67d1b9",
+      "url": "https://letterboxd.com/film/hackers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "scream",
+      "title": "Scream",
+      "year": "1996",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Horror"
+      ],
+      "directors": [
+        "Wes Craven"
+      ],
+      "actors": [
+        "David Arquette",
+        "Neve Campbell",
+        "Courteney Cox",
+        "Matthew Lillard",
+        "Rose McGowan",
+        "Skeet Ulrich"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 2164081,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/4/5/5/49455-scream-0-230-0-345-crop.jpg?v=8bb3c66a30",
+      "url": "https://letterboxd.com/film/scream/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "splendor-1999",
+      "title": "Splendor",
+      "year": "1999",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "Kathleen Robertson",
+        "Johnathon Schaech",
+        "Matt Keeslar",
+        "Kelly Macdonald",
+        "Eric Mabius",
+        "Dan Gatto"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.62,
+      "rating_count": 13734,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/7/4/1/28741-splendor-0-230-0-345-crop.jpg?v=b6a0aaeca1",
+      "url": "https://letterboxd.com/film/splendor-1999/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "kids",
+      "title": "Kids",
+      "year": "1995",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Larry Clark"
+      ],
+      "actors": [
+        "Leo Fitzpatrick",
+        "Justin Pierce",
+        "Chloë Sevigny",
+        "Rosario Dawson",
+        "Yakira Peguero",
+        "Atabey Rodriguez"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.36,
+      "rating_count": 239231,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/5/0/47250-kids-0-230-0-345-crop.jpg?v=a93dab25a6",
+      "url": "https://letterboxd.com/film/kids/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "elephant-2003",
+      "title": "Elephant",
+      "year": "2003",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Gus Van Sant"
+      ],
+      "actors": [
+        "Alex Frost",
+        "Eric Deulen",
+        "John Robinson",
+        "Elias McConnell",
+        "Jordan Taylor",
+        "Carrie Finklea"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.47,
+      "rating_count": 269284,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/83/vy/ou/e2/AgSWtbb8zMtTyjHFP12QeRbQGD5-0-230-0-345-crop.jpg?v=27813a0514",
+      "url": "https://letterboxd.com/film/elephant-2003/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "10-things-i-hate-about-you",
+      "title": "10 Things I Hate About You",
+      "year": "1999",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Gil Junger"
+      ],
+      "actors": [
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.06,
+      "rating_count": 3853994,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/4/7/49047-10-things-i-hate-about-you-0-230-0-345-crop.jpg?v=55ccac3542",
+      "url": "https://letterboxd.com/film/10-things-i-hate-about-you/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "duck-season",
+      "title": "Duck Season",
+      "year": "2004",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Fernando Eimbcke"
+      ],
+      "actors": [
+        "Daniel Miranda",
+        "Diego Cataño",
+        "Danny Perea",
+        "Enrique Arreola",
+        "Carolina Politi"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "rating": 3.82,
+      "rating_count": 28286,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/2/6/9/29269-duck-season-0-230-0-345-crop.jpg?v=314b948959",
+      "url": "https://letterboxd.com/film/duck-season/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "animal-house",
+      "title": "Animal House",
+      "year": "1978",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "John Landis"
+      ],
+      "actors": [
+        "John Belushi",
+        "Karen Allen",
+        "Tom Hulce",
+        "Stephen Furst",
+        "Mark Metcalf",
+        "Mary Louise Weller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 110345,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/0/3/47703-animal-house-0-230-0-345-crop.jpg?v=e9d5a58ee6",
+      "url": "https://letterboxd.com/film/animal-house/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-breakfast-club",
+      "title": "The Breakfast Club",
+      "year": "1985",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "John Hughes"
+      ],
+      "actors": [
+        "Emilio Estevez",
+        "Judd Nelson",
+        "Molly Ringwald",
+        "Anthony Michael Hall",
+        "Ally Sheedy",
+        "Paul Gleason"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 1946002,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/5/1/8/50518-the-breakfast-club-0-230-0-345-crop.jpg?v=cce37bedf1",
+      "url": "https://letterboxd.com/film/the-breakfast-club/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bill-teds-bogus-journey",
+      "title": "Bill & Ted's Bogus Journey",
+      "year": "1991",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Peter Hewitt"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Alex Winter",
+        "William Sadler",
+        "Joss Ackland",
+        "Pam Grier",
+        "George Carlin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.33,
+      "rating_count": 105456,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/9/3/50893-bill-ted-s-bogus-journey-0-230-0-345-crop.jpg?v=eebc6f0e73",
+      "url": "https://letterboxd.com/film/bill-teds-bogus-journey/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-stoned-age",
+      "title": "The Stöned Age",
+      "year": "1994",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "James Melkonian"
+      ],
+      "actors": [
+        "Michael Kopelow",
+        "China Kantner",
+        "Renee Griffin",
+        "Clifton Collins Jr.",
+        "David Groh",
+        "Michael Wiseman"
+      ],
+      "countries": [],
+      "rating": 2.83,
+      "rating_count": 3927,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/7/5/2/38752-the-stoned-age-0-230-0-345-crop.jpg?v=dae139bd14",
+      "url": "https://letterboxd.com/film/the-stoned-age/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bottle-rocket-1996",
+      "title": "Bottle Rocket",
+      "year": "1996",
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Luke Wilson",
+        "Owen Wilson",
+        "Robert Musgrave",
+        "Lumi Cavazos",
+        "James Caan",
+        "Andrew Wilson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.53,
+      "rating_count": 214407,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/0/43680-bottle-rocket-0-230-0-345-crop.jpg?v=a2644ae3c2",
+      "url": "https://letterboxd.com/film/bottle-rocket-1996/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "swingers",
+      "title": "Swingers",
+      "year": "1996",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Doug Liman"
+      ],
+      "actors": [
+        "Jon Favreau",
+        "Vince Vaughn",
+        "Ron Livingston",
+        "Patrick Van Horn",
+        "Alex Désert",
+        "Heather Graham"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.68,
+      "rating_count": 83624,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/3/3/46433-swingers-0-230-0-345-crop.jpg?v=1e73d6d6de",
+      "url": "https://letterboxd.com/film/swingers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "suburbia-1996",
+      "title": "SubUrbia",
+      "year": "1996",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Giovanni Ribisi",
+        "Steve Zahn",
+        "Amie Carey",
+        "Nicky Katt",
+        "Parker Posey",
+        "Ajay Naidu"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.28,
+      "rating_count": 23015,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ve/rr/6c/aw/hFDFtbHL5UzGadk7YBql0eweAyq-0-230-0-345-crop.jpg?v=e205cb40a8",
+      "url": "https://letterboxd.com/film/suburbia-1996/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "clockwatchers",
+      "title": "Clockwatchers",
+      "year": "1997",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Jill Sprecher"
+      ],
+      "actors": [
+        "Toni Collette",
+        "Parker Posey",
+        "Lisa Kudrow",
+        "Alanna Ubach",
+        "Helen FitzGerald",
+        "Stanley DeSantis"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.66,
+      "rating_count": 32293,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/5/10585-clockwatchers-0-230-0-345-crop.jpg?v=fe9dc683b7",
+      "url": "https://letterboxd.com/film/clockwatchers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "slums-of-beverly-hills",
+      "title": "Slums of Beverly Hills",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Tamara Jenkins"
+      ],
+      "actors": [
+        "Natasha Lyonne",
+        "Alan Arkin",
+        "Marisa Tomei",
+        "Eli Marienthal",
+        "David Krumholtz",
+        "Kevin Corrigan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.47,
+      "rating_count": 38209,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/9/0/9/42909-slums-of-beverly-hills-0-230-0-345-crop.jpg?v=54aa78d45b",
+      "url": "https://letterboxd.com/film/slums-of-beverly-hills/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "human-traffic",
+      "title": "Human Traffic",
+      "year": "1999",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Justin Kerrigan"
+      ],
+      "actors": [
+        "John Simm",
+        "Shaun Parkes",
+        "Nicola Reynolds",
+        "Lorraine Pilkington",
+        "Danny Dyer",
+        "Dean Davies"
+      ],
+      "countries": [
+        "UK",
+        "Ireland"
+      ],
+      "rating": 3.8,
+      "rating_count": 55578,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/5/7/7/45577-human-traffic-0-230-0-345-crop.jpg?v=d25299f4b9",
+      "url": "https://letterboxd.com/film/human-traffic/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "high-fidelity",
+      "title": "High Fidelity",
+      "year": "2000",
+      "genres": [
+        "Drama",
+        "Music",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Stephen Frears"
+      ],
+      "actors": [
+        "John Cusack",
+        "Iben Hjejle",
+        "Todd Louiso",
+        "Jack Black",
+        "Lisa Bonet",
+        "Catherine Zeta-Jones"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.6,
+      "rating_count": 257474,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fh/qn/as/cp/sEZKCUFU6Ozf7hZ3UuaKWUqHLTZ-0-230-0-345-crop.jpg?v=73f6b8a843",
+      "url": "https://letterboxd.com/film/high-fidelity/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "jay-and-silent-bob-strike-back",
+      "title": "Jay and Silent Bob Strike Back",
+      "year": "2001",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Kevin Smith"
+      ],
+      "actors": [
+        "Jason Mewes",
+        "Kevin Smith",
+        "Ben Affleck",
+        "Shannon Elizabeth",
+        "Eliza Dushku",
+        "Ali Larter"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.25,
+      "rating_count": 95613,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/3/5/5/50355-jay-and-silent-bob-strike-back-0-230-0-345-crop.jpg?v=cc2522999c",
+      "url": "https://letterboxd.com/film/jay-and-silent-bob-strike-back/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "party-monster",
+      "title": "Party Monster",
+      "year": "2003",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Fenton Bailey",
+        "Randy Barbato"
+      ],
+      "actors": [
+        "Macaulay Culkin",
+        "Seth Green",
+        "Chloë Sevigny",
+        "Natasha Lyonne",
+        "Wilmer Valderrama",
+        "Wilson Cruz"
+      ],
+      "countries": [
+        "USA",
+        "UK",
+        "Netherlands"
+      ],
+      "rating": 3.47,
+      "rating_count": 36401,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/4/9/51049-party-monster-0-230-0-345-crop.jpg?v=fc1b037310",
+      "url": "https://letterboxd.com/film/party-monster/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "shaun-of-the-dead",
+      "title": "Shaun of the Dead",
+      "year": "2004",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Edgar Wright"
+      ],
+      "actors": [
+        "Simon Pegg",
+        "Nick Frost",
+        "Kate Ashfield",
+        "Lucy Davis",
+        "Dylan Moran",
+        "Jessica Hynes"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.94,
+      "rating_count": 1208803,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/36/av/yn/jg/yWEeWO7fLs45XOcb94GPiLrHBRG-0-230-0-345-crop.jpg?v=f9f1d6b3fe",
+      "url": "https://letterboxd.com/film/shaun-of-the-dead/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harold-kumar-go-to-white-castle",
+      "title": "Harold & Kumar Go to White Castle",
+      "year": "2004",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Danny Leiner"
+      ],
+      "actors": [
+        "John Cho",
+        "Kal Penn",
+        "Paula Garcés",
+        "Neil Patrick Harris",
+        "David Krumholtz",
+        "Eddie Kaye Thomas"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 172711,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/s3/5n/kl/xp/wmLW4WTxXTTzD3nruLVWTl3m55b-0-230-0-345-crop.jpg?v=520e8fefe2",
+      "url": "https://letterboxd.com/film/harold-kumar-go-to-white-castle/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "rent",
+      "title": "Rent",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Chris Columbus"
+      ],
+      "actors": [
+        "Anthony Rapp",
+        "Adam Pascal",
+        "Rosario Dawson",
+        "Jesse L. Martin",
+        "Wilson Jermaine Heredia",
+        "Idina Menzel"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.43,
+      "rating_count": 89406,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/6/6/50766-rent-0-230-0-345-crop.jpg?v=b974833268",
+      "url": "https://letterboxd.com/film/rent/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Comedy": 48,
+      "Drama": 39,
+      "Romance": 20,
+      "Crime": 13,
+      "Adventure": 5,
+      "Science Fiction": 4,
+      "Horror": 4,
+      "Action": 4,
+      "Music": 3,
+      "Thriller": 3,
+      "Mystery": 2,
+      "Fantasy": 1
+    },
+    "directors": {
+      "Gregg Araki": 6,
+      "Kevin Smith": 3,
+      "Richard Linklater": 3,
+      "John Hughes": 2,
+      "Gus Van Sant": 2,
+      "Cameron Crowe": 2,
+      "Doug Liman": 2,
+      "Edgar Wright": 2,
+      "Allan Moyle": 1,
+      "Terry Zwigoff": 1,
+      "James Merendino": 1,
+      "Ben Stiller": 1,
+      "Amy Heckerling": 1,
+      "Stephen Herek": 1,
+      "Mike Judge": 1,
+      "Jared Hess": 1,
+      "Terry Gilliam": 1,
+      "Danny Boyle": 1,
+      "Rodman Flender": 1,
+      "Daisy von Scherler Mayer": 1
+    },
+    "years": {
+      "1978": 1,
+      "1982": 1,
+      "1985": 1,
+      "1986": 1,
+      "1989": 2,
+      "1990": 1,
+      "1991": 1,
+      "1992": 2,
+      "1993": 3,
+      "1994": 3,
+      "1995": 8,
+      "1996": 5,
+      "1997": 2,
+      "1998": 6,
+      "1999": 6,
+      "2000": 2,
+      "2001": 2,
+      "2003": 2,
+      "2004": 4,
+      "2005": 1,
+      "2007": 2,
+      "2009": 1,
+      "2010": 1,
+      "2018": 1,
+      "2021": 1
+    }
+  }
+}

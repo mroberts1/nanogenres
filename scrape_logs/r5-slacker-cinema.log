@@ -1,0 +1,106 @@
+[search] https://letterboxd.com/search/lists/slacker+cinema/
+[search] 11 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/3dwn/list/slacker-cinema/
+[list] https://letterboxd.com/stateofhailey/list/slacker-cinema/
+[list] https://letterboxd.com/emilymac/list/slacker-cinema/
+[list] https://letterboxd.com/strzalka19/list/slacker-cinema/
+[list] https://letterboxd.com/catonfilm/list/slacker-cinema/
+[list] https://letterboxd.com/quackmire/list/quackmire-on-slacker-cinema/
+[list] https://letterboxd.com/harry_wallace_/list/slacker-cinema/
+[list] https://letterboxd.com/infiniteflicker/list/spike-mike-slackers-dykes-chapter-3-parting/
+[list] https://letterboxd.com/de_cinema/list/de-cinema-slackers-drifters/
+[list] https://letterboxd.com/bigmitto/list/centrelink-cinema-the-australian-slacker/
+    1/60 Clerks (1994) x7 — Comedy
+    2/60 Dazed and Confused (1993) x6 — Comedy, Drama
+    3/60 Mallrats (1995) x5 — Romance, Comedy
+    4/60 Slacker (1990) x5 — Comedy, Drama
+    5/60 Empire Records (1995) x4 — Romance, Comedy, Drama
+    6/60 Ghost World (2001) x4 — Comedy, Drama
+    7/60 SLC Punk (1998) x4 — Drama, Music, Comedy
+    8/60 Reality Bites (1994) x4 — Romance, Comedy, Drama
+    9/60 Fast Times at Ridgemont High (1982) x4 — Drama, Romance, Comedy
+   10/60 Ferris Bueller's Day Off (1986) x4 — Comedy
+   11/60 Bill & Ted's Excellent Adventure (1989) x4 — Science Fiction, Adventure, Comedy
+   12/60 Office Space (1999) x4 — Comedy
+   13/60 Napoleon Dynamite (2004) x4 — Comedy
+   14/60 Fear and Loathing in Las Vegas (1998) x3 — Drama, Comedy, Adventure
+   15/60 The Living End (1992) x3 — Romance, Drama, Crime
+   16/60 Trainspotting (1996) x3 — Crime, Drama
+   17/60 Smiley Face (2007) x3 — Comedy
+   18/60 Idle Hands (1999) x3 — Comedy, Romance, Horror, Fantasy
+   19/60 Party Girl (1995) x3 — Drama, Romance, Comedy
+   20/60 Juno (2007) x3 — Comedy, Romance, Drama
+   21/60 Drugstore Cowboy (1989) x3 — Crime, Drama
+   22/60 Singles (1992) x3 — Comedy, Drama, Romance
+   23/60 True Romance (1993) x3 — Romance, Crime, Action
+   24/60 Friday (1995) x3 — Drama, Comedy
+   25/60 Kicking and Screaming (1995) x3 — Comedy, Romance, Drama
+   26/60 The Big Lebowski (1998) x3 — Comedy, Crime
+   27/60 Go (1999) x3 — Comedy, Crime, Thriller
+   28/60 Adventureland (2009) x3 — Romance, Comedy, Drama
+   29/60 Nowhere (1997) x2 — Comedy, Drama, Science Fiction
+   30/60 The Doom Generation (1995) x2 — Drama, Comedy, Crime
+   31/60 mid90s (2018) x2 — Drama, Comedy
+   32/60 Scott Pilgrim vs. the World (2010) x2 — Romance, Action, Comedy
+   33/60 Totally F***ed Up (1993) x2 — Romance, Drama, Comedy
+   34/60 Almost Famous (2000) x2 — Drama, Music
+   35/60 Licorice Pizza (2021) x2 — Drama, Romance, Comedy
+   36/60 Disturbing Behavior (1998) x2 — Mystery, Horror, Science Fiction
+   37/60 Buffalo '66 (1998) x2 — Drama, Comedy, Romance
+   38/60 Hackers (1995) x2 — Drama, Action, Crime, Thriller
+   39/60 Scream (1996) x2 — Mystery, Crime, Horror
+   40/60 Splendor (1999) x2 — Comedy, Romance
+   41/60 Kids (1995) x2 — Crime, Drama
+   42/60 Elephant (2003) x2 — Crime, Drama
+   43/60 10 Things I Hate About You (1999) x2 — Comedy, Drama, Romance
+   44/60 Duck Season (2004) x2 — Drama, Comedy
+   45/60 Animal House (1978) x2 — Comedy
+   46/60 The Breakfast Club (1985) x2 — Drama, Comedy
+   47/60 Bill & Ted's Bogus Journey (1991) x2 — Science Fiction, Adventure, Comedy
+   48/60 The Stöned Age (1994) x2 — Comedy
+   49/60 Bottle Rocket (1996) x2 — Crime, Comedy, Drama
+   50/60 Swingers (1996) x2 — Drama, Comedy
+   51/60 SubUrbia (1996) x2 — Drama, Comedy
+   52/60 Clockwatchers (1997) x2 — Drama
+   53/60 Slums of Beverly Hills (1998) x2 — Comedy, Drama
+   54/60 Human Traffic (1999) x2 — Drama, Comedy
+   55/60 High Fidelity (2000) x2 — Drama, Music, Comedy, Romance
+   56/60 Jay and Silent Bob Strike Back (2001) x2 — Action, Adventure, Comedy
+   57/60 Party Monster (2003) x2 — Drama, Thriller, Comedy, Crime
+   58/60 Shaun of the Dead (2004) x2 — Horror, Comedy
+   59/60 Harold & Kumar Go to White Castle (2004) x2 — Adventure, Comedy
+   60/60 Rent (2005) x2 — Drama, Romance
+
+[done] /root/letterboxd-nanogenres/data/slacker-cinema.json
+{
+  "slug": "slacker-cinema",
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Clerks",
+      "1994",
+      7
+    ],
+    [
+      "Dazed and Confused",
+      "1993",
+      6
+    ],
+    [
+      "Mallrats",
+      "1995",
+      5
+    ],
+    [
+      "Slacker",
+      "1990",
+      5
+    ],
+    [
+      "Empire Records",
+      "1995",
+      4
+    ]
+  ]
+}

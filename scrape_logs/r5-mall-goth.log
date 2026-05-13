@@ -1,0 +1,95 @@
+[search] https://letterboxd.com/search/lists/mall+goth/
+[search] 18 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/_ihearthorror_/list/mall-goth/
+[list] https://letterboxd.com/magic_madozo/list/mall-goth/
+[list] https://letterboxd.com/zmbiefood/list/mall-goth-1/
+[list] https://letterboxd.com/agatinhers/list/mall-goth/
+[list] https://letterboxd.com/ghostlydeetz/list/mall-goth/
+[list] https://letterboxd.com/catonfilm/list/mall-goth/
+[list] https://letterboxd.com/doberman/list/movies-my-mall-goth-friends-made-me-see-as/
+[list] https://letterboxd.com/worstlieutenant/list/00-10s-mall-goth-steampunk/
+[list] https://letterboxd.com/vornskir/list/leather-pants-mall-goth-core/
+[list] https://letterboxd.com/primemeat/list/mall-goth-movies/
+    1/49 The Crow (1994) x8 — Action, Thriller, Fantasy
+    2/49 Queen of the Damned (2002) x7 — Horror, Romance, Fantasy
+    3/49 Ginger Snaps (2000) x7 — Drama, Horror, Thriller, Fantasy
+    4/49 The Craft (1996) x7 — Horror, Fantasy, Drama
+    5/49 Bride of Chucky (1998) x6 — Comedy, Horror
+    6/49 Underworld (2003) x5 — Thriller, Action, Fantasy
+    7/49 May (2002) x5 — Comedy, Drama, Horror
+    8/49 Donnie Darko (2001) x4 — Drama, Fantasy, Mystery
+    9/49 House of 1000 Corpses (2003) x4 — Horror
+   10/49 The Addams Family (1991) x4 — Comedy, Fantasy
+   11/49 Repo! The Genetic Opera (2008) x4 — Music, Science Fiction, Horror
+   12/49 Edward Scissorhands (1990) x4 — Fantasy, Drama, Romance
+   13/49 Twilight (2008) x4 — Drama, Fantasy, Romance
+   14/49 Coraline (2009) x3 — Animation, Horror, Fantasy, Family
+   15/49 Thirteen (2003) x3 — Drama
+   16/49 Thir13en Ghosts (2001) x3 — Horror, Thriller
+   17/49 Resident Evil (2002) x3 — Action, Science Fiction, Horror
+   18/49 Blade (1998) x3 — Action, Horror
+   19/49 Scream (1996) x3 — Mystery, Crime, Horror
+   20/49 Sweeney Todd: The Demon Barber of Fleet Street (2007) x3 — Drama, Horror
+   21/49 The Nightmare Before Christmas (1993) x3 — Family, Animation, Fantasy
+   22/49 The Grudge (2004) x2 — Horror, Mystery, Thriller
+   23/49 Hellraiser (1987) x2 — Thriller, Horror
+   24/49 Disturbing Behavior (1998) x2 — Mystery, Horror, Science Fiction
+   25/49 Freddy vs. Jason (2003) x2 — Horror
+   26/49 The Ring (2002) x2 — Mystery, Horror
+   27/49 Final Destination 3 (2006) x2 — Mystery, Horror
+   28/49 Corpse Bride (2005) x2 — Fantasy, Animation, Romance
+   29/49 Jennifer's Body (2009) x2 — Horror, Comedy
+   30/49 The Return of the Living Dead (1985) x2 — Science Fiction, Comedy, Horror
+   31/49 Frankenhooker (1990) x2 — Comedy, Science Fiction, Horror
+   32/49 Interview with the Vampire (1994) x2 — Horror, Drama, Fantasy
+   33/49 Ginger Snaps 2: Unleashed (2004) x2 — Horror, Fantasy, Drama, Thriller
+   34/49 The Devil's Rejects (2005) x2 — Drama, Horror, Crime
+   35/49 Book of Shadows: Blair Witch 2 (2000) x2 — Mystery, Horror
+   36/49 Bram Stoker's Dracula (1992) x2 — Horror, Romance
+   37/49 Scream 3 (2000) x2 — Horror, Mystery
+   38/49 Little Nicky (2000) x2 — Comedy, Fantasy
+   39/49 Dracula 2000 (2000) x2 — Horror
+   40/49 Constantine (2005) x2 — Action, Horror, Fantasy
+   41/49 The Matrix (1999) x2 — Science Fiction, Action
+   42/49 Spawn (1997) x2 — Adventure, Science Fiction, Action, Thriller, Fantasy, Horror
+   43/49 Lenore, the Cute Little Dead Girl (2002) x2 — Comedy, Mystery, Animation, Drama
+   44/49 Kittie ‎– Spit In Your Eye (2000) x2 — Music
+   45/49 The Texas Chain Saw Massacre (1974) x2 — Horror
+   46/49 Beetlejuice (1988) x2 — Fantasy, Comedy
+   47/49 Van Helsing (2004) x2 — Action, Horror, Adventure
+   48/49 Sucker Punch (2011) x2 — Action, Thriller, Fantasy
+   49/49 Sin City (2005) x2 — Thriller, Crime
+
+[done] /root/letterboxd-nanogenres/data/mall-goth.json
+{
+  "slug": "mall-goth",
+  "lists_used": 10,
+  "canonical_films": 49,
+  "top_5": [
+    [
+      "The Crow",
+      "1994",
+      8
+    ],
+    [
+      "Queen of the Damned",
+      "2002",
+      7
+    ],
+    [
+      "Ginger Snaps",
+      "2000",
+      7
+    ],
+    [
+      "The Craft",
+      "1996",
+      7
+    ],
+    [
+      "Bride of Chucky",
+      "1998",
+      6
+    ]
+  ]
+}

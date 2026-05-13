@@ -1,0 +1,1963 @@
+{
+  "query": "wuxia",
+  "slug": "wuxia",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/kudos/list/wuxia/",
+      "user": "kudos",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "I was planning on making my own Wuxia list, then I found End of Cinema's 30 Essential Wuxia Films, a great starting list for those looking for Wuxia films.\n\nThe first 32 films comprise the End of Cinema list, 33 and on are additional films I may add.",
+      "owner": "List by Kudos",
+      "tags": [
+        "wuxia",
+        "martial-arts-films"
+      ]
+    },
+    {
+      "href": "/swyers/list/wuxia/",
+      "user": "swyers",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "Wuxia films, largely taken from this Wikipedia category:\nen.wikipedia.org/wiki/Category:Wuxia_films\nAdditional films taken from The End of Cinema\ntheendofcinema.net/2016/02/11/30-essential-wuxia-films/ and elsewhere.\n\nI could not locate the following films on Letterboxd:\nSword of Blood and Valour (1958)\nThe Great Heroes (1960)\nStory of the Sword and the Sabre (1963)\nThe Flying Fox (1964)",
+      "owner": "List by Swyers PATRON",
+      "tags": [
+        "wuxia",
+        "china",
+        "chinese-cinema",
+        "hong-kong",
+        "taiwan",
+        "asian",
+        "asian-cinema",
+        "martial-arts"
+      ]
+    },
+    {
+      "href": "/chiniana/list/wuxia/",
+      "user": "chiniana",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "Wuxia (wu-hsia), which literally means \"martial hero\", is a broad genre of Chinese fiction concerning the adventures of martial artists. Although wuxia is traditionally a form of literature, its popularity has caused it to spread to diverse art forms such as Chinese opera, manhua, films, television series and video games. It is a component of popular culture in many Chinese-speaking communities around the world.\n\nThe word \"wuxia\" is a compound word composed of the words wu (lit. \"martial\", \"military\", or \"armed\") and xia (lit. \"honourable\", \"chivalrous\", or \"hero\"). A martial artist who follows the code of xia is often referred to as a xiake (lit. \"follower of xia\") or youxia (lit. \"wandering xia\"). In some translated works of wuxia, the… more",
+      "owner": "List by Lili Li",
+      "tags": []
+    },
+    {
+      "href": "/igorcristiano/list/wuxia/",
+      "user": "igorcristiano",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "Um subgênero do cinema de artes marciais chinês. Os filmes de Wuxia, ou filmes de esgrima, são histórias de aventura ambientadas na China antiga, geralmente com elementos de fantasia e misticismo. Comparados com os filmes de kung fu mais realistas, os filmes Wuxia são mais estilizados, com tramas elaboradas, cenários luxuosos e cenas de luta cuidadosamente coreografadas e que desafiam a gravidade, feitas com o auxílio de fios.",
+      "owner": "List by Igor Cristiano",
+      "tags": [
+        "martial-arts",
+        "aventura",
+        "kung-fu"
+      ]
+    },
+    {
+      "href": "/genasai/list/wuxia/",
+      "user": "genasai",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "Genasai is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Genasai PATRON",
+      "tags": []
+    },
+    {
+      "href": "/weirdermovies/list/wuxia/",
+      "user": "weirdermovies",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "Chinese heroic martial arts stories usually with strong fantasy aspects and/or highly stylized.",
+      "owner": "List by R2",
+      "tags": []
+    },
+    {
+      "href": "/ivarius/list/wuxia/",
+      "user": "ivarius",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "End of Cinema's 30 Essential Wuxia Films",
+      "owner": "List by Ivar PATRON",
+      "tags": [
+        "wuxia",
+        "martial-arts-films"
+      ]
+    },
+    {
+      "href": "/julibrise/list/wuxia/",
+      "user": "julibrise",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "julibrise is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by julibrise",
+      "tags": []
+    },
+    {
+      "href": "/andrewjohnbundy/list/wuxia/",
+      "user": "andrewjohnbundy",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "What I've seen, in order of release... \n\nHow did I not dive more into these after my chanbara phase a few years ago?",
+      "owner": "List by Andrew Bundy PRO",
+      "tags": []
+    },
+    {
+      "href": "/vicwatchesmovie/list/wuxia/",
+      "user": "vicwatchesmovie",
+      "slug": "wuxia",
+      "title": "Wuxia",
+      "desc": "Vic is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Vic",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 447,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "dragon-inn",
+      "title": "Dragon Inn",
+      "year": "1967",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "King Hu"
+      ],
+      "actors": [
+        "Shih Chun",
+        "Pai Ying",
+        "Polly Shang-Kuan Ling-Feng",
+        "Miao Tian",
+        "Han Ying-Chieh",
+        "Tsao Chien"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "rating": 4.02,
+      "rating_count": 17991,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/4/4/5/84445-dragon-inn-0-230-0-345-crop.jpg?v=983f2c3720",
+      "url": "https://letterboxd.com/film/dragon-inn/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "crouching-tiger-hidden-dragon",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": "2000",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Ang Lee"
+      ],
+      "actors": [
+        "Chow Yun-Fat",
+        "Michelle Yeoh",
+        "Zhang Ziyi",
+        "Chang Chen",
+        "Lung Sihung",
+        "Cheng Pei-Pei"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Taiwan",
+        "USA",
+        "China"
+      ],
+      "rating": 4.08,
+      "rating_count": 267261,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/5/51905-crouching-tiger-hidden-dragon-0-230-0-345-crop.jpg?v=6ce0305909",
+      "url": "https://letterboxd.com/film/crouching-tiger-hidden-dragon/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "come-drink-with-me",
+      "title": "Come Drink with Me",
+      "year": "1966",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "King Hu"
+      ],
+      "actors": [
+        "Cheng Pei-Pei",
+        "Elliot Ngok Wah",
+        "Chen Hung-Lieh",
+        "Lee Wan-Chung",
+        "Yang Chi-Ching",
+        "Shum Lo"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.73,
+      "rating_count": 14774,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/5/8/35458-come-drink-with-me-0-230-0-345-crop.jpg?v=94fb7facf2",
+      "url": "https://letterboxd.com/film/come-drink-with-me/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-one-armed-swordsman",
+      "title": "The One-Armed Swordsman",
+      "year": "1967",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Chang Cheh"
+      ],
+      "actors": [
+        "Jimmy Wang Yu",
+        "Lisa Chiao Chiao",
+        "Tien Feng",
+        "Violet Pan Ying-Zi",
+        "Yang Chi-Ching",
+        "Tang Ti"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.7,
+      "rating_count": 6964,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/7/2/11872-the-one-armed-swordsman-0-230-0-345-crop.jpg?v=047cda1d4c",
+      "url": "https://letterboxd.com/film/the-one-armed-swordsman/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "a-touch-of-zen",
+      "title": "A Touch of Zen",
+      "year": "1970",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "King Hu"
+      ],
+      "actors": [
+        "Hsu Feng",
+        "Shih Chun",
+        "Pai Ying",
+        "Tien Peng",
+        "Roy Chiao",
+        "Tsao Chien"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Taiwan"
+      ],
+      "rating": 4.12,
+      "rating_count": 19420,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/0/1/4/21014-a-touch-of-zen-0-230-0-345-crop.jpg?v=ab285488d8",
+      "url": "https://letterboxd.com/film/a-touch-of-zen/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "a-chinese-ghost-story",
+      "title": "A Chinese Ghost Story",
+      "year": "1987",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Horror"
+      ],
+      "directors": [
+        "Tony Ching Siu-Tung"
+      ],
+      "actors": [
+        "Leslie Cheung",
+        "Joey Wong Cho-Yin",
+        "Wu Ma",
+        "Lau Siu-Ming",
+        "David Lam Wai",
+        "Fanny Sit Chi-Lun"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.8,
+      "rating_count": 19769,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/0/4/6/32046-a-chinese-ghost-story-0-230-0-345-crop.jpg?v=b54e31b059",
+      "url": "https://letterboxd.com/film/a-chinese-ghost-story/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-legend-of-the-swordsman",
+      "title": "The Legend of the Swordsman",
+      "year": "1992",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Tony Ching Siu-Tung"
+      ],
+      "actors": [
+        "Brigitte Lin",
+        "Jet Li",
+        "Rosamund Kwan Chi-Lam",
+        "Michele Reis",
+        "Waise Lee Chi-Hung",
+        "Candice Yu On-On"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Taiwan"
+      ],
+      "rating": 3.65,
+      "rating_count": 2876,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/1/7/5/40175-the-legend-of-the-swordsman-0-230-0-345-crop.jpg?v=4e3501c1a3",
+      "url": "https://letterboxd.com/film/the-legend-of-the-swordsman/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "ashes-of-time",
+      "title": "Ashes of Time",
+      "year": "1994",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Wong Kar-Wai"
+      ],
+      "actors": [
+        "Leslie Cheung",
+        "Brigitte Lin",
+        "Tony Leung Ka-fai",
+        "Carina Lau",
+        "Tony Leung Chiu-wai",
+        "Charlie Yeung Choi-Nei"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Taiwan",
+        "China"
+      ],
+      "rating": 3.56,
+      "rating_count": 30438,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/2/2/8/24228-ashes-of-time-0-230-0-345-crop.jpg?v=da5ad3b6da",
+      "url": "https://letterboxd.com/film/ashes-of-time/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-blade",
+      "title": "The Blade",
+      "year": "1995",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "Tsui Hark"
+      ],
+      "actors": [
+        "Vincent Zhao Wenzhuo",
+        "Xiong Xinxin",
+        "Sonny Song",
+        "Austin Wai Tin-Chi",
+        "Moses Chan Ho",
+        "Chung Bik-Ha"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.8,
+      "rating_count": 7054,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/2/4/9/22249-the-blade-0-230-0-345-crop.jpg?v=c5b25657fb",
+      "url": "https://letterboxd.com/film/the-blade/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "hero-2002",
+      "title": "Hero",
+      "year": "2002",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Action",
+        "History"
+      ],
+      "directors": [
+        "Zhang Yimou"
+      ],
+      "actors": [
+        "Jet Li",
+        "Tony Leung Chiu-wai",
+        "Maggie Cheung",
+        "Donnie Yen",
+        "Zhang Ziyi",
+        "Chen Daoming"
+      ],
+      "countries": [
+        "Hong Kong",
+        "China"
+      ],
+      "rating": 4,
+      "rating_count": 119321,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ox/qe/4i/v4/u1zSyesxUf1FSHV6RKQHEto5HcD-0-230-0-345-crop.jpg?v=58fec9628b",
+      "url": "https://letterboxd.com/film/hero-2002/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "house-of-flying-daggers",
+      "title": "House of Flying Daggers",
+      "year": "2004",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Zhang Yimou"
+      ],
+      "actors": [
+        "Takeshi Kaneshiro",
+        "Andy Lau",
+        "Zhang Ziyi",
+        "Song Dandan",
+        "Zhao Hongfei",
+        "Guo Jun"
+      ],
+      "countries": [
+        "Australia",
+        "China",
+        "Hong Kong",
+        "USA"
+      ],
+      "rating": 3.79,
+      "rating_count": 58546,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/5/0/47050-house-of-flying-daggers-0-230-0-345-crop.jpg?v=fb8f5a0b96",
+      "url": "https://letterboxd.com/film/house-of-flying-daggers/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "the-assassin-2015",
+      "title": "The Assassin",
+      "year": "2015",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Hou Hsiao-hsien"
+      ],
+      "actors": [
+        "Shu Qi",
+        "Chang Chen",
+        "Zhou Yun",
+        "Satoshi Tsumabuki",
+        "Ni Dahong",
+        "Yong Mei"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Taiwan"
+      ],
+      "rating": 3.52,
+      "rating_count": 31969,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/2/9/3/177293-the-assassin-0-230-0-345-crop.jpg?v=7eff999ffa",
+      "url": "https://letterboxd.com/film/the-assassin-2015/",
+      "appears_in_n_lists": 7
+    },
+    {
+      "slug": "killer-clans",
+      "title": "Killer Clans",
+      "year": "1976",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Chor Yuen"
+      ],
+      "actors": [
+        "Tsung Hua",
+        "Elliot Ngok Wah",
+        "Ku Feng",
+        "Ching Li",
+        "Wong Chung",
+        "Lo Lieh"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.5,
+      "rating_count": 811,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/9/6/73996-killer-clans-0-230-0-345-crop.jpg?v=a00052092d",
+      "url": "https://letterboxd.com/film/killer-clans/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "legend-of-the-mountain",
+      "title": "Legend of the Mountain",
+      "year": "1979",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Fantasy"
+      ],
+      "directors": [
+        "King Hu"
+      ],
+      "actors": [
+        "Shih Chun",
+        "Hsu Feng",
+        "Sylvia Chang",
+        "Tung Lin",
+        "Rainbow Hsu",
+        "Tien Feng"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Taiwan",
+        "South Korea"
+      ],
+      "rating": 3.98,
+      "rating_count": 4125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/8/3/6/137836-legend-of-the-mountain-0-230-0-345-crop.jpg?v=bcf6934a7a",
+      "url": "https://letterboxd.com/film/legend-of-the-mountain/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-butterfly-murders",
+      "title": "The Butterfly Murders",
+      "year": "1979",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Tsui Hark"
+      ],
+      "actors": [
+        "Lau Siu-Ming",
+        "Michelle Yim",
+        "Wong Shu-Tong",
+        "JoJo Chan Kei-Kei",
+        "Chiang Wang",
+        "Chang Kuo-Chu"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.38,
+      "rating_count": 2406,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/2/9/1/20291-the-butterfly-murders-0-230-0-345-crop.jpg?v=cf9c09aa41",
+      "url": "https://letterboxd.com/film/the-butterfly-murders/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "zu-warriors-from-the-magic-mountain",
+      "title": "Zu: Warriors from the Magic Mountain",
+      "year": "1983",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Tsui Hark"
+      ],
+      "actors": [
+        "Sammo Hung Kam-Bo",
+        "Yuen Biao",
+        "Adam Cheng Siu-Chow",
+        "Brigitte Lin",
+        "Moon Lee Choi-Fung",
+        "Judy Ongg"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.64,
+      "rating_count": 6485,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/3/8/7/26387-zu-warriors-from-the-magic-mountain-0-230-0-345-crop.jpg?v=14d428f253",
+      "url": "https://letterboxd.com/film/zu-warriors-from-the-magic-mountain/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "golden-swallow",
+      "title": "Golden Swallow",
+      "year": "1968",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Romance"
+      ],
+      "directors": [
+        "Chang Cheh"
+      ],
+      "actors": [
+        "Jimmy Wang Yu",
+        "Cheng Pei-Pei",
+        "Lo Lieh",
+        "Chiu Sam-Yin",
+        "Wu Ma",
+        "Yang Chi-Ching"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.62,
+      "rating_count": 1842,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/4/4/5/30445-golden-swallow-0-230-0-345-crop.jpg?v=369c7b0ce8",
+      "url": "https://letterboxd.com/film/golden-swallow/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-heroic-ones",
+      "title": "The Heroic Ones",
+      "year": "1970",
+      "genres": [
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Chang Cheh"
+      ],
+      "actors": [
+        "David Chiang Da-Wei",
+        "Ti Lung",
+        "Ku Feng",
+        "Chan Sing",
+        "Chin Han",
+        "Pao Chia-Wen"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.46,
+      "rating_count": 828,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/0/4/7/28047-the-heroic-ones-0-230-0-345-crop.jpg?v=79db6889e7",
+      "url": "https://letterboxd.com/film/the-heroic-ones/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "raining-in-the-mountain",
+      "title": "Raining in the Mountain",
+      "year": "1979",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "King Hu"
+      ],
+      "actors": [
+        "Hsu Feng",
+        "Sun Yueh",
+        "Tung Lin",
+        "Tien Feng",
+        "Chen Hui-Lou",
+        "Paul Chun Pui"
+      ],
+      "countries": [
+        "Hong Kong",
+        "South Korea",
+        "Taiwan"
+      ],
+      "rating": 3.89,
+      "rating_count": 4928,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/7/5/4/62754-raining-in-the-mountain-0-230-0-345-crop.jpg?v=a415397078",
+      "url": "https://letterboxd.com/film/raining-in-the-mountain/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "detective-dee-and-the-mystery-of-the-phantom-flame",
+      "title": "Detective Dee and the Mystery of the Phantom Flame",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Action",
+        "Mystery"
+      ],
+      "directors": [
+        "Tsui Hark"
+      ],
+      "actors": [
+        "Andy Lau",
+        "Li Bingbing",
+        "Deng Chao",
+        "Tony Leung Ka-fai",
+        "Carina Lau",
+        "Richard Ng Yiu-Hon"
+      ],
+      "countries": [
+        "China",
+        "Hong Kong"
+      ],
+      "rating": 3.33,
+      "rating_count": 7891,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/0/4/3/17043-detective-dee-and-the-mystery-of-the-phantom-flame-0-230-0-345-crop.jpg?v=89615f2f09",
+      "url": "https://letterboxd.com/film/detective-dee-and-the-mystery-of-the-phantom-flame/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "journey-to-the-west-conquering-the-demons",
+      "title": "Journey to the West: Conquering the Demons",
+      "year": "2013",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Action",
+        "Fantasy"
+      ],
+      "directors": [
+        "Stephen Chow"
+      ],
+      "actors": [
+        "Shu Qi",
+        "Wen Zhang",
+        "Huang Bo",
+        "Show Lo",
+        "Chrissie Chau Sau-Na",
+        "Lee Sheung-Ching"
+      ],
+      "countries": [
+        "China",
+        "Hong Kong"
+      ],
+      "rating": 3.46,
+      "rating_count": 12867,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/5/2/2/125522-journey-to-the-west-conquering-the-demons-0-230-0-345-crop.jpg?v=ed13f7ca9d",
+      "url": "https://letterboxd.com/film/journey-to-the-west-conquering-the-demons/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-sentimental-swordsman",
+      "title": "The Sentimental Swordsman",
+      "year": "1977",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Chor Yuen"
+      ],
+      "actors": [
+        "Ti Lung",
+        "Ching Li",
+        "Derek Yee",
+        "Elliot Ngok Wah",
+        "Candice Yu On-On",
+        "Fan Mei-Sheng"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.56,
+      "rating_count": 1112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/9/6/7/112967-the-sentimental-swordsman-0-230-0-345-crop.jpg?v=b154dbc61d",
+      "url": "https://letterboxd.com/film/the-sentimental-swordsman/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "last-hurrah-for-chivalry",
+      "title": "Last Hurrah for Chivalry",
+      "year": "1979",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "John Woo"
+      ],
+      "actors": [
+        "Damian Lau Chung-Yan",
+        "Wai Pak",
+        "Lau Kong",
+        "Fung Hak-On",
+        "Chin Yuet-Sang",
+        "Cheng Lui"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.69,
+      "rating_count": 5068,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/8/2/6/43826-last-hurrah-for-chivalry-0-230-0-345-crop.jpg?v=218db2b4ab",
+      "url": "https://letterboxd.com/film/last-hurrah-for-chivalry/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-sword",
+      "title": "The Sword",
+      "year": "1980",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "Patrick Tam Kar-Ming"
+      ],
+      "actors": [
+        "Adam Cheng Siu-Chow",
+        "Tien Feng",
+        "Eddy Ko Hung",
+        "Norman Tsui Siu-Keung",
+        "Jade Hsu",
+        "Bonnie Ngai Chau-Wah"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.79,
+      "rating_count": 1883,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/3/8/60238-the-sword-0-230-0-345-crop.jpg?v=ccab1abe2c",
+      "url": "https://letterboxd.com/film/the-sword/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-miracle-fighters",
+      "title": "The Miracle Fighters",
+      "year": "1982",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Fantasy"
+      ],
+      "directors": [
+        "Yuen Woo-Ping"
+      ],
+      "actors": [
+        "Yuen Yat-Choh",
+        "Bryan Leung Kar-Yan",
+        "Yuen Cheung-Yan",
+        "Brandy Yuen Jan-Yeung",
+        "Eddy Ko Hung",
+        "Yuen Shun-Yi"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.66,
+      "rating_count": 1275,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/2/3/6/61236-the-miracle-fighters-0-230-0-345-crop.jpg?v=ce3e51bd4f",
+      "url": "https://letterboxd.com/film/the-miracle-fighters/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "a-chinese-odyssey-part-one-pandoras-box",
+      "title": "A Chinese Odyssey Part One: Pandora's Box",
+      "year": "1995",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Romance",
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "Jeffrey Lau Chun-Wai"
+      ],
+      "actors": [
+        "Stephen Chow",
+        "Richard Ng Man-Tat",
+        "Law Kar-Ying",
+        "Yammie Lam Kit-Ying",
+        "Karen Mok Man-Wai",
+        "Johnnie Kong"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.65,
+      "rating_count": 8068,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/9/6/7/43967-a-chinese-odyssey-part-one-pandora-s-box-0-230-0-345-crop.jpg?v=e378da1822",
+      "url": "https://letterboxd.com/film/a-chinese-odyssey-part-one-pandoras-box/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "dragon-2011",
+      "title": "Dragon",
+      "year": "2011",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Peter Chan Ho-Sun"
+      ],
+      "actors": [
+        "Donnie Yen",
+        "Takeshi Kaneshiro",
+        "Tang Wei",
+        "Jimmy Wang Yu",
+        "Kara Hui Ying-Hung",
+        "Yin Zhusheng"
+      ],
+      "countries": [
+        "Hong Kong",
+        "China"
+      ],
+      "rating": 3.47,
+      "rating_count": 6475,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/3/6/9/59369-dragon-0-230-0-345-crop.jpg?v=04f86948b1",
+      "url": "https://letterboxd.com/film/dragon-2011/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "duel-to-the-death",
+      "title": "Duel to the Death",
+      "year": "1983",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "directors": [
+        "Tony Ching Siu-Tung"
+      ],
+      "actors": [
+        "Norman Tsui Siu-Keung",
+        "Damian Lau Chung-Yan",
+        "Flora Cheong-Leen",
+        "Eddy Ko Hung",
+        "Paul Chang Chung",
+        "Kwon Yeong-Moon"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.92,
+      "rating_count": 6016,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/1/1/9/15119-duel-to-the-death-0-230-0-345-crop.jpg?v=2496ac6ed7",
+      "url": "https://letterboxd.com/film/duel-to-the-death/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "reign-of-assassins",
+      "title": "Reign of Assassins",
+      "year": "2010",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Su Chaobin",
+        "John Woo"
+      ],
+      "actors": [
+        "Michelle Yeoh",
+        "Jung Woo-sung",
+        "Wang Xueqi",
+        "Barbie Hsu",
+        "Shawn Yue Man-Lok",
+        "Kelly Lin Hsi-Lei"
+      ],
+      "countries": [
+        "China",
+        "Hong Kong",
+        "Taiwan"
+      ],
+      "rating": 3.33,
+      "rating_count": 2826,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/0/7/3/21073-reign-of-assassins-0-230-0-345-crop.jpg?v=c8ac54b71f",
+      "url": "https://letterboxd.com/film/reign-of-assassins/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-bride-with-white-hair",
+      "title": "The Bride with White Hair",
+      "year": "1993",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Ronny Yu"
+      ],
+      "actors": [
+        "Leslie Cheung",
+        "Brigitte Lin",
+        "Francis Ng Chun-Yu",
+        "Elaine Lui Siu-Ling",
+        "Yammie Lam Kit-Ying",
+        "Law Lok-Lam"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.49,
+      "rating_count": 3754,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/0/8/0/40080-the-bride-with-white-hair-0-230-0-345-crop.jpg?v=185b1cc11b",
+      "url": "https://letterboxd.com/film/the-bride-with-white-hair/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "butterfly-and-sword",
+      "title": "Butterfly and Sword",
+      "year": "1993",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Michael Mak Tong-Kit"
+      ],
+      "actors": [
+        "Tony Leung Chiu-wai",
+        "Michelle Yeoh",
+        "Joey Wong Cho-Yin",
+        "Jimmy Lin Chih-Ying",
+        "Donnie Yen",
+        "Tou Tsung-hua"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.24,
+      "rating_count": 787,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/7/2/7/24727-butterfly-sword-0-230-0-345-crop.jpg?v=028bea1a89",
+      "url": "https://letterboxd.com/film/butterfly-and-sword/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "shadow-2018",
+      "title": "Shadow",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "War"
+      ],
+      "directors": [
+        "Zhang Yimou"
+      ],
+      "actors": [
+        "Deng Chao",
+        "Sun Li",
+        "Ryan Zheng",
+        "Wang Qianyuan",
+        "Wang Jingchun",
+        "Hu Jun"
+      ],
+      "countries": [
+        "China",
+        "Hong Kong"
+      ],
+      "rating": 3.63,
+      "rating_count": 31964,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/5/0/7/2/395072-shadow-0-230-0-345-crop.jpg?v=3ae96bddb3",
+      "url": "https://letterboxd.com/film/shadow-2018/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-fastest-sword",
+      "title": "The Fastest Sword",
+      "year": "1968",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Pan Lei"
+      ],
+      "actors": [
+        "Liu Ping",
+        "Chu Jing",
+        "Kao Ming",
+        "Han Chiang",
+        "Lu Wei",
+        "Chao Chiang"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/7/8/7/142787-the-fastest-sword-0-230-0-345-crop.jpg?v=235dbeb346",
+      "url": "https://letterboxd.com/film/the-fastest-sword/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "swordsman",
+      "title": "Swordsman",
+      "year": "1990",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Tsui Hark",
+        "Tony Ching Siu-Tung",
+        "King Hu",
+        "Raymond Lee Wai-Man"
+      ],
+      "actors": [
+        "Sam Hui",
+        "Cecilia Yip Tung",
+        "Jacky Cheung Hok-Yau",
+        "Sharla Cheung",
+        "Fennie Yuen Kit-Ying",
+        "Lau Siu-Ming"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Taiwan"
+      ],
+      "rating": 3.4,
+      "rating_count": 2164,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/0/5/0/40050-swordsman-0-230-0-345-crop.jpg?v=dbf65cb2cf",
+      "url": "https://letterboxd.com/film/swordsman/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "new-dragon-gate-inn",
+      "title": "New Dragon Gate Inn",
+      "year": "1992",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Raymond Lee Wai-Man"
+      ],
+      "actors": [
+        "Maggie Cheung",
+        "Brigitte Lin",
+        "Tony Leung Ka-fai",
+        "Donnie Yen",
+        "Yen Shi-Kwan",
+        "Yuen Cheung-Yan"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.72,
+      "rating_count": 3649,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/6/8/6/24686-new-dragon-gate-inn-0-230-0-345-crop.jpg?v=57c0eb5b3b",
+      "url": "https://letterboxd.com/film/new-dragon-gate-inn/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "swordsman-iii-the-east-is-red",
+      "title": "Swordsman III: The East Is Red",
+      "year": "1993",
+      "genres": [
+        "Romance",
+        "Action"
+      ],
+      "directors": [
+        "Tony Ching Siu-Tung",
+        "Raymond Lee Wai-Man"
+      ],
+      "actors": [
+        "Brigitte Lin",
+        "Joey Wong Cho-Yin",
+        "Jean Wang Ching-Ying",
+        "Yu Rongguang",
+        "Lau Shun",
+        "Eddy Ko Hung"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Taiwan"
+      ],
+      "rating": 3.29,
+      "rating_count": 1142,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/1/7/9/40179-swordsman-iii-the-east-is-red-0-230-0-345-crop.jpg?v=133188efb2",
+      "url": "https://letterboxd.com/film/swordsman-iii-the-east-is-red/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "flying-swords-of-dragon-gate",
+      "title": "Flying Swords of Dragon Gate",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Tsui Hark"
+      ],
+      "actors": [
+        "Jet Li",
+        "Zhou Xun",
+        "Chen Kun",
+        "Gwei Lun-Mei",
+        "Chris Lee Yuchun",
+        "Louis Fan Siu-Wong"
+      ],
+      "countries": [
+        "China",
+        "Hong Kong"
+      ],
+      "rating": 2.93,
+      "rating_count": 2534,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/3/3/9/68339-flying-swords-of-dragon-gate-0-230-0-345-crop.jpg?v=565e4e0e76",
+      "url": "https://letterboxd.com/film/flying-swords-of-dragon-gate/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "a-chinese-ghost-story-ii",
+      "title": "A Chinese Ghost Story II",
+      "year": "1990",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Tony Ching Siu-Tung"
+      ],
+      "actors": [
+        "Leslie Cheung",
+        "Joey Wong Cho-Yin",
+        "Jacky Cheung Hok-Yau",
+        "Wu Ma",
+        "Waise Lee Chi-Hung",
+        "Michele Reis"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.51,
+      "rating_count": 4777,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/9/4/47394-a-chinese-ghost-story-ii-0-230-0-345-crop.jpg?v=b54f309d78",
+      "url": "https://letterboxd.com/film/a-chinese-ghost-story-ii/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "intimate-confessions-of-a-chinese-courtesan",
+      "title": "Intimate Confessions of a Chinese Courtesan",
+      "year": "1972",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Chor Yuen"
+      ],
+      "actors": [
+        "Lily Ho",
+        "Betty Pei Ti",
+        "Elliot Ngok Wah",
+        "Tung Lin",
+        "Wan Chung-Shan",
+        "Fan Mei-Sheng"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.72,
+      "rating_count": 5898,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/4/1/2/18412-intimate-confessions-of-a-chinese-courtesan-0-230-0-345-crop.jpg?v=478aaef7cd",
+      "url": "https://letterboxd.com/film/intimate-confessions-of-a-chinese-courtesan/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "crippled-avengers",
+      "title": "Crippled Avengers",
+      "year": "1978",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Chang Cheh"
+      ],
+      "actors": [
+        "Chen Kuan-Tai",
+        "Phillip Kwok Chui",
+        "Lo Meng",
+        "Sun Chien",
+        "Chiang Sheng",
+        "Lu Feng"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.81,
+      "rating_count": 7349,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/0/2/24802-crippled-avengers-0-230-0-345-crop.jpg?v=209ec114b9",
+      "url": "https://letterboxd.com/film/crippled-avengers/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "red-cliff",
+      "title": "Red Cliff",
+      "year": "2008",
+      "genres": [
+        "Drama",
+        "History",
+        "Action",
+        "War",
+        "Adventure"
+      ],
+      "directors": [
+        "John Woo"
+      ],
+      "actors": [
+        "Tony Leung Chiu-wai",
+        "Takeshi Kaneshiro",
+        "Zhang Fengyi",
+        "Chang Chen",
+        "Vicky Zhao",
+        "Hu Jun"
+      ],
+      "countries": [
+        "China",
+        "Hong Kong",
+        "Japan",
+        "South Korea",
+        "Taiwan",
+        "USA"
+      ],
+      "rating": 3.72,
+      "rating_count": 20896,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/6/3/1/44631-red-cliff-0-230-0-345-crop.jpg?v=dd50afc754",
+      "url": "https://letterboxd.com/film/red-cliff/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "deadful-melody",
+      "title": "Deadful Melody",
+      "year": "1994",
+      "genres": [
+        "Fantasy",
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Ng Min-Kan"
+      ],
+      "actors": [
+        "Brigitte Lin",
+        "Yuen Biao",
+        "Carina Lau",
+        "David Lam Wai",
+        "Wu Ma",
+        "Elvis Tsui Kam-Kong"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.4,
+      "rating_count": 402,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/0/8/3/40083-deadful-melody-0-230-0-345-crop.jpg?v=e1d40d48e0",
+      "url": "https://letterboxd.com/film/deadful-melody/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-twin-swords",
+      "title": "The Twin Swords",
+      "year": "1965",
+      "genres": [
+        "History",
+        "Action"
+      ],
+      "directors": [
+        "Hsu Tseng-Hung"
+      ],
+      "actors": [
+        "Jimmy Wang Yu",
+        "Chin Ping",
+        "Ivy Ling Po",
+        "Petrina Fung Bo-Bo",
+        "Lo Lieh",
+        "Tien Feng"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/1/4/8/132148-the-twin-swords-0-230-0-345-crop.jpg?v=4a9bb4f66c",
+      "url": "https://letterboxd.com/film/the-twin-swords/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-silent-swordsman",
+      "title": "The Silent Swordsman",
+      "year": "1967",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "Kao Li"
+      ],
+      "actors": [
+        "Chang Yi",
+        "Yue Wai",
+        "Shu Pei-Pei",
+        "Lisa Chiao Chiao",
+        "Huang Tsung-Hsun",
+        "Ku Wen-Chung"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/3/3/0/142330-the-silent-swordsman-0-230-0-345-crop.jpg?v=0a436cac4d",
+      "url": "https://letterboxd.com/film/the-silent-swordsman/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-silver-fox",
+      "title": "The Silver Fox",
+      "year": "1968",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Hsu Tseng-Hung"
+      ],
+      "actors": [
+        "Lily Ho",
+        "Chang Yi",
+        "Huang Tsung-Hsun",
+        "Yue Wai",
+        "Helen Ma Hoi-Lun",
+        "Tien Feng"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/2/1/6/143216-the-silver-fox-0-230-0-345-crop.jpg?v=626115a83a",
+      "url": "https://letterboxd.com/film/the-silver-fox/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "return-of-the-one-armed-swordsman",
+      "title": "Return of the One-Armed Swordsman",
+      "year": "1969",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Chang Cheh"
+      ],
+      "actors": [
+        "Jimmy Wang Yu",
+        "Lisa Chiao Chiao",
+        "Essie Lin Chia",
+        "Tsung Hua",
+        "Cheng Lui",
+        "Hoh Ban"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.6,
+      "rating_count": 2115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/2/2/0/17220-return-of-the-one-armed-swordsman-0-230-0-345-crop.jpg?v=c84cea0fde",
+      "url": "https://letterboxd.com/film/return-of-the-one-armed-swordsman/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "have-sword-will-travel",
+      "title": "Have Sword, Will Travel",
+      "year": "1969",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Romance"
+      ],
+      "directors": [
+        "Chang Cheh"
+      ],
+      "actors": [
+        "David Chiang Da-Wei",
+        "Ti Lung",
+        "Li Ching",
+        "Wong Chung",
+        "Ku Feng",
+        "Chan Sing"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.54,
+      "rating_count": 954,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/7/5/9/75759-have-sword-will-travel-0-230-0-345-crop.jpg?v=acbaa357ee",
+      "url": "https://letterboxd.com/film/have-sword-will-travel/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-golden-knight",
+      "title": "The Golden Knight",
+      "year": "1970",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "Griffin Yueh Feng"
+      ],
+      "actors": [
+        "Lily Ho",
+        "Kao Yuen",
+        "Fan Mei-Sheng",
+        "Shu Pei-Pei",
+        "Hong Liu",
+        "Ching Miao"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/2/7/1827-the-golden-knight-0-230-0-345-crop.jpg?v=873d625ab8",
+      "url": "https://letterboxd.com/film/the-golden-knight/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "king-eagle",
+      "title": "King Eagle",
+      "year": "1971",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "Chang Cheh"
+      ],
+      "actors": [
+        "Chan Sing",
+        "Ti Lung",
+        "Li Ching",
+        "Ching Miao",
+        "Chang Pei-Shan",
+        "David Chiang Da-Wei"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.34,
+      "rating_count": 268,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/619-king-eagle-0-230-0-345-crop.jpg?v=a13dc5f5f8",
+      "url": "https://letterboxd.com/film/king-eagle/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-new-one-armed-swordsman",
+      "title": "The New One-Armed Swordsman",
+      "year": "1971",
+      "genres": [
+        "History",
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "directors": [
+        "Chang Cheh"
+      ],
+      "actors": [
+        "David Chiang Da-Wei",
+        "Ti Lung",
+        "Li Ching",
+        "Ku Feng",
+        "Chan Sing",
+        "Wong Chung"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.72,
+      "rating_count": 2271,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/9/8/1/33981-the-new-one-armed-swordsman-0-230-0-345-crop.jpg?v=13f89be659",
+      "url": "https://letterboxd.com/film/the-new-one-armed-swordsman/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "duel-for-gold",
+      "title": "Duel for Gold",
+      "year": "1971",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "Chor Yuen"
+      ],
+      "actors": [
+        "Ivy Ling Po",
+        "Wang Ping",
+        "Chin Han",
+        "Lo Lieh",
+        "Richard Chan Chun",
+        "Fan Mei-Sheng"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/7/827-duel-for-gold-0-230-0-345-crop.jpg?v=33b4ebb130",
+      "url": "https://letterboxd.com/film/duel-for-gold/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-14-amazons",
+      "title": "The 14 Amazons",
+      "year": "1972",
+      "genres": [
+        "Action",
+        "Adventure",
+        "War"
+      ],
+      "directors": [
+        "Cheng Kang",
+        "Charles Tung Shao-Yung"
+      ],
+      "actors": [
+        "Lisa Lu",
+        "Ivy Ling Po",
+        "Lily Ho",
+        "Elliot Ngok Wah",
+        "Shu Pei-Pei",
+        "Wang Ping"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.41,
+      "rating_count": 914,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/2/8/6/38286-the-14-amazons-0-230-0-345-crop.jpg?v=0b8e4a6b92",
+      "url": "https://letterboxd.com/film/the-14-amazons/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "clan-of-amazons",
+      "title": "Clan of Amazons",
+      "year": "1978",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "Chor Yuen"
+      ],
+      "actors": [
+        "Tony Liu Tian-jue",
+        "Ling Yun",
+        "Norman Tsui Siu-Keung",
+        "Ching Li",
+        "Elliot Ngok Wah",
+        "Mannor Chan Man-Na"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/6/626-clan-of-amazons-0-230-0-345-crop.jpg?v=ef166cab00",
+      "url": "https://letterboxd.com/film/clan-of-amazons/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "heaven-sword-and-dragon-sabre",
+      "title": "Heaven Sword and Dragon Sabre",
+      "year": "1978",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Chor Yuen"
+      ],
+      "actors": [
+        "Derek Yee",
+        "Candice Yu On-On",
+        "Karen Chan Ga-Yee",
+        "Lo Lieh",
+        "Ching Li",
+        "Cheng Lai-Fong"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.36,
+      "rating_count": 213,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/3/4/1634-heaven-sword-and-dragon-sabre-0-230-0-345-crop.jpg?v=6d6c3ad05b",
+      "url": "https://letterboxd.com/film/heaven-sword-and-dragon-sabre/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-legend-1993",
+      "title": "The Legend",
+      "year": "1993",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Corey Yuen"
+      ],
+      "actors": [
+        "Jet Li",
+        "Josephine Siao Fong-Fong",
+        "Vincent Zhao Wenzhuo",
+        "Michele Reis",
+        "Paul Chu Kong",
+        "Sibelle Hu Hui-Chung"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.64,
+      "rating_count": 5190,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/8/6/1/40861-the-legend-0-230-0-345-crop.jpg?v=d8e1b1eb50",
+      "url": "https://letterboxd.com/film/the-legend-1993/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-legend-ii",
+      "title": "The Legend II",
+      "year": "1993",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Corey Yuen"
+      ],
+      "actors": [
+        "Jet Li",
+        "Josephine Siao Fong-Fong",
+        "Michele Reis",
+        "Amy Kwok",
+        "Ji Chunhua",
+        "Adam Cheng Siu-Chow"
+      ],
+      "countries": [
+        "Hong Kong",
+        "China"
+      ],
+      "rating": 3.41,
+      "rating_count": 1951,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/7/6/3/40763-the-legend-ii-0-230-0-345-crop.jpg?v=faedd2b89e",
+      "url": "https://letterboxd.com/film/the-legend-ii/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-white-dragon",
+      "title": "The White Dragon",
+      "year": "2004",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Action",
+        "Drama",
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "Wilson Yip"
+      ],
+      "actors": [
+        "Cecilia Cheung",
+        "Francis Ng Chun-Yu",
+        "Avi K. Garg",
+        "Liu Guancheng",
+        "Andy On Chi-Kit",
+        "Ding Xiaolong"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 3.26,
+      "rating_count": 308,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/5/4/0/46540-the-white-dragon-0-230-0-345-crop.jpg?v=fd8936dc80",
+      "url": "https://letterboxd.com/film/the-white-dragon/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "seven-swords",
+      "title": "Seven Swords",
+      "year": "2005",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Tsui Hark"
+      ],
+      "actors": [
+        "Leon Lai Ming",
+        "Charlie Yeung Choi-Nei",
+        "Lu Yi",
+        "Lau Kar-Leung",
+        "Donnie Yen",
+        "Sun Honglei"
+      ],
+      "countries": [
+        "Australia",
+        "China",
+        "Hong Kong",
+        "Netherlands",
+        "South Korea"
+      ],
+      "rating": 3.19,
+      "rating_count": 2902,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/9/7/5/45975-seven-swords-0-230-0-345-crop.jpg?v=cfe02ead53",
+      "url": "https://letterboxd.com/film/seven-swords/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "curse-of-the-golden-flower",
+      "title": "Curse of the Golden Flower",
+      "year": "2006",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Zhang Yimou"
+      ],
+      "actors": [
+        "Chow Yun-Fat",
+        "Gong Li",
+        "Jay Chou",
+        "Liu Ye",
+        "Qin Junjie",
+        "Li Man"
+      ],
+      "countries": [
+        "China",
+        "Hong Kong",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.54,
+      "rating_count": 17298,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/0/5/51005-curse-of-the-golden-flower-0-230-0-345-crop.jpg?v=c7bb2fe234",
+      "url": "https://letterboxd.com/film/curse-of-the-golden-flower/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-forbidden-kingdom",
+      "title": "The Forbidden Kingdom",
+      "year": "2008",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Rob Minkoff"
+      ],
+      "actors": [
+        "Jackie Chan",
+        "Jet Li",
+        "Michael Angarano",
+        "Liu Yifei",
+        "Li Bingbing",
+        "Collin Chou"
+      ],
+      "countries": [
+        "China",
+        "Hong Kong",
+        "USA"
+      ],
+      "rating": 2.99,
+      "rating_count": 41271,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/2/3/50823-the-forbidden-kingdom-0-230-0-345-crop.jpg?v=c2cb083d62",
+      "url": "https://letterboxd.com/film/the-forbidden-kingdom/",
+      "appears_in_n_lists": 3
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Action": 59,
+      "Adventure": 28,
+      "Drama": 24,
+      "Fantasy": 18,
+      "Comedy": 8,
+      "Romance": 7,
+      "History": 5,
+      "Horror": 4,
+      "War": 4,
+      "Mystery": 3,
+      "Thriller": 3,
+      "Science Fiction": 1
+    },
+    "directors": {
+      "Chang Cheh": 8,
+      "Tsui Hark": 7,
+      "King Hu": 6,
+      "Tony Ching Siu-Tung": 6,
+      "Chor Yuen": 6,
+      "Zhang Yimou": 4,
+      "John Woo": 3,
+      "Raymond Lee Wai-Man": 3,
+      "Hsu Tseng-Hung": 2,
+      "Corey Yuen": 2,
+      "Ang Lee": 1,
+      "Wong Kar-Wai": 1,
+      "Hou Hsiao-hsien": 1,
+      "Stephen Chow": 1,
+      "Patrick Tam Kar-Ming": 1,
+      "Yuen Woo-Ping": 1,
+      "Jeffrey Lau Chun-Wai": 1,
+      "Peter Chan Ho-Sun": 1,
+      "Su Chaobin": 1,
+      "Ronny Yu": 1
+    },
+    "years": {
+      "1965": 1,
+      "1966": 1,
+      "1967": 3,
+      "1968": 3,
+      "1969": 2,
+      "1970": 3,
+      "1971": 3,
+      "1972": 2,
+      "1976": 1,
+      "1977": 1,
+      "1978": 3,
+      "1979": 4,
+      "1980": 1,
+      "1982": 1,
+      "1983": 2,
+      "1987": 1,
+      "1990": 2,
+      "1992": 2,
+      "1993": 5,
+      "1994": 2,
+      "1995": 2,
+      "2000": 1,
+      "2002": 1,
+      "2004": 2,
+      "2005": 1,
+      "2006": 1,
+      "2008": 2,
+      "2010": 2,
+      "2011": 2,
+      "2013": 1,
+      "2015": 1,
+      "2018": 1
+    }
+  }
+}

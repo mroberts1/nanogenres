@@ -1,0 +1,1710 @@
+{
+  "query": "queercore",
+  "slug": "queercore",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/vanityrex/list/queercore/",
+      "user": "vanityrex",
+      "slug": "queercore",
+      "title": "Queercore",
+      "desc": "Queer punk, either films that influenced the movement or what the movement influenced. Admittedly, I haven't seen all of these and I'm still learning about this, but briefly read about whose films influenced it so just added their earlier experimental films.",
+      "owner": "List by Zā (Vanity Rex) PATRON",
+      "tags": [
+        "queer"
+      ]
+    },
+    {
+      "href": "/shirley_subway/list/queercore/",
+      "user": "shirley_subway",
+      "slug": "queercore",
+      "title": "Queercore",
+      "desc": "Queercore (or homocore) is a cultural and social movement that began in as an offshoot of punk. It is distinguished by its discontent with society in general, and specifically society's disapproval of the gay, bisexual, lesbian and transgender communities.",
+      "owner": "List by shirley_subway",
+      "tags": [
+        "lgbt",
+        "lgbtq",
+        "queercore",
+        "punk"
+      ]
+    },
+    {
+      "href": "/godoffucc/list/queercore/",
+      "user": "godoffucc",
+      "slug": "queercore",
+      "title": "queercore",
+      "desc": "gritty, dirty, grimey punk for the queers, fags and dykes",
+      "owner": "List by sarah PATRON",
+      "tags": [
+        "queer"
+      ]
+    },
+    {
+      "href": "/coast2coast/list/queercore/",
+      "user": "coast2coast",
+      "slug": "queercore",
+      "title": "queercore",
+      "desc": "queer punk movies,\nlist from “a queercore and queercore-influential filmography” from Queercore—How to Punk a Revolution by Liam Warfield, Walter Crasshole and Yony Leyset\nenjoy and take care \n\nnot on lb: What is the relationship between Rosa Von Praunheim and the male strippers in San Francisco (1990) dir Jürgen Brüning and Mark Goldstein",
+      "owner": "List by mathildeuh",
+      "tags": []
+    },
+    {
+      "href": "/limxjohn/list/queercore/",
+      "user": "limxjohn",
+      "slug": "queercore",
+      "title": "queercore",
+      "desc": "Jonathan is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Jonathan Lima",
+      "tags": []
+    },
+    {
+      "href": "/biipolaro4kaa/list/queercore/",
+      "user": "biipolaro4kaa",
+      "slug": "queercore",
+      "title": "Queercore",
+      "desc": "just a few of my favorite queer films",
+      "owner": "List by Noah Asaf",
+      "tags": [
+        "queer"
+      ]
+    },
+    {
+      "href": "/mondo_boring/list/queercore/",
+      "user": "mondo_boring",
+      "slug": "queercore",
+      "title": "Queercore",
+      "desc": "Westley is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Westley N. PRO",
+      "tags": [
+        "queer"
+      ]
+    },
+    {
+      "href": "/tdiaz/list/queercore/",
+      "user": "tdiaz",
+      "slug": "queercore",
+      "title": "Queercore",
+      "desc": "tdiaz is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by tdiaz PRO",
+      "tags": [
+        "queer"
+      ]
+    }
+  ],
+  "source_list_count": 8,
+  "films_considered": 199,
+  "canonical_count": 60,
+  "films": [
+    {
+      "slug": "flaming-creatures",
+      "title": "Flaming Creatures",
+      "year": "1963",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "Jack Smith"
+      ],
+      "actors": [
+        "Francis Francine",
+        "Sheila Bick",
+        "Joel Markman",
+        "Mario Montez",
+        "Arnold Rockwood",
+        "Judith Malina"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 3604,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/2/5/4/18254-flaming-creatures-0-230-0-345-crop.jpg?v=5483def8b1",
+      "url": "https://letterboxd.com/film/flaming-creatures/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "pink-flamingos",
+      "title": "Pink Flamingos",
+      "year": "1972",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "John Waters"
+      ],
+      "actors": [
+        "Divine",
+        "David Lochary",
+        "Mary Vivian Pearce",
+        "Mink Stole",
+        "Danny Mills",
+        "Edith Massey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 131253,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/3/4/51434-pink-flamingos-0-230-0-345-crop.jpg?v=c8c91c5ccf",
+      "url": "https://letterboxd.com/film/pink-flamingos/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "female-trouble",
+      "title": "Female Trouble",
+      "year": "1974",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "John Waters"
+      ],
+      "actors": [
+        "Divine",
+        "David Lochary",
+        "Mary Vivian Pearce",
+        "Mink Stole",
+        "Edith Massey",
+        "Cookie Mueller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.94,
+      "rating_count": 52781,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/2/1/6/43216-female-trouble-0-230-0-345-crop.jpg?v=740aefa477",
+      "url": "https://letterboxd.com/film/female-trouble/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "no-skin-off-my-ass",
+      "title": "No Skin Off My Ass",
+      "year": "1991",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Bruce LaBruce"
+      ],
+      "actors": [
+        "Bruce LaBruce",
+        "G.B. Jones",
+        "Klaus von Buecker",
+        "Caroline Azar",
+        "Beverly Breckenridge",
+        "Laurel Pervis"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.46,
+      "rating_count": 1650,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/5/6/8/27568-no-skin-off-my-ass-0-230-0-345-crop.jpg?v=86082b9691",
+      "url": "https://letterboxd.com/film/no-skin-off-my-ass/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "hustler-white",
+      "title": "Hustler White",
+      "year": "1996",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Bruce LaBruce",
+        "Rick Castro"
+      ],
+      "actors": [
+        "Tony Ward",
+        "Bruce LaBruce",
+        "Kevin P. Scott",
+        "Ivar Johnson",
+        "Kevin Kramer",
+        "Alex Austin"
+      ],
+      "countries": [
+        "Canada",
+        "Germany"
+      ],
+      "rating": 3.45,
+      "rating_count": 4142,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/6/8/6/20686-hustler-white-0-230-0-345-crop.jpg?v=e4476f3d92",
+      "url": "https://letterboxd.com/film/hustler-white/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-raspberry-reich",
+      "title": "The Raspberry Reich",
+      "year": "2004",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Drama",
+        "Action"
+      ],
+      "directors": [
+        "Bruce LaBruce"
+      ],
+      "actors": [
+        "Susanne Sachße",
+        "Daniel Bätscher",
+        "Andreas Rupprecht",
+        "Dean Monroe",
+        "Anton Dickson",
+        "Sherry Vine"
+      ],
+      "countries": [
+        "Canada",
+        "Germany"
+      ],
+      "rating": 3.52,
+      "rating_count": 3347,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/8/6/55886-the-raspberry-reich-0-230-0-345-crop.jpg?v=130309db72",
+      "url": "https://letterboxd.com/film/the-raspberry-reich/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "multiple-maniacs",
+      "title": "Multiple Maniacs",
+      "year": "1970",
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "John Waters"
+      ],
+      "actors": [
+        "Divine",
+        "David Lochary",
+        "Mary Vivian Pearce",
+        "Mink Stole",
+        "Cookie Mueller",
+        "Edith Massey"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.62,
+      "rating_count": 30338,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/9/2/3/35923-multiple-maniacs-0-230-0-345-crop.jpg?v=c7da804931",
+      "url": "https://letterboxd.com/film/multiple-maniacs/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "desperate-living",
+      "title": "Desperate Living",
+      "year": "1977",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "John Waters"
+      ],
+      "actors": [
+        "Liz Renay",
+        "Mink Stole",
+        "Susan Lowe",
+        "Edith Massey",
+        "Mary Vivian Pearce",
+        "Jean Hill"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 16507,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ju/53/au/xo/28OLCaFpjFqA4576cdAHUXGSqwd-0-230-0-345-crop.jpg?v=3ce435c200",
+      "url": "https://letterboxd.com/film/desperate-living/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-troublemakers",
+      "title": "The Troublemakers",
+      "year": "1990",
+      "genres": [],
+      "directors": [
+        "G.B. Jones"
+      ],
+      "actors": [
+        "Bruce LaBruce",
+        "G.B. Jones",
+        "Caroline Azar",
+        "Cizzy Che",
+        "Mark Freitas",
+        "David Gravelle"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/5/7/4/0/325740-the-troublemakers-0-230-0-345-crop.jpg?v=ab01ff4669",
+      "url": "https://letterboxd.com/film/the-troublemakers/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-yo-yo-gang",
+      "title": "The Yo-Yo Gang",
+      "year": "1992",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "G.B. Jones"
+      ],
+      "actors": [
+        "Caroline Azar",
+        "Bruce LaBruce",
+        "Beverly Breckenridge",
+        "Donna Dresch",
+        "Mark Freitas",
+        "G.B. Jones"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/4/9/4/6/344946-the-yo-yo-gang-0-230-0-345-crop.jpg?v=ab01ff4669",
+      "url": "https://letterboxd.com/film/the-yo-yo-gang/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-living-end",
+      "title": "The Living End",
+      "year": "1992",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Crime"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "Mike Dytri",
+        "Craig Gilmore",
+        "Mark Finch",
+        "Mary Woronov",
+        "Johanna Went",
+        "Darcy Marta"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 42866,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/9/3/1/29931-the-living-end-0-230-0-345-crop.jpg?v=ae8041cb8b",
+      "url": "https://letterboxd.com/film/the-living-end/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "totally-fed-up",
+      "title": "Totally F***ed Up",
+      "year": "1993",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Gregg Araki"
+      ],
+      "actors": [
+        "James Duval",
+        "Roko Belic",
+        "Susan Behshid",
+        "Jenee Gill",
+        "Gilbert Luna",
+        "Lance May"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 76508,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/6/9/8/29698-totally-fucked-up-0-230-0-345-crop.jpg?v=9fa43e5bfa",
+      "url": "https://letterboxd.com/film/totally-fed-up/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "super-8-1994",
+      "title": "Super 8½",
+      "year": "1994",
+      "genres": [],
+      "directors": [
+        "Bruce LaBruce"
+      ],
+      "actors": [
+        "Bruce LaBruce",
+        "Stacy Friedrich",
+        "Mikey Mike",
+        "Christeen Martin",
+        "Kate Ashley",
+        "Scott Thompson"
+      ],
+      "countries": [
+        "Canada",
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.45,
+      "rating_count": 551,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/7/7/16277-super-8-0-230-0-345-crop.jpg?v=84e08bf539",
+      "url": "https://letterboxd.com/film/super-8-1994/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "queercore-a-punk-u-mentary",
+      "title": "QUEERCORE (a punk-u-mentary)",
+      "year": "1997",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "directors": [
+        "Scott Treleaven"
+      ],
+      "actors": [
+        "Alan O'Conor",
+        "G.B. Jones",
+        "Bruce LaBruce",
+        "Will Munro",
+        "Jen Angel",
+        "Anita Smith"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/5/8/8/4/225884-queercore-0-230-0-345-crop.jpg?v=6d345eb042",
+      "url": "https://letterboxd.com/film/queercore-a-punk-u-mentary/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "shes-real-worse-than-queer",
+      "title": "She's Real (Worse than Queer)",
+      "year": "1997",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "directors": [
+        "Lucy Thane"
+      ],
+      "actors": [
+        "Miranda July",
+        "Lynn Breedlove",
+        "Leslie Mah",
+        "Donna Dresch",
+        "G.B. Jones",
+        "Gee Bag"
+      ],
+      "countries": [],
+      "rating": 3.7,
+      "rating_count": 309,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/2/2/6/180226-she-s-real-worse-than-queer--0-230-0-345-crop.jpg?v=537d641023",
+      "url": "https://letterboxd.com/film/shes-real-worse-than-queer/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-lollipop-generation",
+      "title": "The Lollipop Generation",
+      "year": "2008",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "G.B. Jones"
+      ],
+      "actors": [
+        "Vaginal Davis",
+        "Jena von Brücker",
+        "Mark Ewert",
+        "K.C. Klass",
+        "Calvin Johnson",
+        "Joel Gibb"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/1/9/2/0/151920-the-lollipop-generation-0-230-0-345-crop.jpg?v=4328af6810",
+      "url": "https://letterboxd.com/film/the-lollipop-generation/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "blow-job",
+      "title": "Blow Job",
+      "year": "1964",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Andy Warhol"
+      ],
+      "actors": [
+        "DeVeren Bookwalter",
+        "Willard Maas"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.97,
+      "rating_count": 3077,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/6/8/0/20680-blow-job-0-230-0-345-crop.jpg?v=b1c465abc5",
+      "url": "https://letterboxd.com/film/blow-job/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "mondo-trasho",
+      "title": "Mondo Trasho",
+      "year": "1969",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "John Waters"
+      ],
+      "actors": [
+        "Mary Vivian Pearce",
+        "Divine",
+        "David Lochary",
+        "Mink Stole",
+        "Bob Skidmore",
+        "Margie Skidmore"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.06,
+      "rating_count": 3710,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/8/6/5/31865-mondo-trasho-0-230-0-345-crop.jpg?v=b82f03d203",
+      "url": "https://letterboxd.com/film/mondo-trasho/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "trash",
+      "title": "Trash",
+      "year": "1970",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Paul Morrissey"
+      ],
+      "actors": [
+        "Joe Dallesandro",
+        "Holly Woodlawn",
+        "Geri Miller",
+        "Andrea Feldman",
+        "John Putnam",
+        "Jane Forth"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.46,
+      "rating_count": 2598,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/0/8/6/75086-trash-0-230-0-345-crop.jpg?v=b33eee7ab7",
+      "url": "https://letterboxd.com/film/trash/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "women-in-revolt",
+      "title": "Women in Revolt",
+      "year": "1971",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Paul Morrissey"
+      ],
+      "actors": [
+        "Holly Woodlawn",
+        "Candy Darling",
+        "Jackie Curtis",
+        "Johnny Kemper",
+        "Geri Miller",
+        "Jonathan Kramer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.33,
+      "rating_count": 1437,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/7/2/6/89726-women-in-revolt-0-230-0-345-crop.jpg?v=4535102d1d",
+      "url": "https://letterboxd.com/film/women-in-revolt/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "can-i-be-your-bratwurst-please",
+      "title": "Can I Be Your Bratwurst, Please?",
+      "year": "1999",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Rosa von Praunheim"
+      ],
+      "actors": [
+        "Jeff Stryker",
+        "Selene Luna",
+        "Karl-Heinz Teuber",
+        "Luzi Kryn",
+        "Sirena Irwin",
+        "Cecilia Tijerina"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 3.35,
+      "rating_count": 214,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/1/4/7/60147-can-i-be-your-bratwurst-please-0-230-0-345-crop.jpg?v=d7fbc757c9",
+      "url": "https://letterboxd.com/film/can-i-be-your-bratwurst-please/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "luster",
+      "title": "Luster",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Everett Lewis"
+      ],
+      "actors": [
+        "Justin Herwick",
+        "Shane Powers",
+        "Barry Wyatt",
+        "Susannah Melvoin",
+        "Jonah Blechman",
+        "Sean Thibodeau"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.18,
+      "rating_count": 257,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/5/6/2/28562-luster-0-230-0-345-crop.jpg?v=5adb95df8d",
+      "url": "https://letterboxd.com/film/luster/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "rise-above-the-tribe-8-documentary",
+      "title": "Rise Above: The Tribe 8 Documentary",
+      "year": "2003",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "directors": [
+        "Tracy Flannigan"
+      ],
+      "actors": [
+        "Lynn Breedlove",
+        "Leslie Mah",
+        "Silas Howard",
+        "Slade Bellum",
+        "Tantrum"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/5/2/6/5/245265-rise-above-the-tribe-8-documentary-0-230-0-345-crop.jpg?v=39a468f326",
+      "url": "https://letterboxd.com/film/rise-above-the-tribe-8-documentary/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "pansy-division-life-in-a-gay-rock-band",
+      "title": "Pansy Division: Life in a Gay Rock Band",
+      "year": "2008",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "directors": [
+        "Michael Carmona"
+      ],
+      "actors": [
+        "Jon Ginoli",
+        "Chris Freeman",
+        "Larry Livermore",
+        "Luis Illades",
+        "Patrick Goodwin",
+        "Joel Reader"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/5/0/8/0/185080-pansy-division-life-in-a-gay-rock-band-0-230-0-345-crop.jpg?v=d98ed731d0",
+      "url": "https://letterboxd.com/film/pansy-division-life-in-a-gay-rock-band/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-advocate-for-fagdom",
+      "title": "The Advocate for Fagdom",
+      "year": "2011",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Angélique Bosio"
+      ],
+      "actors": [
+        "Bruce LaBruce",
+        "Glenn Belverio",
+        "Bruce Benderson",
+        "Jürgen Brüning",
+        "Rick Castro",
+        "Jey Crisfar"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/0/7/8/3/90783-the-advocate-for-fagdom-0-230-0-345-crop.jpg?v=3c028a6d8c",
+      "url": "https://letterboxd.com/film/the-advocate-for-fagdom/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "she-said-boom-the-story-of-fifth-column",
+      "title": "She Said Boom: The Story of Fifth Column",
+      "year": "2012",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "directors": [
+        "Kevin Hegge"
+      ],
+      "actors": [
+        "Caroline Azar",
+        "Beverly Breckenridge",
+        "G.B. Jones",
+        "Vaginal Davis",
+        "Bruce LaBruce",
+        "Kathleen Hanna"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/9/3/130293-she-said-boom-the-story-of-fifth-column-0-230-0-345-crop.jpg?v=443e1da7ce",
+      "url": "https://letterboxd.com/film/she-said-boom-the-story-of-fifth-column/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "codependent-lesbian-space-alien-seeks-same",
+      "title": "Codependent Lesbian Space Alien Seeks Same",
+      "year": "2011",
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Madeleine Olnek"
+      ],
+      "actors": [
+        "Lisa Haas",
+        "Susan Ziegler",
+        "Jackie Monahan",
+        "Cynthia Kaplan",
+        "Dennis Davis",
+        "Alex Karpovsky"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.81,
+      "rating_count": 2196,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/3/0/3/85303-codependent-lesbian-space-alien-seeks-same-0-230-0-345-crop.jpg?v=9b2338e1e0",
+      "url": "https://letterboxd.com/film/codependent-lesbian-space-alien-seeks-same/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-punk-singer",
+      "title": "The Punk Singer",
+      "year": "2013",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "directors": [
+        "Sini Anderson"
+      ],
+      "actors": [
+        "Kathleen Hanna",
+        "Adam Horovitz",
+        "Joan Jett",
+        "Jennifer Baumgardner",
+        "Johanna Fateman",
+        "Carrie Brownstein"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.93,
+      "rating_count": 12122,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/0/5/2/130052-the-punk-singer-0-230-0-345-crop.jpg?v=d1f1969b61",
+      "url": "https://letterboxd.com/film/the-punk-singer/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "like-cattle-towards-glow",
+      "title": "Like Cattle Towards Glow",
+      "year": "2015",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Zac Farley",
+        "Dennis Cooper"
+      ],
+      "actors": [
+        "Christophe Honoré",
+        "Raphaël Bouvet",
+        "Nicolas Hau",
+        "Gabriel Norman",
+        "E.D. Yang",
+        "Joris Monnier"
+      ],
+      "countries": [
+        "Canada",
+        "Germany",
+        "France"
+      ],
+      "rating": 3.08,
+      "rating_count": 586,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/9/4/1/319941-like-cattle-towards-glow-0-230-0-345-crop.jpg?v=11874bf756",
+      "url": "https://letterboxd.com/film/like-cattle-towards-glow/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "spidarlings",
+      "title": "Spidarlings",
+      "year": "2016",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Music",
+        "Horror"
+      ],
+      "directors": [
+        "Selene Kapsaski"
+      ],
+      "actors": [
+        "Lloyd Kaufman",
+        "Rusty Goffe",
+        "Sophia Disgrace",
+        "Lux Kapsaski",
+        "June Brown",
+        "Lee Mark Jones"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/1/0/4/8/281048-spidarlings-0-230-0-345-crop.jpg?v=bed6889b4e",
+      "url": "https://letterboxd.com/film/spidarlings/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "queercore-how-to-punk-a-revolution",
+      "title": "Queercore: How to Punk a Revolution",
+      "year": "2017",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "directors": [
+        "Yony Leyser"
+      ],
+      "actors": [
+        "John Waters",
+        "Kim Gordon",
+        "Beth Ditto",
+        "Silas Howard",
+        "Kathleen Hanna",
+        "Bruce LaBruce"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 3.49,
+      "rating_count": 1538,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/9/4/8/390948-queercore-how-to-punk-a-revolution-0-230-0-345-crop.jpg?v=7ca52b2082",
+      "url": "https://letterboxd.com/film/queercore-how-to-punk-a-revolution/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "fags-in-the-fast-lane",
+      "title": "Fags in the Fast Lane",
+      "year": "2017",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Josh Collins",
+        "Sinbad Collins"
+      ],
+      "actors": [
+        "Chris Asimos",
+        "Oliver Bell",
+        "Puggsley Buzzard"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/8/4/5/1/388451-fags-in-the-fast-lane-0-230-0-345-crop.jpg?v=62f2310e80",
+      "url": "https://letterboxd.com/film/fags-in-the-fast-lane/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "little-stabs-at-happiness",
+      "title": "Little Stabs at Happiness",
+      "year": "1963",
+      "genres": [],
+      "directors": [
+        "Ken Jacobs"
+      ],
+      "actors": [
+        "Jerry Sims",
+        "Jack Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.26,
+      "rating_count": 1019,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/3/1/1/110311-little-stabs-at-happiness-0-230-0-345-crop.jpg?v=f2a625c92a",
+      "url": "https://letterboxd.com/film/little-stabs-at-happiness/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "sleep-1964",
+      "title": "Sleep",
+      "year": "1964",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Andy Warhol"
+      ],
+      "actors": [
+        "John Giorno"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 1056,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/0/5/6/180056-sleep-0-230-0-345-crop.jpg?v=143528d6f4",
+      "url": "https://letterboxd.com/film/sleep-1964/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "haircut-1964",
+      "title": "Haircut",
+      "year": "1964",
+      "genres": [],
+      "directors": [
+        "Andy Warhol"
+      ],
+      "actors": [
+        "Billy Name",
+        "Fred Herko",
+        "John Daley",
+        "James Waring"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/4/2/8/2/274282-haircut-0-230-0-345-crop.jpg?v=32b991a556",
+      "url": "https://letterboxd.com/film/haircut-1964/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "kiss",
+      "title": "Kiss",
+      "year": "1963",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Andy Warhol"
+      ],
+      "actors": [
+        "Rufus Collins",
+        "Johnny Dodd",
+        "Fred Herko",
+        "Jane Holzer",
+        "Robert Indiana",
+        "Mark Lancaster"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.36,
+      "rating_count": 1228,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/1/3/4/115134-kiss-0-230-0-345-crop.jpg?v=0503aa31f4",
+      "url": "https://letterboxd.com/film/kiss/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "eat",
+      "title": "Eat",
+      "year": "1964",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Andy Warhol"
+      ],
+      "actors": [
+        "Robert Indiana"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.95,
+      "rating_count": 500,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/0/4/5/114045-eat-0-230-0-345-crop.jpg?v=cca2a141eb",
+      "url": "https://letterboxd.com/film/eat/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "blonde-cobra",
+      "title": "Blonde Cobra",
+      "year": "1963",
+      "genres": [],
+      "directors": [
+        "Ken Jacobs"
+      ],
+      "actors": [
+        "Ken Jacobs",
+        "Jack Smith"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.36,
+      "rating_count": 1860,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/1/2/7/72127-blonde-cobra-0-230-0-345-crop.jpg?v=790f88aac2",
+      "url": "https://letterboxd.com/film/blonde-cobra/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "mario-banana-i",
+      "title": "Mario Banana I",
+      "year": "1964",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Andy Warhol"
+      ],
+      "actors": [
+        "Mario Montez"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.82,
+      "rating_count": 1362,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/1/0/5/9/121059-mario-banana-i-0-230-0-345-crop.jpg?v=1f44592f21",
+      "url": "https://letterboxd.com/film/mario-banana-i/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "couch-1964",
+      "title": "Couch",
+      "year": "1964",
+      "genres": [],
+      "directors": [
+        "Andy Warhol"
+      ],
+      "actors": [
+        "Bingingham Birdie",
+        "Rufus Collins",
+        "Gregory Corso",
+        "Allen Ginsberg",
+        "Kate Heliczer",
+        "Piero Heliczer"
+      ],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/2/7/4/101274-couch-0-230-0-345-crop.jpg?v=5fdbb35200",
+      "url": "https://letterboxd.com/film/couch-1964/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "tarzan-and-jane-regained-sort-of",
+      "title": "Tarzan and Jane Regained... Sort of",
+      "year": "1964",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Andy Warhol"
+      ],
+      "actors": [
+        "Taylor Mead",
+        "Naomi Levine",
+        "James Bridges",
+        "Brooke Hayward",
+        "Dennis Hopper",
+        "Irving Blum"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/6/1/105561-tarzan-and-jane-regained-sort-of-0-230-0-345-crop.jpg?v=9144bac7de",
+      "url": "https://letterboxd.com/film/tarzan-and-jane-regained-sort-of/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "chumlum",
+      "title": "Chumlum",
+      "year": "1963",
+      "genres": [],
+      "directors": [
+        "Ron Rice"
+      ],
+      "actors": [
+        "Jack Smith",
+        "Beverly Grant",
+        "Mario Montez",
+        "Joel Markman",
+        "Francis Francine",
+        "Guy Henson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 583,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/6/2/1/86621-chumlum-0-230-0-345-crop.jpg?v=93ef6a8480",
+      "url": "https://letterboxd.com/film/chumlum/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "hedy",
+      "title": "Hedy",
+      "year": "1966",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Comedy"
+      ],
+      "directors": [
+        "Andy Warhol"
+      ],
+      "actors": [
+        "Mario Montez",
+        "Mary Woronov",
+        "Harvey Tavel",
+        "Ingrid Superstar",
+        "Ronald Tavel",
+        "Gerard Malanga"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/0/8/8/248088-hedy-0-230-0-345-crop.jpg?v=11882e78d5",
+      "url": "https://letterboxd.com/film/hedy/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-diane-linkletter-story",
+      "title": "The Diane Linkletter Story",
+      "year": "1970",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "John Waters"
+      ],
+      "actors": [
+        "David Lochary",
+        "Mary Vivian Pearce",
+        "Divine"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.97,
+      "rating_count": 1238,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/8/6/1/31861-the-diane-linkletter-story-0-230-0-345-crop.jpg?v=2a21f3f3f7",
+      "url": "https://letterboxd.com/film/the-diane-linkletter-story/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "she-had-her-gun-all-ready",
+      "title": "She Had Her Gun All Ready",
+      "year": "1978",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Romance"
+      ],
+      "directors": [
+        "Vivienne Dick"
+      ],
+      "actors": [
+        "Pat Place",
+        "Lydia Lunch"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/4/9/2/6/174926-she-had-her-gun-all-ready-0-230-0-345-crop.jpg?v=d2a0e4308a",
+      "url": "https://letterboxd.com/film/she-had-her-gun-all-ready/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "guerillere-talks",
+      "title": "Guerillere Talks",
+      "year": "1978",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Vivienne Dick"
+      ],
+      "actors": [
+        "Anya Phillips",
+        "Lydia Lunch",
+        "Ikue Mori",
+        "Vivienne Dick",
+        "Beate Nilsen",
+        "Adele Bertei"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 650,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/9/2/8/9/209289-guerillere-talks-0-230-0-345-crop.jpg?v=899a04f1da",
+      "url": "https://letterboxd.com/film/guerillere-talks/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "staten-island-1978",
+      "title": "Staten Island",
+      "year": "1978",
+      "genres": [],
+      "directors": [
+        "Vivienne Dick"
+      ],
+      "actors": [
+        "Pat Place"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/9/2/9/1/209291-staten-island-0-230-0-345-crop.jpg?v=6f7eddd315",
+      "url": "https://letterboxd.com/film/staten-island-1978/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "beauty-becomes-the-beast",
+      "title": "Beauty Becomes the Beast",
+      "year": "1979",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Vivienne Dick"
+      ],
+      "actors": [
+        "Adele Bertei",
+        "Lydia Lunch",
+        "Klaus Nomi"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 254,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/3/6/6/6/203666-beauty-becomes-the-beast-0-230-0-345-crop.jpg?v=3cac95ace5",
+      "url": "https://letterboxd.com/film/beauty-becomes-the-beast/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "visibility-moderate",
+      "title": "Visibility: Moderate",
+      "year": "1981",
+      "genres": [],
+      "directors": [
+        "Vivienne Dick"
+      ],
+      "actors": [
+        "Jackie Crawford"
+      ],
+      "countries": [
+        "Ireland",
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/8/7/0/312870-visibility-moderate-0-230-0-345-crop.jpg?v=8a0105221f",
+      "url": "https://letterboxd.com/film/visibility-moderate/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "like-dawn-to-dust",
+      "title": "Like Dawn to Dust",
+      "year": "1983",
+      "genres": [],
+      "directors": [
+        "Vivienne Dick"
+      ],
+      "actors": [
+        "Lydia Lunch"
+      ],
+      "countries": [
+        "USA",
+        "Ireland"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/8/8/9/312889-like-dawn-to-dust-0-230-0-345-crop.jpg?v=d011b6d93d",
+      "url": "https://letterboxd.com/film/like-dawn-to-dust/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "new-york-conversations",
+      "title": "New York Conversations",
+      "year": "1990",
+      "genres": [],
+      "directors": [
+        "Vivienne Dick"
+      ],
+      "actors": [],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/9/9/3/452993-new-york-conversations-0-230-0-345-crop.jpg?v=0bdc491c3f",
+      "url": "https://letterboxd.com/film/new-york-conversations/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "a-skinny-little-man-attacked-daddy",
+      "title": "A Skinny Little Man Attacked Daddy",
+      "year": "1994",
+      "genres": [],
+      "directors": [
+        "Vivienne Dick"
+      ],
+      "actors": [],
+      "countries": [
+        "UK"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/8/9/0/312890-a-skinny-little-man-attacked-daddy-0-230-0-345-crop.jpg?v=d91ccac0bb",
+      "url": "https://letterboxd.com/film/a-skinny-little-man-attacked-daddy/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "beyond-the-screams",
+      "title": "Beyond the Screams",
+      "year": "1999",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "directors": [
+        "Martin Sorrondeguy"
+      ],
+      "actors": [],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/3/5/162035-beyond-the-screams-0-230-0-345-crop.jpg?v=916f4edaa5",
+      "url": "https://letterboxd.com/film/beyond-the-screams/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "saccade",
+      "title": "Saccade",
+      "year": "2004",
+      "genres": [],
+      "directors": [
+        "Vivienne Dick"
+      ],
+      "actors": [],
+      "countries": [],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/8/9/1/312891-saccade-0-230-0-345-crop.jpg?v=81e9a5a45a",
+      "url": "https://letterboxd.com/film/saccade/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "sugar",
+      "title": "Sugar",
+      "year": "2004",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "John Palmer"
+      ],
+      "actors": [
+        "Brendan Fehr",
+        "Andre Noble",
+        "Haylee Wanstall",
+        "Maury Chaykin",
+        "Michael Riley",
+        "Marnie McPhail"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.1,
+      "rating_count": 505,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/5/9/8/27598-sugar-0-230-0-345-crop.jpg?v=b224123e9a",
+      "url": "https://letterboxd.com/film/sugar/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "jack-smith-and-the-destruction-of-atlantis",
+      "title": "Jack Smith and the Destruction of Atlantis",
+      "year": "2006",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Mary Jordan"
+      ],
+      "actors": [
+        "Jack Smith",
+        "Nayland Blake",
+        "Ira Cohen",
+        "Tony Conrad",
+        "Richard Foreman",
+        "Ivan Galietti"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/7/4/5/7/167457-jack-smith-and-the-destruction-of-atlantis-0-230-0-345-crop.jpg?v=8a4e6ecac0",
+      "url": "https://letterboxd.com/film/jack-smith-and-the-destruction-of-atlantis/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "otto-or-up-with-dead-people",
+      "title": "Otto; or, Up with Dead People",
+      "year": "2008",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Bruce LaBruce"
+      ],
+      "actors": [
+        "Jey Crisfar",
+        "Katharina Klewinghaus",
+        "Susanne Sachße",
+        "Marcel Schlutt",
+        "Gio Black Peter",
+        "Guido Sommer"
+      ],
+      "countries": [
+        "Canada",
+        "Germany"
+      ],
+      "rating": 3.13,
+      "rating_count": 1949,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/9/5/1/34951-otto-or-up-with-dead-people-0-230-0-345-crop.jpg?v=ccdfedeec9",
+      "url": "https://letterboxd.com/film/otto-or-up-with-dead-people/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "taqwacore-the-birth-of-punk-islam",
+      "title": "Taqwacore: The Birth of Punk Islam",
+      "year": "2009",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "directors": [
+        "Omar Majeed"
+      ],
+      "actors": [
+        "Michael Muhammad Knight",
+        "Basim Usmani",
+        "Shahjehan Khan",
+        "Arjun Ray",
+        "Karna Ray",
+        "Imran Malik"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "rating": 3.43,
+      "rating_count": 281,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/0/2/8/123028-taqwacore-the-birth-of-punk-islam-0-230-0-345-crop.jpg?v=7ae026c458",
+      "url": "https://letterboxd.com/film/taqwacore-the-birth-of-punk-islam/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "fiend-1992",
+      "title": "Fiend",
+      "year": "1992",
+      "genres": [],
+      "directors": [
+        "Jonesy"
+      ],
+      "actors": [],
+      "countries": [
+        "USA"
+      ],
+      "rating": null,
+      "rating_count": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/3/6/8/7/433687-fiend-0-230-0-345-crop.jpg?v=6b2ed6b92e",
+      "url": "https://letterboxd.com/film/fiend-1992/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "scorpio-rising",
+      "title": "Scorpio Rising",
+      "year": "1963",
+      "genres": [
+        "Music"
+      ],
+      "directors": [
+        "Kenneth Anger"
+      ],
+      "actors": [
+        "Ernie Allo",
+        "Bruce Byron",
+        "Frank Carifi",
+        "Steve Crandell",
+        "Johnny Dodds",
+        "Bill Dorfman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 23374,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/5/7/8/18578-scorpio-rising-0-230-0-345-crop.jpg?v=6a8252e09a",
+      "url": "https://letterboxd.com/film/scorpio-rising/",
+      "appears_in_n_lists": 3
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Comedy": 21,
+      "Documentary": 17,
+      "Drama": 13,
+      "Music": 11,
+      "Crime": 7,
+      "Romance": 7,
+      "Horror": 5,
+      "Fantasy": 2,
+      "Thriller": 2,
+      "Action": 2,
+      "Science Fiction": 2,
+      "Adventure": 1
+    },
+    "directors": {
+      "Andy Warhol": 9,
+      "Vivienne Dick": 9,
+      "John Waters": 6,
+      "Bruce LaBruce": 5,
+      "G.B. Jones": 3,
+      "Gregg Araki": 2,
+      "Paul Morrissey": 2,
+      "Ken Jacobs": 2,
+      "Jack Smith": 1,
+      "Rick Castro": 1,
+      "Scott Treleaven": 1,
+      "Lucy Thane": 1,
+      "Rosa von Praunheim": 1,
+      "Everett Lewis": 1,
+      "Tracy Flannigan": 1,
+      "Michael Carmona": 1,
+      "Angélique Bosio": 1,
+      "Kevin Hegge": 1,
+      "Madeleine Olnek": 1,
+      "Sini Anderson": 1
+    },
+    "years": {
+      "1963": 6,
+      "1964": 7,
+      "1966": 1,
+      "1969": 1,
+      "1970": 3,
+      "1971": 1,
+      "1972": 1,
+      "1974": 1,
+      "1977": 1,
+      "1978": 3,
+      "1979": 1,
+      "1981": 1,
+      "1983": 1,
+      "1990": 2,
+      "1991": 1,
+      "1992": 3,
+      "1993": 1,
+      "1994": 2,
+      "1996": 1,
+      "1997": 2,
+      "1999": 2,
+      "2002": 1,
+      "2003": 1,
+      "2004": 3,
+      "2006": 1,
+      "2008": 3,
+      "2009": 1,
+      "2011": 2,
+      "2012": 1,
+      "2013": 1,
+      "2015": 1,
+      "2016": 1,
+      "2017": 2
+    }
+  }
+}
