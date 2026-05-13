@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>100 Nanogenres of Letterboxd</title>
+	<title>100 Nanogenres</title>
 	<meta name="description" content="A catalog of {data.summaries.length} community-defined cinema nanogenres, computed from Letterboxd user lists." />
 </svelte:head>
 

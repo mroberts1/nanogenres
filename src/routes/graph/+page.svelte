@@ -141,7 +141,7 @@
 </script>
 
 <svelte:head>
-	<title>Overlap Graph — 100 Nanogenres of Letterboxd</title>
+	<title>Overlap Graph — 100 Nanogenres</title>
 </svelte:head>
 
 <a class="back" href="{base}/">← all nanogenres</a>

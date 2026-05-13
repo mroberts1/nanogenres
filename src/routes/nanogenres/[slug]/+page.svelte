@@ -68,7 +68,7 @@
 </script>
 
 <svelte:head>
-	<title>{ng.query} — 100 Nanogenres of Letterboxd</title>
+	<title>{ng.query} — 100 Nanogenres</title>
 	<meta name="description" content="{ng.canonical_count} canonical films across {ng.source_list_count} Letterboxd lists for the '{ng.query}' nanogenre." />
 </svelte:head>
 

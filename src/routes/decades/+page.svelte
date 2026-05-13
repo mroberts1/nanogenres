@@ -44,7 +44,7 @@
 </script>
 
 <svelte:head>
-	<title>Decade Heatmap — 100 Nanogenres of Letterboxd</title>
+	<title>Decade Heatmap — 100 Nanogenres</title>
 </svelte:head>
 
 <a class="back" href="{base}/">← all nanogenres</a>

@@ -32,12 +32,12 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>100 Nanogenres of Letterboxd</title>
+	<title>100 Nanogenres</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 </svelte:head>
 
 <header class="site-header">
-	<a href="{base}/" class="brand">100 Nanogenres of Letterboxd</a>
+	<a href="{base}/" class="brand">100 Nanogenres</a>
 	<button
 		type="button"
 		class="theme-toggle"
