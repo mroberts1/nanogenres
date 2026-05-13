@@ -162,7 +162,7 @@
 </script>
 
 <svelte:head>
-	<title>Director Constellation — Nanogenres of Letterboxd</title>
+	<title>Director Constellation — 100 Nanogenres of Letterboxd</title>
 </svelte:head>
 
 <a class="back" href="{base}/">← all nanogenres</a>

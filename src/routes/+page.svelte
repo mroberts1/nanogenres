@@ -6,11 +6,11 @@
 </script>
 
 <svelte:head>
-	<title>Nanogenres of Letterboxd</title>
+	<title>100 Nanogenres of Letterboxd</title>
 	<meta name="description" content="A catalog of {data.summaries.length} community-defined cinema nanogenres, computed from Letterboxd user lists." />
 </svelte:head>
 
-<h1>Nanogenres</h1>
+<h1>100 Nanogenres</h1>
 <p class="lede">
 	A <em>nanogenre</em> is a community-named, hyper-specific cinema category that cuts across
 	traditional genres — a blend of mood, aesthetic, character type, and cultural framing. This
