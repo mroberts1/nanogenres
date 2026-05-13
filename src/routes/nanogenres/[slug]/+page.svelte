@@ -75,11 +75,20 @@
 <a class="back" href="{base}/">← all nanogenres</a>
 <h1>{ng.query}</h1>
 <p class="meta">
-	{ng.source_list_count} source lists · {ng.canonical_count} canonical films · drawn from {ng.films_considered}
+	Sampled from {ng.source_list_count} Letterboxd lists · {ng.canonical_count} canonical films · drawn from {ng.films_considered}
 	candidate films · min appearances: {ng.min_list_appearances_used}
 	{#if overlapping > 0}
 		· {overlapping} also appear in other nanogenres
 	{/if}
+</p>
+<p class="lb-link">
+	<a
+		href="https://letterboxd.com/search/lists/{ng.query.replace(/ /g, '+')}/"
+		target="_blank"
+		rel="noopener"
+	>
+		→ See all "{ng.query}" lists on Letterboxd
+	</a>
 </p>
 
 {#if data.chipsGuide}
@@ -167,7 +176,11 @@
 </section>
 
 <section>
-	<h2>Source lists</h2>
+	<h2>Sampled lists</h2>
+	<p class="sources-note">
+		These are the {ng.source_list_count} Letterboxd lists this nanogenre's canonical films were computed from.
+		Letterboxd hosts many more lists for most nanogenres — see the full set on the Letterboxd search page linked above.
+	</p>
 	<ul class="sources">
 		{#each ng.source_lists as src (src.href)}
 			<li>
@@ -261,7 +274,24 @@
 	.meta {
 		color: var(--dim);
 		font-size: 13px;
+		margin: 0 0 8px;
+	}
+	.lb-link {
 		margin: 0 0 28px;
+		font-size: 13px;
+	}
+	.lb-link a {
+		color: var(--accent);
+		text-decoration: none;
+	}
+	.lb-link a:hover {
+		text-decoration: underline;
+	}
+	.sources-note {
+		color: var(--dim);
+		font-size: 13px;
+		margin: 0 0 12px;
+		max-width: 640px;
 	}
 	section {
 		margin-bottom: 40px;
