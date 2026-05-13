@@ -1,0 +1,96 @@
+[search] https://letterboxd.com/search/lists/daddy+issues/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/havanarose/list/daddy-issues/
+[list] https://letterboxd.com/tilapia/list/daddy-issues/
+[list] https://letterboxd.com/922patrick/list/daddy-issues/
+[list] https://letterboxd.com/gabzpz/list/daddy-issues/
+[list] https://letterboxd.com/austinmtorres/list/daddy-issues/
+[list] https://letterboxd.com/alperenentel31/list/daddy-issues/
+[list] https://letterboxd.com/fairied/list/daddy-issues/
+[list] https://letterboxd.com/valgogh/list/daddy-issues/
+[list] https://letterboxd.com/kkateriinaaa/list/daddy-issues/
+  drop (only 3 films) /kkateriinaaa/list/daddy-issues/
+[list] https://letterboxd.com/madiemehdizade/list/daddy-issues/
+    1/49 Honey Boy (2019) x3 — Drama
+    2/49 Guardians of the Galaxy Vol. 2 (2017) x3 — Action, Science Fiction, Adventure
+    3/49 The Royal Tenenbaums (2001) x3 — Drama, Comedy
+    4/49 The Batman (2022) x3 — Crime, Mystery, Thriller
+    5/49 Dead Poets Society (1989) x3 — Drama
+    6/49 The Empire Strikes Back (1980) x3 — Science Fiction, Adventure, Action
+    7/49 The Shining (1980) x3 — Horror, Thriller
+    8/49 Shang-Chi and the Legend of the Ten Rings (2021) x3 — Adventure, Fantasy, Action
+    9/49 Interstellar (2014) x3 — Science Fiction, Drama, Adventure
+   10/49 Aftersun (2022) x3 — Drama
+   11/49 Magnolia (1999) x3 — Drama
+   12/49 Ad Astra (2019) x3 — Science Fiction, Drama
+   13/49 Beautiful Boy (2018) x2 — Drama
+   14/49 Inception (2010) x2 — Action, Adventure, Science Fiction
+   15/49 Elf (2003) x2 — Fantasy, Family, Comedy
+   16/49 Star Wars: The Force Awakens (2015) x2 — Action, Adventure, Science Fiction
+   17/49 Thoroughbreds (2017) x2 — Thriller, Drama
+   18/49 A Quiet Place (2018) x2 — Drama, Science Fiction, Horror
+   19/49 Thor (2011) x2 — Action, Adventure, Fantasy
+   20/49 Black Panther (2018) x2 — Adventure, Science Fiction, Action
+   21/49 It (2017) x2 — Drama, Thriller, Horror
+   22/49 The Lion King (1994) x2 — Animation, Drama, Family
+   23/49 Jojo Rabbit (2019) x2 — War, Comedy, Drama
+   24/49 Uncut Gems (2019) x2 — Crime, Thriller, Drama
+   25/49 Spider-Man: Into the Spider-Verse (2018) x2 — Adventure, Animation, Action, Science Fiction
+   26/49 Big Fish (2003) x2 — Drama, Fantasy, Adventure
+   27/49 The Life Aquatic with Steve Zissou (2004) x2 — Comedy, Adventure, Drama
+   28/49 Ferris Bueller's Day Off (1986) x2 — Comedy
+   29/49 Love Lies Bleeding (2024) x2 — Thriller, Crime, Romance
+   30/49 There Will Be Blood (2007) x2 — Drama
+   31/49 Toys Are Not for Children (1972) x2 — Drama
+   32/49 The Return (2003) x2 — Drama, Mystery
+   33/49 The Quiet (2005) x2 — Thriller, Drama
+   34/49 Beau Pere (1981) x2 — Romance, Drama
+   35/49 Billy Elliot (2000) x2 — Drama, Music, Comedy
+   36/49 Boy Erased (2018) x2 — Drama
+   37/49 Boyhood (2014) x2 — Drama
+   38/49 Finding Nemo (2003) x2 — Adventure, Family, Animation
+   39/49 The Place Beyond the Pines (2012) x2 — Drama, Crime
+   40/49 A Star Is Born (2018) x2 — Music, Romance, Drama
+   41/49 Waves (2019) x2 — Romance, Drama
+   42/49 How to Train Your Dragon (2010) x2 — Fantasy, Family, Adventure, Animation
+   43/49 Leila's Brothers (2022) x2 — Drama
+   44/49 Roma (2018) x2 — Drama
+   45/49 Léon: The Professional (1994) x2 — Crime, Action, Drama
+   46/49 Hick (2011) x2 — Drama, Comedy
+   47/49 An Education (2009) x2 — Drama, Romance
+   48/49 Buffalo '66 (1998) x2 — Drama, Comedy, Romance
+   49/49 Lolita (1997) x2 — Romance, Drama
+
+[done] /root/letterboxd-nanogenres/data/daddy-issues.json
+{
+  "slug": "daddy-issues",
+  "lists_used": 9,
+  "canonical_films": 49,
+  "top_5": [
+    [
+      "Honey Boy",
+      "2019",
+      3
+    ],
+    [
+      "Guardians of the Galaxy Vol. 2",
+      "2017",
+      3
+    ],
+    [
+      "The Royal Tenenbaums",
+      "2001",
+      3
+    ],
+    [
+      "The Batman",
+      "2022",
+      3
+    ],
+    [
+      "Dead Poets Society",
+      "1989",
+      3
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+[search] https://letterboxd.com/search/lists/yearning+cinema/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/lovewaev/list/yearning-cinema/
+[list] https://letterboxd.com/silly_tilly/list/yearning-cinema/
+[list] https://letterboxd.com/cushshhh/list/yearning-cinema/
+[list] https://letterboxd.com/joannofarc/list/queer-asian-yearning-cinema/
+[list] https://letterboxd.com/campbellsouptm/list/lily-gladstone-riley-keough-gay-yearning/
+  drop (only 3 films) /campbellsouptm/list/lily-gladstone-riley-keough-gay-yearning/
+[list] https://letterboxd.com/sophiajoplin/list/yearning-in-cinema/
+[list] https://letterboxd.com/superkart/list/yearning-in-cinema/
+[list] https://letterboxd.com/katyfayyyx/list/yearning-cinema/
+[list] https://letterboxd.com/a5niza/list/yearning-cinematic-universe/
+  drop (only 1 films) /a5niza/list/yearning-cinematic-universe/
+[list] https://letterboxd.com/tortugaboss354/list/yearning-cinematic-universe/
+    1/13 Past Lives (2023) x5 — Drama, Romance
+    2/13 Decision to Leave (2022) x4 — Mystery, Thriller, Romance
+    3/13 In the Mood for Love (2000) x4 — Romance, Drama
+    4/13 Pride & Prejudice (2005) x4 — Drama, Romance
+    5/13 Your Name Engraved Herein (2020) x2 — Romance, Drama
+    6/13 Moonlit Winter (2019) x2 — Drama, Romance
+    7/13 La La Land (2016) x2 — Drama, Comedy, Romance
+    8/13 Chungking Express (1994) x2 — Comedy, Drama, Romance
+    9/13 Dear Ex (2018) x2 — Comedy, Drama
+   10/13 Before Sunrise (1995) x2 — Romance, Drama
+   11/13 Portrait of a Lady on Fire (2019) x2 — Drama, Romance
+   12/13 Call Me by Your Name (2017) x2 — Romance, Drama
+   13/13 Carol (2015) x2 — Drama, Romance
+
+[done] /root/letterboxd-nanogenres/data/yearning-cinema.json
+{
+  "slug": "yearning-cinema",
+  "lists_used": 8,
+  "canonical_films": 13,
+  "top_5": [
+    [
+      "Past Lives",
+      "2023",
+      5
+    ],
+    [
+      "Decision to Leave",
+      "2022",
+      4
+    ],
+    [
+      "In the Mood for Love",
+      "2000",
+      4
+    ],
+    [
+      "Pride & Prejudice",
+      "2005",
+      4
+    ],
+    [
+      "Your Name Engraved Herein",
+      "2020",
+      2
+    ]
+  ]
+}

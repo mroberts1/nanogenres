@@ -1,0 +1,55 @@
+[search] https://letterboxd.com/search/lists/millennial+malaise/
+[search] 5 candidates -> 5 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/velocityprime/list/millennial-malaise/
+[list] https://letterboxd.com/jacobschmidtty/list/millennial-malaise/
+[list] https://letterboxd.com/terriblytom/list/millennial-malaise/
+[list] https://letterboxd.com/tastytai/list/millennial-malaise/
+[list] https://letterboxd.com/calleekay/list/millennial-malaise/
+    1/14 Frances Ha (2012) x3 — Comedy, Drama
+    2/14 Obvious Child (2014) x3 — Comedy, Romance
+    3/14 Lady Bird (2017) x3 — Comedy, Drama
+    4/14 Fight Club (1999) x2 — Drama, Thriller
+    5/14 Ingrid Goes West (2017) x2 — Comedy, Drama
+    6/14 Fort Tilden (2014) x2 — Comedy
+    7/14 Zola (2020) x2 — Comedy, Crime, Drama
+    8/14 Sorry to Bother You (2018) x2 — Fantasy, Science Fiction, Comedy
+    9/14 Tiny Furniture (2010) x2 — Romance, Comedy, Drama
+   10/14 Under the Silver Lake (2018) x2 — Mystery, Crime, Drama
+   11/14 Bo Burnham: Inside (2021) x2 — Comedy, Drama
+   12/14 The Worst Person in the World (2021) x2 — Drama, Romance, Comedy
+   13/14 Sorry, Baby (2025) x2 — Comedy, Drama
+   14/14 If I Had Legs I'd Kick You (2025) x2 — Drama
+
+[done] /root/letterboxd-nanogenres/data/millennial-malaise.json
+{
+  "slug": "millennial-malaise",
+  "lists_used": 5,
+  "canonical_films": 14,
+  "top_5": [
+    [
+      "Frances Ha",
+      "2012",
+      3
+    ],
+    [
+      "Obvious Child",
+      "2014",
+      3
+    ],
+    [
+      "Lady Bird",
+      "2017",
+      3
+    ],
+    [
+      "Fight Club",
+      "1999",
+      2
+    ],
+    [
+      "Ingrid Goes West",
+      "2017",
+      2
+    ]
+  ]
+}

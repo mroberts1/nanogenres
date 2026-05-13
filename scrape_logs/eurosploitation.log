@@ -1,0 +1,12 @@
+[search] https://letterboxd.com/search/lists/eurosploitation/
+[search] https://letterboxd.com/search/lists/eurosploitation/
+[search] https://letterboxd.com/tag/eurosploitation/lists/
+[search] 0 candidates -> 0 relevant (rejected low-quality=0, off-topic=0)
+
+[done] /root/letterboxd-nanogenres/data/eurosploitation.json
+{
+  "slug": "eurosploitation",
+  "lists_used": 0,
+  "canonical_films": 0,
+  "top_5": []
+}

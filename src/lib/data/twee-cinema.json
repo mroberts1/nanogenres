@@ -1,0 +1,673 @@
+{
+  "query": "twee cinema",
+  "slug": "twee-cinema",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/zeynepeddie/list/twee-cinema/",
+      "user": "zeynepeddie",
+      "slug": "twee-cinema",
+      "title": "twee cinema",
+      "desc": "eda is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by eda",
+      "tags": []
+    },
+    {
+      "href": "/tobyatkinson94/list/twee-cinema-a-queue-for-many-warm-and-quiet/",
+      "user": "tobyatkinson94",
+      "slug": "twee-cinema-a-queue-for-many-warm-and-quiet",
+      "title": "Twee Cinema-“A Queue for Many Warm and Quiet Evenings In”-Marc Spitz (2014)",
+      "desc": "Selection of films mentioned by Marc Spitz in his book Twee: The Gentle Revolution in Music, Books, Television, Fashion, and Film (2014). Many are featured in the list A Queue for Many Warm and Quiet Evenings In, the final part of the book's Appendices.\n\nThe ethics of twee according to Spitz:\n\n\"Beauty over ugliness.\n\n*  A sharp, almost incapacitating awareness of darkness, death, and cruelty, which clashes with a steadfast focus on our essential goodness.\n\n*  A tether to childhood and its attendant innocence and lack of greed.\n\n*  The utter dispensing with of “cool” as it’s conventionally known, often in favor of a kind of fetishization of the nerd, the geek, the dork, the virgin.\n\n* A healthy suspicion of adulthood.\n\n*  An… more",
+      "owner": "List by TobyAtkinson94",
+      "tags": []
+    },
+    {
+      "href": "/recordechoes/list/twee-cinema/",
+      "user": "recordechoes",
+      "slug": "twee-cinema",
+      "title": "Twee Cinema",
+      "desc": "Kyle Stone is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Kyle Stone PATRON",
+      "tags": []
+    },
+    {
+      "href": "/blondie_721/list/twee-cinema/",
+      "user": "blondie_721",
+      "slug": "twee-cinema",
+      "title": "Twee Cinema",
+      "desc": "Sasha is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Sasha",
+      "tags": []
+    },
+    {
+      "href": "/feminionomenon/list/mother-greta-gerwig-patron-saint-of-twee/",
+      "user": "feminionomenon",
+      "slug": "mother-greta-gerwig-patron-saint-of-twee",
+      "title": "mother greta gerwig, patron saint of twee cinema 🎬",
+      "desc": "dəmɪnˈiːk 🦊 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by dəmɪnˈiːk 🦊",
+      "tags": []
+    },
+    {
+      "href": "/default_sim/list/intercrisis-twee-regressive-cinema/",
+      "user": "default_sim",
+      "slug": "intercrisis-twee-regressive-cinema",
+      "title": "Intercrisis Twee Regressive Cinema",
+      "desc": "Harrison is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Harrison PRO",
+      "tags": []
+    },
+    {
+      "href": "/two_headed_boy/list/cinema-of-the-twee/",
+      "user": "two_headed_boy",
+      "slug": "cinema-of-the-twee",
+      "title": "cinema of the twee",
+      "desc": "films that, for some reason or another, remind me of twee pop (the greatest genre in the world)",
+      "owner": "List by Lachlan PRO",
+      "tags": []
+    }
+  ],
+  "source_list_count": 7,
+  "films_considered": 137,
+  "canonical_count": 19,
+  "films": [
+    {
+      "slug": "500-days-of-summer",
+      "title": "(500) Days of Summer",
+      "year": "2009",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Marc Webb"
+      ],
+      "actors": [
+        "Joseph Gordon-Levitt",
+        "Zooey Deschanel",
+        "Geoffrey Arend",
+        "Chloë Grace Moretz",
+        "Matthew Gray Gubler",
+        "Clark Gregg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.65,
+      "rating_count": 3037145,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/5/0/39350--500-days-of-summer-0-230-0-345-crop.jpg?v=05995ae0b3",
+      "url": "https://letterboxd.com/film/500-days-of-summer/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-royal-tenenbaums",
+      "title": "The Royal Tenenbaums",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Gene Hackman",
+        "Anjelica Huston",
+        "Ben Stiller",
+        "Gwyneth Paltrow",
+        "Luke Wilson",
+        "Owen Wilson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.11,
+      "rating_count": 999186,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sf/k0/qu/5o/5xw30y0pSaMtTcuZW5VaQPiR8qb-0-230-0-345-crop.jpg?v=b945b566a6",
+      "url": "https://letterboxd.com/film/the-royal-tenenbaums/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "amelie",
+      "title": "Amélie",
+      "year": "2001",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ],
+      "actors": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus",
+        "Serge Merlin",
+        "Jamel Debbouze",
+        "Clotilde Mollet"
+      ],
+      "countries": [
+        "France",
+        "Germany"
+      ],
+      "rating": 4.19,
+      "rating_count": 1319424,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
+      "url": "https://letterboxd.com/film/amelie/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "greenberg",
+      "title": "Greenberg",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Noah Baumbach"
+      ],
+      "actors": [
+        "Ben Stiller",
+        "Greta Gerwig",
+        "Rhys Ifans",
+        "Jennifer Jason Leigh",
+        "Mark Duplass",
+        "Merritt Wever"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.16,
+      "rating_count": 41268,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/3/9/2/34392-greenberg-0-230-0-345-crop.jpg?v=a9d3e871db",
+      "url": "https://letterboxd.com/film/greenberg/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "frances-ha",
+      "title": "Frances Ha",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Noah Baumbach"
+      ],
+      "actors": [
+        "Greta Gerwig",
+        "Mickey Sumner",
+        "Michael Zegen",
+        "Adam Driver",
+        "Charlotte d'Amboise",
+        "Patrick Heusinger"
+      ],
+      "countries": [
+        "Brazil",
+        "USA"
+      ],
+      "rating": 4.03,
+      "rating_count": 641406,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/0/8/3/96083-frances-ha-0-230-0-345-crop.jpg?v=0bb538988b",
+      "url": "https://letterboxd.com/film/frances-ha/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "garden-state",
+      "title": "Garden State",
+      "year": "2004",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Zach Braff"
+      ],
+      "actors": [
+        "Zach Braff",
+        "Natalie Portman",
+        "Ian Holm",
+        "Peter Sarsgaard",
+        "Jean Smart",
+        "Armando Riesco"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.46,
+      "rating_count": 169223,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/9/51689-garden-state-0-230-0-345-crop.jpg?v=de19ae4a38",
+      "url": "https://letterboxd.com/film/garden-state/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "god-help-the-girl",
+      "title": "God Help the Girl",
+      "year": "2014",
+      "genres": [
+        "Comedy",
+        "Music",
+        "Drama"
+      ],
+      "directors": [
+        "Stuart Murdoch"
+      ],
+      "actors": [
+        "Emily Browning",
+        "Olly Alexander",
+        "Hannah Murray",
+        "Pierre Boulanger",
+        "Cora Bissett",
+        "Sarah Swire"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.32,
+      "rating_count": 16934,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sy/du/0k/h4/xOyHxtqE7REEVKr5scIJSLG9LOn-0-230-0-345-crop.jpg?v=d4de7e2ea5",
+      "url": "https://letterboxd.com/film/god-help-the-girl/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "ruby-sparks",
+      "title": "Ruby Sparks",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "directors": [
+        "Jonathan Dayton",
+        "Valerie Faris"
+      ],
+      "actors": [
+        "Paul Dano",
+        "Zoe Kazan",
+        "Chris Messina",
+        "Annette Bening",
+        "Antonio Banderas",
+        "Alia Shawkat"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.6,
+      "rating_count": 150285,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/8/6/0/83860-ruby-sparks-0-230-0-345-crop.jpg?v=cf5b52d14c",
+      "url": "https://letterboxd.com/film/ruby-sparks/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "scott-pilgrim-vs-the-world",
+      "title": "Scott Pilgrim vs. the World",
+      "year": "2010",
+      "genres": [
+        "Romance",
+        "Action",
+        "Comedy"
+      ],
+      "directors": [
+        "Edgar Wright"
+      ],
+      "actors": [
+        "Michael Cera",
+        "Mary Elizabeth Winstead",
+        "Ellen Wong",
+        "Kieran Culkin",
+        "Alison Pill",
+        "Mark Webber"
+      ],
+      "countries": [
+        "Japan",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 2512114,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vs/75/02/fx/2B5zjs5E3xerqAyowpw3QcOCyLq-0-230-0-345-crop.jpg?v=3aef2095df",
+      "url": "https://letterboxd.com/film/scott-pilgrim-vs-the-world/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "fantastic-mr-fox",
+      "title": "Fantastic Mr. Fox",
+      "year": "2009",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Family",
+        "Adventure"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "George Clooney",
+        "Meryl Streep",
+        "Jason Schwartzman",
+        "Wallace Wolodarsky",
+        "Eric Chase Anderson",
+        "Willem Dafoe"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.3,
+      "rating_count": 2724524,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-230-0-345-crop.jpg?v=3a2a858065",
+      "url": "https://letterboxd.com/film/fantastic-mr-fox/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "juno",
+      "title": "Juno",
+      "year": "2007",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Jason Reitman"
+      ],
+      "actors": [
+        "Elliot Page",
+        "Michael Cera",
+        "Jennifer Garner",
+        "Jason Bateman",
+        "J.K. Simmons",
+        "Allison Janney"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 1558214,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/0/5/1/48051-juno-0-230-0-345-crop.jpg?v=19ad3fb7e5",
+      "url": "https://letterboxd.com/film/juno/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "superbad",
+      "title": "Superbad",
+      "year": "2007",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Greg Mottola"
+      ],
+      "actors": [
+        "Jonah Hill",
+        "Michael Cera",
+        "Christopher Mintz-Plasse",
+        "Bill Hader",
+        "Seth Rogen",
+        "Martha MacIsaac"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.89,
+      "rating_count": 2199814,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/7/6/47776-superbad-0-230-0-345-crop.jpg?v=b43686efcb",
+      "url": "https://letterboxd.com/film/superbad/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "me-and-you-and-everyone-we-know",
+      "title": "Me and You and Everyone We Know",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Miranda July"
+      ],
+      "actors": [
+        "Miranda July",
+        "John Hawkes",
+        "Brandon Ratcliff",
+        "Miles Thompson",
+        "Carlie Westerman",
+        "Brad William Henke"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.67,
+      "rating_count": 46863,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/j4/sq/co/9w/aIAPgrDKjr2joz2KxQZO2wm0BxT-0-230-0-345-crop.jpg?v=252258e6a3",
+      "url": "https://letterboxd.com/film/me-and-you-and-everyone-we-know/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "rushmore",
+      "title": "Rushmore",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Jason Schwartzman",
+        "Bill Murray",
+        "Olivia Williams",
+        "Seymour Cassel",
+        "Brian Cox",
+        "Mason Gamble"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.89,
+      "rating_count": 481492,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-230-0-345-crop.jpg?v=e356b53de6",
+      "url": "https://letterboxd.com/film/rushmore/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "moonrise-kingdom",
+      "title": "Moonrise Kingdom",
+      "year": "2012",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Jared Gilman",
+        "Kara Hayward",
+        "Bruce Willis",
+        "Edward Norton",
+        "Bill Murray",
+        "Frances McDormand"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.03,
+      "rating_count": 1068859,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/v5/7f/mn/y8/ysTohGF7NY9Z6MYz9vLNYiyzh0r-0-230-0-345-crop.jpg?v=689b2b9ee8",
+      "url": "https://letterboxd.com/film/moonrise-kingdom/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": "2004",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Michel Gondry"
+      ],
+      "actors": [
+        "Jim Carrey",
+        "Kate Winslet",
+        "Kirsten Dunst",
+        "Mark Ruffalo",
+        "Elijah Wood",
+        "Tom Wilkinson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.24,
+      "rating_count": 3502024,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ay/bp/kl/1y/uBfQ7IGpi0jXSP3GPCzp9Pzm10v-0-230-0-345-crop.jpg?v=116621c401",
+      "url": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "hannah-takes-the-stairs",
+      "title": "Hannah Takes the Stairs",
+      "year": "2007",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Greta Gerwig",
+        "Kent Osborne",
+        "Andrew Bujalski",
+        "Ry Russo-Young",
+        "Mark Duplass",
+        "Todd Rohal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 7972,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/6/8/48668-hannah-takes-the-stairs-0-230-0-345-crop.jpg?v=703a0648e2",
+      "url": "https://letterboxd.com/film/hannah-takes-the-stairs/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "cyrus",
+      "title": "Cyrus",
+      "year": "2010",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Mark Duplass",
+        "Jay Duplass"
+      ],
+      "actors": [
+        "John C. Reilly",
+        "Jonah Hill",
+        "Marisa Tomei",
+        "Catherine Keener",
+        "Matt Walsh",
+        "Kathy Ann Wittes"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.13,
+      "rating_count": 22301,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yv/j7/jd/gx/filMDJ2Ze7GjsCO2O4Pmwbw9kaO-0-230-0-345-crop.jpg?v=e9094c7fb7",
+      "url": "https://letterboxd.com/film/cyrus/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "drinking-buddies",
+      "title": "Drinking Buddies",
+      "year": "2013",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Joe Swanberg"
+      ],
+      "actors": [
+        "Olivia Wilde",
+        "Jake Johnson",
+        "Anna Kendrick",
+        "Ron Livingston",
+        "Ti West",
+        "Jason Sudeikis"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.07,
+      "rating_count": 49884,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bb/e4/ko/lc/6OwVYT6zTvx8YVmkMYBVydNfHEV-0-230-0-345-crop.jpg?v=2c23c9384b",
+      "url": "https://letterboxd.com/film/drinking-buddies/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Comedy": 18,
+      "Drama": 15,
+      "Romance": 12,
+      "Music": 1,
+      "Fantasy": 1,
+      "Action": 1,
+      "Animation": 1,
+      "Family": 1,
+      "Adventure": 1,
+      "Science Fiction": 1
+    },
+    "directors": {
+      "Wes Anderson": 4,
+      "Noah Baumbach": 2,
+      "Joe Swanberg": 2,
+      "Marc Webb": 1,
+      "Jean-Pierre Jeunet": 1,
+      "Zach Braff": 1,
+      "Stuart Murdoch": 1,
+      "Jonathan Dayton": 1,
+      "Valerie Faris": 1,
+      "Edgar Wright": 1,
+      "Jason Reitman": 1,
+      "Greg Mottola": 1,
+      "Miranda July": 1,
+      "Michel Gondry": 1,
+      "Mark Duplass": 1,
+      "Jay Duplass": 1
+    },
+    "years": {
+      "1998": 1,
+      "2001": 2,
+      "2004": 2,
+      "2005": 1,
+      "2007": 3,
+      "2009": 2,
+      "2010": 3,
+      "2012": 3,
+      "2013": 1,
+      "2014": 1
+    }
+  }
+}

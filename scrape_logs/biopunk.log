@@ -1,0 +1,107 @@
+[search] https://letterboxd.com/search/lists/biopunk/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/remote/list/biopunk/
+[list] https://letterboxd.com/swampnymph666/list/biopunk/
+[list] https://letterboxd.com/slimemage/list/biopunk/
+[list] https://letterboxd.com/hootsmaguire/list/biopunk/
+[list] https://letterboxd.com/mike239/list/biopunk/
+[list] https://letterboxd.com/inabrazable/list/biopunk/
+[list] https://letterboxd.com/heathermrose/list/biopunk/
+[list] https://letterboxd.com/sadball/list/biopunk/
+[list] https://letterboxd.com/nitehawkcinema/list/biopunk/
+  drop (only 4 films) /nitehawkcinema/list/biopunk/
+[list] https://letterboxd.com/moggle89/list/biopunk/
+    1/60 Gattaca (1997) x7 — Romance, Mystery, Thriller, Science Fiction
+    2/60 Antiviral (2012) x6 — Science Fiction, Horror
+    3/60 eXistenZ (1999) x6 — Science Fiction, Horror, Thriller, Action
+    4/60 The Fly (1986) x6 — Science Fiction, Horror
+    5/60 Blade Runner (1982) x6 — Thriller, Drama, Science Fiction
+    6/60 Prometheus (2012) x6 — Adventure, Science Fiction, Horror, Mystery
+    7/60 Splice (2009) x6 — Science Fiction, Horror
+    8/60 Akira (1988) x5 — Action, Animation, Science Fiction
+    9/60 RoboCop (1987) x5 — Action, Thriller, Science Fiction
+   10/60 Tetsuo: The Bullet Man (2009) x5 — Horror, Action, Science Fiction
+   11/60 Tetsuo II: Body Hammer (1992) x5 — Drama, Science Fiction, Horror
+   12/60 Tetsuo: The Iron Man (1989) x5 — Science Fiction, Horror
+   13/60 Re-Animator (1985) x5 — Comedy, Horror, Science Fiction
+   14/60 Resident Evil (2002) x5 — Action, Science Fiction, Horror
+   15/60 District 9 (2009) x5 — Science Fiction
+   16/60 Never Let Me Go (2010) x5 — Drama, Romance, Science Fiction
+   17/60 RoboCop 2 (1990) x4 — Science Fiction, Crime, Action, Thriller
+   18/60 Videodrome (1983) x4 — Mystery, Science Fiction, Horror
+   19/60 Frankenstein (1931) x4 — Science Fiction, Drama, Horror
+   20/60 Under the Skin (2013) x4 — Science Fiction, Thriller, Horror, Drama
+   21/60 From Beyond (1986) x4 — Science Fiction, Horror
+   22/60 Resident Evil: Apocalypse (2004) x4 — Action, Science Fiction, Horror
+   23/60 Resident Evil: Extinction (2007) x4 — Science Fiction, Horror, Action
+   24/60 Resident Evil: Afterlife (2010) x4 — Action, Horror, Science Fiction, Adventure
+   25/60 Resident Evil: Retribution (2012) x4 — Horror, Science Fiction, Action
+   26/60 Tokyo Gore Police (2008) x4 — Science Fiction, Horror, Action
+   27/60 The Machine Girl (2008) x4 — Comedy, Horror, Action, Adventure, Thriller, Crime
+   28/60 Guyver: Dark Hero (1994) x4 — Action, Science Fiction
+   29/60 Terminator 2: Judgment Day (1991) x4 — Thriller, Action, Science Fiction
+   30/60 Rise of the Planet of the Apes (2011) x4 — Action, Thriller, Science Fiction, Drama
+   31/60 Resident Evil: The Final Chapter (2016) x4 — Science Fiction, Horror, Action
+   32/60 Lady Terminator (1988) x3 — Horror, Fantasy, Action, Science Fiction
+   33/60 964 Pinocchio (1991) x3 — Horror, Science Fiction, Thriller
+   34/60 Total Recall (1990) x3 — Action, Adventure, Science Fiction
+   35/60 Naked Lunch (1991) x3 — Crime, Drama
+   36/60 Crash (1996) x3 — Thriller, Drama
+   37/60 Scanners (1981) x3 — Horror, Science Fiction
+   38/60 The Brood (1979) x3 — Science Fiction, Horror
+   39/60 Rabid (1977) x3 — Science Fiction, Horror
+   40/60 Shivers (1975) x3 — Science Fiction, Horror
+   41/60 Universal Soldier: Day of Reckoning (2012) x3 — Action, Thriller, Science Fiction
+   42/60 Universal Soldier: Regeneration (2009) x3 — Thriller, Adventure, Action, Science Fiction
+   43/60 Universal Soldier (1992) x3 — Thriller, Science Fiction, Action
+   44/60 Alien Resurrection (1997) x3 — Action, Horror, Science Fiction
+   45/60 Alien³ (1992) x3 — Horror, Action, Science Fiction
+   46/60 Aliens (1986) x3 — Thriller, Science Fiction, Horror, Action
+   47/60 Alien (1979) x3 — Horror, Science Fiction
+   48/60 Bride of Frankenstein (1935) x3 — Science Fiction, Horror
+   49/60 The Wicked City (1992) x3 — Science Fiction, Action, Horror
+   50/60 Altered States (1980) x3 — Thriller, Horror, Science Fiction
+   51/60 Moon (2009) x3 — Science Fiction, Drama
+   52/60 Hellbound: Hellraiser II (1988) x3 — Horror, Thriller
+   53/60 Hellraiser (1987) x3 — Thriller, Horror
+   54/60 28 Days Later (2002) x3 — Science Fiction, Horror, Thriller
+   55/60 Body Snatchers (1993) x3 — Horror, Science Fiction
+   56/60 Street Trash (1987) x3 — Horror, Comedy
+   57/60 Æon Flux (2005) x3 — Thriller, Action, Science Fiction
+   58/60 Rubber's Lover (1996) x3 — Science Fiction, Horror
+   59/60 Redline (2009) x3 — Science Fiction, Animation, Action
+   60/60 Elysium (2013) x3 — Science Fiction, Thriller, Drama, Action
+
+[done] /root/letterboxd-nanogenres/data/biopunk.json
+{
+  "slug": "biopunk",
+  "lists_used": 9,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Gattaca",
+      "1997",
+      7
+    ],
+    [
+      "Antiviral",
+      "2012",
+      6
+    ],
+    [
+      "eXistenZ",
+      "1999",
+      6
+    ],
+    [
+      "The Fly",
+      "1986",
+      6
+    ],
+    [
+      "Blade Runner",
+      "1982",
+      6
+    ]
+  ]
+}

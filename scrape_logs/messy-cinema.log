@@ -1,0 +1,56 @@
+[search] https://letterboxd.com/search/lists/messy+cinema/
+[search] 15 candidates -> 10 relevant (rejected low-quality=1, off-topic=0)
+[list] https://letterboxd.com/dhruvs/list/a-messy-compilation-of-iconic-essential-and/
+[list] https://letterboxd.com/indiasfilms/list/messy-girl-cinema/
+[list] https://letterboxd.com/softredhues/list/the-messy-throuple-cinematic-universe/
+[list] https://letterboxd.com/jahwhshshx88288/list/messy-french-cinema/
+[list] https://letterboxd.com/purplelacebra/list/messy-girl-cinema/
+[list] https://letterboxd.com/cords/list/messy-girl-cinema/
+[list] https://letterboxd.com/lapumba/list/older-man-being-vague-af-and-gaslighting/
+[list] https://letterboxd.com/oliviadamascuso/list/petersen-vargas-mainstream-palabok-films/
+  drop (only 3 films) /oliviadamascuso/list/petersen-vargas-mainstream-palabok-films/
+[list] https://letterboxd.com/kem1/list/long-fat-messy-messbut-make-it-cinema/
+[list] https://letterboxd.com/mayaks888/list/love-messy-romance-relationship-cinema-retro/
+    1/9 The Worst Person in the World (2021) x3 — Drama, Romance, Comedy
+    2/9 Gone Girl (2014) x3 — Drama, Mystery, Thriller
+    3/9 Shiva Baby (2020) x3 — Comedy, Drama
+    4/9 Cruel Intentions (1999) x2 — Romance, Drama
+    5/9 The Love Witch (2016) x2 — Romance, Horror, Comedy, Fantasy
+    6/9 The Edge of Seventeen (2016) x2 — Drama, Comedy
+    7/9 Bridget Jones's Diary (2001) x2 — Drama, Comedy, Romance
+    8/9 Frances Ha (2012) x2 — Comedy, Drama
+    9/9 Challengers (2024) x2 — Romance, Drama
+
+[done] /root/letterboxd-nanogenres/data/messy-cinema.json
+{
+  "slug": "messy-cinema",
+  "lists_used": 9,
+  "canonical_films": 9,
+  "top_5": [
+    [
+      "The Worst Person in the World",
+      "2021",
+      3
+    ],
+    [
+      "Gone Girl",
+      "2014",
+      3
+    ],
+    [
+      "Shiva Baby",
+      "2020",
+      3
+    ],
+    [
+      "Cruel Intentions",
+      "1999",
+      2
+    ],
+    [
+      "The Love Witch",
+      "2016",
+      2
+    ]
+  ]
+}

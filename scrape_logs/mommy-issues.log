@@ -1,0 +1,12 @@
+[search] https://letterboxd.com/search/lists/mommy+issues/
+[search] https://letterboxd.com/search/lists/mommy+issues/
+[search] https://letterboxd.com/tag/mommy-issues/lists/
+[search] 0 candidates -> 0 relevant (rejected low-quality=0, off-topic=0)
+
+[done] /root/letterboxd-nanogenres/data/mommy-issues.json
+{
+  "slug": "mommy-issues",
+  "lists_used": 0,
+  "canonical_films": 0,
+  "top_5": []
+}

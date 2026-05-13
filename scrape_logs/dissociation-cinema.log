@@ -1,0 +1,52 @@
+[search] https://letterboxd.com/search/lists/dissociation+cinema/
+[search] 5 candidates -> 5 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/drdang/list/dissociation-cinema/
+[list] https://letterboxd.com/saskialk/list/dissociation-cinema/
+  drop (only 4 films) /saskialk/list/dissociation-cinema/
+[list] https://letterboxd.com/firewalk_system/list/dissociation-cinema/
+[list] https://letterboxd.com/ashxturner/list/dissociation-cinema/
+[list] https://letterboxd.com/nmalvarez/list/fever-dream-dissociation-cinema/
+    1/10 We're All Going to the World's Fair (2021) x2 — Horror, Drama
+    2/10 Mulholland Drive (2001) x2 — Drama, Mystery, Thriller
+    3/10 Twin Peaks: The Return (2017) x2 — Crime, Drama, Thriller, Mystery
+    4/10 Cure (1997) x2 — Crime, Mystery, Thriller, Horror
+    5/10 Angel's Egg (1985) x2 — Fantasy, Animation, Mystery
+    6/10 Fallen Angels (1995) x2 — Crime, Romance, Action
+    7/10 Inland Empire (2006) x2 — Mystery, Fantasy, Drama, Thriller, Horror
+    8/10 Enter the Void (2009) x2 — Drama, Fantasy
+    9/10 Only God Forgives (2013) x2 — Drama, Thriller, Crime
+   10/10 Persona (1966) x2 — Drama
+
+[done] /root/letterboxd-nanogenres/data/dissociation-cinema.json
+{
+  "slug": "dissociation-cinema",
+  "lists_used": 4,
+  "canonical_films": 10,
+  "top_5": [
+    [
+      "We're All Going to the World's Fair",
+      "2021",
+      2
+    ],
+    [
+      "Mulholland Drive",
+      "2001",
+      2
+    ],
+    [
+      "Twin Peaks: The Return",
+      "2017",
+      2
+    ],
+    [
+      "Cure",
+      "1997",
+      2
+    ],
+    [
+      "Angel's Egg",
+      "1985",
+      2
+    ]
+  ]
+}

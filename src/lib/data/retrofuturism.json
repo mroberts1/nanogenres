@@ -1,0 +1,1172 @@
+{
+  "query": "retrofuturism",
+  "slug": "retrofuturism",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/kristahristova/list/retrofuturism/",
+      "user": "kristahristova",
+      "slug": "retrofuturism",
+      "title": "retrofuturism",
+      "desc": "krista 𖦹 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by krista 𖦹",
+      "tags": []
+    },
+    {
+      "href": "/linaling/list/retrofuturism/",
+      "user": "linaling",
+      "slug": "retrofuturism",
+      "title": "Retrofuturism",
+      "desc": "ninjakid is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by ninjakid",
+      "tags": []
+    },
+    {
+      "href": "/manicmovies/list/retrofuturism/",
+      "user": "manicmovies",
+      "slug": "retrofuturism",
+      "title": "retrofuturism",
+      "desc": "my favorite aesthetic ever",
+      "owner": "List by ady j PATRON",
+      "tags": []
+    },
+    {
+      "href": "/d1sp0ss3ss3d/list/retrofuturism/",
+      "user": "d1sp0ss3ss3d",
+      "slug": "retrofuturism",
+      "title": "Retrofuturism",
+      "desc": "All films are intentional Retrofuturism. In other words, we don't want past visions of the future which was meant to represent our era and clearly does not.",
+      "owner": "List by Enid Baines PRO",
+      "tags": [
+        "retrofuturism"
+      ]
+    },
+    {
+      "href": "/laurensquirrel/list/retrofuturism/",
+      "user": "laurensquirrel",
+      "slug": "retrofuturism",
+      "title": "Retrofuturism",
+      "desc": "Lauren is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Lauren",
+      "tags": []
+    },
+    {
+      "href": "/viniciusm/list/retrofuturism/",
+      "user": "viniciusm",
+      "slug": "retrofuturism",
+      "title": "Retrofuturism",
+      "desc": "vinicius is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by vinicius",
+      "tags": []
+    },
+    {
+      "href": "/haniliuser/list/retrofuturism/",
+      "user": "haniliuser",
+      "slug": "retrofuturism",
+      "title": "Retrofuturism",
+      "desc": "haniliuser is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by haniliuser",
+      "tags": []
+    },
+    {
+      "href": "/anv1ga/list/retrofuturism/",
+      "user": "anv1ga",
+      "slug": "retrofuturism",
+      "title": "Retrofuturism",
+      "desc": "anv1ga is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by anv1ga",
+      "tags": []
+    },
+    {
+      "href": "/maviddata/list/retrofuturism/",
+      "user": "maviddata",
+      "slug": "retrofuturism",
+      "title": "RetroFuturism",
+      "desc": "www.themoviejunkie.com/post/types-of-retrofuturism-movies\nwww.darkroastedblend.com/2010/02/retro-future-to-stars-part-3.html",
+      "owner": "List by maviddata",
+      "tags": []
+    },
+    {
+      "href": "/mariacamilaqv/list/retrofuturism/",
+      "user": "mariacamilaqv",
+      "slug": "retrofuturism",
+      "title": "Retrofuturism",
+      "desc": "María Camila is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by María Camila Quiñones",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 113,
+  "canonical_count": 34,
+  "films": [
+    {
+      "slug": "metropolis",
+      "title": "Metropolis",
+      "year": "1927",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Fritz Lang"
+      ],
+      "actors": [
+        "Gustav Fröhlich",
+        "Brigitte Helm",
+        "Alfred Abel",
+        "Rudolf Klein-Rogge",
+        "Theodor Loos",
+        "Fritz Rasp"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 4.24,
+      "rating_count": 263473,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2z/xx/r0/hy/qriaeUUwdmlgethK3aSAx68mG05-0-230-0-345-crop.jpg?v=31b29ec62d",
+      "url": "https://letterboxd.com/film/metropolis/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "2001-a-space-odyssey",
+      "title": "2001: A Space Odyssey",
+      "year": "1968",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Mystery"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "actors": [
+        "Keir Dullea",
+        "Gary Lockwood",
+        "William Sylvester",
+        "Douglas Rain",
+        "Daniel Richter",
+        "Leonard Rossiter"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.25,
+      "rating_count": 1463865,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/7/51987-2001-a-space-odyssey-0-230-0-345-crop.jpg?v=a69c46a272",
+      "url": "https://letterboxd.com/film/2001-a-space-odyssey/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "solaris",
+      "title": "Solaris",
+      "year": "1972",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "actors": [
+        "Natalya Bondarchuk",
+        "Donatas Banionis",
+        "Jüri Järvet",
+        "Vladislav Dvorzhetsky",
+        "Mykola Hrynko",
+        "Anatoliy Solonitsyn"
+      ],
+      "countries": [
+        "USSR"
+      ],
+      "rating": 4.22,
+      "rating_count": 205717,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-230-0-345-crop.jpg?v=18b2bcf9ce",
+      "url": "https://letterboxd.com/film/solaris/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "logans-run",
+      "title": "Logan's Run",
+      "year": "1976",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Michael Anderson"
+      ],
+      "actors": [
+        "Michael York",
+        "Richard Jordan",
+        "Jenny Agutter",
+        "Roscoe Lee Browne",
+        "Farrah Fawcett",
+        "Michael Anderson Jr."
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.29,
+      "rating_count": 44858,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/8/8/1/45881-logan-s-run-0-230-0-345-crop.jpg?v=71141e4324",
+      "url": "https://letterboxd.com/film/logans-run/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "blade-runner",
+      "title": "Blade Runner",
+      "year": "1982",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Edward James Olmos",
+        "M. Emmet Walsh",
+        "Daryl Hannah"
+      ],
+      "countries": [
+        "USA",
+        "Hong Kong",
+        "UK"
+      ],
+      "rating": 4.1,
+      "rating_count": 1419907,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/85/io/38/dz/vfzE3pjE5G7G7kcZWrA3fnbZo7V-0-230-0-345-crop.jpg?v=0d5de70f0d",
+      "url": "https://letterboxd.com/film/blade-runner/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "blade-runner-2049",
+      "title": "Blade Runner 2049",
+      "year": "2017",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas",
+        "Dave Bautista",
+        "Robin Wright",
+        "Sylvia Hoeks"
+      ],
+      "countries": [
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 2146862,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/5/4/3/9/265439-blade-runner-2049-0-230-0-345-crop.jpg?v=86735e0bb8",
+      "url": "https://letterboxd.com/film/blade-runner-2049/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-day-the-earth-stood-still",
+      "title": "The Day the Earth Stood Still",
+      "year": "1951",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Wise"
+      ],
+      "actors": [
+        "Michael Rennie",
+        "Patricia Neal",
+        "Billy Gray",
+        "Sam Jaffe",
+        "Hugh Marlowe",
+        "Lock Martin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 51316,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/2/4/51324-the-day-the-earth-stood-still-0-230-0-345-crop.jpg?v=c4e4c0002a",
+      "url": "https://letterboxd.com/film/the-day-the-earth-stood-still/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-man-who-fell-to-earth",
+      "title": "The Man Who Fell to Earth",
+      "year": "1976",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Fantasy"
+      ],
+      "directors": [
+        "Nicolas Roeg"
+      ],
+      "actors": [
+        "David Bowie",
+        "Rip Torn",
+        "Candy Clark",
+        "Tony Mascia",
+        "Buck Henry",
+        "Bernie Casey"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.46,
+      "rating_count": 61784,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/8/51178-the-man-who-fell-to-earth-0-230-0-345-crop.jpg?v=10276eb0e2",
+      "url": "https://letterboxd.com/film/the-man-who-fell-to-earth/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "brazil",
+      "title": "Brazil",
+      "year": "1985",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "actors": [
+        "Jonathan Pryce",
+        "Robert De Niro",
+        "Katherine Helmond",
+        "Ian Holm",
+        "Bob Hoskins",
+        "Michael Palin"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 274841,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
+      "url": "https://letterboxd.com/film/brazil/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "tron",
+      "title": "Tron",
+      "year": "1982",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Steven Lisberger"
+      ],
+      "actors": [
+        "Jeff Bridges",
+        "Bruce Boxleitner",
+        "David Warner",
+        "Cindy Morgan",
+        "Barnard Hughes",
+        "Dan Shor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.1,
+      "rating_count": 176173,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/x2/ki/kc/v5/cTF8lpXvAwT1SLH9kVFZZl0AO0D-0-230-0-345-crop.jpg?v=8ed1949fef",
+      "url": "https://letterboxd.com/film/tron/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-war-of-the-worlds",
+      "title": "The War of the Worlds",
+      "year": "1953",
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Byron Haskin"
+      ],
+      "actors": [
+        "Gene Barry",
+        "Ann Robinson",
+        "Lewis Martin",
+        "Les Tremayne",
+        "Frank Kreig",
+        "Vernon Rich"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.4,
+      "rating_count": 30809,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/4/6/2/47462-the-war-of-the-worlds-0-230-0-345-crop.jpg?v=dff8c0a9ac",
+      "url": "https://letterboxd.com/film/the-war-of-the-worlds/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "star-wars",
+      "title": "Star Wars",
+      "year": "1977",
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "George Lucas"
+      ],
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Peter Cushing",
+        "Alec Guinness",
+        "Anthony Daniels"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.16,
+      "rating_count": 2563965,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/0/6/2706-star-wars-0-230-0-345-crop.jpg?v=f1f1271bf5",
+      "url": "https://letterboxd.com/film/star-wars/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-empire-strikes-back",
+      "title": "The Empire Strikes Back",
+      "year": "1980",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Irvin Kershner"
+      ],
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels",
+        "David Prowse"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.4,
+      "rating_count": 2191477,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/mp/pz/lf/2i/7BuH8itoSrLExs2YZSsM01Qk2no-0-230-0-345-crop.jpg?v=27c6c6fba7",
+      "url": "https://letterboxd.com/film/the-empire-strikes-back/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "return-of-the-jedi",
+      "title": "Return of the Jedi",
+      "year": "1983",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "directors": [
+        "Richard Marquand"
+      ],
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels",
+        "Peter Mayhew"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.09,
+      "rating_count": 1807358,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/88/lu/ak/8v/5wDrNqePjb5SOucrWQwiFu340vv-0-230-0-345-crop.jpg?v=acc9d9c27b",
+      "url": "https://letterboxd.com/film/return-of-the-jedi/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "alien",
+      "title": "Alien",
+      "year": "1979",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Tom Skerritt",
+        "Sigourney Weaver",
+        "Veronica Cartwright",
+        "Harry Dean Stanton",
+        "John Hurt",
+        "Ian Holm"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 4.25,
+      "rating_count": 1854619,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8v/f1/qw/aa/bg7K6VtUG7Ew70gQj6SSroD5d4R-0-230-0-345-crop.jpg?v=a932f9e98e",
+      "url": "https://letterboxd.com/film/alien/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "escape-from-new-york",
+      "title": "Escape from New York",
+      "year": "1981",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "actors": [
+        "Kurt Russell",
+        "Lee Van Cleef",
+        "Ernest Borgnine",
+        "Donald Pleasence",
+        "Isaac Hayes",
+        "Season Hubley"
+      ],
+      "countries": [
+        "UK",
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.63,
+      "rating_count": 266435,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ft/7g/e0/y0/50aa3ZKcDF0c3r6nqY5I4jP1xnp-0-230-0-345-crop.jpg?v=5fc0a2486a",
+      "url": "https://letterboxd.com/film/escape-from-new-york/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dune",
+      "title": "Dune",
+      "year": "1984",
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Kyle MacLachlan",
+        "Francesca Annis",
+        "Patrick Stewart",
+        "Linda Hunt",
+        "José Ferrer",
+        "Freddie Jones"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.84,
+      "rating_count": 282396,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/e9/3l/l6/pt/dune-0-230-0-345-crop.jpg?v=a79bf8b4f6",
+      "url": "https://letterboxd.com/film/dune/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dark-city-1998",
+      "title": "Dark City",
+      "year": "1998",
+      "genres": [
+        "Mystery",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Alex Proyas"
+      ],
+      "actors": [
+        "Rufus Sewell",
+        "William Hurt",
+        "Kiefer Sutherland",
+        "Jennifer Connelly",
+        "Richard O'Brien",
+        "Ian Richardson"
+      ],
+      "countries": [
+        "Australia",
+        "USA"
+      ],
+      "rating": 3.69,
+      "rating_count": 139289,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/6/0/50160-dark-city-0-230-0-345-crop.jpg?v=2627eaaa53",
+      "url": "https://letterboxd.com/film/dark-city-1998/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dune-2021",
+      "title": "Dune",
+      "year": "2021",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Oscar Isaac",
+        "Jason Momoa",
+        "Stellan Skarsgård",
+        "Stephen McKinley Henderson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.89,
+      "rating_count": 4053762,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nx/8b/vs/gc/cDbNAY0KM84cxXhmj8f0dLWza3t-0-230-0-345-crop.jpg?v=49eed12751",
+      "url": "https://letterboxd.com/film/dune-2021/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "black-mirror-beyond-the-sea",
+      "title": "Black Mirror: Beyond the Sea",
+      "year": "2023",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller",
+        "TV Movie"
+      ],
+      "directors": [
+        "John Crowley"
+      ],
+      "actors": [
+        "Aaron Paul",
+        "Josh Hartnett",
+        "Kate Mara",
+        "Auden Thornton",
+        "Rory Culkin",
+        "Daniel Bell"
+      ],
+      "countries": [],
+      "rating": 3.63,
+      "rating_count": 159030,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zt/6s/r6/pr/BlackMirror-BeyondTheSea_2-0-230-0-345-crop.jpg?v=00fddba578",
+      "url": "https://letterboxd.com/film/black-mirror-beyond-the-sea/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "forbidden-planet",
+      "title": "Forbidden Planet",
+      "year": "1956",
+      "genres": [
+        "Adventure",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Fred M. Wilcox"
+      ],
+      "actors": [
+        "Walter Pidgeon",
+        "Anne Francis",
+        "Leslie Nielsen",
+        "Warren Stevens",
+        "Jack Kelly",
+        "Earl Holliman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.61,
+      "rating_count": 44067,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7x/ox/ux/z9/p2bjagPNjohe0SyRnCjnNxqnej4-0-230-0-345-crop.jpg?v=f5f5b71721",
+      "url": "https://letterboxd.com/film/forbidden-planet/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "world-on-a-wire-1973",
+      "title": "World on a Wire",
+      "year": "1973",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Rainer Werner Fassbinder"
+      ],
+      "actors": [
+        "Klaus Löwitsch",
+        "Mascha Rabben",
+        "Karl-Heinz Vosgerau",
+        "Adrian Hoven",
+        "Ivan Desny",
+        "Ingrid Caven"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "rating": 4.12,
+      "rating_count": 17590,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/5/4/1/1/885411-world-on-a-wire-0-230-0-345-crop.jpg?v=5088d412aa",
+      "url": "https://letterboxd.com/film/world-on-a-wire-1973/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "soylent-green",
+      "title": "Soylent Green",
+      "year": "1973",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Richard Fleischer"
+      ],
+      "actors": [
+        "Charlton Heston",
+        "Leigh Taylor-Young",
+        "Chuck Connors",
+        "Joseph Cotten",
+        "Brock Peters",
+        "Paula Kelly"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 64586,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nf/q5/cw/i9/eXZcuTPyhV0yhHL9ox6Ygw8Gd8I-0-230-0-345-crop.jpg?v=cd1f9a8da2",
+      "url": "https://letterboxd.com/film/soylent-green/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "silent-running",
+      "title": "Silent Running",
+      "year": "1972",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "directors": [
+        "Douglas Trumbull"
+      ],
+      "actors": [
+        "Bruce Dern",
+        "Cliff Potts",
+        "Ron Rifkin",
+        "Jesse Vint",
+        "Mark Persons",
+        "Steven Brown"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.31,
+      "rating_count": 22903,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kf/uj/0a/4x/kyEljmcf7YYmp85BdZffqiuRLfV-0-230-0-345-crop.jpg?v=aac5233909",
+      "url": "https://letterboxd.com/film/silent-running/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "things-to-come",
+      "title": "Things to Come",
+      "year": "1936",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "directors": [
+        "William Cameron Menzies"
+      ],
+      "actors": [
+        "Raymond Massey",
+        "Edward Chapman",
+        "Ralph Richardson",
+        "Margaretta Scott",
+        "Cedric Hardwicke",
+        "Maurice Braddell"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.29,
+      "rating_count": 9837,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/6/3/9/49639-things-to-come-0-230-0-345-crop.jpg?v=ea016c3123",
+      "url": "https://letterboxd.com/film/things-to-come/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "a-trip-to-the-moon",
+      "title": "A Trip to the Moon",
+      "year": "1902",
+      "genres": [
+        "Science Fiction",
+        "History",
+        "Adventure"
+      ],
+      "directors": [
+        "Georges Méliès"
+      ],
+      "actors": [
+        "Georges Méliès",
+        "Bleuette Bernon",
+        "François Lallement",
+        "Jehanne d'Alcy",
+        "Henri Delannoy",
+        "Victor André"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 3.95,
+      "rating_count": 293176,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/7/7/51377-a-trip-to-the-moon-0-230-0-345-crop.jpg?v=e82c2a36f3",
+      "url": "https://letterboxd.com/film/a-trip-to-the-moon/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "sky-captain-and-the-world-of-tomorrow",
+      "title": "Sky Captain and the World of Tomorrow",
+      "year": "2004",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "directors": [
+        "Kerry Conran"
+      ],
+      "actors": [
+        "Jude Law",
+        "Gwyneth Paltrow",
+        "Angelina Jolie",
+        "Giovanni Ribisi",
+        "Michael Gambon",
+        "Bai Ling"
+      ],
+      "countries": [
+        "Italy",
+        "UK",
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 33394,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/4/2/48942-sky-captain-and-the-world-of-tomorrow-0-230-0-345-crop.jpg?v=5f99ee4dd9",
+      "url": "https://letterboxd.com/film/sky-captain-and-the-world-of-tomorrow/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-league-of-extraordinary-gentlemen",
+      "title": "The League of Extraordinary Gentlemen",
+      "year": "2003",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller",
+        "Fantasy"
+      ],
+      "directors": [
+        "Stephen Norrington"
+      ],
+      "actors": [
+        "Sean Connery",
+        "Naseeruddin Shah",
+        "Shane West",
+        "Peta Wilson",
+        "Stuart Townsend",
+        "Jason Flemyng"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 2.57,
+      "rating_count": 109877,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/3/8/47638-the-league-of-extraordinary-gentlemen-0-230-0-345-crop.jpg?v=afdb4fa667",
+      "url": "https://letterboxd.com/film/the-league-of-extraordinary-gentlemen/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "barbarella",
+      "title": "Barbarella",
+      "year": "1968",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Comedy"
+      ],
+      "directors": [
+        "Roger Vadim"
+      ],
+      "actors": [
+        "Jane Fonda",
+        "John Phillip Law",
+        "Anita Pallenberg",
+        "Marcel Marceau",
+        "Claude Dauphin",
+        "Milo O'Shea"
+      ],
+      "countries": [
+        "France",
+        "Italy"
+      ],
+      "rating": 3.25,
+      "rating_count": 58539,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2i/o8/y9/dz/3nGzGjFjzEp4guxRRNsZeaaULJJ-0-230-0-345-crop.jpg?v=cd247c3cd3",
+      "url": "https://letterboxd.com/film/barbarella/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-rocketeer",
+      "title": "The Rocketeer",
+      "year": "1991",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Family",
+        "Action"
+      ],
+      "directors": [
+        "Joe Johnston"
+      ],
+      "actors": [
+        "Billy Campbell",
+        "Jennifer Connelly",
+        "Alan Arkin",
+        "Timothy Dalton",
+        "Paul Sorvino",
+        "Terry O'Quinn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.42,
+      "rating_count": 54244,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8z/4b/gh/pn/tFOoAfyznMdCRJIvX3vDOpr3MCg-0-230-0-345-crop.jpg?v=d46b92bfc4",
+      "url": "https://letterboxd.com/film/the-rocketeer/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "iron-sky",
+      "title": "Iron Sky",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Science Fiction",
+        "Action"
+      ],
+      "directors": [
+        "Timo Vuorensola"
+      ],
+      "actors": [
+        "Julia Dietze",
+        "Christopher Kirby",
+        "Götz Otto",
+        "Udo Kier",
+        "Peta Sergeant",
+        "Stephanie Paul"
+      ],
+      "countries": [
+        "Finland",
+        "Germany",
+        "Australia"
+      ],
+      "rating": 2.52,
+      "rating_count": 30542,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sz/j4/5h/31/4qyVtcCFqrlLMgHtlyxP57PI3ls-0-230-0-345-crop.jpg?v=ab90e9ab06",
+      "url": "https://letterboxd.com/film/iron-sky/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "meet-the-robinsons",
+      "title": "Meet the Robinsons",
+      "year": "2007",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "directors": [
+        "Stephen J. Anderson"
+      ],
+      "actors": [
+        "Daniel Hansen",
+        "Jordan Fry",
+        "Wesley Singerman",
+        "Matthew Josten",
+        "Stephen J. Anderson",
+        "Tom Selleck"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.63,
+      "rating_count": 448291,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/39/3k/16/fo/8FRwaCoVePjPPPAPP0chHSweU8L-0-230-0-345-crop.jpg?v=bb81a7d14b",
+      "url": "https://letterboxd.com/film/meet-the-robinsons/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "tomorrowland",
+      "title": "Tomorrowland",
+      "year": "2015",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Mystery",
+        "Family"
+      ],
+      "directors": [
+        "Brad Bird"
+      ],
+      "actors": [
+        "Britt Robertson",
+        "George Clooney",
+        "Raffey Cassidy",
+        "Hugh Laurie",
+        "Tim McGraw",
+        "Chris Bauer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.71,
+      "rating_count": 207258,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
+      "url": "https://letterboxd.com/film/tomorrowland/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "gattaca",
+      "title": "Gattaca",
+      "year": "1997",
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Andrew Niccol"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Uma Thurman",
+        "Jude Law",
+        "Alan Arkin",
+        "Loren Dean",
+        "Gore Vidal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.81,
+      "rating_count": 377297,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/7/0/51370-gattaca-0-230-0-345-crop.jpg?v=a0ca9198ff",
+      "url": "https://letterboxd.com/film/gattaca/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Science Fiction": 34,
+      "Adventure": 15,
+      "Action": 11,
+      "Drama": 9,
+      "Mystery": 7,
+      "Thriller": 6,
+      "Comedy": 4,
+      "Family": 3,
+      "Fantasy": 2,
+      "Horror": 2,
+      "TV Movie": 1,
+      "Crime": 1,
+      "History": 1,
+      "Animation": 1,
+      "Romance": 1
+    },
+    "directors": {
+      "Ridley Scott": 2,
+      "Denis Villeneuve": 2,
+      "Fritz Lang": 1,
+      "Stanley Kubrick": 1,
+      "Andrei Tarkovsky": 1,
+      "Michael Anderson": 1,
+      "Robert Wise": 1,
+      "Nicolas Roeg": 1,
+      "Terry Gilliam": 1,
+      "Steven Lisberger": 1,
+      "Byron Haskin": 1,
+      "George Lucas": 1,
+      "Irvin Kershner": 1,
+      "Richard Marquand": 1,
+      "John Carpenter": 1,
+      "David Lynch": 1,
+      "Alex Proyas": 1,
+      "John Crowley": 1,
+      "Fred M. Wilcox": 1,
+      "Rainer Werner Fassbinder": 1
+    },
+    "years": {
+      "1902": 1,
+      "1927": 1,
+      "1936": 1,
+      "1951": 1,
+      "1953": 1,
+      "1956": 1,
+      "1968": 2,
+      "1972": 2,
+      "1973": 2,
+      "1976": 2,
+      "1977": 1,
+      "1979": 1,
+      "1980": 1,
+      "1981": 1,
+      "1982": 2,
+      "1983": 1,
+      "1984": 1,
+      "1985": 1,
+      "1991": 1,
+      "1997": 1,
+      "1998": 1,
+      "2003": 1,
+      "2004": 1,
+      "2007": 1,
+      "2012": 1,
+      "2015": 1,
+      "2017": 1,
+      "2021": 1,
+      "2023": 1
+    }
+  }
+}

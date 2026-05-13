@@ -1,0 +1,68 @@
+[search] https://letterboxd.com/search/lists/witchcore/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=6)
+[list] https://letterboxd.com/dazzydw/list/witchcore/
+[list] https://letterboxd.com/amorelhas/list/witchcore/
+[list] https://letterboxd.com/denizakalin/list/witchcore/
+[list] https://letterboxd.com/abimarch/list/witchcore/
+[list] https://letterboxd.com/margaridagal/list/witchcore/
+[list] https://letterboxd.com/uramakiroll/list/witchcore/
+[list] https://letterboxd.com/bluepastelren/list/witchcore/
+[list] https://letterboxd.com/faemadelaine/list/witchcore/
+[list] https://letterboxd.com/collecticustv/list/witchcore/
+[list] https://letterboxd.com/dayanaxp16/list/witchcore/
+    1/22 Hocus Pocus (1993) x9 — Comedy, Family, Fantasy
+    2/22 The Craft (1996) x9 — Horror, Fantasy, Drama
+    3/22 Practical Magic (1998) x9 — Fantasy, Comedy, Romance
+    4/22 The Witch (2015) x8 — Horror
+    5/22 Kiki's Delivery Service (1989) x6 — Fantasy, Animation, Family
+    6/22 The Witches (1990) x6 — Horror, Family, Fantasy
+    7/22 The Love Witch (2016) x6 — Romance, Horror, Comedy, Fantasy
+    8/22 The Witches of Eastwick (1987) x4 — Fantasy, Horror, Comedy
+    9/22 Teen Witch (1989) x3 — Comedy, Romance, Fantasy
+   10/22 Death Becomes Her (1992) x3 — Comedy, Fantasy, Horror
+   11/22 The Addams Family (1991) x2 — Comedy, Fantasy
+   12/22 Sabrina the Teenage Witch (1996) x2 — Comedy, TV Movie, Family, Fantasy
+   13/22 Matilda (1996) x2 — Family, Comedy, Fantasy
+   14/22 Halloweentown (1998) x2 — Comedy, TV Movie, Fantasy
+   15/22 Harry Potter and the Philosopher's Stone (2001) x2 — Adventure, Fantasy
+   16/22 Bewitched (2005) x2 — Fantasy, Romance, Comedy
+   17/22 Mary and The Witch's Flower (2017) x2 — Adventure, Animation, Family, Fantasy
+   18/22 Gwen (2018) x2 — History, Horror, Drama, Mystery
+   19/22 Coven (2020) x2 — History, Drama
+   20/22 Bell, Book and Candle (1958) x2 — Romance, Fantasy, Comedy
+   21/22 Elvira: Mistress of the Dark (1988) x2 — Fantasy, Comedy, Horror
+   22/22 Häxan (1922) x2 — History, Documentary, Horror
+
+[done] /root/letterboxd-nanogenres/data/witchcore.json
+{
+  "slug": "witchcore",
+  "lists_used": 10,
+  "canonical_films": 22,
+  "top_5": [
+    [
+      "Hocus Pocus",
+      "1993",
+      9
+    ],
+    [
+      "The Craft",
+      "1996",
+      9
+    ],
+    [
+      "Practical Magic",
+      "1998",
+      9
+    ],
+    [
+      "The Witch",
+      "2015",
+      8
+    ],
+    [
+      "Kiki's Delivery Service",
+      "1989",
+      6
+    ]
+  ]
+}

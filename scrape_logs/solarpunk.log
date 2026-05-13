@@ -1,0 +1,62 @@
+[search] https://letterboxd.com/search/lists/solarpunk/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/frogsaw617/list/solarpunk/
+[list] https://letterboxd.com/vlahos/list/solarpunk/
+[list] https://letterboxd.com/dremolus/list/solarpunk/
+[list] https://letterboxd.com/altenoir/list/solarpunk/
+[list] https://letterboxd.com/aliotth/list/solarpunk/
+[list] https://letterboxd.com/sogukennari/list/solarpunk/
+[list] https://letterboxd.com/kingoliviad/list/solarpunk/
+[list] https://letterboxd.com/geometricsun/list/solarpunk/
+[list] https://letterboxd.com/lailasmith12345/list/solarpunk/
+  drop (only 1 films) /lailasmith12345/list/solarpunk/
+[list] https://letterboxd.com/hapabbg/list/solarpunk/
+  drop (only 2 films) /hapabbg/list/solarpunk/
+    1/14 Nausicaä of the Valley of the Wind (1984) x6 — Animation, Science Fiction, Fantasy, Adventure
+    2/14 Castle in the Sky (1986) x5 — Fantasy, Adventure, Family, Action, Animation, Science Fiction
+    3/14 Black Panther (2018) x4 — Adventure, Science Fiction, Action
+    4/14 Avatar (2009) x3 — Adventure, Science Fiction, Action
+    5/14 Avatar: The Way of Water (2022) x3 — Science Fiction, Action, Adventure
+    6/14 Princess Mononoke (1997) x3 — Fantasy, Adventure, Animation
+    7/14 WALL·E (2008) x3 — Animation, Science Fiction, Family
+    8/14 Atlantis: The Lost Empire (2001) x2 — Family, Science Fiction, Animation, Adventure
+    9/14 Space Is the Place (1974) x2 — Music, Science Fiction
+   10/14 Annihilation (2018) x2 — Science Fiction, Horror
+   11/14 Tomorrowland (2015) x2 — Science Fiction, Adventure, Mystery, Family
+   12/14 The Giver (2014) x2 — Drama, Science Fiction
+   13/14 Black Panther: Wakanda Forever (2022) x2 — Science Fiction, Adventure, Action
+   14/14 Dune (2021) x2 — Science Fiction, Adventure
+
+[done] /root/letterboxd-nanogenres/data/solarpunk.json
+{
+  "slug": "solarpunk",
+  "lists_used": 8,
+  "canonical_films": 14,
+  "top_5": [
+    [
+      "Nausicaä of the Valley of the Wind",
+      "1984",
+      6
+    ],
+    [
+      "Castle in the Sky",
+      "1986",
+      5
+    ],
+    [
+      "Black Panther",
+      "2018",
+      4
+    ],
+    [
+      "Avatar",
+      "2009",
+      3
+    ],
+    [
+      "Avatar: The Way of Water",
+      "2022",
+      3
+    ]
+  ]
+}

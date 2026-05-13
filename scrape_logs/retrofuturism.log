@@ -1,0 +1,80 @@
+[search] https://letterboxd.com/search/lists/retrofuturism/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/kristahristova/list/retrofuturism/
+[list] https://letterboxd.com/linaling/list/retrofuturism/
+[list] https://letterboxd.com/manicmovies/list/retrofuturism/
+[list] https://letterboxd.com/d1sp0ss3ss3d/list/retrofuturism/
+[list] https://letterboxd.com/laurensquirrel/list/retrofuturism/
+[list] https://letterboxd.com/viniciusm/list/retrofuturism/
+[list] https://letterboxd.com/haniliuser/list/retrofuturism/
+[list] https://letterboxd.com/anv1ga/list/retrofuturism/
+[list] https://letterboxd.com/maviddata/list/retrofuturism/
+[list] https://letterboxd.com/mariacamilaqv/list/retrofuturism/
+    1/34 Metropolis (1927) x5 — Drama, Science Fiction
+    2/34 2001: A Space Odyssey (1968) x5 — Science Fiction, Adventure, Mystery
+    3/34 Solaris (1972) x5 — Mystery, Science Fiction, Drama
+    4/34 Logan's Run (1976) x5 — Science Fiction, Action
+    5/34 Blade Runner (1982) x4 — Thriller, Drama, Science Fiction
+    6/34 Blade Runner 2049 (2017) x4 — Science Fiction, Drama
+    7/34 The Day the Earth Stood Still (1951) x4 — Science Fiction, Thriller, Drama
+    8/34 The Man Who Fell to Earth (1976) x3 — Science Fiction, Drama, Fantasy
+    9/34 Brazil (1985) x3 — Science Fiction, Comedy
+   10/34 Tron (1982) x3 — Adventure, Action, Science Fiction
+   11/34 The War of the Worlds (1953) x3 — Science Fiction, Action
+   12/34 Star Wars (1977) x2 — Adventure, Science Fiction, Action
+   13/34 The Empire Strikes Back (1980) x2 — Science Fiction, Adventure, Action
+   14/34 Return of the Jedi (1983) x2 — Science Fiction, Adventure, Action
+   15/34 Alien (1979) x2 — Horror, Science Fiction
+   16/34 Escape from New York (1981) x2 — Action, Science Fiction, Thriller
+   17/34 Dune (1984) x2 — Adventure, Science Fiction, Action
+   18/34 Dark City (1998) x2 — Mystery, Science Fiction
+   19/34 Dune (2021) x2 — Science Fiction, Adventure
+   20/34 Black Mirror: Beyond the Sea (2023) x2 — Horror, Science Fiction, Thriller, TV Movie
+   21/34 Forbidden Planet (1956) x2 — Adventure, Science Fiction
+   22/34 World on a Wire (1973) x2 — Mystery, Drama, Science Fiction
+   23/34 Soylent Green (1973) x2 — Mystery, Crime, Science Fiction
+   24/34 Silent Running (1972) x2 — Drama, Science Fiction, Adventure
+   25/34 Things to Come (1936) x2 — Drama, Science Fiction
+   26/34 A Trip to the Moon (1902) x2 — Science Fiction, History, Adventure
+   27/34 Sky Captain and the World of Tomorrow (2004) x2 — Science Fiction, Adventure
+   28/34 The League of Extraordinary Gentlemen (2003) x2 — Action, Science Fiction, Thriller, Fantasy
+   29/34 Barbarella (1968) x2 — Science Fiction, Adventure, Comedy
+   30/34 The Rocketeer (1991) x2 — Science Fiction, Adventure, Family, Action
+   31/34 Iron Sky (2012) x2 — Comedy, Science Fiction, Action
+   32/34 Meet the Robinsons (2007) x2 — Animation, Family, Comedy, Science Fiction, Adventure
+   33/34 Tomorrowland (2015) x2 — Science Fiction, Adventure, Mystery, Family
+   34/34 Gattaca (1997) x2 — Romance, Mystery, Thriller, Science Fiction
+
+[done] /root/letterboxd-nanogenres/data/retrofuturism.json
+{
+  "slug": "retrofuturism",
+  "lists_used": 10,
+  "canonical_films": 34,
+  "top_5": [
+    [
+      "Metropolis",
+      "1927",
+      5
+    ],
+    [
+      "2001: A Space Odyssey",
+      "1968",
+      5
+    ],
+    [
+      "Solaris",
+      "1972",
+      5
+    ],
+    [
+      "Logan's Run",
+      "1976",
+      5
+    ],
+    [
+      "Blade Runner",
+      "1982",
+      4
+    ]
+  ]
+}

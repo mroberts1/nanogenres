@@ -1,0 +1,45 @@
+[search] https://letterboxd.com/search/lists/angelcore/
+[search] 16 candidates -> 10 relevant (rejected low-quality=0, off-topic=5)
+[list] https://letterboxd.com/kawaii_yuri/list/angelcore/
+  drop (only 3 films) /kawaii_yuri/list/angelcore/
+[list] https://letterboxd.com/ssiv/list/angelcore/
+  drop (only 4 films) /ssiv/list/angelcore/
+[list] https://letterboxd.com/sillyklorpy/list/angelcore/
+  drop (only 4 films) /sillyklorpy/list/angelcore/
+[list] https://letterboxd.com/candylisbon_/list/angelcore/
+  drop (only 2 films) /candylisbon_/list/angelcore/
+[list] https://letterboxd.com/romanebrblpz/list/angelcore/
+[list] https://letterboxd.com/dumplinqs/list/coquette-masterlist-7-angelcore/
+[list] https://letterboxd.com/angelmariecielo/list/angelcore/
+  drop (only 1 films) /angelmariecielo/list/angelcore/
+[list] https://letterboxd.com/justangel30/list/angelcore/
+[list] https://letterboxd.com/impuritie/list/angelcore/
+[list] https://letterboxd.com/ricardocool/list/angelcore/
+  drop (only 4 films) /ricardocool/list/angelcore/
+    1/3 Date with an Angel (1987) x2 — Comedy, Science Fiction, Fantasy, Romance
+    2/3 Wings of Desire (1987) x2 — Drama, Fantasy, Romance
+    3/3 I Married an Angel (1942) x2 — Romance, Fantasy, Comedy
+
+[done] /root/letterboxd-nanogenres/data/angelcore.json
+{
+  "slug": "angelcore",
+  "lists_used": 4,
+  "canonical_films": 3,
+  "top_5": [
+    [
+      "Date with an Angel",
+      "1987",
+      2
+    ],
+    [
+      "Wings of Desire",
+      "1987",
+      2
+    ],
+    [
+      "I Married an Angel",
+      "1942",
+      2
+    ]
+  ]
+}

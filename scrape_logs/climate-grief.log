@@ -1,0 +1,13 @@
+[search] https://letterboxd.com/search/lists/climate+grief/
+[search] 3 candidates -> 3 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/uh_michaela/list/climate-grief-research/
+[list] https://letterboxd.com/maizeinadaze/list/climate-earth-home-grief-depression-anger/
+[list] https://letterboxd.com/nocturnekissed/list/movies-where-grief-is-not-a-moment-but-a/
+
+[done] /root/letterboxd-nanogenres/data/climate-grief.json
+{
+  "slug": "climate-grief",
+  "lists_used": 3,
+  "canonical_films": 0,
+  "top_5": []
+}

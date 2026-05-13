@@ -1,0 +1,96 @@
+[search] https://letterboxd.com/search/lists/frutiger+aero/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/reiss_t/list/frutiger-aero/
+[list] https://letterboxd.com/mechazawa/list/frutiger-aero/
+[list] https://letterboxd.com/juanvisitin/list/frutiger-aero/
+[list] https://letterboxd.com/felixtanuki/list/frutiger-aero/
+[list] https://letterboxd.com/amorelhas/list/frutiger-aero/
+[list] https://letterboxd.com/bateman11/list/frutiger-aero/
+  drop (only 4 films) /bateman11/list/frutiger-aero/
+[list] https://letterboxd.com/bloodmachinne/list/frutiger-aero/
+[list] https://letterboxd.com/darwix/list/frutiger-aero/
+  drop (only 3 films) /darwix/list/frutiger-aero/
+[list] https://letterboxd.com/kyrin/list/frutiger-aero/
+[list] https://letterboxd.com/sillyklorpy/list/frutiger-aero/
+    1/48 Meet the Robinsons (2007) x8 — Animation, Family, Comedy, Science Fiction, Adventure
+    2/48 Bee Movie (2007) x8 — Comedy, Family, Animation, Adventure
+    3/48 Click (2006) x7 — Fantasy, Drama, Comedy
+    4/48 WALL·E (2008) x6 — Animation, Science Fiction, Family
+    5/48 Happy Feet (2006) x6 — Family, Animation, Comedy
+    6/48 Finding Nemo (2003) x6 — Adventure, Family, Animation
+    7/48 Robots (2005) x6 — Science Fiction, Animation, Comedy, Family
+    8/48 Astro Boy (2009) x5 — Science Fiction, Animation, Action, Family
+    9/48 Despicable Me (2010) x4 — Animation, Science Fiction, Comedy, Family, Crime
+   10/48 Tomorrowland (2015) x4 — Science Fiction, Adventure, Mystery, Family
+   11/48 The Lorax (2012) x4 — Animation, Family
+   12/48 The iPod Revolution (2007) x4 — Documentary
+   13/48 Avatar (2009) x4 — Adventure, Science Fiction, Action
+   14/48 Ponyo (2008) x4 — Animation, Family, Fantasy
+   15/48 Sky High (2005) x3 — Adventure, Family, Comedy
+   16/48 Final Fantasy VII: Advent Children (2005) x3 — Animation, Adventure, Fantasy, Action, Science Fiction
+   17/48 Shark Tale (2004) x3 — Animation, Action, Comedy, Family
+   18/48 The Garden of Words (2013) x3 — Romance, Drama, Animation
+   19/48 Over the Hedge (2006) x3 — Animation, Family, Adventure, Comedy
+   20/48 Surf's Up (2007) x3 — Comedy, Animation, Family
+   21/48 Elemental (2023) x3 — Comedy, Romance, Animation, Fantasy, Family
+   22/48 I'm a Cyborg, But That's OK (2006) x2 — Romance, Drama, Comedy
+   23/48 Mr. Nobody (2009) x2 — Romance, Drama, Science Fiction
+   24/48 The Island (2005) x2 — Science Fiction, Thriller, Action
+   25/48 Up (2009) x2 — Adventure, Family, Animation, Comedy
+   26/48 iCarly: iGo to Japan (2008) x2 — Adventure, TV Movie, Comedy, Family
+   27/48 Drake & Josh Go Hollywood (2006) x2 — Family, TV Movie, Comedy, Crime, Adventure
+   28/48 Merry Christmas, Drake & Josh (2008) x2 — Family, Comedy, TV Movie
+   29/48 Puella Magi Madoka Magica (2011) x2 — Animation, Drama
+   30/48 Phineas and Ferb The Movie: Across the 2nd Dimension (2011) x2 — TV Movie, Adventure, Science Fiction, Comedy, Action, Animation, Family
+   31/48 Power On: The Story of Xbox (2021) x2 — Documentary
+   32/48 Resident Evil: Degeneration (2008) x2 — Horror, Science Fiction, Animation, Action
+   33/48 Kingdom Hearts χ Back Cover (2017) x2 — Fantasy, Animation
+   34/48 Avatar Spirits (2010) x2 — Documentary
+   35/48 5 Centimeters per Second (2007) x2 — Romance, Animation, Drama
+   36/48 Children Who Chase Lost Voices (2011) x2 — Animation, Fantasy, Family, Adventure
+   37/48 The Place Promised in Our Early Days (2004) x2 — Animation, Romance, Adventure, Drama
+   38/48 Voices of a Distant Star (2002) x2 — Animation, Romance, Science Fiction
+   39/48 Ice Age: The Meltdown (2006) x2 — Adventure, Family, Comedy, Animation
+   40/48 Aloha Scooby-Doo! (2005) x2 — Mystery, Animation, Family, Adventure, Comedy
+   41/48 The Animatrix (2003) x2 — Animation, Science Fiction
+   42/48 Final Destination 3 (2006) x2 — Mystery, Horror
+   43/48 Æon Flux (2005) x2 — Thriller, Action, Science Fiction
+   44/48 CJ7 (2008) x2 — Family, Science Fiction, Comedy, Fantasy, Drama
+   45/48 Mars Needs Moms (2011) x2 — Animation, Family, Adventure
+   46/48 Cars 2 (2011) x2 — Animation, Comedy, Family, Adventure
+   47/48 Passengers (2016) x2 — Drama, Science Fiction, Romance
+   48/48 Free Guy (2021) x2 — Comedy, Adventure, Science Fiction
+
+[done] /root/letterboxd-nanogenres/data/frutiger-aero.json
+{
+  "slug": "frutiger-aero",
+  "lists_used": 8,
+  "canonical_films": 48,
+  "top_5": [
+    [
+      "Meet the Robinsons",
+      "2007",
+      8
+    ],
+    [
+      "Bee Movie",
+      "2007",
+      8
+    ],
+    [
+      "Click",
+      "2006",
+      7
+    ],
+    [
+      "WALL·E",
+      "2008",
+      6
+    ],
+    [
+      "Happy Feet",
+      "2006",
+      6
+    ]
+  ]
+}

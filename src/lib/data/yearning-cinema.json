@@ -1,0 +1,502 @@
+{
+  "query": "yearning cinema",
+  "slug": "yearning-cinema",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/lovewaev/list/yearning-cinema/",
+      "user": "lovewaev",
+      "slug": "yearning-cinema",
+      "title": "yearning cinema",
+      "desc": "frey is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by frey",
+      "tags": []
+    },
+    {
+      "href": "/silly_tilly/list/yearning-cinema/",
+      "user": "silly_tilly",
+      "slug": "yearning-cinema",
+      "title": "Yearning Cinema",
+      "desc": "Silly_Tilly is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Silly_Tilly PRO",
+      "tags": []
+    },
+    {
+      "href": "/cushshhh/list/yearning-cinema/",
+      "user": "cushshhh",
+      "slug": "yearning-cinema",
+      "title": "Yearning Cinema",
+      "desc": "Claudine is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Claudine",
+      "tags": []
+    },
+    {
+      "href": "/joannofarc/list/queer-asian-yearning-cinema/",
+      "user": "joannofarc",
+      "slug": "queer-asian-yearning-cinema",
+      "title": "queer asian yearning cinema",
+      "desc": "nat is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by nat",
+      "tags": []
+    },
+    {
+      "href": "/sophiajoplin/list/yearning-in-cinema/",
+      "user": "sophiajoplin",
+      "slug": "yearning-in-cinema",
+      "title": "yearning in cinema",
+      "desc": "sophiajoplin is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by sophiajoplin PATRON",
+      "tags": []
+    },
+    {
+      "href": "/superkart/list/yearning-in-cinema/",
+      "user": "superkart",
+      "slug": "yearning-in-cinema",
+      "title": "Yearning in Cinema",
+      "desc": "superkart is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by superkart",
+      "tags": []
+    },
+    {
+      "href": "/katyfayyyx/list/yearning-cinema/",
+      "user": "katyfayyyx",
+      "slug": "yearning-cinema",
+      "title": "yearning cinema",
+      "desc": "✨katy-fay ✨ is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by ✨katy-fay ✨ PATRON",
+      "tags": []
+    },
+    {
+      "href": "/tortugaboss354/list/yearning-cinematic-universe/",
+      "user": "tortugaboss354",
+      "slug": "yearning-cinematic-universe",
+      "title": "yearning cinematic universe",
+      "desc": "TortugaBoss354 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by TortugaBoss354 PATRON",
+      "tags": []
+    }
+  ],
+  "source_list_count": 8,
+  "films_considered": 69,
+  "canonical_count": 13,
+  "films": [
+    {
+      "slug": "past-lives",
+      "title": "Past Lives",
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Celine Song"
+      ],
+      "actors": [
+        "Greta Lee",
+        "Teo Yoo",
+        "John Magaro",
+        "Moon Seung-ah",
+        "Leem Seung-min",
+        "Yoon Ji-hye"
+      ],
+      "countries": [
+        "USA",
+        "South Korea"
+      ],
+      "rating": 4.16,
+      "rating_count": 1749018,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/1/0/5/3/591053-past-lives-0-230-0-345-crop.jpg?v=c600b7854e",
+      "url": "https://letterboxd.com/film/past-lives/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "decision-to-leave",
+      "title": "Decision to Leave",
+      "year": "2022",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Romance"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ],
+      "actors": [
+        "Tang Wei",
+        "Park Hae-il",
+        "Lee Jung-hyun",
+        "Go Kyung-pyo",
+        "Park Yong-woo",
+        "Kim Shin-young"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 3.98,
+      "rating_count": 401200,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/9/3/2/0/629320-decision-to-leave-0-230-0-345-crop.jpg?v=30eaeaf481",
+      "url": "https://letterboxd.com/film/decision-to-leave/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "in-the-mood-for-love",
+      "title": "In the Mood for Love",
+      "year": "2000",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Wong Kar-Wai"
+      ],
+      "actors": [
+        "Maggie Cheung",
+        "Tony Leung Chiu-wai",
+        "Siu Ping-Lam",
+        "Rebecca Pan",
+        "Kelly Lai Chen",
+        "Joe Cheung Tung-Cho"
+      ],
+      "countries": [
+        "Hong Kong",
+        "France"
+      ],
+      "rating": 4.38,
+      "rating_count": 980906,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g1/7l/2j/qk/tSRdvZY1waXrTeMqeLBmq9IRs08-0-230-0-345-crop.jpg?v=938633fc19",
+      "url": "https://letterboxd.com/film/in-the-mood-for-love/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "pride-prejudice",
+      "title": "Pride & Prejudice",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Joe Wright"
+      ],
+      "actors": [
+        "Keira Knightley",
+        "Matthew Macfadyen",
+        "Brenda Blethyn",
+        "Rosamund Pike",
+        "Carey Mulligan",
+        "Jena Malone"
+      ],
+      "countries": [
+        "France",
+        "UK",
+        "USA"
+      ],
+      "rating": 4.14,
+      "rating_count": 2092269,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nq/jo/26/tn/dAC0hkYmz5ZOCHURZCyj9isPMPd-0-230-0-345-crop.jpg?v=b3dac3ffd7",
+      "url": "https://letterboxd.com/film/pride-prejudice/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "your-name-engraved-herein",
+      "title": "Your Name Engraved Herein",
+      "year": "2020",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Kuang-Hui Liu"
+      ],
+      "actors": [
+        "Edward Chen",
+        "Tseng Jing-hua",
+        "Leon Dai",
+        "Wang Shih-sian",
+        "Fabio Grangeon",
+        "Barry Qu"
+      ],
+      "countries": [
+        "Canada",
+        "Taiwan",
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 120235,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/2/1/5/0/642150-your-name-engraved-herein-0-230-0-345-crop.jpg?v=40f6c9769e",
+      "url": "https://letterboxd.com/film/your-name-engraved-herein/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "moonlit-winter",
+      "title": "Moonlit Winter",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Lim Dae-hyung"
+      ],
+      "actors": [
+        "Kim Hee-ae",
+        "Yuko Nakamura",
+        "Kim So-hye",
+        "Sung Yoo-bin",
+        "Hana Kino",
+        "Kumi Takiuchi"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "rating": 3.93,
+      "rating_count": 15553,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/4/0/2/506402-moonlit-winter-0-230-0-345-crop.jpg?v=5ed25db7c4",
+      "url": "https://letterboxd.com/film/moonlit-winter/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "la-la-land",
+      "title": "La La Land",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "John Legend",
+        "Rosemarie DeWitt",
+        "Finn Wittrock",
+        "Callie Hernandez"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.13,
+      "rating_count": 4668680,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/0/3/4/4/240344-la-la-land-0-230-0-345-crop.jpg?v=053670ff84",
+      "url": "https://letterboxd.com/film/la-la-land/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "chungking-express",
+      "title": "Chungking Express",
+      "year": "1994",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Wong Kar-Wai"
+      ],
+      "actors": [
+        "Brigitte Lin",
+        "Takeshi Kaneshiro",
+        "Tony Leung Chiu-wai",
+        "Faye Wong",
+        "Valerie Chow",
+        "Piggy Chan Kam-Chuen"
+      ],
+      "countries": [
+        "Hong Kong"
+      ],
+      "rating": 4.28,
+      "rating_count": 753912,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/0/2/45602-chungking-express-0-230-0-345-crop.jpg?v=9475abb05b",
+      "url": "https://letterboxd.com/film/chungking-express/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "dear-ex",
+      "title": "Dear Ex",
+      "year": "2018",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Mag Hsu",
+        "Hsu Chih-yen"
+      ],
+      "actors": [
+        "Hsieh Ying-shiuan",
+        "Roy Chiu",
+        "Joseph Huang",
+        "Spark Chen",
+        "Ai-Lun Kao",
+        "One-Fang"
+      ],
+      "countries": [
+        "Hong Kong",
+        "Taiwan"
+      ],
+      "rating": 3.88,
+      "rating_count": 34830,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/3/5/7/8/453578-dear-ex-0-230-0-345-crop.jpg?v=df8c21b430",
+      "url": "https://letterboxd.com/film/dear-ex/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "before-sunrise",
+      "title": "Before Sunrise",
+      "year": "1995",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Ethan Hawke",
+        "Julie Delpy",
+        "Andrea Eckert",
+        "Hanno Pöschl",
+        "Karl Bruckschwaiger",
+        "Tex Rubinowitz"
+      ],
+      "countries": [
+        "Austria",
+        "USA"
+      ],
+      "rating": 4.3,
+      "rating_count": 1444289,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-230-0-345-crop.jpg?v=006e8fedea",
+      "url": "https://letterboxd.com/film/before-sunrise/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "portrait-of-a-lady-on-fire",
+      "title": "Portrait of a Lady on Fire",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Céline Sciamma"
+      ],
+      "actors": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami",
+        "Valeria Golino",
+        "Christel Baras",
+        "Armande Boulanger"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.42,
+      "rating_count": 1087782,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/8/3/0/460830-portrait-of-a-lady-on-fire-0-230-0-345-crop.jpg?v=79b0f67aa9",
+      "url": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "call-me-by-your-name",
+      "title": "Call Me by Your Name",
+      "year": "2017",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Luca Guadagnino"
+      ],
+      "actors": [
+        "Armie Hammer",
+        "Timothée Chalamet",
+        "Michael Stuhlbarg",
+        "Amira Casar",
+        "Esther Garrel",
+        "Victoire du Bois"
+      ],
+      "countries": [
+        "Brazil",
+        "France",
+        "Italy",
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 2973950,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g9/9t/cc/7u/tcNniniS4rfqrLH0oORikJfnIwY-0-230-0-345-crop.jpg?v=f0c073f2b4",
+      "url": "https://letterboxd.com/film/call-me-by-your-name/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "carol-2015",
+      "title": "Carol",
+      "year": "2015",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Todd Haynes"
+      ],
+      "actors": [
+        "Cate Blanchett",
+        "Rooney Mara",
+        "Kyle Chandler",
+        "Jake Lacy",
+        "Sarah Paulson",
+        "John Magaro"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 4.02,
+      "rating_count": 649549,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/2/1/4/2/182142-carol-0-230-0-345-crop.jpg?v=41ac88b68e",
+      "url": "https://letterboxd.com/film/carol-2015/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 12,
+      "Romance": 12,
+      "Comedy": 3,
+      "Mystery": 1,
+      "Thriller": 1
+    },
+    "directors": {
+      "Wong Kar-Wai": 2,
+      "Celine Song": 1,
+      "Park Chan-wook": 1,
+      "Joe Wright": 1,
+      "Kuang-Hui Liu": 1,
+      "Lim Dae-hyung": 1,
+      "Damien Chazelle": 1,
+      "Mag Hsu": 1,
+      "Hsu Chih-yen": 1,
+      "Richard Linklater": 1,
+      "Céline Sciamma": 1,
+      "Luca Guadagnino": 1,
+      "Todd Haynes": 1
+    },
+    "years": {
+      "1994": 1,
+      "1995": 1,
+      "2000": 1,
+      "2005": 1,
+      "2015": 1,
+      "2016": 1,
+      "2017": 1,
+      "2018": 1,
+      "2019": 2,
+      "2020": 1,
+      "2022": 1,
+      "2023": 1
+    }
+  }
+}

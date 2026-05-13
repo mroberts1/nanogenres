@@ -1,0 +1,99 @@
+[search] https://letterboxd.com/search/lists/acid+western/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/saturnlane/list/acid-western/
+[list] https://letterboxd.com/newarchive/list/acid-western/
+[list] https://letterboxd.com/aljende/list/acid-western/
+[list] https://letterboxd.com/simonehecht/list/acid-western/
+[list] https://letterboxd.com/jakemcneillie/list/acid-western/
+[list] https://letterboxd.com/albinoslugg/list/acid-western/
+[list] https://letterboxd.com/chan_tenhalf/list/acid-western/
+[list] https://letterboxd.com/abou18/list/acid-western/
+[list] https://letterboxd.com/pepetesoro/list/acid-western/
+[list] https://letterboxd.com/figwood/list/acid-western/
+    1/53 Dead Man (1995) x10 — Fantasy, Western, Drama
+    2/53 El Topo (1970) x10 — Western, Drama, Adventure
+    3/53 Walker (1987) x8 — Drama, History, Western
+    4/53 Greaser's Palace (1972) x8 — Western, Comedy
+    5/53 Ride in the Whirlwind (1966) x8 — Drama, Thriller, Western
+    6/53 Zachariah (1971) x8 — Western, Comedy, Drama, Music
+    7/53 The Shooting (1966) x8 — Mystery, Western, Drama
+    8/53 Django Kill... If You Live, Shoot! (1967) x8 — Horror, Action, Western
+    9/53 Renegade (2004) x8 — Western
+   10/53 The Hired Hand (1971) x7 — Western
+   11/53 The Last Movie (1971) x6 — Drama
+   12/53 Deadlock (1970) x6 — Western, Crime, Drama, Thriller
+   13/53 Pat Garrett & Billy the Kid (1973) x6 — History, Western, Drama
+   14/53 Lemonade Joe (1964) x5 — Western, Comedy
+   15/53 Bad Company (1972) x4 — Drama, Western
+   16/53 The Wild Bunch (1969) x4 — Western
+   17/53 A Girl Is a Gun (1971) x4 — Western, Comedy
+   18/53 Glen and Randa (1971) x4 — Science Fiction, Adventure
+   19/53 McCabe & Mrs. Miller (1971) x4 — Western, Drama
+   20/53 Four of the Apocalypse (1975) x4 — Western
+   21/53 High Plains Drifter (1973) x4 — Western, Drama, Mystery
+   22/53 The Proposition (2005) x4 — Adventure, Drama, Action, Crime, Thriller, Western
+   23/53 Straight to Hell (1987) x3 — Action, Comedy, Crime, Western
+   24/53 Matalo! (Kill Him) (1970) x3 — Action, Western, Drama, Thriller
+   25/53 Ulzana's Raid (1972) x3 — Western
+   26/53 The Life and Times of Judge Roy Bean (1972) x3 — Comedy, Western
+   27/53 Bone Tomahawk (2015) x3 — Drama, Horror, Western
+   28/53 Dirty Little Billy (1972) x3 — Western
+   29/53 Desert Spirits (1994) x3 — Fantasy, Horror, Western
+   30/53 Cowboy in Sweden (1970) x3 — TV Movie, Documentary, Music
+   31/53 Mackenna's Gold (1969) x3 — Adventure, Action, Western
+   32/53 Long Live Death (1971) x3 — Drama, War
+   33/53 And God Said to Cain (1970) x3 — Horror, Mystery, Western
+   34/53 Captain Apache (1971) x3 — Western
+   35/53 Dust Devil (1992) x3 — Thriller, Horror, Mystery
+   36/53 Easy Rider (1969) x2 — Adventure, Drama
+   37/53 The Inner Scar (1972) x2 — Fantasy
+   38/53 The Ballad of Cable Hogue (1970) x2 — Comedy, Action, Western
+   39/53 Jeremiah Johnson (1972) x2 — Adventure, Western, Drama, Action
+   40/53 Don't Touch the White Woman! (1974) x2 — Comedy, Western
+   41/53 Kid Blue (1973) x2 — Western, Comedy
+   42/53 Johnny Guitar (1954) x2 — Western, Romance, Drama
+   43/53 The Intruder (1980) x2 — Horror, Drama, Western
+   44/53 The Kid (2019) x2 — Drama, Action, Western
+   45/53 Of Gods and the Undead (1970) x2 — Fantasy, Drama
+   46/53 Angels and Cherubs (1972) x2 — Horror, Drama, Mystery, Romance, Fantasy
+   47/53 Two-Lane Blacktop (1971) x2 — Drama
+   48/53 The Searchers (1956) x2 — Western
+   49/53 The Ox-Bow Incident (1943) x2 — Western, Drama
+   50/53 Bring Me the Head of Alfredo Garcia (1974) x2 — Crime, Drama, Action
+   51/53 Wild Bill (1995) x2 — Western, Drama, History, Action
+   52/53 The Murder of Hi Good (2012) x2 — Western
+   53/53 Day of the Stranger (2019) x2 — Fantasy, Western, Drama
+
+[done] /root/letterboxd-nanogenres/data/acid-western.json
+{
+  "slug": "acid-western",
+  "lists_used": 10,
+  "canonical_films": 53,
+  "top_5": [
+    [
+      "Dead Man",
+      "1995",
+      10
+    ],
+    [
+      "El Topo",
+      "1970",
+      10
+    ],
+    [
+      "Walker",
+      "1987",
+      8
+    ],
+    [
+      "Greaser's Palace",
+      "1972",
+      8
+    ],
+    [
+      "Ride in the Whirlwind",
+      "1966",
+      8
+    ]
+  ]
+}

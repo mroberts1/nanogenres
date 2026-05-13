@@ -1,0 +1,25 @@
+[search] https://letterboxd.com/search/lists/hyperpop+cinema/
+[search] 3 candidates -> 2 relevant (rejected low-quality=0, off-topic=1)
+[list] https://letterboxd.com/nolanfan1/list/hyperpop-cinema/
+[list] https://letterboxd.com/solidaritypizza/list/hyperpop-cinema/
+    1/2 Josie and the Pussycats (2001) x2 — Music, Comedy
+    2/2 Speed Racer (2008) x2 — Action, Family, Adventure, Comedy
+
+[done] /root/letterboxd-nanogenres/data/hyperpop-cinema.json
+{
+  "slug": "hyperpop-cinema",
+  "lists_used": 2,
+  "canonical_films": 2,
+  "top_5": [
+    [
+      "Josie and the Pussycats",
+      "2001",
+      2
+    ],
+    [
+      "Speed Racer",
+      "2008",
+      2
+    ]
+  ]
+}

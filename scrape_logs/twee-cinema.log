@@ -1,0 +1,62 @@
+[search] https://letterboxd.com/search/lists/twee+cinema/
+[search] 7 candidates -> 7 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/zeynepeddie/list/twee-cinema/
+[list] https://letterboxd.com/tobyatkinson94/list/twee-cinema-a-queue-for-many-warm-and-quiet/
+[list] https://letterboxd.com/recordechoes/list/twee-cinema/
+[list] https://letterboxd.com/blondie_721/list/twee-cinema/
+[list] https://letterboxd.com/feminionomenon/list/mother-greta-gerwig-patron-saint-of-twee/
+[list] https://letterboxd.com/default_sim/list/intercrisis-twee-regressive-cinema/
+[list] https://letterboxd.com/two_headed_boy/list/cinema-of-the-twee/
+    1/19 (500) Days of Summer (2009) x4 — Romance, Comedy, Drama
+    2/19 The Royal Tenenbaums (2001) x3 — Drama, Comedy
+    3/19 Amélie (2001) x3 — Romance, Comedy
+    4/19 Greenberg (2010) x3 — Drama, Comedy, Romance
+    5/19 Frances Ha (2012) x3 — Comedy, Drama
+    6/19 Garden State (2004) x2 — Comedy, Drama, Romance
+    7/19 God Help the Girl (2014) x2 — Comedy, Music, Drama
+    8/19 Ruby Sparks (2012) x2 — Comedy, Drama, Fantasy, Romance
+    9/19 Scott Pilgrim vs. the World (2010) x2 — Romance, Action, Comedy
+   10/19 Fantastic Mr. Fox (2009) x2 — Comedy, Animation, Family, Adventure
+   11/19 Juno (2007) x2 — Comedy, Romance, Drama
+   12/19 Superbad (2007) x2 — Comedy
+   13/19 Me and You and Everyone We Know (2005) x2 — Drama, Comedy
+   14/19 Rushmore (1998) x2 — Comedy, Drama
+   15/19 Moonrise Kingdom (2012) x2 — Romance, Drama, Comedy
+   16/19 Eternal Sunshine of the Spotless Mind (2004) x2 — Science Fiction, Romance, Drama
+   17/19 Hannah Takes the Stairs (2007) x2 — Romance, Drama, Comedy
+   18/19 Cyrus (2010) x2 — Drama, Romance, Comedy
+   19/19 Drinking Buddies (2013) x2 — Romance, Drama, Comedy
+
+[done] /root/letterboxd-nanogenres/data/twee-cinema.json
+{
+  "slug": "twee-cinema",
+  "lists_used": 7,
+  "canonical_films": 19,
+  "top_5": [
+    [
+      "(500) Days of Summer",
+      "2009",
+      4
+    ],
+    [
+      "The Royal Tenenbaums",
+      "2001",
+      3
+    ],
+    [
+      "Amélie",
+      "2001",
+      3
+    ],
+    [
+      "Greenberg",
+      "2010",
+      3
+    ],
+    [
+      "Frances Ha",
+      "2012",
+      3
+    ]
+  ]
+}

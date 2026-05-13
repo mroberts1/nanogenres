@@ -1,0 +1,12 @@
+[search] https://letterboxd.com/search/lists/steampunk/
+[search] https://letterboxd.com/search/lists/steampunk/
+[search] https://letterboxd.com/tag/steampunk/lists/
+[search] 0 candidates -> 0 relevant (rejected low-quality=0, off-topic=0)
+
+[done] /root/letterboxd-nanogenres/data/steampunk.json
+{
+  "slug": "steampunk",
+  "lists_used": 0,
+  "canonical_films": 0,
+  "top_5": []
+}

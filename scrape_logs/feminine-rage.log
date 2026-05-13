@@ -1,0 +1,107 @@
+[search] https://letterboxd.com/search/lists/feminine+rage/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/cacardoso/list/feminine-rage/
+[list] https://letterboxd.com/annabaldy/list/feminine-rage/
+[list] https://letterboxd.com/roryspeter/list/feminine-rage/
+[list] https://letterboxd.com/lara_val/list/feminine-rage/
+[list] https://letterboxd.com/youthquakermimi/list/feminine-rage/
+[list] https://letterboxd.com/_zoe_/list/feminine-rage/
+[list] https://letterboxd.com/ppdoodoobitch/list/feminine-rage/
+[list] https://letterboxd.com/eviegee/list/feminine-rage/
+[list] https://letterboxd.com/pawny/list/feminine-rage/
+[list] https://letterboxd.com/offbeatkiki/list/feminine-rage/
+  drop (only 3 films) /offbeatkiki/list/feminine-rage/
+    1/60 Pearl (2022) x8 — Horror
+    2/60 The Craft (1996) x8 — Horror, Fantasy, Drama
+    3/60 Midsommar (2019) x7 — Mystery, Drama, Horror
+    4/60 Gone Girl (2014) x7 — Drama, Mystery, Thriller
+    5/60 Jennifer's Body (2009) x7 — Horror, Comedy
+    6/60 Carrie (1976) x7 — Horror, Thriller
+    7/60 Kill Bill: Vol. 1 (2003) x7 — Crime, Action
+    8/60 Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020) x6 — Action, Crime
+    9/60 I, Tonya (2017) x6 — Drama, Comedy
+   10/60 Last Night in Soho (2021) x5 — Horror, Mystery
+   11/60 Promising Young Woman (2020) x5 — Crime, Drama, Thriller
+   12/60 The Witch (2015) x5 — Horror
+   13/60 Black Swan (2010) x5 — Drama, Thriller, Horror
+   14/60 The Love Witch (2016) x5 — Romance, Horror, Comedy, Fantasy
+   15/60 Revenge (2017) x5 — Horror, Action, Thriller, Drama
+   16/60 Ginger Snaps (2000) x5 — Drama, Horror, Thriller, Fantasy
+   17/60 Possession (1981) x5 — Horror
+   18/60 Ex Machina (2015) x4 — Science Fiction, Drama
+   19/60 mother! (2017) x4 — Drama, Horror
+   20/60 Ready or Not (2019) x4 — Horror, Comedy
+   21/60 X (2022) x4 — Horror
+   22/60 Kill Bill: Vol. 2 (2004) x4 — Thriller, Action, Crime
+   23/60 Girl, Interrupted (1999) x4 — Drama
+   24/60 A Girl Walks Home Alone at Night (2014) x4 — Romance, Horror
+   25/60 The Invisible Man (2020) x4 — Science Fiction, Horror, Thriller
+   26/60 Thelma & Louise (1991) x4 — Drama, Adventure, Crime, Thriller
+   27/60 The Substance (2024) x4 — Horror, Science Fiction
+   28/60 Lady Vengeance (2005) x4 — Thriller, Drama
+   29/60 The Menu (2022) x4 — Comedy, Horror
+   30/60 Hereditary (2018) x4 — Thriller, Horror, Mystery
+   31/60 Suspiria (1977) x3 — Horror
+   32/60 Don't Worry Darling (2022) x3 — Mystery, Science Fiction, Thriller
+   33/60 Thoroughbreds (2017) x3 — Thriller, Drama
+   34/60 Blink Twice (2024) x3 — Mystery, Horror, Thriller
+   35/60 The Virgin Suicides (1999) x3 — Romance, Drama
+   36/60 Legally Blonde (2001) x3 — Comedy
+   37/60 Portrait of a Lady on Fire (2019) x3 — Drama, Romance
+   38/60 Raw (2016) x3 — Drama, Horror
+   39/60 To Die For (1995) x3 — Comedy, Drama, Crime
+   40/60 Under the Skin (2013) x3 — Science Fiction, Thriller, Horror, Drama
+   41/60 American Mary (2012) x3 — Thriller, Horror
+   42/60 The Handmaiden (2016) x3 — Thriller, Romance, Drama
+   43/60 Assassination Nation (2018) x3 — Thriller, Comedy, Horror
+   44/60 Titane (2021) x3 — Thriller, Horror, Science Fiction, Drama
+   45/60 Audition (1999) x3 — Drama, Horror
+   46/60 Thirteen (2003) x3 — Drama
+   47/60 Doctor Strange in the Multiverse of Madness (2022) x3 — Fantasy, Action, Adventure
+   48/60 Us (2019) x3 — Horror, Mystery
+   49/60 Mean Girls (2004) x3 — Comedy, Drama
+   50/60 Shiva Baby (2020) x3 — Comedy, Drama
+   51/60 Nosferatu (2024) x3 — Fantasy, Horror
+   52/60 Companion (2025) x2 — Thriller, Science Fiction, Horror
+   53/60 Barbarian (2022) x2 — Horror, Mystery
+   54/60 Anora (2024) x2 — Drama, Romance, Comedy
+   55/60 Do Revenge (2022) x2 — Thriller, Comedy, Romance
+   56/60 Suspiria (2018) x2 — Horror, Mystery, Drama
+   57/60 Swallow (2019) x2 — Thriller, Drama, Horror
+   58/60 The Neon Demon (2016) x2 — Horror
+   59/60 Atomic Blonde (2017) x2 — Thriller, Action
+   60/60 Tragedy Girls (2017) x2 — Comedy, Horror
+
+[done] /root/letterboxd-nanogenres/data/feminine-rage.json
+{
+  "slug": "feminine-rage",
+  "lists_used": 9,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Pearl",
+      "2022",
+      8
+    ],
+    [
+      "The Craft",
+      "1996",
+      8
+    ],
+    [
+      "Midsommar",
+      "2019",
+      7
+    ],
+    [
+      "Gone Girl",
+      "2014",
+      7
+    ],
+    [
+      "Jennifer's Body",
+      "2009",
+      7
+    ]
+  ]
+}

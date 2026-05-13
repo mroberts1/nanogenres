@@ -1,0 +1,275 @@
+{
+  "query": "babygirl",
+  "slug": "babygirl",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/shawnapdx/list/babygirl/",
+      "user": "shawnapdx",
+      "slug": "babygirl",
+      "title": "babygirl",
+      "desc": "films with babygirl energy.",
+      "owner": "List by Shawna Elizabeth",
+      "tags": []
+    },
+    {
+      "href": "/lebbylobsta/list/babygirl/",
+      "user": "lebbylobsta",
+      "slug": "babygirl",
+      "title": "babygirl…",
+      "desc": "evie is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by evie",
+      "tags": []
+    },
+    {
+      "href": "/emilythemermaid/list/babygirl/",
+      "user": "emilythemermaid",
+      "slug": "babygirl",
+      "title": "Babygirl",
+      "desc": "im just a girl",
+      "owner": "List by emilythemermaid",
+      "tags": []
+    },
+    {
+      "href": "/mburg/list/babygirl/",
+      "user": "mburg",
+      "slug": "babygirl",
+      "title": "babygirl",
+      "desc": "men i would destroy (sexually)",
+      "owner": "List by mikey",
+      "tags": []
+    },
+    {
+      "href": "/katyarrowsmith/list/babygirl/",
+      "user": "katyarrowsmith",
+      "slug": "babygirl",
+      "title": "Babygirl",
+      "desc": "katyarrowsmith is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by katyarrowsmith PATRON",
+      "tags": []
+    },
+    {
+      "href": "/babyrose07/list/babygirl/",
+      "user": "babyrose07",
+      "slug": "babygirl",
+      "title": "babygirl",
+      "desc": "babyrose07 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by babyrose07",
+      "tags": []
+    },
+    {
+      "href": "/aparadisestill/list/babygirl/",
+      "user": "aparadisestill",
+      "slug": "babygirl",
+      "title": "Babygirl",
+      "desc": "No explanation needed",
+      "owner": "List by aparadisestill PRO",
+      "tags": []
+    }
+  ],
+  "source_list_count": 7,
+  "films_considered": 144,
+  "canonical_count": 6,
+  "films": [
+    {
+      "slug": "the-piano-teacher",
+      "title": "The Piano Teacher",
+      "year": "2001",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Michael Haneke"
+      ],
+      "actors": [
+        "Isabelle Huppert",
+        "Annie Girardot",
+        "Benoît Magimel",
+        "Susanne Lothar",
+        "Udo Samel",
+        "Anna Sigalevitch"
+      ],
+      "countries": [
+        "France",
+        "Austria",
+        "Germany"
+      ],
+      "rating": 4.06,
+      "rating_count": 350473,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-230-0-345-crop.jpg?v=5ee594e70c",
+      "url": "https://letterboxd.com/film/the-piano-teacher/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "babygirl-2024",
+      "title": "Babygirl",
+      "year": "2024",
+      "genres": [
+        "Thriller",
+        "Romance"
+      ],
+      "directors": [
+        "Halina Reijn"
+      ],
+      "actors": [
+        "Nicole Kidman",
+        "Harris Dickinson",
+        "Antonio Banderas",
+        "Esther-Rose McGregor",
+        "Sophie Wilde",
+        "Vaughan Reilly"
+      ],
+      "countries": [
+        "USA",
+        "Netherlands"
+      ],
+      "rating": 2.68,
+      "rating_count": 892064,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/9/1/2/5/989125-babygirl-2024-0-230-0-345-crop.jpg?v=b175884970",
+      "url": "https://letterboxd.com/film/babygirl-2024/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "unfaithful",
+      "title": "Unfaithful",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Romance"
+      ],
+      "directors": [
+        "Adrian Lyne"
+      ],
+      "actors": [
+        "Richard Gere",
+        "Diane Lane",
+        "Olivier Martinez",
+        "Erik Per Sullivan",
+        "Željko Ivanek",
+        "Gary Basaraba"
+      ],
+      "countries": [
+        "USA",
+        "Switzerland",
+        "Germany"
+      ],
+      "rating": 3.23,
+      "rating_count": 59980,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zd/do/om/b1/y7Z3NAJ0hbQMvoGBdmjpyUMujTB-0-230-0-345-crop.jpg?v=9430aa3c4e",
+      "url": "https://letterboxd.com/film/unfaithful/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "fifty-shades-of-grey",
+      "title": "Fifty Shades of Grey",
+      "year": "2015",
+      "genres": [
+        "Romance",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Sam Taylor-Johnson"
+      ],
+      "actors": [
+        "Dakota Johnson",
+        "Jamie Dornan",
+        "Jennifer Ehle",
+        "Eloise Mumford",
+        "Victor Rasuk",
+        "Luke Grimes"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 1.85,
+      "rating_count": 527518,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fb/qp/f7/re/v8OHt1ZG1K7c5KvDCGpX2zvlWzA-0-230-0-345-crop.jpg?v=db84f91ac7",
+      "url": "https://letterboxd.com/film/fifty-shades-of-grey/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mean-girls",
+      "title": "Mean Girls",
+      "year": "2004",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Mark Waters"
+      ],
+      "actors": [
+        "Lindsay Lohan",
+        "Rachel McAdams",
+        "Lizzy Caplan",
+        "Lacey Chabert",
+        "Amanda Seyfried",
+        "Daniel Franzese"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 3103571,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/4/9/46049-mean-girls-0-230-0-345-crop.jpg?v=e6378abb7b",
+      "url": "https://letterboxd.com/film/mean-girls/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "10-things-i-hate-about-you",
+      "title": "10 Things I Hate About You",
+      "year": "1999",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Gil Junger"
+      ],
+      "actors": [
+        "Heath Ledger",
+        "Julia Stiles",
+        "Joseph Gordon-Levitt",
+        "Larisa Oleynik",
+        "David Krumholtz",
+        "Andrew Keegan"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.06,
+      "rating_count": 3853382,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/4/7/49047-10-things-i-hate-about-you-0-230-0-345-crop.jpg?v=55ccac3542",
+      "url": "https://letterboxd.com/film/10-things-i-hate-about-you/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Romance": 5,
+      "Drama": 5,
+      "Thriller": 3,
+      "Comedy": 2
+    },
+    "directors": {
+      "Michael Haneke": 1,
+      "Halina Reijn": 1,
+      "Adrian Lyne": 1,
+      "Sam Taylor-Johnson": 1,
+      "Mark Waters": 1,
+      "Gil Junger": 1
+    },
+    "years": {
+      "1999": 1,
+      "2001": 1,
+      "2002": 1,
+      "2004": 1,
+      "2015": 1,
+      "2024": 1
+    }
+  }
+}

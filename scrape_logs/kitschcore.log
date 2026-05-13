@@ -1,0 +1,11 @@
+[search] https://letterboxd.com/search/lists/kitschcore/
+[search] 1 candidates -> 1 relevant (rejected low-quality=0, off-topic=1)
+[list] https://letterboxd.com/raffael_c/list/kitsch-core/
+
+[done] /root/letterboxd-nanogenres/data/kitschcore.json
+{
+  "slug": "kitschcore",
+  "lists_used": 1,
+  "canonical_films": 0,
+  "top_5": []
+}

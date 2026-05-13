@@ -1,0 +1,75 @@
+[search] https://letterboxd.com/search/lists/clowncore/
+[search] 16 candidates -> 10 relevant (rejected low-quality=0, off-topic=4)
+[list] https://letterboxd.com/localbonbon/list/clowncore/
+[list] https://letterboxd.com/alexbrannan/list/clowncore/
+[list] https://letterboxd.com/bryce_f/list/clowncore/
+[list] https://letterboxd.com/europinda/list/clowncore/
+[list] https://letterboxd.com/sillyklorpy/list/clowncore/
+[list] https://letterboxd.com/camjams33/list/clowncore/
+[list] https://letterboxd.com/vikspopuli/list/clowncore/
+[list] https://letterboxd.com/onionya/list/clowncore/
+[list] https://letterboxd.com/dylpix/list/clowncore/
+[list] https://letterboxd.com/klowns_r_us/list/clowncore/
+    1/29 Killer Klowns from Outer Space (1988) x6 — Science Fiction, Comedy, Horror
+    2/29 He Who Gets Slapped (1924) x5 — Thriller, Romance, Drama
+    3/29 It (2017) x4 — Drama, Thriller, Horror
+    4/29 It Chapter Two (2019) x4 — Drama, Thriller, Horror
+    5/29 Terrifier (2016) x4 — Horror
+    6/29 It (1990) x4 — Mystery, Drama, Horror
+    7/29 Shakes the Clown (1991) x3 — Drama, Comedy, Crime
+    8/29 Wrinkles the Clown (2019) x3 — Documentary, Comedy, Horror
+    9/29 House of 1000 Corpses (2003) x3 — Horror
+   10/29 La Strada (1954) x3 — Drama
+   11/29 Terrifier 2 (2022) x3 — Horror
+   12/29 Rabbit's Moon (1971) x2 — Fantasy, Drama
+   13/29 The Sandwich Man (1983) x2 — Drama
+   14/29 The Clowns (1970) x2 — Comedy, TV Movie
+   15/29 Freaks (1932) x2 — Horror, Drama
+   16/29 The People's Joker (2022) x2 — Fantasy, Drama, Comedy
+   17/29 The Devil's Rejects (2005) x2 — Drama, Horror, Crime
+   18/29 Clown (2014) x2 — Horror, Thriller
+   19/29 Stitches (2012) x2 — Horror
+   20/29 Gags the Clown (2018) x2 — Comedy, Horror
+   21/29 31 (2016) x2 — Thriller, Horror
+   22/29 All Hallows' Eve (2013) x2 — Horror
+   23/29 Amusement (2008) x2 — Horror, Mystery
+   24/29 Scary or Die (2012) x2 — Horror
+   25/29 Blood Harvest (1987) x2 — Horror
+   26/29 Killjoy (2000) x2 — Horror
+   27/29 Terrifier 3 (2024) x2 — Horror
+   28/29 Pennywise: The Story of ‘It’ (2021) x2 — Documentary, Horror
+   29/29 Children of Paradise (1945) x2 — Drama, Romance
+
+[done] /root/letterboxd-nanogenres/data/clowncore.json
+{
+  "slug": "clowncore",
+  "lists_used": 10,
+  "canonical_films": 29,
+  "top_5": [
+    [
+      "Killer Klowns from Outer Space",
+      "1988",
+      6
+    ],
+    [
+      "He Who Gets Slapped",
+      "1924",
+      5
+    ],
+    [
+      "It",
+      "2017",
+      4
+    ],
+    [
+      "It Chapter Two",
+      "2019",
+      4
+    ],
+    [
+      "Terrifier",
+      "2016",
+      4
+    ]
+  ]
+}

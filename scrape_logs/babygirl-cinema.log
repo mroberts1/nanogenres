@@ -1,0 +1,28 @@
+[search] https://letterboxd.com/search/lists/babygirl+cinema/
+[search] 5 candidates -> 5 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/alexunickel/list/babygirl-cinema/
+[list] https://letterboxd.com/rysnh/list/babygirl-cinema/
+[list] https://letterboxd.com/eggbreadcryptid/list/babygirl-cinema-1/
+[list] https://letterboxd.com/michelle186/list/babygirl-cinematic-universe-bcu/
+[list] https://letterboxd.com/novikovaa/list/my-babygirl-twink-coded-boyfriend-made-a/
+    1/2 Babygirl (2024) x3 — Thriller, Romance
+    2/2 Secretary (2002) x3 — Comedy, Drama, Romance
+
+[done] /root/letterboxd-nanogenres/data/babygirl-cinema.json
+{
+  "slug": "babygirl-cinema",
+  "lists_used": 5,
+  "canonical_films": 2,
+  "top_5": [
+    [
+      "Babygirl",
+      "2024",
+      3
+    ],
+    [
+      "Secretary",
+      "2002",
+      3
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+[search] https://letterboxd.com/search/lists/dollcore/
+[search] 7 candidates -> 4 relevant (rejected low-quality=0, off-topic=3)
+[list] https://letterboxd.com/swanmaidens/list/dollcore/
+[list] https://letterboxd.com/everpersist/list/pinkcore-dollcore-cutecore-wtvr/
+[list] https://letterboxd.com/lauracatharina/list/dollcore/
+[list] https://letterboxd.com/nickschmitt123/list/dollcore-tradwife-horror/
+    1/7 Coraline (2009) x2 — Animation, Horror, Fantasy, Family
+    2/7 Picnic at Hanging Rock (1975) x2 — Mystery, Drama
+    3/7 But I'm a Cheerleader (1999) x2 — Romance, Drama, Comedy
+    4/7 Legally Blonde (2001) x2 — Comedy
+    5/7 Marie Antoinette (2006) x2 — History, Drama
+    6/7 Emma. (2020) x2 — Drama, Romance, Comedy
+    7/7 Black Swan (2010) x2 — Drama, Thriller, Horror
+
+[done] /root/letterboxd-nanogenres/data/dollcore.json
+{
+  "slug": "dollcore",
+  "lists_used": 4,
+  "canonical_films": 7,
+  "top_5": [
+    [
+      "Coraline",
+      "2009",
+      2
+    ],
+    [
+      "Picnic at Hanging Rock",
+      "1975",
+      2
+    ],
+    [
+      "But I'm a Cheerleader",
+      "1999",
+      2
+    ],
+    [
+      "Legally Blonde",
+      "2001",
+      2
+    ],
+    [
+      "Marie Antoinette",
+      "2006",
+      2
+    ]
+  ]
+}

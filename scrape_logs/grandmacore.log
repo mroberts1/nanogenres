@@ -1,0 +1,11 @@
+[search] https://letterboxd.com/search/lists/grandmacore/
+[search] 5 candidates -> 1 relevant (rejected low-quality=0, off-topic=4)
+[list] https://letterboxd.com/putridmoment/list/grandmacore/
+
+[done] /root/letterboxd-nanogenres/data/grandmacore.json
+{
+  "slug": "grandmacore",
+  "lists_used": 1,
+  "canonical_films": 0,
+  "top_5": []
+}

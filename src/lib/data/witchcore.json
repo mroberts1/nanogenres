@@ -1,0 +1,806 @@
+{
+  "query": "witchcore",
+  "slug": "witchcore",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/dazzydw/list/witchcore/",
+      "user": "dazzydw",
+      "slug": "witchcore",
+      "title": "Witchcore",
+      "desc": "Making lists of my favourite aesthetics as listed on aesthetics.fandom.com/\n\nAll films in this list are listed on this page aesthetics.fandom.com/wiki/Witchcore",
+      "owner": "List by DazzyDW PRO",
+      "tags": [
+        "aesthetics"
+      ]
+    },
+    {
+      "href": "/amorelhas/list/witchcore/",
+      "user": "amorelhas",
+      "slug": "witchcore",
+      "title": "witchcore",
+      "desc": "🦉🌗🕯️🪬🔮",
+      "owner": "List by chuu :p PRO",
+      "tags": []
+    },
+    {
+      "href": "/denizakalin/list/witchcore/",
+      "user": "denizakalin",
+      "slug": "witchcore",
+      "title": "witchcore",
+      "desc": "seawitch °❀⋆.ೃ࿔*:･ is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by seawitch °❀⋆.ೃ࿔*:･ PATRON",
+      "tags": []
+    },
+    {
+      "href": "/abimarch/list/witchcore/",
+      "user": "abimarch",
+      "slug": "witchcore",
+      "title": "witchcore",
+      "desc": "whimsical & witchy & fantasy",
+      "owner": "List by abi rodriguez PATRON",
+      "tags": []
+    },
+    {
+      "href": "/margaridagal/list/witchcore/",
+      "user": "margaridagal",
+      "slug": "witchcore",
+      "title": "witchcore",
+      "desc": "Margarida is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Margarida Galinho",
+      "tags": []
+    },
+    {
+      "href": "/uramakiroll/list/witchcore/",
+      "user": "uramakiroll",
+      "slug": "witchcore",
+      "title": "Witchcore",
+      "desc": "Uramakiroll is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Uramakiroll",
+      "tags": []
+    },
+    {
+      "href": "/bluepastelren/list/witchcore/",
+      "user": "bluepastelren",
+      "slug": "witchcore",
+      "title": "Witchcore",
+      "desc": "Ren is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Ren",
+      "tags": []
+    },
+    {
+      "href": "/faemadelaine/list/witchcore/",
+      "user": "faemadelaine",
+      "slug": "witchcore",
+      "title": "witchcore",
+      "desc": "Madelaine is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Madelaine",
+      "tags": []
+    },
+    {
+      "href": "/collecticustv/list/witchcore/",
+      "user": "collecticustv",
+      "slug": "witchcore",
+      "title": "Witchcore",
+      "desc": "collecticustv is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by collecticustv PATRON",
+      "tags": []
+    },
+    {
+      "href": "/dayanaxp16/list/witchcore/",
+      "user": "dayanaxp16",
+      "slug": "witchcore",
+      "title": "Witchcore",
+      "desc": "Day𖣂 is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Day𖣂",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 65,
+  "canonical_count": 22,
+  "films": [
+    {
+      "slug": "hocus-pocus",
+      "title": "Hocus Pocus",
+      "year": "1993",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "directors": [
+        "Kenny Ortega"
+      ],
+      "actors": [
+        "Bette Midler",
+        "Sarah Jessica Parker",
+        "Kathy Najimy",
+        "Omri Katz",
+        "Thora Birch",
+        "Vinessa Shaw"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.5,
+      "rating_count": 632487,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/43/5h/8q/cg/vgtJwl5rmPyq0JQPNWd4NXbkGmd-0-230-0-345-crop.jpg?v=9e0fc85c24",
+      "url": "https://letterboxd.com/film/hocus-pocus/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-craft",
+      "title": "The Craft",
+      "year": "1996",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Andrew Fleming"
+      ],
+      "actors": [
+        "Robin Tunney",
+        "Fairuza Balk",
+        "Neve Campbell",
+        "Rachel True",
+        "Skeet Ulrich",
+        "Christine Taylor"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.57,
+      "rating_count": 562060,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/4/5/47345-the-craft-0-230-0-345-crop.jpg?v=d340df121c",
+      "url": "https://letterboxd.com/film/the-craft/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "practical-magic",
+      "title": "Practical Magic",
+      "year": "1998",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Griffin Dunne"
+      ],
+      "actors": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Stockard Channing",
+        "Dianne Wiest",
+        "Goran Višnjić",
+        "Aidan Quinn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.58,
+      "rating_count": 380398,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/3/2/2/48322-practical-magic-0-230-0-345-crop.jpg?v=5994b961f2",
+      "url": "https://letterboxd.com/film/practical-magic/",
+      "appears_in_n_lists": 9
+    },
+    {
+      "slug": "the-witch-2015",
+      "title": "The Witch",
+      "year": "2015",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "actors": [
+        "Anya Taylor-Joy",
+        "Ralph Ineson",
+        "Kate Dickie",
+        "Harvey Scrimshaw",
+        "Ellie Grainger",
+        "Lucas Dawson"
+      ],
+      "countries": [
+        "Brazil",
+        "Canada",
+        "UK",
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 1464246,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/y2/i8/9s/h1/tNr2KYytArZNSh0K8PUcHU3JnX4-0-230-0-345-crop.jpg?v=45f739a242",
+      "url": "https://letterboxd.com/film/the-witch-2015/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "kikis-delivery-service",
+      "title": "Kiki's Delivery Service",
+      "year": "1989",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "actors": [
+        "Minami Takayama",
+        "Rei Sakuma",
+        "Kappei Yamaguchi",
+        "Keiko Toda",
+        "Mieko Nobusawa",
+        "Koichi Miura"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 4.15,
+      "rating_count": 1161182,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5e/rk/0e/99/C70E830B-E641-4CD4-87B3-8DFB91383E20-0-230-0-345-crop.jpg?v=359a791d0d",
+      "url": "https://letterboxd.com/film/kikis-delivery-service/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-witches",
+      "title": "The Witches",
+      "year": "1990",
+      "genres": [
+        "Horror",
+        "Family",
+        "Fantasy"
+      ],
+      "directors": [
+        "Nicolas Roeg"
+      ],
+      "actors": [
+        "Jasen Fisher",
+        "Mai Zetterling",
+        "Anjelica Huston",
+        "Charlie Potter",
+        "Rowan Atkinson",
+        "Bill Paterson"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.43,
+      "rating_count": 117129,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7m/cq/6u/eo/ihqZPWp83EeqEMT2nQYqldHhZR3-0-230-0-345-crop.jpg?v=a1ff4bba59",
+      "url": "https://letterboxd.com/film/the-witches/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-love-witch",
+      "title": "The Love Witch",
+      "year": "2016",
+      "genres": [
+        "Romance",
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Anna Biller"
+      ],
+      "actors": [
+        "Samantha Robinson",
+        "Gian Keys",
+        "Laura Waddell",
+        "Jeffrey Vincent Parise",
+        "Jared Sanford",
+        "Robert Seeley"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 276514,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/aq/32/q4/ke/jDKJ3yHiia0IR1uzIIIL7kUvwhu-0-230-0-345-crop.jpg?v=cedd7a43ca",
+      "url": "https://letterboxd.com/film/the-love-witch/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "the-witches-of-eastwick",
+      "title": "The Witches of Eastwick",
+      "year": "1987",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "George Miller"
+      ],
+      "actors": [
+        "Jack Nicholson",
+        "Cher",
+        "Susan Sarandon",
+        "Michelle Pfeiffer",
+        "Veronica Cartwright",
+        "Richard Jenkins"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.34,
+      "rating_count": 116120,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/4/7/8/48478-the-witches-of-eastwick-0-230-0-345-crop.jpg?v=7e95f06cd4",
+      "url": "https://letterboxd.com/film/the-witches-of-eastwick/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "teen-witch",
+      "title": "Teen Witch",
+      "year": "1989",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Fantasy"
+      ],
+      "directors": [
+        "Dorian Walker"
+      ],
+      "actors": [
+        "Robyn Lively",
+        "Dan Gauthier",
+        "Joshua John Miller",
+        "Caren Kaye",
+        "Dick Sargent",
+        "Lisa Fuller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.8,
+      "rating_count": 17671,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/2/1/4/36214-teen-witch-0-230-0-345-crop.jpg?v=5f2155d85c",
+      "url": "https://letterboxd.com/film/teen-witch/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "death-becomes-her",
+      "title": "Death Becomes Her",
+      "year": "1992",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "actors": [
+        "Meryl Streep",
+        "Goldie Hawn",
+        "Bruce Willis",
+        "Isabella Rossellini",
+        "Ian Ogilvy",
+        "Adam Storke"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 455486,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rq/bc/7v/ac/qBujUtUMenca7C6HzZhd0an0Jg3-0-230-0-345-crop.jpg?v=025c6b1e50",
+      "url": "https://letterboxd.com/film/death-becomes-her/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-addams-family",
+      "title": "The Addams Family",
+      "year": "1991",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Barry Sonnenfeld"
+      ],
+      "actors": [
+        "Raúl Juliá",
+        "Anjelica Huston",
+        "Christopher Lloyd",
+        "Dan Hedaya",
+        "Elizabeth Wilson",
+        "Judith Malina"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 562754,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/7/50017-the-addams-family-0-230-0-345-crop.jpg?v=3dd26b5545",
+      "url": "https://letterboxd.com/film/the-addams-family/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "sabrina-the-teenage-witch",
+      "title": "Sabrina the Teenage Witch",
+      "year": "1996",
+      "genres": [
+        "Comedy",
+        "TV Movie",
+        "Family",
+        "Fantasy"
+      ],
+      "directors": [
+        "Tibor Takács"
+      ],
+      "actors": [
+        "Melissa Joan Hart",
+        "Sherry Miller",
+        "Charlene Fernetz",
+        "Michelle Beaudoin",
+        "Ryan Reynolds",
+        "Tobias Mehler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.88,
+      "rating_count": 10384,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/1/9/4/42194-sabrina-the-teenage-witch-0-230-0-345-crop.jpg?v=e9d54fcf82",
+      "url": "https://letterboxd.com/film/sabrina-the-teenage-witch/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "matilda",
+      "title": "Matilda",
+      "year": "1996",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Fantasy"
+      ],
+      "directors": [
+        "Danny DeVito"
+      ],
+      "actors": [
+        "Mara Wilson",
+        "Danny DeVito",
+        "Rhea Perlman",
+        "Embeth Davidtz",
+        "Pam Ferris",
+        "Paul Reubens"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 1068390,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/g7/4y/u4/fr/matilda-0-230-0-345-crop.jpg?v=e8e7c0c177",
+      "url": "https://letterboxd.com/film/matilda/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "halloweentown",
+      "title": "Halloweentown",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "TV Movie",
+        "Fantasy"
+      ],
+      "directors": [
+        "Duwayne Dunham"
+      ],
+      "actors": [
+        "Debbie Reynolds",
+        "Kimberly J. Brown",
+        "Judith Hoag",
+        "Joey Zimmerman",
+        "Phillip Van Dyke",
+        "Emily Roeske"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.2,
+      "rating_count": 148887,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/1/4/6/34146-halloweentown-0-230-0-345-crop.jpg?v=33867b48ea",
+      "url": "https://letterboxd.com/film/halloweentown/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "harry-potter-and-the-philosophers-stone",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": "2001",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "directors": [
+        "Chris Columbus"
+      ],
+      "actors": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Richard Harris",
+        "Tom Felton",
+        "Alan Rickman"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 2926409,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5t/cj/6w/6e/harrypotter2-0-230-0-345-crop.jpg?v=0053b4ed93",
+      "url": "https://letterboxd.com/film/harry-potter-and-the-philosophers-stone/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bewitched-2005",
+      "title": "Bewitched",
+      "year": "2005",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Nora Ephron"
+      ],
+      "actors": [
+        "Nicole Kidman",
+        "Will Ferrell",
+        "Shirley MacLaine",
+        "Michael Caine",
+        "Jason Schwartzman",
+        "Kristin Chenoweth"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.57,
+      "rating_count": 82697,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/8/8/4/46884-bewitched-0-230-0-345-crop.jpg?v=8636ee4545",
+      "url": "https://letterboxd.com/film/bewitched-2005/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "mary-and-the-witchs-flower",
+      "title": "Mary and The Witch's Flower",
+      "year": "2017",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "directors": [
+        "Hiromasa Yonebayashi"
+      ],
+      "actors": [
+        "Yuki Amami",
+        "Ryunosuke Kamiki",
+        "Hana Sugisaki",
+        "Fumiyo Kohinata",
+        "Hikari Mitsushima",
+        "Jiro Sato"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "rating": 3.42,
+      "rating_count": 73442,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/3/6/0/5/363605-mary-and-the-witch-s-flower-0-230-0-345-crop.jpg?v=1f3f9247e0",
+      "url": "https://letterboxd.com/film/mary-and-the-witchs-flower/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "gwen",
+      "title": "Gwen",
+      "year": "2018",
+      "genres": [
+        "History",
+        "Horror",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "William McGregor"
+      ],
+      "actors": [
+        "Eleanor Worthington-Cox",
+        "Maxine Peake",
+        "Richard Harrington",
+        "Mark Lewis Jones",
+        "Kobna Holdbrook-Smith",
+        "Richard Elfyn"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 2.91,
+      "rating_count": 3515,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/6/5/7/472657-gwen-0-230-0-345-crop.jpg?v=0ea12861e4",
+      "url": "https://letterboxd.com/film/gwen/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "coven-2020-1",
+      "title": "Coven",
+      "year": "2020",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "directors": [
+        "Pablo Agüero"
+      ],
+      "actors": [
+        "Àlex Brendemühl",
+        "Amaia Aberasturi",
+        "Daniel Fanego",
+        "Garazi Urkola",
+        "Yune Nogueiras",
+        "Jone Laspiur"
+      ],
+      "countries": [
+        "Argentina",
+        "Spain",
+        "France"
+      ],
+      "rating": 3.58,
+      "rating_count": 19302,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/0/5/9/7/580597-coven-0-230-0-345-crop.jpg?v=58fd64742e",
+      "url": "https://letterboxd.com/film/coven-2020-1/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "bell-book-and-candle",
+      "title": "Bell, Book and Candle",
+      "year": "1958",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Comedy"
+      ],
+      "directors": [
+        "Richard Quine"
+      ],
+      "actors": [
+        "James Stewart",
+        "Kim Novak",
+        "Jack Lemmon",
+        "Ernie Kovacs",
+        "Hermione Gingold",
+        "Elsa Lanchester"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.45,
+      "rating_count": 24377,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/0/7/50607-bell-book-and-candle-0-230-0-345-crop.jpg?v=274306b302",
+      "url": "https://letterboxd.com/film/bell-book-and-candle/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "elvira-mistress-of-the-dark",
+      "title": "Elvira: Mistress of the Dark",
+      "year": "1988",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "James Signorelli"
+      ],
+      "actors": [
+        "Cassandra Peterson",
+        "William Morgan Sheppard",
+        "Daniel Greene",
+        "Edie McClurg",
+        "Susan Kellermann",
+        "Jeff Conaway"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 127651,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/7/3/0/48730-elvira-mistress-of-the-dark-0-230-0-345-crop.jpg?v=09a6a8ade7",
+      "url": "https://letterboxd.com/film/elvira-mistress-of-the-dark/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "haxan",
+      "title": "Häxan",
+      "year": "1922",
+      "genres": [
+        "History",
+        "Documentary",
+        "Horror"
+      ],
+      "directors": [
+        "Benjamin Christensen"
+      ],
+      "actors": [
+        "Benjamin Christensen",
+        "Ella La Cour",
+        "Emmy Schønfeld",
+        "Kate Fabian",
+        "Oscar Stribolt",
+        "Wilhelmine Henriksen"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "rating": 4.05,
+      "rating_count": 61366,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/7/1/8871-haxan-0-230-0-345-crop.jpg?v=cd0cff7624",
+      "url": "https://letterboxd.com/film/haxan/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Fantasy": 18,
+      "Comedy": 13,
+      "Horror": 9,
+      "Family": 6,
+      "Romance": 5,
+      "Drama": 3,
+      "History": 3,
+      "Animation": 2,
+      "TV Movie": 2,
+      "Adventure": 2,
+      "Mystery": 1,
+      "Documentary": 1
+    },
+    "directors": {
+      "Kenny Ortega": 1,
+      "Andrew Fleming": 1,
+      "Griffin Dunne": 1,
+      "Robert Eggers": 1,
+      "Hayao Miyazaki": 1,
+      "Nicolas Roeg": 1,
+      "Anna Biller": 1,
+      "George Miller": 1,
+      "Dorian Walker": 1,
+      "Robert Zemeckis": 1,
+      "Barry Sonnenfeld": 1,
+      "Tibor Takács": 1,
+      "Danny DeVito": 1,
+      "Duwayne Dunham": 1,
+      "Chris Columbus": 1,
+      "Nora Ephron": 1,
+      "Hiromasa Yonebayashi": 1,
+      "William McGregor": 1,
+      "Pablo Agüero": 1,
+      "Richard Quine": 1
+    },
+    "years": {
+      "1922": 1,
+      "1958": 1,
+      "1987": 1,
+      "1988": 1,
+      "1989": 2,
+      "1990": 1,
+      "1991": 1,
+      "1992": 1,
+      "1993": 1,
+      "1996": 3,
+      "1998": 2,
+      "2001": 1,
+      "2005": 1,
+      "2015": 1,
+      "2016": 1,
+      "2017": 1,
+      "2018": 1,
+      "2020": 1
+    }
+  }
+}

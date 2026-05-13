@@ -1,0 +1,48 @@
+[search] https://letterboxd.com/search/lists/feral+cinema/
+[search] 11 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/livrappaport/list/feral-cinema/
+[list] https://letterboxd.com/samiprim/list/feral-cinema/
+  drop (only 1 films) /samiprim/list/feral-cinema/
+[list] https://letterboxd.com/shelleyfort/list/feral-cinema/
+  drop (only 2 films) /shelleyfort/list/feral-cinema/
+[list] https://letterboxd.com/loelduine/list/early-show-feral-fringe-experimental-erotic/
+[list] https://letterboxd.com/annamh/list/the-feral-energy-robert-pattinson-cinematic/
+[list] https://letterboxd.com/skeenda/list/james-marsden-befriends-a-small-feral-creature/
+  drop (only 3 films) /skeenda/list/james-marsden-befriends-a-small-feral-creature/
+[list] https://letterboxd.com/ginger_snapped/list/feral-teenage-girl-cinematic-universe/
+[list] https://letterboxd.com/delta_owl/list/cinema-feral-edition/
+[list] https://letterboxd.com/mgvealo/list/feral-george-mackay-cinematic-universe/
+[list] https://letterboxd.com/karl_/list/women-going-feral-and-or-covered-in-blood/
+    1/4 Jennifer's Body (2009) x2 — Horror, Comedy
+    2/4 Ginger Snaps (2000) x2 — Drama, Horror, Thriller, Fantasy
+    3/4 Mad Max: Fury Road (2015) x2 — Science Fiction, Adventure, Action
+    4/4 The Suicide Squad (2021) x2 — Action, Comedy, Adventure
+
+[done] /root/letterboxd-nanogenres/data/feral-cinema.json
+{
+  "slug": "feral-cinema",
+  "lists_used": 7,
+  "canonical_films": 4,
+  "top_5": [
+    [
+      "Jennifer's Body",
+      "2009",
+      2
+    ],
+    [
+      "Ginger Snaps",
+      "2000",
+      2
+    ],
+    [
+      "Mad Max: Fury Road",
+      "2015",
+      2
+    ],
+    [
+      "The Suicide Squad",
+      "2021",
+      2
+    ]
+  ]
+}

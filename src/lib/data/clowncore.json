@@ -1,0 +1,981 @@
+{
+  "query": "clowncore",
+  "slug": "clowncore",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/localbonbon/list/clowncore/",
+      "user": "localbonbon",
+      "slug": "clowncore",
+      "title": "clowncore",
+      "desc": "Ok yes we know there are so many clowns in horror and we're going to include SOME of them in this list, but we're looking more for artistic clown or clowncore in a way that isn't JUST about being a horrific clown. we are looking for more conceptual or used as a visual device rather than a horror device.",
+      "owner": "List by localbonbon",
+      "tags": []
+    },
+    {
+      "href": "/alexbrannan/list/clowncore/",
+      "user": "alexbrannan",
+      "slug": "clowncore",
+      "title": "Clowncore",
+      "desc": "Alex is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Alex PRO",
+      "tags": []
+    },
+    {
+      "href": "/bryce_f/list/clowncore/",
+      "user": "bryce_f",
+      "slug": "clowncore",
+      "title": "ClownCore",
+      "desc": "Bryce is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Bryce",
+      "tags": []
+    },
+    {
+      "href": "/europinda/list/clowncore/",
+      "user": "europinda",
+      "slug": "clowncore",
+      "title": "Clowncore",
+      "desc": "Connor is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Connor Obertop",
+      "tags": []
+    },
+    {
+      "href": "/sillyklorpy/list/clowncore/",
+      "user": "sillyklorpy",
+      "slug": "clowncore",
+      "title": "Clowncore",
+      "desc": "All of the films listed as clowncore on the aesthetics wiki",
+      "owner": "List by Antobella",
+      "tags": []
+    },
+    {
+      "href": "/camjams33/list/clowncore/",
+      "user": "camjams33",
+      "slug": "clowncore",
+      "title": "clowncore",
+      "desc": "warning ⚠️ contains clowns",
+      "owner": "List by camjams33",
+      "tags": []
+    },
+    {
+      "href": "/vikspopuli/list/clowncore/",
+      "user": "vikspopuli",
+      "slug": "clowncore",
+      "title": "clowncore",
+      "desc": "wika is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by wika",
+      "tags": []
+    },
+    {
+      "href": "/onionya/list/clowncore/",
+      "user": "onionya",
+      "slug": "clowncore",
+      "title": "clowncore",
+      "desc": "Ananya is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Ananya Srivastava",
+      "tags": []
+    },
+    {
+      "href": "/dylpix/list/clowncore/",
+      "user": "dylpix",
+      "slug": "clowncore",
+      "title": "🤡 clowncore 🤡",
+      "desc": "Dylan is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Dylan O'Malley Kiewel",
+      "tags": []
+    },
+    {
+      "href": "/klowns_r_us/list/clowncore/",
+      "user": "klowns_r_us",
+      "slug": "clowncore",
+      "title": "Clowncore",
+      "desc": "ˏˋ⋆｡‧🪅🍿🎡🎪🤹‍♂️🤡🎉🎈🎠 ࿔:･ˊ˗\nFilms that include clowns",
+      "owner": "List by Tatum ☆",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 137,
+  "canonical_count": 29,
+  "films": [
+    {
+      "slug": "killer-klowns-from-outer-space",
+      "title": "Killer Klowns from Outer Space",
+      "year": "1988",
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Stephen Chiodo"
+      ],
+      "actors": [
+        "Grant Cramer",
+        "Suzanne Snyder",
+        "John Allen Nelson",
+        "John Vernon",
+        "Royal Dano",
+        "Christopher Titus"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.37,
+      "rating_count": 193497,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/6/7/2/41672-killer-klowns-from-outer-space-0-230-0-345-crop.jpg?v=62918cf2e0",
+      "url": "https://letterboxd.com/film/killer-klowns-from-outer-space/",
+      "appears_in_n_lists": 6
+    },
+    {
+      "slug": "he-who-gets-slapped",
+      "title": "He Who Gets Slapped",
+      "year": "1924",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Victor Sjöström"
+      ],
+      "actors": [
+        "Lon Chaney",
+        "Norma Shearer",
+        "John Gilbert",
+        "Ruth King",
+        "Marc McDermott",
+        "Ford Sterling"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.99,
+      "rating_count": 10492,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/4/5/5/34455-he-who-gets-slapped-0-230-0-345-crop.jpg?v=59c6670784",
+      "url": "https://letterboxd.com/film/he-who-gets-slapped/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "it-2017",
+      "title": "It",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "actors": [
+        "Jaeden Martell",
+        "Jeremy Ray Taylor",
+        "Sophia Lillis",
+        "Finn Wolfhard",
+        "Chosen Jacobs",
+        "Jack Dylan Grazer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.46,
+      "rating_count": 2788549,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/w3/47/76/am/6uDpMsdn8bbZScDptbika5JEtSH-0-230-0-345-crop.jpg?v=ee603d8e3b",
+      "url": "https://letterboxd.com/film/it-2017/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "it-chapter-two",
+      "title": "It Chapter Two",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "actors": [
+        "Jessica Chastain",
+        "James McAvoy",
+        "Bill Hader",
+        "Isaiah Mustafa",
+        "Jay Ryan",
+        "James Ransone"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.93,
+      "rating_count": 1423320,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/5/5/4/5/405545-it-chapter-two-0-230-0-345-crop.jpg?v=727cc83650",
+      "url": "https://letterboxd.com/film/it-chapter-two/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "terrifier-2016",
+      "title": "Terrifier",
+      "year": "2016",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Damien Leone"
+      ],
+      "actors": [
+        "David Howard Thornton",
+        "Jenna Kanell",
+        "Samantha Scaffidi",
+        "Catherine Corcoran",
+        "Pooya Mohseni",
+        "Matt McAllister"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.38,
+      "rating_count": 691825,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/2/5/1/354251-terrifier-0-230-0-345-crop.jpg?v=a413b49884",
+      "url": "https://letterboxd.com/film/terrifier-2016/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "it-1990",
+      "title": "It",
+      "year": "1990",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Tommy Lee Wallace"
+      ],
+      "actors": [
+        "Tim Curry",
+        "Harry Anderson",
+        "Dennis Christopher",
+        "Richard Masur",
+        "Annette O'Toole",
+        "Tim Reid"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.23,
+      "rating_count": 299598,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8v/li/v9/j2/paW0Tc8qNsddCuMJ9M1WnNgOvy1-0-230-0-345-crop.jpg?v=0c386b949e",
+      "url": "https://letterboxd.com/film/it-1990/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "shakes-the-clown",
+      "title": "Shakes the Clown",
+      "year": "1991",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Bobcat Goldthwait"
+      ],
+      "actors": [
+        "Bobcat Goldthwait",
+        "Julie Brown",
+        "Adam Sandler",
+        "Blake Clark",
+        "Tom Kenny",
+        "Paul Dooley"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.99,
+      "rating_count": 6157,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/3/0/35430-shakes-the-clown-0-230-0-345-crop.jpg?v=d208b717d0",
+      "url": "https://letterboxd.com/film/shakes-the-clown/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "wrinkles-the-clown",
+      "title": "Wrinkles the Clown",
+      "year": "2019",
+      "genres": [
+        "Documentary",
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Michael Beach Nichols"
+      ],
+      "actors": [
+        "Wrinkles the Clown",
+        "Lillian Grubbs",
+        "D.B. Lambert",
+        "Brett Abramson",
+        "George Holden"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.57,
+      "rating_count": 8709,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/5/9/8/3/545983-wrinkles-the-clown-0-230-0-345-crop.jpg?v=637bc1bbef",
+      "url": "https://letterboxd.com/film/wrinkles-the-clown/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "house-of-1000-corpses",
+      "title": "House of 1000 Corpses",
+      "year": "2003",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Rob Zombie"
+      ],
+      "actors": [
+        "Sid Haig",
+        "Bill Moseley",
+        "Sheri Moon Zombie",
+        "Karen Black",
+        "Erin Daniels",
+        "Chris Hardwick"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.22,
+      "rating_count": 209323,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/6/2/50162-house-of-1000-corpses-0-230-0-345-crop.jpg?v=5bce1273ef",
+      "url": "https://letterboxd.com/film/house-of-1000-corpses/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "la-strada",
+      "title": "La Strada",
+      "year": "1954",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Federico Fellini"
+      ],
+      "actors": [
+        "Giulietta Masina",
+        "Anthony Quinn",
+        "Richard Basehart",
+        "Aldo Silvani",
+        "Marcella Rovere",
+        "Livia Venturini"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "rating": 4.18,
+      "rating_count": 89557,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/5/51685-la-strada-0-230-0-345-crop.jpg?v=1748210a21",
+      "url": "https://letterboxd.com/film/la-strada/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "terrifier-2",
+      "title": "Terrifier 2",
+      "year": "2022",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Damien Leone"
+      ],
+      "actors": [
+        "David Howard Thornton",
+        "Lauren LaVera",
+        "Elliott Fullam",
+        "Sarah Voigt",
+        "Kailey Hyman",
+        "Casey Hartnett"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.71,
+      "rating_count": 498846,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/8/9/0/7/588907-terrifier-2-0-230-0-345-crop.jpg?v=235a7cd041",
+      "url": "https://letterboxd.com/film/terrifier-2/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "rabbits-moon",
+      "title": "Rabbit's Moon",
+      "year": "1971",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Kenneth Anger"
+      ],
+      "actors": [
+        "André Soubeyran",
+        "Claude Revenant",
+        "Nadine Valence"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.71,
+      "rating_count": 6516,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/5/8/1/18581-rabbit-s-moon-0-230-0-345-crop.jpg?v=dfce83c037",
+      "url": "https://letterboxd.com/film/rabbits-moon/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-sandwich-man-1983",
+      "title": "The Sandwich Man",
+      "year": "1983",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Hou Hsiao-hsien",
+        "Wan Jen",
+        "Tseng Chuang-Hsiang"
+      ],
+      "actors": [
+        "Chen Bo-zheng",
+        "Yang Li-yin",
+        "Tseng Kuo-feng",
+        "Lai Te-Nan",
+        "Fu-yu Hou",
+        "Tsui Fu-Sheng"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "rating": 3.59,
+      "rating_count": 1702,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/1/9/0/129190-the-sandwich-man-0-230-0-345-crop.jpg?v=8bdaf00da2",
+      "url": "https://letterboxd.com/film/the-sandwich-man-1983/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-clowns",
+      "title": "The Clowns",
+      "year": "1970",
+      "genres": [
+        "Comedy",
+        "TV Movie"
+      ],
+      "directors": [
+        "Federico Fellini"
+      ],
+      "actors": [
+        "Riccardo Billi",
+        "Gigi Reder",
+        "Tino Scotti",
+        "Valentini",
+        "Fanfulla",
+        "Merli"
+      ],
+      "countries": [
+        "Italy",
+        "France",
+        "Germany"
+      ],
+      "rating": 3.63,
+      "rating_count": 5648,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/4/9/6/22496-the-clowns-0-230-0-345-crop.jpg?v=93f5814c4a",
+      "url": "https://letterboxd.com/film/the-clowns/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "freaks",
+      "title": "Freaks",
+      "year": "1932",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Tod Browning"
+      ],
+      "actors": [
+        "Harry Earles",
+        "Olga Baclanova",
+        "Daisy Earles",
+        "Henry Victor",
+        "Wallace Ford",
+        "Leila Hyams"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.94,
+      "rating_count": 110263,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/1/5/51915-freaks-0-230-0-345-crop.jpg?v=fb3a1ef03f",
+      "url": "https://letterboxd.com/film/freaks/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-peoples-joker",
+      "title": "The People's Joker",
+      "year": "2022",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Vera Drew"
+      ],
+      "actors": [
+        "Vera Drew",
+        "Lynn Downey",
+        "Kane Distler",
+        "Nathan Faustyn",
+        "David Liebe Hart",
+        "Phil Braun"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 32728,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/5/3/3/7/725337-the-people-s-joker-0-230-0-345-crop.jpg?v=28f0a75d7a",
+      "url": "https://letterboxd.com/film/the-peoples-joker/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-devils-rejects",
+      "title": "The Devil's Rejects",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Crime"
+      ],
+      "directors": [
+        "Rob Zombie"
+      ],
+      "actors": [
+        "Sid Haig",
+        "Bill Moseley",
+        "Sheri Moon Zombie",
+        "William Forsythe",
+        "Ken Foree",
+        "Matthew McGrory"
+      ],
+      "countries": [
+        "Germany",
+        "USA"
+      ],
+      "rating": 3.37,
+      "rating_count": 104367,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/5/0/50850-the-devil-s-rejects-0-230-0-345-crop.jpg?v=990c37918c",
+      "url": "https://letterboxd.com/film/the-devils-rejects/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "clown",
+      "title": "Clown",
+      "year": "2014",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Jon Watts"
+      ],
+      "actors": [
+        "Andy Powers",
+        "Laura Allen",
+        "Peter Stormare",
+        "Christian Distefano",
+        "Chuck Shamata",
+        "Elizabeth Whitmere"
+      ],
+      "countries": [
+        "Canada",
+        "USA"
+      ],
+      "rating": 2.52,
+      "rating_count": 56448,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nd/rs/pw/io/3Z97W9dDWU9YH3fk2sQKVauLNnu-0-230-0-345-crop.jpg?v=f42c360d00",
+      "url": "https://letterboxd.com/film/clown/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "stitches-2012",
+      "title": "Stitches",
+      "year": "2012",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Conor McMahon"
+      ],
+      "actors": [
+        "Ross Noble",
+        "Tommy Knight",
+        "Gemma-Leah Devereux",
+        "John McDonnell",
+        "Shane Murray-Corcoran",
+        "Thommas Kane Byrne"
+      ],
+      "countries": [
+        "Ireland",
+        "USA"
+      ],
+      "rating": 2.73,
+      "rating_count": 14620,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/1/5/6/8/91568-stitches-0-230-0-345-crop.jpg?v=ce7fc2b514",
+      "url": "https://letterboxd.com/film/stitches-2012/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "gags-the-clown",
+      "title": "Gags the Clown",
+      "year": "2018",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "directors": [
+        "Adam Krause"
+      ],
+      "actors": [
+        "Lauren Ashley Carter",
+        "Tracy Perez",
+        "Aaron Christensen",
+        "Evan Gamble",
+        "Wyatt Kuether",
+        "Jake Martin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.33,
+      "rating_count": 2607,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/3/8/4/8/413848-gags-the-clown-0-230-0-345-crop.jpg?v=d0a1e29b60",
+      "url": "https://letterboxd.com/film/gags-the-clown/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "31-2016",
+      "title": "31",
+      "year": "2016",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Rob Zombie"
+      ],
+      "actors": [
+        "Sheri Moon Zombie",
+        "Richard Brake",
+        "Meg Foster",
+        "Malcolm McDowell",
+        "Daniel Roebuck",
+        "Lawrence Hilton-Jacobs"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 2.53,
+      "rating_count": 39224,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/9/8/7/0/209870-31-2016-0-230-0-345-crop.jpg?v=45c7e17e8e",
+      "url": "https://letterboxd.com/film/31-2016/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "all-hallows-eve",
+      "title": "All Hallows' Eve",
+      "year": "2013",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Damien Leone"
+      ],
+      "actors": [
+        "Katie Maguire",
+        "Catherine A. Callahan",
+        "Marie Maser",
+        "Kayla Lian",
+        "Mike Giannelli",
+        "Sydney Freihofer"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.18,
+      "rating_count": 81135,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/3/0/3/162303-all-hallows-eve-0-230-0-345-crop.jpg?v=bc9c94df58",
+      "url": "https://letterboxd.com/film/all-hallows-eve/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "amusement",
+      "title": "Amusement",
+      "year": "2008",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "John Simpson"
+      ],
+      "actors": [
+        "Keir O'Donnell",
+        "Tad Hilgenbrink",
+        "Katheryn Winnick",
+        "Laura Breckenridge",
+        "Jessica Lucas",
+        "Reid Scott"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.15,
+      "rating_count": 6855,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/5/8/3/43583-amusement-0-230-0-345-crop.jpg?v=a172344de3",
+      "url": "https://letterboxd.com/film/amusement/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "scary-or-die",
+      "title": "Scary or Die",
+      "year": "2012",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Bob Badway",
+        "Michael Emanuel"
+      ],
+      "actors": [
+        "Bill Oberst Jr.",
+        "Corbin Bleu",
+        "Shawn-Caulin Young",
+        "Elizabeth Di Prinzio",
+        "Kellie Cockrell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.22,
+      "rating_count": 956,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/2/1/2/5/102125-scary-or-die-0-230-0-345-crop.jpg?v=a0fe189552",
+      "url": "https://letterboxd.com/film/scary-or-die/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "blood-harvest",
+      "title": "Blood Harvest",
+      "year": "1987",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Bill Rebane"
+      ],
+      "actors": [
+        "Tiny Tim",
+        "Itonia Salchek",
+        "Dean West",
+        "Lori Minnetti",
+        "Peter Krause",
+        "Frank Benson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.41,
+      "rating_count": 6830,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/5/2/3/64523-blood-harvest-0-230-0-345-crop.jpg?v=97ec4b5899",
+      "url": "https://letterboxd.com/film/blood-harvest/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "killjoy",
+      "title": "Killjoy",
+      "year": "2000",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Craig Ross Jr."
+      ],
+      "actors": [
+        "Ángel Vargas",
+        "Vera Yell",
+        "Lee Marks",
+        "Carl Washington",
+        "Jamal Grimes",
+        "Dee Dee Austin"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 1.83,
+      "rating_count": 3121,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/2/6/9/34269-killjoy-0-230-0-345-crop.jpg?v=fd1b17852a",
+      "url": "https://letterboxd.com/film/killjoy/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "terrifier-3",
+      "title": "Terrifier 3",
+      "year": "2024",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Damien Leone"
+      ],
+      "actors": [
+        "Lauren LaVera",
+        "David Howard Thornton",
+        "Samantha Scaffidi",
+        "Elliott Fullam",
+        "Margaret Anne Florence",
+        "Bryce Johnson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.81,
+      "rating_count": 443302,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/3/2/7/3/9/932739-terrifier-3-0-230-0-345-crop.jpg?v=6c46b036d1",
+      "url": "https://letterboxd.com/film/terrifier-3/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "pennywise-the-story-of-it",
+      "title": "Pennywise: The Story of ‘It’",
+      "year": "2021",
+      "genres": [
+        "Documentary",
+        "Horror"
+      ],
+      "directors": [
+        "John Campopiano",
+        "Chris Griffiths"
+      ],
+      "actors": [
+        "Tim Curry",
+        "Seth Green",
+        "Richard Thomas",
+        "Emily Perkins",
+        "Dennis Christopher",
+        "Tim Reid"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.5,
+      "rating_count": 5081,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/2/2/5/1/442251-pennywise-the-story-of-it-0-230-0-345-crop.jpg?v=1371ddb09e",
+      "url": "https://letterboxd.com/film/pennywise-the-story-of-it/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "children-of-paradise",
+      "title": "Children of Paradise",
+      "year": "1945",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Marcel Carné"
+      ],
+      "actors": [
+        "Arletty",
+        "Jean-Louis Barrault",
+        "Pierre Brasseur",
+        "Marcel Herrand",
+        "María Casares",
+        "Louis Salou"
+      ],
+      "countries": [
+        "France"
+      ],
+      "rating": 4.29,
+      "rating_count": 26534,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/2/3/9/50239-children-of-paradise-0-230-0-345-crop.jpg?v=b1134c741f",
+      "url": "https://letterboxd.com/film/children-of-paradise/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Horror": 21,
+      "Drama": 12,
+      "Comedy": 6,
+      "Thriller": 5,
+      "Romance": 2,
+      "Mystery": 2,
+      "Crime": 2,
+      "Documentary": 2,
+      "Fantasy": 2,
+      "Science Fiction": 1,
+      "TV Movie": 1
+    },
+    "directors": {
+      "Damien Leone": 4,
+      "Rob Zombie": 3,
+      "Andy Muschietti": 2,
+      "Federico Fellini": 2,
+      "Stephen Chiodo": 1,
+      "Victor Sjöström": 1,
+      "Tommy Lee Wallace": 1,
+      "Bobcat Goldthwait": 1,
+      "Michael Beach Nichols": 1,
+      "Kenneth Anger": 1,
+      "Hou Hsiao-hsien": 1,
+      "Wan Jen": 1,
+      "Tseng Chuang-Hsiang": 1,
+      "Tod Browning": 1,
+      "Vera Drew": 1,
+      "Jon Watts": 1,
+      "Conor McMahon": 1,
+      "Adam Krause": 1,
+      "John Simpson": 1,
+      "Bob Badway": 1
+    },
+    "years": {
+      "1924": 1,
+      "1932": 1,
+      "1945": 1,
+      "1954": 1,
+      "1970": 1,
+      "1971": 1,
+      "1983": 1,
+      "1987": 1,
+      "1988": 1,
+      "1990": 1,
+      "1991": 1,
+      "2000": 1,
+      "2003": 1,
+      "2005": 1,
+      "2008": 1,
+      "2012": 2,
+      "2013": 1,
+      "2014": 1,
+      "2016": 2,
+      "2017": 1,
+      "2018": 1,
+      "2019": 2,
+      "2021": 1,
+      "2022": 2,
+      "2024": 1
+    }
+  }
+}

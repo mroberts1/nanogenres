@@ -1,0 +1,33 @@
+[search] https://letterboxd.com/search/lists/bloomcore/
+[search] 3 candidates -> 3 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/sillyklorpy/list/bloomcore/
+  drop (only 4 films) /sillyklorpy/list/bloomcore/
+[list] https://letterboxd.com/aksaniac/list/bloomcore-meets-cottagegore/
+[list] https://letterboxd.com/stymphalian/list/cottagecore-bloomcore/
+    1/3 Picnic at Hanging Rock (1975) x2 — Mystery, Drama
+    2/3 FairyTale: A True Story (1997) x2 — Family, Fantasy, Drama, Mystery
+    3/3 Tuck Everlasting (2002) x2 — Family, Fantasy, Drama, Romance
+
+[done] /root/letterboxd-nanogenres/data/bloomcore.json
+{
+  "slug": "bloomcore",
+  "lists_used": 2,
+  "canonical_films": 3,
+  "top_5": [
+    [
+      "Picnic at Hanging Rock",
+      "1975",
+      2
+    ],
+    [
+      "FairyTale: A True Story",
+      "1997",
+      2
+    ],
+    [
+      "Tuck Everlasting",
+      "2002",
+      2
+    ]
+  ]
+}
