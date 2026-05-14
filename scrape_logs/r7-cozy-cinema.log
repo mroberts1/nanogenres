@@ -1,0 +1,64 @@
+[search] https://letterboxd.com/search/lists/cozy+cinema/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/meetsy/list/cozy-cinema/
+[list] https://letterboxd.com/nathananderson/list/cozy-cinema/
+  drop (only 1 films) /nathananderson/list/cozy-cinema/
+[list] https://letterboxd.com/carmengo/list/cozy-cinema/
+[list] https://letterboxd.com/tylermcalister/list/cozy-cinema/
+  drop (only 4 films) /tylermcalister/list/cozy-cinema/
+[list] https://letterboxd.com/godhatesligaya/list/cozy-cinema/
+[list] https://letterboxd.com/jadepayne/list/cozy-cinema/
+[list] https://letterboxd.com/bill_borowski/list/cozy-cinema/
+[list] https://letterboxd.com/sawabra/list/cozy-cinema/
+[list] https://letterboxd.com/echnatron/list/cozy-cinema/
+[list] https://letterboxd.com/tylerdurden1999/list/cozy-cinema/
+    1/16 Dead Poets Society (1989) x3 — Drama
+    2/16 You've Got Mail (1998) x3 — Romance, Comedy
+    3/16 Kiki's Delivery Service (1989) x3 — Fantasy, Animation, Family
+    4/16 The Holdovers (2023) x3 — Drama, Comedy
+    5/16 Little Women (2019) x2 — Drama, Romance
+    6/16 La La Land (2016) x2 — Drama, Comedy, Romance
+    7/16 Knives Out (2019) x2 — Mystery, Comedy, Crime
+    8/16 The Perks of Being a Wallflower (2012) x2 — Drama
+    9/16 Fantastic Mr. Fox (2009) x2 — Comedy, Animation, Family, Adventure
+   10/16 Good Will Hunting (1997) x2 — Drama
+   11/16 Groundhog Day (1993) x2 — Comedy, Fantasy, Romance
+   12/16 Over the Garden Wall (2014) x2 — Animation, Mystery, Family, Comedy
+   13/16 Pride & Prejudice (2005) x2 — Drama, Romance
+   14/16 When Harry Met Sally... (1989) x2 — Drama, Romance, Comedy
+   15/16 Notting Hill (1999) x2 — Comedy, Romance
+   16/16 Planes, Trains and Automobiles (1987) x2 — Comedy
+
+[done] /root/letterboxd-nanogenres/data/cozy-cinema.json
+{
+  "slug": "cozy-cinema",
+  "lists_used": 8,
+  "canonical_films": 16,
+  "top_5": [
+    [
+      "Dead Poets Society",
+      "1989",
+      3
+    ],
+    [
+      "You've Got Mail",
+      "1998",
+      3
+    ],
+    [
+      "Kiki's Delivery Service",
+      "1989",
+      3
+    ],
+    [
+      "The Holdovers",
+      "2023",
+      3
+    ],
+    [
+      "Little Women",
+      "2019",
+      2
+    ]
+  ]
+}

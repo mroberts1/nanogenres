@@ -1,0 +1,55 @@
+[search] https://letterboxd.com/search/lists/pulp+cinema/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/ethanyoung512/list/pulp-cinema/
+[list] https://letterboxd.com/mahjong_nor/list/pulp-cinema/
+[list] https://letterboxd.com/joescully/list/pulp-cinema/
+[list] https://letterboxd.com/alexmesquini/list/pulp-cinema/
+[list] https://letterboxd.com/chris_68/list/pulp-cinema/
+[list] https://letterboxd.com/francesco_adam/list/pulp-cinema/
+[list] https://letterboxd.com/karamashi/list/asian-pulp-cinema-releases/
+[list] https://letterboxd.com/josieyesno/list/best-of-pulp-cinema/
+[list] https://letterboxd.com/mauvesmurf/list/pulp-cinema-2018/
+[list] https://letterboxd.com/mauvesmurf/list/pulp-cinema-2019/
+    1/9 Kill Bill: Vol. 1 (2003) x2 — Crime, Action
+    2/9 The 36th Chamber of Shaolin (1978) x2 — Adventure, Action
+    3/9 Django (1966) x2 — Action, Western
+    4/9 The Dirty Dozen (1967) x2 — Adventure, Action, War
+    5/9 King Kong (1933) x2 — Adventure, Fantasy, Horror
+    6/9 The Rocketeer (1991) x2 — Science Fiction, Adventure, Family, Action
+    7/9 The Phantom (1996) x2 — Adventure, Action
+    8/9 The Shadow (1994) x2 — Crime, Fantasy, Action
+    9/9 Dick Tracy (1990) x2 — Comedy, Adventure, Crime
+
+[done] /root/letterboxd-nanogenres/data/pulp-cinema.json
+{
+  "slug": "pulp-cinema",
+  "lists_used": 10,
+  "canonical_films": 9,
+  "top_5": [
+    [
+      "Kill Bill: Vol. 1",
+      "2003",
+      2
+    ],
+    [
+      "The 36th Chamber of Shaolin",
+      "1978",
+      2
+    ],
+    [
+      "Django",
+      "1966",
+      2
+    ],
+    [
+      "The Dirty Dozen",
+      "1967",
+      2
+    ],
+    [
+      "King Kong",
+      "1933",
+      2
+    ]
+  ]
+}

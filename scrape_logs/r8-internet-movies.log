@@ -1,0 +1,71 @@
+[search] https://letterboxd.com/search/lists/internet+movies/
+[search] 20 candidates -> 10 relevant (rejected low-quality=1, off-topic=0)
+[list] https://letterboxd.com/mattsnediker/list/internet-movies/
+[list] https://letterboxd.com/eevancondron/list/internet-movies/
+[list] https://letterboxd.com/rohan_beer/list/internet-movies/
+[list] https://letterboxd.com/fosterkid/list/internet-movies/
+[list] https://letterboxd.com/ralseifatblunt/list/internet-movies/
+[list] https://letterboxd.com/oatmealshakers/list/internet-movies/
+  drop (only 1 films) /oatmealshakers/list/internet-movies/
+[list] https://letterboxd.com/mdfilmblog/list/internet-movies/
+[list] https://letterboxd.com/saul0218/list/internet-movies/
+[list] https://letterboxd.com/roryjamesleech/list/internet-movies/
+[list] https://letterboxd.com/maximumgraves/list/internet-movies/
+    1/24 We're All Going to the World's Fair (2021) x7 — Horror, Drama
+    2/24 Spree (2020) x6 — Horror, Thriller, Comedy, Crime
+    3/24 The Social Network (2010) x5 — Drama
+    4/24 Unfriended (2014) x5 — Horror, Mystery
+    5/24 Searching (2018) x5 — Drama, Thriller, Mystery
+    6/24 Ingrid Goes West (2017) x4 — Comedy, Drama
+    7/24 Pulse (2001) x4 — Mystery, Horror, Thriller
+    8/24 Host (2020) x4 — Horror
+    9/24 Eighth Grade (2018) x3 — Drama, Comedy
+   10/24 The Matrix (1999) x3 — Science Fiction, Action
+   11/24 Zola (2020) x3 — Comedy, Crime, Drama
+   12/24 Nerve (2016) x3 — Mystery, Adventure, Crime
+   13/24 Bodies Bodies Bodies (2022) x3 — Comedy, Horror, Mystery
+   14/24 Unfriended: Dark Web (2018) x3 — Horror, Mystery
+   15/24 Missing (2023) x3 — Thriller, Mystery, Drama
+   16/24 Cam (2018) x3 — Horror, Mystery
+   17/24 Red Rooms (2023) x2 — Crime, Thriller
+   18/24 Perfect Blue (1997) x2 — Thriller, Animation, Horror
+   19/24 Videodrome (1983) x2 — Mystery, Science Fiction, Horror
+   20/24 Her (2013) x2 — Science Fiction, Romance, Drama
+   21/24 I Saw the TV Glow (2024) x2 — Drama, Horror
+   22/24 All About Lily Chou-Chou (2001) x2 — Drama, Crime
+   23/24 Influencer (2022) x2 — Horror, Thriller
+   24/24 Deadstream (2022) x2 — Fantasy, Comedy, Horror
+
+[done] /root/letterboxd-nanogenres/data/internet-movies.json
+{
+  "slug": "internet-movies",
+  "lists_used": 9,
+  "canonical_films": 24,
+  "top_5": [
+    [
+      "We're All Going to the World's Fair",
+      "2021",
+      7
+    ],
+    [
+      "Spree",
+      "2020",
+      6
+    ],
+    [
+      "The Social Network",
+      "2010",
+      5
+    ],
+    [
+      "Unfriended",
+      "2014",
+      5
+    ],
+    [
+      "Searching",
+      "2018",
+      5
+    ]
+  ]
+}

@@ -1,0 +1,107 @@
+[search] https://letterboxd.com/search/lists/sapphic/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/fuchsiadyke/list/sapphic/
+[list] https://letterboxd.com/sawii/list/sapphic/
+  drop (1361 films > max) /sawii/list/sapphic/
+[list] https://letterboxd.com/scoutshonour/list/sapphic/
+[list] https://letterboxd.com/meicheng/list/sapphic/
+[list] https://letterboxd.com/sharphorn/list/sapphic/
+[list] https://letterboxd.com/hoaipham/list/sapphic/
+[list] https://letterboxd.com/gyllenhaall/list/sapphic/
+[list] https://letterboxd.com/leathermouth/list/sapphic/
+[list] https://letterboxd.com/dpmr/list/sapphic-1/
+[list] https://letterboxd.com/malleablebeings/list/sapphic/
+    1/60 But I'm a Cheerleader (1999) x8 — Romance, Drama, Comedy
+    2/60 Saving Face (2004) x8 — Drama, Romance, Comedy
+    3/60 Portrait of a Lady on Fire (2019) x8 — Drama, Romance
+    4/60 Bound (1996) x7 — Crime, Thriller, Drama
+    5/60 The Half of It (2020) x7 — Romance, Comedy, Drama
+    6/60 Ammonite (2020) x7 — Romance, Drama
+    7/60 D.E.B.S. (2004) x7 — Action, Comedy, Romance
+    8/60 Summerland (2020) x7 — Drama, Romance
+    9/60 Carol (2015) x7 — Drama, Romance
+   10/60 The Favourite (2018) x7 — Drama, Comedy, History
+   11/60 The Watermelon Woman (1996) x6 — Comedy, Drama, Romance
+   12/60 Desert Hearts (1985) x6 — Drama, Romance
+   13/60 Show Me Love (1998) x6 — Drama, Comedy, Romance
+   14/60 Jennifer's Body (2009) x6 — Horror, Comedy
+   15/60 Happiest Season (2020) x6 — Romance, Comedy
+   16/60 Booksmart (2019) x6 — Comedy
+   17/60 Thelma (2017) x6 — Drama, Thriller, Mystery
+   18/60 The Handmaiden (2016) x6 — Thriller, Romance, Drama
+   19/60 Disobedience (2017) x6 — Drama, Romance
+   20/60 Imagine Me & You (2005) x6 — Drama, Comedy, Romance
+   21/60 Summertime (2015) x6 — Drama, Romance
+   22/60 With Every Heartbeat (2011) x6 — Drama, Romance
+   23/60 The World Unseen (2007) x6 — Drama, Romance
+   24/60 The Children's Hour (1961) x5 — Drama
+   25/60 The Miseducation of Cameron Post (2018) x5 — Drama
+   26/60 Heavenly Creatures (1994) x5 — Drama, Fantasy
+   27/60 Benedetta (2021) x5 — Drama, Romance, History
+   28/60 Professor Marston and the Wonder Women (2017) x5 — Romance, Drama
+   29/60 Tell It to the Bees (2018) x5 — Romance, Drama
+   30/60 My First Summer (2020) x5 — Drama, Romance
+   31/60 Shiva Baby (2020) x5 — Comedy, Drama
+   32/60 Dating Amber (2020) x5 — Comedy, Romance, Drama
+   33/60 Princess Cyd (2017) x5 — Drama, Romance
+   34/60 Kajillionaire (2020) x5 — Crime, Drama, Comedy
+   35/60 I Care a Lot (2020) x5 — Drama, Crime, Thriller, Comedy
+   36/60 Am I OK? (2022) x5 — Romance, Comedy, Drama
+   37/60 You Can Live Forever (2022) x5 — Romance, Drama
+   38/60 Gia (1998) x5 — Drama, Romance
+   39/60 Vita & Virginia (2018) x5 — Drama, Romance
+   40/60 Water Lilies (2007) x5 — Drama, Romance
+   41/60 The Hours (2002) x5 — Drama
+   42/60 Mulholland Drive (2001) x5 — Drama, Mystery, Thriller
+   43/60 Fingersmith (2005) x5 — Mystery, Crime, Drama
+   44/60 Atomic Blonde (2017) x5 — Thriller, Action
+   45/60 Mädchen in Uniform (1931) x4 — Drama, Romance
+   46/60 Pariah (2011) x4 — Drama
+   47/60 All Over Me (1997) x4 — Drama, Romance
+   48/60 The Bitter Tears of Petra von Kant (1972) x4 — Romance, Drama
+   49/60 Go Fish (1994) x4 — Romance, Comedy, Drama
+   50/60 Better Than Chocolate (1999) x4 — Comedy, Romance, Drama
+   51/60 Persona (1966) x4 — Drama
+   52/60 Lovesong (2016) x4 — Romance, Drama
+   53/60 The Incredibly True Adventure of Two Girls in Love (1995) x4 — Romance, Comedy, Drama
+   54/60 Novitiate (2017) x4 — Drama
+   55/60 The Fallout (2021) x4 — Drama
+   56/60 Love, Classified (2022) x4 — Drama, TV Movie, Comedy, Romance
+   57/60 Crush (2022) x4 — Romance, Comedy
+   58/60 Sweetheart (2021) x4 — Romance, Drama, Comedy
+   59/60 Bottoms (2023) x4 — Comedy
+   60/60 The Feels (2017) x4 — Drama, Romance, Comedy
+
+[done] /root/letterboxd-nanogenres/data/sapphic.json
+{
+  "slug": "sapphic",
+  "lists_used": 9,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "But I'm a Cheerleader",
+      "1999",
+      8
+    ],
+    [
+      "Saving Face",
+      "2004",
+      8
+    ],
+    [
+      "Portrait of a Lady on Fire",
+      "2019",
+      8
+    ],
+    [
+      "Bound",
+      "1996",
+      7
+    ],
+    [
+      "The Half of It",
+      "2020",
+      7
+    ]
+  ]
+}

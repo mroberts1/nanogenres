@@ -1,0 +1,106 @@
+[search] https://letterboxd.com/search/lists/post+noir/
+[search] 20 candidates -> 10 relevant (rejected low-quality=2, off-topic=0)
+[list] https://letterboxd.com/dsuter8/list/post-noir/
+[list] https://letterboxd.com/mic3206/list/post-noir/
+[list] https://letterboxd.com/headhunter666/list/post-noir-1959-1966/
+[list] https://letterboxd.com/kostasv95/list/neo-noir-post-noir/
+[list] https://letterboxd.com/plainview1981/list/best-post-noir-films/
+[list] https://letterboxd.com/ericmackattacks/list/subgenre-post-noir-modern-noir/
+[list] https://letterboxd.com/illvillskill/list/post-noir-crimey-thrills-60-00/
+[list] https://letterboxd.com/tarar/list/post-noir-urban-crime/
+[list] https://letterboxd.com/chupov/list/noir-and-pre-noir-and-post-noir-gems/
+[list] https://letterboxd.com/ilarina/list/noir-pulp-noir-neo-noir-tech-noir-post-noir/
+    1/60 Blue Velvet (1986) x6 — Crime, Mystery, Thriller
+    2/60 L.A. Confidential (1997) x5 — Mystery, Crime, Thriller
+    3/60 Thief (1981) x5 — Thriller, Crime, Drama
+    4/60 The Usual Suspects (1995) x4 — Thriller, Drama, Crime
+    5/60 Chinatown (1974) x4 — Thriller, Mystery, Crime, Drama
+    6/60 Blood Simple (1984) x4 — Thriller, Crime, Drama
+    7/60 Cape Fear (1962) x4 — Thriller, Drama, Crime
+    8/60 Hard Eight (1996) x4 — Drama, Crime
+    9/60 Lost Highway (1997) x4 — Drama, Thriller, Mystery
+   10/60 The Naked Kiss (1964) x4 — Drama, Crime
+   11/60 Following (1998) x4 — Drama, Thriller
+   12/60 One False Move (1991) x4 — Crime, Drama, Thriller
+   13/60 Red Rock West (1993) x4 — Drama, Thriller, Crime
+   14/60 Miami Blues (1990) x4 — Drama, Action, Thriller, Comedy, Crime
+   15/60 High and Low (1963) x3 — Thriller, Crime, Drama, Mystery
+   16/60 Taxi Driver (1976) x3 — Crime, Drama
+   17/60 Memento (2000) x3 — Thriller, Mystery
+   18/60 The Long Goodbye (1973) x3 — Drama, Crime, Mystery
+   19/60 Oldboy (2003) x3 — Thriller, Mystery, Drama, Action
+   20/60 Elevator to the Gallows (1958) x3 — Crime, Thriller, Drama
+   21/60 Sin City (2005) x3 — Thriller, Crime
+   22/60 Brick (2005) x3 — Mystery, Crime, Drama
+   23/60 Kiss Kiss Bang Bang (2005) x3 — Crime, Thriller, Mystery, Comedy
+   24/60 Point Blank (1967) x3 — Crime, Drama, Thriller
+   25/60 House of Games (1987) x3 — Drama, Crime, Thriller
+   26/60 Body Heat (1981) x3 — Crime, Thriller
+   27/60 To Live and Die in L.A. (1985) x3 — Action, Crime, Thriller
+   28/60 Rounders (1998) x3 — Drama, Crime
+   29/60 Night Moves (1975) x3 — Crime, Drama, Mystery, Thriller
+   30/60 Angel Heart (1987) x3 — Horror, Mystery
+   31/60 Winter's Bone (2010) x3 — Mystery, Drama
+   32/60 The Grifters (1990) x3 — Drama, Crime
+   33/60 Insomnia (2002) x3 — Crime, Thriller, Drama
+   34/60 Devil in a Blue Dress (1995) x3 — Thriller, Mystery, Crime
+   35/60 The Postman Always Rings Twice (1981) x3 — Crime, Drama, Thriller, Romance
+   36/60 Croupier (1998) x3 — Thriller, Drama
+   37/60 Cutter's Way (1981) x3 — Crime, Thriller, Mystery, Drama
+   38/60 After Dark, My Sweet (1990) x3 — Crime, Mystery, Drama
+   39/60 The Hot Spot (1990) x3 — Thriller, Crime, Romance
+   40/60 Eyewitness (1981) x3 — Thriller
+   41/60 Kill Me Again (1989) x3 — Drama, Thriller, Action, Crime
+   42/60 Se7en (1995) x2 — Mystery, Crime, Thriller
+   43/60 Nightcrawler (2014) x2 — Crime, Drama, Thriller
+   44/60 Bullitt (1968) x2 — Crime, Action, Thriller
+   45/60 Jackie Brown (1997) x2 — Crime, Thriller, Drama
+   46/60 The Batman (2022) x2 — Crime, Mystery, Thriller
+   47/60 The Nice Guys (2016) x2 — Action, Comedy, Crime
+   48/60 Mulholland Drive (2001) x2 — Drama, Mystery, Thriller
+   49/60 Zodiac (2007) x2 — Crime, Mystery, Thriller
+   50/60 The Friends of Eddie Coyle (1973) x2 — Drama, Crime, Thriller
+   51/60 Klute (1971) x2 — Thriller, Mystery, Crime, Drama
+   52/60 The Driver (1978) x2 — Action, Crime, Thriller
+   53/60 Bound (1996) x2 — Crime, Thriller, Drama
+   54/60 Good Time (2017) x2 — Drama, Crime, Thriller
+   55/60 The Spanish Prisoner (1997) x2 — Mystery, Drama, Thriller
+   56/60 The Man Who Wasn't There (2001) x2 — Drama, Crime
+   57/60 The Last Seduction (1994) x2 — Romance, Thriller, Crime, Drama
+   58/60 Nocturnal Animals (2016) x2 — Drama, Thriller
+   59/60 Inherent Vice (2014) x2 — Comedy, Drama, Mystery
+   60/60 Dead Again (1991) x2 — Thriller, Romance, Mystery
+
+[done] /root/letterboxd-nanogenres/data/post-noir.json
+{
+  "slug": "post-noir",
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Blue Velvet",
+      "1986",
+      6
+    ],
+    [
+      "L.A. Confidential",
+      "1997",
+      5
+    ],
+    [
+      "Thief",
+      "1981",
+      5
+    ],
+    [
+      "The Usual Suspects",
+      "1995",
+      4
+    ],
+    [
+      "Chinatown",
+      "1974",
+      4
+    ]
+  ]
+}

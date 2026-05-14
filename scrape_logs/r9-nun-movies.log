@@ -1,0 +1,86 @@
+[search] https://letterboxd.com/search/lists/nun+movies/
+[search] 20 candidates -> 10 relevant (rejected low-quality=1, off-topic=0)
+[list] https://letterboxd.com/freelunch/list/nun-movies/
+[list] https://letterboxd.com/thegoodolddais/list/nun-movies/
+[list] https://letterboxd.com/anberhnayes/list/nun-movies/
+  drop (only 4 films) /anberhnayes/list/nun-movies/
+[list] https://letterboxd.com/eccann/list/nun-movies/
+[list] https://letterboxd.com/arte_fact__/list/nun-movies/
+[list] https://letterboxd.com/jbeaty17/list/nun-movies/
+[list] https://letterboxd.com/baxwell/list/nun-movies/
+[list] https://letterboxd.com/zeroofilmss/list/nun-movies/
+[list] https://letterboxd.com/wawaskittletits/list/nun-movies/
+[list] https://letterboxd.com/pestolovr_mov/list/nun-movies/
+    1/39 Benedetta (2021) x6 — Drama, Romance, History
+    2/39 Black Narcissus (1947) x5 — Drama
+    3/39 Immaculate (2024) x5 — Mystery, Thriller, Horror
+    4/39 The Devils (1971) x4 — Drama, History, Horror
+    5/39 Novitiate (2017) x4 — Drama
+    6/39 The Nun (2018) x4 — Horror
+    7/39 The Nun (1966) x3 — Drama
+    8/39 Ida (2013) x3 — Drama
+    9/39 I, the Worst of All (1990) x3 — Romance, History, Drama
+   10/39 Damned If You Don't (1987) x3 — Romance, Drama
+   11/39 The Nun's Story (1959) x3 — Drama
+   12/39 Agnes of God (1985) x3 — Drama, Mystery
+   13/39 Dark Habits (1983) x3 — Comedy, Drama
+   14/39 Sister Act (1992) x3 — Music, Comedy
+   15/39 Alucarda (1977) x3 — Horror
+   16/39 The First Omen (2024) x3 — Horror
+   17/39 Conclave (2024) x3 — Drama, Thriller
+   18/39 Killer Nun (1979) x3 — Horror, Mystery, Thriller
+   19/39 The Nun (2013) x3 — Drama
+   20/39 The Nun II (2023) x3 — Horror
+   21/39 Beyond the Hills (2012) x2 — Drama, Romance
+   22/39 Hadewijch (2009) x2 — Drama
+   23/39 The Innocents (2016) x2 — Drama, History
+   24/39 Thérèse (1986) x2 — Drama
+   25/39 Diary of an African Nun (1977) x2 — Drama
+   26/39 Viridiana (1961) x2 — Drama
+   27/39 Blood of My Blood (2015) x2 — History, Drama
+   28/39 Doubt (2008) x2 — Drama
+   29/39 Angels of Sin (1943) x2 — Drama
+   30/39 Thunder (2022) x2 — History, Drama
+   31/39 Agnes (2021) x2 — Drama, Horror
+   32/39 Hell on Earth: The Desecration & Resurrection of The Devils (2002) x2 — Documentary
+   33/39 God Is the Bigger Elvis (2012) x2 — Documentary
+   34/39 Visions of Ecstasy (1989) x2 — Horror, Thriller
+   35/39 Little Sister (2016) x2 — Comedy, Drama
+   36/39 Satanic Pandemonium (1975) x2 — Thriller, Horror, Mystery
+   37/39 St. Agatha (2018) x2 — Thriller, Horror
+   38/39 The Devil's Doorway (2018) x2 — Drama, Horror
+   39/39 Dark Waters (1993) x2 — Horror, Mystery
+
+[done] /root/letterboxd-nanogenres/data/nun-movies.json
+{
+  "slug": "nun-movies",
+  "lists_used": 9,
+  "canonical_films": 39,
+  "top_5": [
+    [
+      "Benedetta",
+      "2021",
+      6
+    ],
+    [
+      "Black Narcissus",
+      "1947",
+      5
+    ],
+    [
+      "Immaculate",
+      "2024",
+      5
+    ],
+    [
+      "The Devils",
+      "1971",
+      4
+    ],
+    [
+      "Novitiate",
+      "2017",
+      4
+    ]
+  ]
+}

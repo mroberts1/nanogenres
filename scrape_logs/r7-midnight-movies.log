@@ -1,0 +1,12 @@
+[search] https://letterboxd.com/search/lists/midnight+movies/
+[search] https://letterboxd.com/search/lists/midnight+movies/
+[search] https://letterboxd.com/tag/midnight-movies/lists/
+[search] 0 candidates -> 0 relevant (rejected low-quality=0, off-topic=0)
+
+[done] /root/letterboxd-nanogenres/data/midnight-movies.json
+{
+  "slug": "midnight-movies",
+  "lists_used": 0,
+  "canonical_films": 0,
+  "top_5": []
+}

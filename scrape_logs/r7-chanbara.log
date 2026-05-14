@@ -1,0 +1,106 @@
+[search] https://letterboxd.com/search/lists/chanbara/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/mdhughes/list/chanbara/
+[list] https://letterboxd.com/foxnthearthouse/list/chanbara/
+[list] https://letterboxd.com/lukishow/list/chanbara/
+[list] https://letterboxd.com/granz/list/chanbara/
+[list] https://letterboxd.com/paullc/list/chanbara/
+[list] https://letterboxd.com/unknown_rebel/list/chanbara/
+[list] https://letterboxd.com/adammusprime/list/chanbara/
+[list] https://letterboxd.com/tsuchigumo1369/list/chanbara/
+[list] https://letterboxd.com/josephmiller1/list/chanbara/
+[list] https://letterboxd.com/cksarvis/list/chanbara/
+    1/60 Seven Samurai (1954) x8 — Action, Drama
+    2/60 Yojimbo (1961) x8 — Thriller, Drama
+    3/60 Sanjuro (1962) x8 — Comedy, Action, Drama
+    4/60 The Sword of Doom (1966) x8 — Drama, Action
+    5/60 Kagemusha (1980) x8 — Action, Drama, War, History
+    6/60 Ran (1985) x8 — Drama, History, Action
+    7/60 Samurai I: Musashi Miyamoto (1954) x8 — Adventure, Drama, Action
+    8/60 Harakiri (1962) x8 — History, Drama, Action
+    9/60 Lady Snowblood (1973) x8 — Crime, Drama, Action
+   10/60 13 Assassins (2010) x7 — Adventure, Action, Drama
+   11/60 Throne of Blood (1957) x7 — History, Drama
+   12/60 Samurai II: Duel at Ichijoji Temple (1955) x7 — Drama, Action, Adventure
+   13/60 Samurai III: Duel at Ganryu Island (1956) x7 — Romance, Action, History, Drama, Adventure
+   14/60 Lone Wolf and Cub: Sword of Vengeance (1972) x7 — Drama, Adventure, Action, Thriller
+   15/60 Lone Wolf and Cub: Baby Cart at the River Styx (1972) x7 — Adventure, Drama, Action, Thriller
+   16/60 Lone Wolf and Cub: Baby Cart to Hades (1972) x7 — Adventure, Drama, Action, Thriller
+   17/60 The Hidden Fortress (1958) x6 — Drama, Action, Adventure
+   18/60 Samurai Rebellion (1967) x6 — Action, History, Drama
+   19/60 Goyokin (1969) x6 — Action, Drama
+   20/60 Three Outlaw Samurai (1964) x6 — Drama, Action
+   21/60 Rashomon (1950) x5 — Crime, Drama, Mystery
+   22/60 The Tale of Zatoichi (1962) x5 — Drama, Adventure, Action
+   23/60 The Twilight Samurai (2002) x5 — Drama, Romance
+   24/60 Sword of the Beast (1965) x4 — Drama, Action
+   25/60 Lady Snowblood 2: Love Song of Vengeance (1974) x4 — Action, Drama, Crime, Thriller
+   26/60 Lone Wolf and Cub: Baby Cart in the Land of Demons (1973) x4 — Action, Crime, Thriller, Adventure
+   27/60 Kwaidan (1964) x3 — Fantasy, Horror, Drama
+   28/60 Sansho the Bailiff (1954) x3 — Drama
+   29/60 Hanzo the Razor: Sword of Justice (1972) x3 — Drama, Action
+   30/60 Samurai Wolf (1966) x3 — Adventure, Action, Drama
+   31/60 Samaritan Zatoichi (1968) x3 — Adventure, Action, Drama
+   32/60 Zatoichi (2003) x3 — Action, Adventure, Drama
+   33/60 Zatoichi and the Chest of Gold (1964) x3 — Adventure, Action, Drama
+   34/60 Red Beard (1965) x3 — Drama
+   35/60 Kill! (1968) x3 — Action, Comedy
+   36/60 Lone Wolf and Cub: Baby Cart in Peril (1972) x3 — Adventure, Action, Thriller
+   37/60 Zatoichi Goes to the Fire Festival (1970) x3 — Adventure, Action, Drama
+   38/60 Shogun Assassin (1980) x3 — Adventure, Action
+   39/60 Hanzo the Razor: The Snare (1973) x2 — Drama, Action, History
+   40/60 Hanzo the Razor: Who's Got the Gold? (1974) x2 — Drama, Action
+   41/60 Tenchu! (1969) x2 — History, Drama, Action
+   42/60 The 47 Ronin (1941) x2 — History, Drama
+   43/60 Onibaba (1964) x2 — Horror
+   44/60 Destiny's Son (1962) x2 — Action, History, Drama
+   45/60 Sword Devil (1965) x2 — Drama, Action
+   46/60 Ken (1964) x2 — Drama
+   47/60 After the Rain (1999) x2 — Drama
+   48/60 Love and Honor (2006) x2 — Drama, Romance
+   49/60 Bohachi Bushido: Code of the Forgotten Eight (1973) x2 — Action
+   50/60 The Tale of Zatoichi Continues (1962) x2 — Drama, Adventure, Action
+   51/60 New Tale of Zatoichi (1963) x2 — Adventure, Action, Drama
+   52/60 Zatoichi the Fugitive (1963) x2 — Adventure, Action, Drama
+   53/60 Zatoichi on the Road (1963) x2 — Action, Drama, History, Adventure
+   54/60 Zatoichi and the Chess Expert (1965) x2 — Action, Drama, Adventure
+   55/60 Zatoichi Challenged (1967) x2 — Action, Drama, Adventure
+   56/60 Zatoichi's Cane Sword (1967) x2 — Action, Drama, Adventure
+   57/60 Bloody Spear at Mount Fuji (1955) x2 — Adventure, Drama
+   58/60 Samurai Saga (1959) x2 — Drama, Action
+   59/60 Chûshingura (1962) x2 — History, Drama, Action
+   60/60 Assassination (1964) x2 — Drama
+
+[done] /root/letterboxd-nanogenres/data/chanbara.json
+{
+  "slug": "chanbara",
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Seven Samurai",
+      "1954",
+      8
+    ],
+    [
+      "Yojimbo",
+      "1961",
+      8
+    ],
+    [
+      "Sanjuro",
+      "1962",
+      8
+    ],
+    [
+      "The Sword of Doom",
+      "1966",
+      8
+    ],
+    [
+      "Kagemusha",
+      "1980",
+      8
+    ]
+  ]
+}

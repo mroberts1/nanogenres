@@ -1,0 +1,46 @@
+[search] https://letterboxd.com/search/lists/trans+new+wave/
+[search] 4 candidates -> 4 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/skellylake/list/trans-new-wave/
+[list] https://letterboxd.com/drw_/list/trans-new-wave/
+[list] https://letterboxd.com/dokoissho/list/trans-new-wave/
+  drop (only 2 films) /dokoissho/list/trans-new-wave/
+[list] https://letterboxd.com/callifrax/list/new-wave-of-trans-vampires-2019-onwards/
+    1/5 I Saw the TV Glow (2024) x2 — Drama, Horror
+    2/5 We're All Going to the World's Fair (2021) x2 — Horror, Drama
+    3/5 T Blockers (2023) x2 — Science Fiction, Horror
+    4/5 Castration Movie Anthology i. Traps (2024) x2 — Drama, Comedy
+    5/5 The People's Joker (2022) x2 — Fantasy, Drama, Comedy
+
+[done] /root/letterboxd-nanogenres/data/trans-new-wave.json
+{
+  "slug": "trans-new-wave",
+  "lists_used": 3,
+  "canonical_films": 5,
+  "top_5": [
+    [
+      "I Saw the TV Glow",
+      "2024",
+      2
+    ],
+    [
+      "We're All Going to the World's Fair",
+      "2021",
+      2
+    ],
+    [
+      "T Blockers",
+      "2023",
+      2
+    ],
+    [
+      "Castration Movie Anthology i. Traps",
+      "2024",
+      2
+    ],
+    [
+      "The People's Joker",
+      "2022",
+      2
+    ]
+  ]
+}

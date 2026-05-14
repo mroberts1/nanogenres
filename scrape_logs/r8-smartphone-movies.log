@@ -1,0 +1,59 @@
+[search] https://letterboxd.com/search/lists/smartphone+movies/
+[search] 8 candidates -> 8 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/danpressey/list/smartphone-movies-film-in-context/
+  drop (only 3 films) /danpressey/list/smartphone-movies-film-in-context/
+[list] https://letterboxd.com/ss4ffron/list/pre-smartphone-movies/
+  drop (only 2 films) /ss4ffron/list/pre-smartphone-movies/
+[list] https://letterboxd.com/tanyeahx/list/weird-smartphone-movies/
+[list] https://letterboxd.com/porcelanaphant/list/movies-at-hand-smartphones-playin-mobile/
+[list] https://letterboxd.com/tallryansheehan/list/movies-shot-on-smartphones/
+[list] https://letterboxd.com/jphnc/list/movies-i-saw-this-weekend-where-a-character/
+  drop (only 2 films) /jphnc/list/movies-i-saw-this-weekend-where-a-character/
+[list] https://letterboxd.com/idmontalvo/list/10-movies-that-would-be-completely-ruined/
+[list] https://letterboxd.com/_showtime/list/movies-before-smartphones/
+  drop (only 3 films) /_showtime/list/movies-before-smartphones/
+    1/11 Night Fishing (2011) x2 — Drama
+    2/11 Searching for Sugar Man (2012) x2 — Music, Documentary
+    3/11 I Play with the Phrase Each Other (2014) x2 — 
+    4/11 Uneasy Lies the Mind (2014) x2 — 
+    5/11 Tangerine (2015) x2 — Comedy, Drama
+    6/11 Romance in NYC (2015) x2 — Romance
+    7/11 9 Rides (2016) x2 — Drama
+    8/11 Détour (2017) x2 — Fantasy, Comedy
+    9/11 Snow Steam Iron (2017) x2 — Crime, Drama
+   10/11 Unsane (2018) x2 — Horror, Thriller
+   11/11 High Flying Bird (2019) x2 — Drama
+
+[done] /root/letterboxd-nanogenres/data/smartphone-movies.json
+{
+  "slug": "smartphone-movies",
+  "lists_used": 4,
+  "canonical_films": 11,
+  "top_5": [
+    [
+      "Night Fishing",
+      "2011",
+      2
+    ],
+    [
+      "Searching for Sugar Man",
+      "2012",
+      2
+    ],
+    [
+      "I Play with the Phrase Each Other",
+      "2014",
+      2
+    ],
+    [
+      "Uneasy Lies the Mind",
+      "2014",
+      2
+    ],
+    [
+      "Tangerine",
+      "2015",
+      2
+    ]
+  ]
+}

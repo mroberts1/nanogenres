@@ -1,0 +1,87 @@
+[search] https://letterboxd.com/search/lists/suburbia/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/wednesdaydreams/list/suburbia/
+[list] https://letterboxd.com/baunilla/list/suburbia/
+[list] https://letterboxd.com/chasinak/list/suburbia/
+[list] https://letterboxd.com/chatopinela1215/list/suburbia/
+[list] https://letterboxd.com/existentialjeny/list/suburbia/
+[list] https://letterboxd.com/maia_ep/list/suburbia/
+[list] https://letterboxd.com/amayaeve/list/suburbia/
+[list] https://letterboxd.com/riddlers_cuomo/list/suburbia/
+[list] https://letterboxd.com/nihilistbella/list/suburbia/
+[list] https://letterboxd.com/j___hunt/list/suburbia/
+    1/41 American Beauty (1999) x8 — Drama
+    2/41 Edward Scissorhands (1990) x5 — Fantasy, Drama, Romance
+    3/41 Heathers (1989) x5 — Comedy, Crime
+    4/41 The Virgin Suicides (1999) x4 — Romance, Drama
+    5/41 The Truman Show (1998) x4 — Comedy, Drama
+    6/41 Pleasantville (1998) x4 — Comedy, Fantasy, Drama
+    7/41 Donnie Darko (2001) x4 — Drama, Fantasy, Mystery
+    8/41 The 'Burbs (1989) x4 — Comedy, Thriller, Horror
+    9/41 Blue Velvet (1986) x3 — Crime, Mystery, Thriller
+   10/41 Revolutionary Road (2008) x3 — Romance, Drama
+   11/41 The Graduate (1967) x3 — Drama, Comedy, Romance
+   12/41 A Nightmare on Elm Street (1984) x3 — Horror
+   13/41 Little Children (2006) x3 — Drama, Romance
+   14/41 The Ice Storm (1997) x3 — Drama
+   15/41 Poltergeist (1982) x3 — Horror
+   16/41 Halloween (1978) x3 — Thriller, Horror
+   17/41 Suburbicon (2017) x3 — Crime, Drama, Thriller, Mystery
+   18/41 Greener Grass (2019) x3 — Comedy
+   19/41 Vivarium (2019) x3 — Mystery, Horror, Science Fiction
+   20/41 Serial Mom (1994) x3 — Crime, Comedy
+   21/41 Dazed and Confused (1993) x3 — Comedy, Drama
+   22/41 Gone Girl (2014) x3 — Drama, Mystery, Thriller
+   23/41 Ghost World (2001) x3 — Comedy, Drama
+   24/41 Far from Heaven (2002) x2 — Drama, Romance
+   25/41 Happiness (1998) x2 — Drama, Comedy
+   26/41 Brick (2005) x2 — Mystery, Crime, Drama
+   27/41 The Chumscrubber (2005) x2 — Comedy, Drama
+   28/41 Twin Peaks (1989) x2 — Thriller, Drama, Mystery
+   29/41 Suburbia (1983) x2 — Thriller, Music, Drama
+   30/41 The Cat in the Hat (2003) x2 — Comedy, Fantasy, Adventure, Family
+   31/41 The Stepford Wives (1975) x2 — Science Fiction, Horror, Mystery, Thriller
+   32/41 SubUrbia (1996) x2 — Drama, Comedy
+   33/41 WandaVision (2021) x2 — Mystery, Drama
+   34/41 I Saw the TV Glow (2024) x2 — Drama, Horror
+   35/41 The Daytrippers (1996) x2 — Comedy, Drama
+   36/41 But I'm a Cheerleader (1999) x2 — Romance, Drama, Comedy
+   37/41 Rushmore (1998) x2 — Comedy, Drama
+   38/41 Are You There God? It's Me, Margaret. (2023) x2 — Drama, Comedy
+   39/41 Home Alone (1990) x2 — Family, Comedy
+   40/41 Disturbia (2007) x2 — Drama, Mystery, Thriller
+   41/41 Lawn Dogs (1997) x2 — Drama
+
+[done] /root/letterboxd-nanogenres/data/suburbia.json
+{
+  "slug": "suburbia",
+  "lists_used": 10,
+  "canonical_films": 41,
+  "top_5": [
+    [
+      "American Beauty",
+      "1999",
+      8
+    ],
+    [
+      "Edward Scissorhands",
+      "1990",
+      5
+    ],
+    [
+      "Heathers",
+      "1989",
+      5
+    ],
+    [
+      "The Virgin Suicides",
+      "1999",
+      4
+    ],
+    [
+      "The Truman Show",
+      "1998",
+      4
+    ]
+  ]
+}

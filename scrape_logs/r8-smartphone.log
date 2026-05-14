@@ -1,0 +1,12 @@
+[search] https://letterboxd.com/search/lists/smartphone/
+[search] https://letterboxd.com/search/lists/smartphone/
+[search] https://letterboxd.com/tag/smartphone/lists/
+[search] 0 candidates -> 0 relevant (rejected low-quality=0, off-topic=0)
+
+[done] /root/letterboxd-nanogenres/data/smartphone.json
+{
+  "slug": "smartphone",
+  "lists_used": 0,
+  "canonical_films": 0,
+  "top_5": []
+}

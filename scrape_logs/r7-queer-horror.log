@@ -1,0 +1,106 @@
+[search] https://letterboxd.com/search/lists/queer+horror/
+[search] 20 candidates -> 10 relevant (rejected low-quality=0, off-topic=0)
+[list] https://letterboxd.com/querelle/list/queer-horror-2/
+[list] https://letterboxd.com/nerdy_ninja/list/queer-horror/
+[list] https://letterboxd.com/horrorville/list/queer-horror/
+[list] https://letterboxd.com/hardluckerin/list/queer-horror/
+[list] https://letterboxd.com/mi_m0/list/queer-horror/
+[list] https://letterboxd.com/ymir_from_venus/list/queer-horror/
+[list] https://letterboxd.com/siff/list/queer-horror/
+[list] https://letterboxd.com/trevorwang/list/queer-horror/
+[list] https://letterboxd.com/emry/list/queer-horror/
+[list] https://letterboxd.com/jamierosie/list/queer-horror/
+    1/60 Jennifer's Body (2009) x9 — Horror, Comedy
+    2/60 A Nightmare on Elm Street Part 2: Freddy's Revenge (1985) x9 — Horror
+    3/60 The Hunger (1983) x8 — Drama, Horror
+    4/60 Knife+Heart (2018) x8 — Horror, Mystery, Romance
+    5/60 Multiple Maniacs (1970) x8 — Crime, Comedy, Horror
+    6/60 Butcher, Baker, Nightmare Maker (1981) x7 — Horror, Thriller
+    7/60 Daughters of Darkness (1971) x7 — Thriller, Horror, Drama
+    8/60 Dracula's Daughter (1936) x7 — Horror
+    9/60 Hellbent (2004) x7 — Horror
+   10/60 The Rocky Horror Picture Show (1975) x7 — Horror, Comedy, Science Fiction
+   11/60 Sleepaway Camp (1983) x7 — Horror
+   12/60 Bride of Frankenstein (1935) x6 — Science Fiction, Horror
+   13/60 Freaky (2020) x6 — Horror, Comedy
+   14/60 The Haunting (1963) x6 — Horror
+   15/60 The Lure (2015) x6 — Horror, Music, Thriller, Fantasy, Drama, Romance
+   16/60 May (2002) x6 — Comedy, Drama, Horror
+   17/60 Poison (1991) x6 — Drama, Science Fiction, Horror
+   18/60 Psycho (1960) x6 — Mystery, Thriller, Horror
+   19/60 The Vampire Lovers (1970) x6 — Horror
+   20/60 Thelma (2017) x6 — Drama, Thriller, Mystery
+   21/60 The Lost Boys (1987) x6 — Thriller, Horror, Drama, Comedy, Romance
+   22/60 Seed of Chucky (2004) x6 — Horror, Comedy
+   23/60 Martyrs (2008) x5 — Horror, Thriller, Drama
+   24/60 All About Evil (2010) x5 — Horror, Comedy
+   25/60 All Cheerleaders Die (2013) x5 — Horror, Comedy, Thriller
+   26/60 Blood and Roses (1960) x5 — Romance, Horror
+   27/60 Climax (2018) x5 — Horror, Drama, Thriller, Music
+   28/60 Ginger Snaps (2000) x5 — Drama, Horror, Thriller, Fantasy
+   29/60 Good Manners (2017) x5 — Mystery, Fantasy, Horror, Drama
+   30/60 Hellraiser (1987) x5 — Thriller, Horror
+   31/60 High Tension (2003) x5 — Mystery, Horror, Thriller
+   32/60 The Neon Demon (2016) x5 — Horror
+   33/60 Re-Animator (1985) x5 — Comedy, Horror, Science Fiction
+   34/60 The Silence of the Lambs (1991) x5 — Crime, Thriller, Horror, Drama
+   35/60 Tetsuo: The Iron Man (1989) x5 — Science Fiction, Horror
+   36/60 Titane (2021) x5 — Thriller, Horror, Science Fiction, Drama
+   37/60 What Keeps You Alive (2018) x5 — Thriller, Horror
+   38/60 It Chapter Two (2019) x5 — Drama, Thriller, Horror
+   39/60 The Blood Spattered Bride (1972) x4 — Horror, Drama, Thriller
+   40/60 Bodies Bodies Bodies (2022) x4 — Comedy, Horror, Mystery
+   41/60 Cat People (1942) x4 — Horror, Romance, Mystery
+   42/60 Christine (1983) x4 — Horror
+   43/60 Cruising (1980) x4 — Thriller, Crime, Mystery
+   44/60 Deep Red (1975) x4 — Mystery, Horror, Thriller
+   45/60 Dr. Jekyll & Sister Hyde (1971) x4 — Horror
+   46/60 Frankenhooker (1990) x4 — Comedy, Science Fiction, Horror
+   47/60 Fright Night (1985) x4 — Comedy, Horror
+   48/60 Hereditary (2018) x4 — Thriller, Horror, Mystery
+   49/60 I Saw the TV Glow (2024) x4 — Drama, Horror
+   50/60 Interview with the Vampire (1994) x4 — Horror, Drama, Fantasy
+   51/60 Love Bites (1988) x4 — Comedy, Horror
+   52/60 Midnight Kiss (2019) x4 — TV Movie, Thriller, Horror
+   53/60 The Old Dark House (1932) x4 — Horror, Thriller, Drama
+   54/60 Otto; or, Up with Dead People (2008) x4 — Horror, Drama, Comedy
+   55/60 Raw (2016) x4 — Drama, Horror
+   56/60 Rope (1948) x4 — Crime, Thriller, Drama
+   57/60 Saint Maud (2019) x4 — Horror, Thriller, Mystery
+   58/60 Scream (1996) x4 — Mystery, Crime, Horror
+   59/60 Scream, Queen! My Nightmare on Elm Street (2019) x4 — Horror, Documentary
+   60/60 The Taking of Deborah Logan (2014) x4 — Horror, Thriller, Mystery
+
+[done] /root/letterboxd-nanogenres/data/queer-horror.json
+{
+  "slug": "queer-horror",
+  "lists_used": 10,
+  "canonical_films": 60,
+  "top_5": [
+    [
+      "Jennifer's Body",
+      "2009",
+      9
+    ],
+    [
+      "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+      "1985",
+      9
+    ],
+    [
+      "The Hunger",
+      "1983",
+      8
+    ],
+    [
+      "Knife+Heart",
+      "2018",
+      8
+    ],
+    [
+      "Multiple Maniacs",
+      "1970",
+      8
+    ]
+  ]
+}
