@@ -1,0 +1,1353 @@
+{
+  "query": "suburbia",
+  "slug": "suburbia",
+  "min_list_appearances_used": 2,
+  "source_lists": [
+    {
+      "href": "/wednesdaydreams/list/suburbia/",
+      "user": "wednesdaydreams",
+      "slug": "suburbia",
+      "title": "Suburbia",
+      "desc": "Favorite (?) films set in suburbia...",
+      "owner": "List by Natalie PRO",
+      "tags": []
+    },
+    {
+      "href": "/baunilla/list/suburbia/",
+      "user": "baunilla",
+      "slug": "suburbia",
+      "title": "suburbia",
+      "desc": "Paula is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Paula",
+      "tags": [
+        "suburban"
+      ]
+    },
+    {
+      "href": "/chasinak/list/suburbia/",
+      "user": "chasinak",
+      "slug": "suburbia",
+      "title": "suburbia",
+      "desc": "but like the fucked up kind",
+      "owner": "List by chasina",
+      "tags": []
+    },
+    {
+      "href": "/chatopinela1215/list/suburbia/",
+      "user": "chatopinela1215",
+      "slug": "suburbia",
+      "title": "Suburbia",
+      "desc": "Movies I watch where I feel a strong sense of Anemoia when I see the suburban communities and the strangely empty homes of these films.",
+      "owner": "List by Gilbert Pinela",
+      "tags": []
+    },
+    {
+      "href": "/existentialjeny/list/suburbia/",
+      "user": "existentialjeny",
+      "slug": "suburbia",
+      "title": "SuBuRbIa",
+      "desc": "Suggestions welcome\nTV:\n-Bones S5 E4 The Beautiful Day in the Neighborhood\n-Our House (PBS)",
+      "owner": "List by ExistentialJeny",
+      "tags": [
+        "suburbia"
+      ]
+    },
+    {
+      "href": "/maia_ep/list/suburbia/",
+      "user": "maia_ep",
+      "slug": "suburbia",
+      "title": "suburbia",
+      "desc": "maia is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by maia PATRON",
+      "tags": []
+    },
+    {
+      "href": "/amayaeve/list/suburbia/",
+      "user": "amayaeve",
+      "slug": "suburbia",
+      "title": "SUBURBIA",
+      "desc": "Amaya is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Amaya <3",
+      "tags": []
+    },
+    {
+      "href": "/riddlers_cuomo/list/suburbia/",
+      "user": "riddlers_cuomo",
+      "slug": "suburbia",
+      "title": "Suburbia.",
+      "desc": "Films about dysfuntional middle America\nMost of these were submitted to me by the great peoples of r/letterboxd, so if they don't perfectly fit the theme don't come at me.\nIf I watch one of the suggestions and don't think it fits I will remove it.",
+      "owner": "List by Joey Chalmers PATRON",
+      "tags": [
+        "todd-solondz",
+        "suburbia",
+        "david-lynch",
+        "american-beauty",
+        "john-waters"
+      ]
+    },
+    {
+      "href": "/nihilistbella/list/suburbia/",
+      "user": "nihilistbella",
+      "slug": "suburbia",
+      "title": "Suburbia",
+      "desc": "Fred is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by Fred",
+      "tags": []
+    },
+    {
+      "href": "/j___hunt/list/suburbia/",
+      "user": "j___hunt",
+      "slug": "suburbia",
+      "title": "Suburbia",
+      "desc": "James is using Letterboxd to share film reviews and lists with friends. Join here.",
+      "owner": "List by James",
+      "tags": []
+    }
+  ],
+  "source_list_count": 10,
+  "films_considered": 160,
+  "canonical_count": 41,
+  "films": [
+    {
+      "slug": "american-beauty",
+      "title": "American Beauty",
+      "year": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Sam Mendes"
+      ],
+      "actors": [
+        "Kevin Spacey",
+        "Annette Bening",
+        "Thora Birch",
+        "Wes Bentley",
+        "Mena Suvari",
+        "Peter Gallagher"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.95,
+      "rating_count": 1179569,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/0/3/2703-american-beauty-0-230-0-345-crop.jpg?v=30329dd752",
+      "url": "https://letterboxd.com/film/american-beauty/",
+      "appears_in_n_lists": 8
+    },
+    {
+      "slug": "edward-scissorhands",
+      "title": "Edward Scissorhands",
+      "year": "1990",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Tim Burton"
+      ],
+      "actors": [
+        "Johnny Depp",
+        "Winona Ryder",
+        "Dianne Wiest",
+        "Anthony Michael Hall",
+        "Kathy Baker",
+        "Robert Oliveri"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.9,
+      "rating_count": 1669715,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/8/9/51889-edward-scissorhands-0-230-0-345-crop.jpg?v=38f2599419",
+      "url": "https://letterboxd.com/film/edward-scissorhands/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "heathers",
+      "title": "Heathers",
+      "year": "1989",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Michael Lehmann"
+      ],
+      "actors": [
+        "Winona Ryder",
+        "Christian Slater",
+        "Shannen Doherty",
+        "Lisanne Falk",
+        "Kim Walker",
+        "Penelope Milford"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.77,
+      "rating_count": 707593,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/7/7/50177-heathers-0-230-0-345-crop.jpg?v=dbd1f7062c",
+      "url": "https://letterboxd.com/film/heathers/",
+      "appears_in_n_lists": 5
+    },
+    {
+      "slug": "the-virgin-suicides",
+      "title": "The Virgin Suicides",
+      "year": "1999",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "actors": [
+        "Kirsten Dunst",
+        "Josh Hartnett",
+        "James Woods",
+        "Kathleen Turner",
+        "Michael Paré",
+        "A.J. Cook"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 1277595,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/2/4/51024-the-virgin-suicides-0-230-0-345-crop.jpg?v=b869f3409a",
+      "url": "https://letterboxd.com/film/the-virgin-suicides/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-truman-show",
+      "title": "The Truman Show",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Peter Weir"
+      ],
+      "actors": [
+        "Jim Carrey",
+        "Laura Linney",
+        "Noah Emmerich",
+        "Natascha McElhone",
+        "Holland Taylor",
+        "Ed Harris"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.22,
+      "rating_count": 4677619,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-230-0-345-crop.jpg?v=704ba393f7",
+      "url": "https://letterboxd.com/film/the-truman-show/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "pleasantville",
+      "title": "Pleasantville",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Gary Ross"
+      ],
+      "actors": [
+        "Tobey Maguire",
+        "Reese Witherspoon",
+        "William H. Macy",
+        "Joan Allen",
+        "Jeff Daniels",
+        "J.T. Walsh"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 137439,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/6/4/50164-pleasantville-0-230-0-345-crop.jpg?v=bbe651025b",
+      "url": "https://letterboxd.com/film/pleasantville/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "donnie-darko",
+      "title": "Donnie Darko",
+      "year": "2001",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "directors": [
+        "Richard Kelly"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Jena Malone",
+        "James Duval",
+        "Drew Barrymore",
+        "Beth Grant",
+        "Maggie Gyllenhaal"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 2288893,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ye/jq/f3/22/nmb4QhCRmdfNP6rgb81yUFgI83l-0-230-0-345-crop.jpg?v=caa3999c6f",
+      "url": "https://letterboxd.com/film/donnie-darko/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "the-burbs",
+      "title": "The 'Burbs",
+      "year": "1989",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "Joe Dante"
+      ],
+      "actors": [
+        "Tom Hanks",
+        "Bruce Dern",
+        "Carrie Fisher",
+        "Rick Ducommun",
+        "Wendy Schaal",
+        "Corey Feldman"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.44,
+      "rating_count": 108630,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/8/3/4/44834-the-burbs-0-230-0-345-crop.jpg?v=d4cb1e79d9",
+      "url": "https://letterboxd.com/film/the-burbs/",
+      "appears_in_n_lists": 4
+    },
+    {
+      "slug": "blue-velvet",
+      "title": "Blue Velvet",
+      "year": "1986",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Isabella Rossellini",
+        "Kyle MacLachlan",
+        "Dennis Hopper",
+        "Laura Dern",
+        "Hope Lange",
+        "Dean Stockwell"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.06,
+      "rating_count": 926354,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/9/51359-blue-velvet-0-230-0-345-crop.jpg?v=b0ee3c20f6",
+      "url": "https://letterboxd.com/film/blue-velvet/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "revolutionary-road",
+      "title": "Revolutionary Road",
+      "year": "2008",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Sam Mendes"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Kathy Bates",
+        "Michael Shannon",
+        "Kathryn Hahn",
+        "David Harbour"
+      ],
+      "countries": [
+        "UK",
+        "USA"
+      ],
+      "rating": 3.58,
+      "rating_count": 195457,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/uy/ay/hl/xy/bnOK1lmdlqdy2HX6IgKx9TQD7Ax-0-230-0-345-crop.jpg?v=e41750e25b",
+      "url": "https://letterboxd.com/film/revolutionary-road/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-graduate",
+      "title": "The Graduate",
+      "year": "1967",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "directors": [
+        "Mike Nichols"
+      ],
+      "actors": [
+        "Dustin Hoffman",
+        "Anne Bancroft",
+        "Katharine Ross",
+        "Murray Hamilton",
+        "William Daniels",
+        "Elizabeth Wilson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.1,
+      "rating_count": 496445,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/64/us/cm/83/AuFvrbtWSPiBPIv9ewH2DV4nhCD-0-230-0-345-crop.jpg?v=4fee371b0d",
+      "url": "https://letterboxd.com/film/the-graduate/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "a-nightmare-on-elm-street",
+      "title": "A Nightmare on Elm Street",
+      "year": "1984",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Wes Craven"
+      ],
+      "actors": [
+        "John Saxon",
+        "Ronee Blakley",
+        "Heather Langenkamp",
+        "Amanda Wyss",
+        "Jsu Garcia",
+        "Johnny Depp"
+      ],
+      "countries": [
+        "USA",
+        "UK"
+      ],
+      "rating": 3.71,
+      "rating_count": 772560,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/8/51708-a-nightmare-on-elm-street-0-230-0-345-crop.jpg?v=659352ad1f",
+      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "little-children",
+      "title": "Little Children",
+      "year": "2006",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Todd Field"
+      ],
+      "actors": [
+        "Kate Winslet",
+        "Patrick Wilson",
+        "Jennifer Connelly",
+        "Gregg Edelman",
+        "Sadie Goldstein",
+        "Ty Simpkins"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.71,
+      "rating_count": 60385,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/t8/ke/37/8h/225OXhGllrBJ6FWaYyiosxDU1us-0-230-0-345-crop.jpg?v=bcf6c809a2",
+      "url": "https://letterboxd.com/film/little-children/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "the-ice-storm",
+      "title": "The Ice Storm",
+      "year": "1997",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Ang Lee"
+      ],
+      "actors": [
+        "Kevin Kline",
+        "Joan Allen",
+        "Sigourney Weaver",
+        "Jamey Sheridan",
+        "Christina Ricci",
+        "Tobey Maguire"
+      ],
+      "countries": [
+        "France",
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 52918,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jo/c6/1x/16/the-ice-storm-0-230-0-345-crop.jpg?v=ed2bba1143",
+      "url": "https://letterboxd.com/film/the-ice-storm/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "poltergeist",
+      "title": "Poltergeist",
+      "year": "1982",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Tobe Hooper"
+      ],
+      "actors": [
+        "JoBeth Williams",
+        "Craig T. Nelson",
+        "Beatrice Straight",
+        "Dominique Dunne",
+        "Heather O'Rourke",
+        "Oliver Robins"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.5,
+      "rating_count": 368381,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/2/51512-poltergeist-0-230-0-345-crop.jpg?v=bf882f6595",
+      "url": "https://letterboxd.com/film/poltergeist/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "halloween-1978",
+      "title": "Halloween",
+      "year": "1978",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "actors": [
+        "Donald Pleasence",
+        "Jamie Lee Curtis",
+        "Nancy Kyes",
+        "P. J. Soles",
+        "Charles Cyphers",
+        "Kyle Richards"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.76,
+      "rating_count": 1084800,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/9/8/60298-halloween-0-230-0-345-crop.jpg?v=bcb3149dda",
+      "url": "https://letterboxd.com/film/halloween-1978/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "suburbicon",
+      "title": "Suburbicon",
+      "year": "2017",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "directors": [
+        "George Clooney"
+      ],
+      "actors": [
+        "Matt Damon",
+        "Julianne Moore",
+        "Noah Jupe",
+        "Oscar Isaac",
+        "Landon Gordon",
+        "Glenn Fleshler"
+      ],
+      "countries": [
+        "China",
+        "USA"
+      ],
+      "rating": 2.61,
+      "rating_count": 46908,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/9/8/7/0/329870-suburbicon-0-230-0-345-crop.jpg?v=b3d46f2455",
+      "url": "https://letterboxd.com/film/suburbicon/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "greener-grass-2019",
+      "title": "Greener Grass",
+      "year": "2019",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Dawn Luebbe",
+        "Jocelyn DeBoer"
+      ],
+      "actors": [
+        "Jocelyn DeBoer",
+        "Dawn Luebbe",
+        "Beck Bennett",
+        "Neil Casey",
+        "Mary Holland",
+        "D'Arcy Carden"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.56,
+      "rating_count": 61165,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/0/4/2/476042-greener-grass-0-230-0-345-crop.jpg?v=091c96de4b",
+      "url": "https://letterboxd.com/film/greener-grass-2019/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "vivarium",
+      "title": "Vivarium",
+      "year": "2019",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Science Fiction"
+      ],
+      "directors": [
+        "Lorcan Finnegan"
+      ],
+      "actors": [
+        "Imogen Poots",
+        "Jesse Eisenberg",
+        "Senan Jennings",
+        "Éanna Hardwicke",
+        "Jonathan Aris",
+        "Côme Thiry"
+      ],
+      "countries": [
+        "Belgium",
+        "Denmark",
+        "Ireland",
+        "USA"
+      ],
+      "rating": 2.75,
+      "rating_count": 415864,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/1/3/9/390139-vivarium-0-230-0-345-crop.jpg?v=013b2fca58",
+      "url": "https://letterboxd.com/film/vivarium/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "serial-mom",
+      "title": "Serial Mom",
+      "year": "1994",
+      "genres": [
+        "Crime",
+        "Comedy"
+      ],
+      "directors": [
+        "John Waters"
+      ],
+      "actors": [
+        "Kathleen Turner",
+        "Sam Waterston",
+        "Ricki Lake",
+        "Matthew Lillard",
+        "Scott Morgan",
+        "Walt MacPherson"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.82,
+      "rating_count": 102537,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/1/5/8/45158-serial-mom-0-230-0-345-crop.jpg?v=324410ed55",
+      "url": "https://letterboxd.com/film/serial-mom/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "dazed-and-confused",
+      "title": "Dazed and Confused",
+      "year": "1993",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Jason London",
+        "Matthew McConaughey",
+        "Joey Lauren Adams",
+        "Rory Cochrane",
+        "Wiley Wiggins",
+        "Adam Goldberg"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.91,
+      "rating_count": 585746,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/2/9/47029-dazed-and-confused-0-230-0-345-crop.jpg?v=a3b615703a",
+      "url": "https://letterboxd.com/film/dazed-and-confused/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "gone-girl",
+      "title": "Gone Girl",
+      "year": "2014",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Ben Affleck",
+        "Rosamund Pike",
+        "Neil Patrick Harris",
+        "Tyler Perry",
+        "Carrie Coon",
+        "Kim Dickens"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.07,
+      "rating_count": 3052873,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop.jpg?v=dfe3c8018b",
+      "url": "https://letterboxd.com/film/gone-girl/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "ghost-world",
+      "title": "Ghost World",
+      "year": "2001",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Terry Zwigoff"
+      ],
+      "actors": [
+        "Thora Birch",
+        "Scarlett Johansson",
+        "Steve Buscemi",
+        "Brad Renfro",
+        "Illeana Douglas",
+        "Bob Balaban"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Germany"
+      ],
+      "rating": 3.58,
+      "rating_count": 232074,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/b3/fj/5k/es/t9uXmc321EzCp6uUYU3XtghjqTq-0-230-0-345-crop.jpg?v=8c0964a95e",
+      "url": "https://letterboxd.com/film/ghost-world/",
+      "appears_in_n_lists": 3
+    },
+    {
+      "slug": "far-from-heaven",
+      "title": "Far from Heaven",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "directors": [
+        "Todd Haynes"
+      ],
+      "actors": [
+        "Julianne Moore",
+        "Dennis Quaid",
+        "Dennis Haysbert",
+        "Patricia Clarkson",
+        "Viola Davis",
+        "James Rebhorn"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.83,
+      "rating_count": 51967,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/9/6/6/45966-far-from-heaven-0-230-0-345-crop.jpg?v=8196c7e0b8",
+      "url": "https://letterboxd.com/film/far-from-heaven/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "happiness",
+      "title": "Happiness",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Todd Solondz"
+      ],
+      "actors": [
+        "Jane Adams",
+        "Philip Seymour Hoffman",
+        "Dylan Baker",
+        "Lara Flynn Boyle",
+        "Cynthia Stevenson",
+        "Louise Lasser"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.97,
+      "rating_count": 121989,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/9/9/3/45993-happiness-0-230-0-345-crop.jpg?v=6a13cdff52",
+      "url": "https://letterboxd.com/film/happiness/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "brick",
+      "title": "Brick",
+      "year": "2005",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Rian Johnson"
+      ],
+      "actors": [
+        "Joseph Gordon-Levitt",
+        "Nora Zehetner",
+        "Matt O'Leary",
+        "Noah Fleiss",
+        "Lukas Haas",
+        "Meagan Good"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.7,
+      "rating_count": 144125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/2/2/47322-brick-0-230-0-345-crop.jpg?v=de1c77ff6b",
+      "url": "https://letterboxd.com/film/brick/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-chumscrubber",
+      "title": "The Chumscrubber",
+      "year": "2005",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Arie Posin"
+      ],
+      "actors": [
+        "Jamie Bell",
+        "Camilla Belle",
+        "Justin Chatwin",
+        "Glenn Close",
+        "Kathi Copeland",
+        "Rory Culkin"
+      ],
+      "countries": [
+        "USA",
+        "Germany",
+        "Canada"
+      ],
+      "rating": 3.24,
+      "rating_count": 7834,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/4/9/0/43490-the-chumscrubber-0-230-0-345-crop.jpg?v=ec4b2bdec1",
+      "url": "https://letterboxd.com/film/the-chumscrubber/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "twin-peaks",
+      "title": "Twin Peaks",
+      "year": "1989",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "actors": [
+        "Kyle MacLachlan",
+        "Michael Ontkean",
+        "Mädchen Amick",
+        "Dana Ashbrook",
+        "Richard Beymer",
+        "Lara Flynn Boyle"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.65,
+      "rating_count": 326444,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/4/5/5/7/384557-twin-peaks-0-230-0-345-crop.jpg?v=dd1938c1f2",
+      "url": "https://letterboxd.com/film/twin-peaks/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "suburbia",
+      "title": "Suburbia",
+      "year": "1983",
+      "genres": [
+        "Thriller",
+        "Music",
+        "Drama"
+      ],
+      "directors": [
+        "Penelope Spheeris"
+      ],
+      "actors": [
+        "Chris Pedersen",
+        "Bill Coyne",
+        "Jennifer Clay",
+        "Timothy Eric O'Brien",
+        "Wade Walston",
+        "Flea"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.49,
+      "rating_count": 14000,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/9/6/6/33966-suburbia-0-230-0-345-crop.jpg?v=4c3c277591",
+      "url": "https://letterboxd.com/film/suburbia/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-cat-in-the-hat-2003",
+      "title": "The Cat in the Hat",
+      "year": "2003",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Adventure",
+        "Family"
+      ],
+      "directors": [
+        "Bo Welch"
+      ],
+      "actors": [
+        "Mike Myers",
+        "Dakota Fanning",
+        "Spencer Breslin",
+        "Kelly Preston",
+        "Alec Baldwin",
+        "Amy Hill"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 2.76,
+      "rating_count": 373609,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/8/4/46084-dr-seuss-the-cat-in-the-hat-0-230-0-345-crop.jpg?v=794f6352e4",
+      "url": "https://letterboxd.com/film/the-cat-in-the-hat-2003/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-stepford-wives",
+      "title": "The Stepford Wives",
+      "year": "1975",
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Bryan Forbes"
+      ],
+      "actors": [
+        "Katharine Ross",
+        "Paula Prentiss",
+        "Nanette Newman",
+        "Judith Baldwin",
+        "Peter Masterson",
+        "Tina Louise"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.75,
+      "rating_count": 53434,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/6/8/6/44686-the-stepford-wives-0-230-0-345-crop.jpg?v=6ff7e386f1",
+      "url": "https://letterboxd.com/film/the-stepford-wives/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "suburbia-1996",
+      "title": "SubUrbia",
+      "year": "1996",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "actors": [
+        "Giovanni Ribisi",
+        "Steve Zahn",
+        "Amie Carey",
+        "Nicky Katt",
+        "Parker Posey",
+        "Ajay Naidu"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.28,
+      "rating_count": 23017,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ve/rr/6c/aw/hFDFtbHL5UzGadk7YBql0eweAyq-0-230-0-345-crop.jpg?v=e205cb40a8",
+      "url": "https://letterboxd.com/film/suburbia-1996/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "wandavision",
+      "title": "WandaVision",
+      "year": "2021",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Matt Shakman"
+      ],
+      "actors": [
+        "Elizabeth Olsen",
+        "Paul Bettany",
+        "Kathryn Hahn",
+        "Teyonah Parris",
+        "Randall Park",
+        "Kat Dennings"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.78,
+      "rating_count": 855205,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/1/8/1/3/671813-wandavision-0-230-0-345-crop.jpg?v=e38b6290c0",
+      "url": "https://letterboxd.com/film/wandavision/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "i-saw-the-tv-glow",
+      "title": "I Saw the TV Glow",
+      "year": "2024",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "directors": [
+        "Jane Schoenbrun"
+      ],
+      "actors": [
+        "Justice Smith",
+        "Jack Haven",
+        "Ian Foreman",
+        "Helena Howard",
+        "Lindsey Jordan",
+        "Danielle Deadwyler"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.52,
+      "rating_count": 807885,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/0/772230-i-saw-the-tv-glow-0-230-0-345-crop.jpg?v=73972177ff",
+      "url": "https://letterboxd.com/film/i-saw-the-tv-glow/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "the-daytrippers",
+      "title": "The Daytrippers",
+      "year": "1996",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Greg Mottola"
+      ],
+      "actors": [
+        "Hope Davis",
+        "Pat McNamara",
+        "Anne Meara",
+        "Parker Posey",
+        "Liev Schreiber",
+        "Campbell Scott"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.88,
+      "rating_count": 61126,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/8/1/8/15818-the-daytrippers-0-230-0-345-crop.jpg?v=5f1dfa0f8b",
+      "url": "https://letterboxd.com/film/the-daytrippers/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "but-im-a-cheerleader",
+      "title": "But I'm a Cheerleader",
+      "year": "1999",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Jamie Babbit"
+      ],
+      "actors": [
+        "Natasha Lyonne",
+        "Clea DuVall",
+        "Cathy Moriarty",
+        "RuPaul",
+        "Melanie Lynskey",
+        "Katharine Towne"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 4.01,
+      "rating_count": 852555,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/8/0/0/38800-but-i-m-a-cheerleader-0-230-0-345-crop.jpg?v=fb07442029",
+      "url": "https://letterboxd.com/film/but-im-a-cheerleader/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "rushmore",
+      "title": "Rushmore",
+      "year": "1998",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Jason Schwartzman",
+        "Bill Murray",
+        "Olivia Williams",
+        "Seymour Cassel",
+        "Brian Cox",
+        "Mason Gamble"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.89,
+      "rating_count": 481671,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-230-0-345-crop.jpg?v=e356b53de6",
+      "url": "https://letterboxd.com/film/rushmore/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "are-you-there-god-its-me-margaret",
+      "title": "Are You There God? It's Me, Margaret.",
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "directors": [
+        "Kelly Fremon Craig"
+      ],
+      "actors": [
+        "Abby Ryder Fortson",
+        "Rachel McAdams",
+        "Kathy Bates",
+        "Elle Graham",
+        "Benny Safdie",
+        "Amari Alexis Price"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.74,
+      "rating_count": 307951,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/3/9/5/1/483951-are-you-there-god-it-s-me-margaret--0-230-0-345-crop.jpg?v=cbd73d07a9",
+      "url": "https://letterboxd.com/film/are-you-there-god-its-me-margaret/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "home-alone",
+      "title": "Home Alone",
+      "year": "1990",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "directors": [
+        "Chris Columbus"
+      ],
+      "actors": [
+        "Macaulay Culkin",
+        "Joe Pesci",
+        "Daniel Stern",
+        "John Heard",
+        "Roberts Blossom",
+        "Catherine O'Hara"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.85,
+      "rating_count": 2752975,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/e6/mn/oi/ky/8IWPBT1rkAaI8Kpk5V3WfQRklJ7-0-230-0-345-crop.jpg?v=cb22d36a0e",
+      "url": "https://letterboxd.com/film/home-alone/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "disturbia",
+      "title": "Disturbia",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "D.J. Caruso"
+      ],
+      "actors": [
+        "Shia LaBeouf",
+        "Sarah Roemer",
+        "Carrie-Anne Moss",
+        "David Morse",
+        "Aaron Yoo",
+        "Jose Pablo Cantillo"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "rating": 3.14,
+      "rating_count": 302489,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/3/5/47835-disturbia-0-230-0-345-crop.jpg?v=9939f6b74d",
+      "url": "https://letterboxd.com/film/disturbia/",
+      "appears_in_n_lists": 2
+    },
+    {
+      "slug": "lawn-dogs",
+      "title": "Lawn Dogs",
+      "year": "1997",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "John Duigan"
+      ],
+      "actors": [
+        "Sam Rockwell",
+        "Mischa Barton",
+        "Christopher McDonald",
+        "Kathleen Quinlan",
+        "Bruce McGill",
+        "David Barry Gray"
+      ],
+      "countries": [
+        "UK"
+      ],
+      "rating": 3.56,
+      "rating_count": 4192,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/4/1/3/28413-lawn-dogs-0-230-0-345-crop.jpg?v=7c8a7231f8",
+      "url": "https://letterboxd.com/film/lawn-dogs/",
+      "appears_in_n_lists": 2
+    }
+  ],
+  "aggregates": {
+    "genres": {
+      "Drama": 29,
+      "Comedy": 18,
+      "Mystery": 10,
+      "Thriller": 9,
+      "Romance": 7,
+      "Horror": 7,
+      "Crime": 5,
+      "Fantasy": 4,
+      "Science Fiction": 2,
+      "Family": 2,
+      "Music": 1,
+      "Adventure": 1
+    },
+    "directors": {
+      "Sam Mendes": 2,
+      "David Lynch": 2,
+      "Richard Linklater": 2,
+      "Tim Burton": 1,
+      "Michael Lehmann": 1,
+      "Sofia Coppola": 1,
+      "Peter Weir": 1,
+      "Gary Ross": 1,
+      "Richard Kelly": 1,
+      "Joe Dante": 1,
+      "Mike Nichols": 1,
+      "Wes Craven": 1,
+      "Todd Field": 1,
+      "Ang Lee": 1,
+      "Tobe Hooper": 1,
+      "John Carpenter": 1,
+      "George Clooney": 1,
+      "Dawn Luebbe": 1,
+      "Jocelyn DeBoer": 1,
+      "Lorcan Finnegan": 1
+    },
+    "years": {
+      "1967": 1,
+      "1975": 1,
+      "1978": 1,
+      "1982": 1,
+      "1983": 1,
+      "1984": 1,
+      "1986": 1,
+      "1989": 3,
+      "1990": 2,
+      "1993": 1,
+      "1994": 1,
+      "1996": 2,
+      "1997": 2,
+      "1998": 4,
+      "1999": 3,
+      "2001": 2,
+      "2002": 1,
+      "2003": 1,
+      "2005": 2,
+      "2006": 1,
+      "2007": 1,
+      "2008": 1,
+      "2014": 1,
+      "2017": 1,
+      "2019": 2,
+      "2021": 1,
+      "2023": 1,
+      "2024": 1
+    }
+  }
+}
