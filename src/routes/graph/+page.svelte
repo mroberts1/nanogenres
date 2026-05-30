@@ -141,17 +141,17 @@
 </script>
 
 <svelte:head>
-	<title>Overlap Graph — 100 Nanogenres</title>
+	<title>Overlap Graph — 100 Film Aesthetics</title>
 </svelte:head>
 
-<a class="back" href="{base}/">← all nanogenres</a>
+<a class="back" href="{base}/">← all aesthetics</a>
 <h1>Overlap graph</h1>
 <p class="meta">
-	Each node is a nanogenre; an edge connects two nanogenres that share at least
+	Each node is an aesthetic; an edge connects two aesthetics that share at least
 	<strong>{minShared}</strong> canonical films. Node size = number of canonical films. Edge opacity =
 	intersection weight.
 	<br />
-	{linkedNodeCount} of {data.graph.nodes.length} nanogenres connected · {linkCount} edges.
+	{linkedNodeCount} of {data.graph.nodes.length} aesthetics connected · {linkCount} edges.
 </p>
 
 {#if data.guide}

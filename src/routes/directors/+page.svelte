@@ -162,19 +162,19 @@
 </script>
 
 <svelte:head>
-	<title>Director Constellation — 100 Nanogenres</title>
+	<title>Director Constellation — 100 Film Aesthetics</title>
 </svelte:head>
 
-<a class="back" href="{base}/">← all nanogenres</a>
+<a class="back" href="{base}/">← all aesthetics</a>
 <h1>Director constellation</h1>
 <p class="meta">
 	Bipartite graph of directors who appear in at least
 	<strong>{minNanogenres}</strong>
-	distinct nanogenres (left, blue) and the nanogenres they bridge (right, pink). Edge width =
-	number of canonical films from that director in that nanogenre.
+	distinct aesthetics (left, blue) and the aesthetics they bridge (right, pink). Edge width =
+	number of canonical films from that director in that aesthetic.
 	<br />
-	{visibleDirs} directors · {visibleNgs} nanogenres · {view.links.length} links. ({totalDirsAvailable}
-	directors total bridge ≥2 nanogenres.)
+	{visibleDirs} directors · {visibleNgs} aesthetics · {view.links.length} links. ({totalDirsAvailable}
+	directors total bridge ≥2 aesthetics.)
 </p>
 
 {#if data.guide}
@@ -183,7 +183,7 @@
 
 <div class="controls">
 	<label>
-		Min nanogenres bridged
+		Min aesthetics bridged
 		<input type="range" min="2" max="10" step="1" bind:value={minNanogenres} />
 		<span class="num">{minNanogenres}</span>
 	</label>

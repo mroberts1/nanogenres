@@ -32,12 +32,12 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>100 Nanogenres</title>
+	<title>100 Film Aesthetics</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 </svelte:head>
 
 <header class="site-header">
-	<a href="{base}/" class="brand">100 Nanogenres</a>
+	<a href="{base}/" class="brand">100 Film Aesthetics</a>
 	<button
 		type="button"
 		class="theme-toggle"

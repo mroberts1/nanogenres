@@ -76,17 +76,17 @@
 </script>
 
 <svelte:head>
-	<title>Rating vs. Canonicality — 100 Nanogenres</title>
+	<title>Rating vs. Canonicality — 100 Film Aesthetics</title>
 </svelte:head>
 
-<a class="back" href="{base}/">← all nanogenres</a>
+<a class="back" href="{base}/">← all aesthetics</a>
 <h1>Rating × canonicality</h1>
 <p class="meta">
-	Every (canonical film, nanogenre) pair as one dot. Horizontal axis = number of source lists the
-	film appears in for that nanogenre (1–10). Vertical axis = aggregate Letterboxd rating. Films
+	Every (canonical film, aesthetic) pair as one dot. Horizontal axis = number of source lists the
+	film appears in for that aesthetic (1–10). Vertical axis = aggregate Letterboxd rating. Films
 	without a Letterboxd rating are dropped.
 	<br />
-	{data.points.length} points across {data.nanogenres.length} nanogenres.
+	{data.points.length} points across {data.nanogenres.length} aesthetics.
 </p>
 
 {#if data.guide}
@@ -95,7 +95,7 @@
 
 <div class="controls">
 	<label>
-		Focus a nanogenre
+		Focus an aesthetic
 		<select bind:value={focusSlug}>
 			<option value="">All (dim view)</option>
 			{#each data.nanogenres as ng (ng.slug)}
@@ -236,8 +236,8 @@
 			</div>
 		{:else}
 			<div class="card hint">
-				<p>Select a nanogenre to highlight its films, see its rating summary, and surface the highest/lowest-rated entries in its canon.</p>
-				<p>The dim view above shows every (film, nanogenre) pair across the catalog at once — useful for spotting global structure (e.g. is the catalog rating-skewed? does canonicality correlate with rating?).</p>
+				<p>Select an aesthetic to highlight its films, see its rating summary, and surface the highest/lowest-rated entries in its canon.</p>
+				<p>The dim view above shows every (film, aesthetic) pair across the catalog at once — useful for spotting global structure (e.g. is the catalog rating-skewed? does canonicality correlate with rating?).</p>
 			</div>
 		{/if}
 		{#if hovered}

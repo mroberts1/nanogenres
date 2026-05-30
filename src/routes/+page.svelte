@@ -6,19 +6,19 @@
 </script>
 
 <svelte:head>
-	<title>100 Nanogenres</title>
-	<meta name="description" content="A catalog of {data.summaries.length} community-defined cinema nanogenres, computed from Letterboxd user lists." />
+	<title>100 Film Aesthetics</title>
+	<meta name="description" content="A catalog of {data.summaries.length} community-defined cinema aesthetics, computed from Letterboxd user lists." />
 </svelte:head>
 
-<h1>100 Nanogenres</h1>
+<h1>100 Film Aesthetics</h1>
 <p class="lede">
-	A <em>nanogenre</em> is a community-named, hyper-specific cinema category that cuts across
-	traditional genres — a blend of mood, aesthetic, character type, and cultural framing. This
+	A <em>film aesthetic</em> is a community-named, hyper-specific cinema category that cuts across
+	traditional genres — a blend of mood, look, character type, and cultural framing. This
 	catalog is computed from Letterboxd user lists: each entry's canonical films are the ones that
 	recur across many independent lists using the same phrase.
 </p>
 <p class="count">
-	{data.summaries.length} nanogenres
+	{data.summaries.length} aesthetics
 	<span class="sep">·</span>
 	<a href="{base}/graph">overlap graph →</a>
 	<span class="sep">·</span>

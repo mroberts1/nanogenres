@@ -1,42 +1,40 @@
-# sv
+# 100 Film Aesthetics
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A catalog of 100 community-defined cinema aesthetics — hyper-specific, community-named categories that cut across traditional genre lines (mood, look, character type, cultural framing). Each entry's canonical films are computed from Letterboxd user lists: a film is "canonical" for an aesthetic if it recurs across many independent lists tagged with that phrase.
 
-## Creating a project
+Live: SvelteKit + adapter-static, deployed to Vercel.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Stack
 
-```sh
-# create a new project
-npx sv create my-app
-```
+- SvelteKit (Svelte 5) + adapter-static
+- TypeScript
+- d3-force, d3-geo for visualizations
+- Letterboxd scraper: Playwright (`scrapers/scrape_nanogenre.py`)
 
-To recreate this project with the same configuration:
-
-```sh
-# recreate this project
-npx sv@0.15.1 create --template minimal --types ts --add prettier eslint sveltekit-adapter="adapter:static" --no-download-check --install npm /Users/dokoissho/Obsidian/nanogenres/web
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Develop
 
 ```sh
+npm install
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
-
-To create a production version of your app:
+## Build
 
 ```sh
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
+Static output goes to `build/` and is served by Vercel.
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+## Data
+
+- `src/lib/data/<slug>.json` — one file per aesthetic (canonical films, source lists, aggregates).
+- `docs/visualizations/*.md` — usage guides embedded inline on each visualization page.
+- `scrape_logs/` — per-aesthetic scrape transcripts.
+
+## Re-scrape an aesthetic
+
+```sh
+.venv/bin/python scrapers/scrape_nanogenre.py "dreamcore" \
+  --out-dir src/lib/data --max-lists 10
+```

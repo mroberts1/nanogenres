@@ -44,17 +44,17 @@
 </script>
 
 <svelte:head>
-	<title>Decade Heatmap — 100 Nanogenres</title>
+	<title>Decade Heatmap — 100 Film Aesthetics</title>
 </svelte:head>
 
-<a class="back" href="{base}/">← all nanogenres</a>
+<a class="back" href="{base}/">← all aesthetics</a>
 <h1>Catalog decade heatmap</h1>
 <p class="meta">
-	Each row is a nanogenre; each column is a decade. Cell intensity =
-	<strong>{norm === 'row' ? 'films from that decade as a share of this nanogenre' : 'films from that decade in absolute terms'}</strong>.
+	Each row is an aesthetic; each column is a decade. Cell intensity =
+	<strong>{norm === 'row' ? 'films from that decade as a share of this aesthetic' : 'films from that decade in absolute terms'}</strong>.
 	Hover any cell for the exact count.
 	<br />
-	{data.matrix.rows.length} nanogenres · {data.matrix.decades[0]}–{data.matrix.decades.at(-1)}.
+	{data.matrix.rows.length} aesthetics · {data.matrix.decades[0]}–{data.matrix.decades.at(-1)}.
 </p>
 
 {#if data.guide}
@@ -73,7 +73,7 @@
 	<label>
 		Normalize
 		<select bind:value={norm}>
-			<option value="row">Per nanogenre (temporal shape)</option>
+			<option value="row">Per aesthetic (temporal shape)</option>
 			<option value="global">Globally (absolute counts)</option>
 		</select>
 	</label>

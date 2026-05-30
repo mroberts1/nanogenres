@@ -68,11 +68,11 @@
 </script>
 
 <svelte:head>
-	<title>{ng.query} — 100 Nanogenres</title>
-	<meta name="description" content="{ng.canonical_count} canonical films across {ng.source_list_count} Letterboxd lists for the '{ng.query}' nanogenre." />
+	<title>{ng.query} — 100 Film Aesthetics</title>
+	<meta name="description" content="{ng.canonical_count} canonical films across {ng.source_list_count} Letterboxd lists for the '{ng.query}' aesthetic." />
 </svelte:head>
 
-<a class="back" href="{base}/">← all nanogenres</a>
+<a class="back" href="{base}/">← all aesthetics</a>
 <h1>{ng.query}</h1>
 <p class="meta">
 	Sampled from {ng.source_list_count} Letterboxd lists · {ng.canonical_count} canonical films · drawn from {ng.films_considered}
